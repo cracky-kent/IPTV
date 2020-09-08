@@ -2,14 +2,12 @@ $c_start电影$c_end
 HBO,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900115.m3u8#http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 HBO,http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 AXN,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900116.m3u8
-华纳电影,http://live5.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 好莱坞电影,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 福克斯动作,http://live5.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 东森电影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森洋片,http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 龙祥电影,http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
 HBO,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://61.216.1.24:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
-HBO亚洲,vjms://153.99.180.75:8500:5021/live/cid=261
 HBO强档,vjms://61.216.1.24:8500:3502/live/cid=238#vjms://153.99.180.75:8500:5021/live/cid=238
 AXN 电影,vjms://153.99.180.75:8500:5021/live/cid=2
 CHC动作电影,http://live5.ocnttv.com:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
@@ -62,10 +60,9 @@ CNEX纪实,http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
 动物星球,vjms://61.216.1.24:8500:3502/live/cid=3#vjms://153.99.180.75:8500:5021/live/cid=3
 国家地理HD,vjms://61.216.1.24:8500:3502/live/cid=115#vjms://153.99.180.75:8500:5021/live/cid=115
 国家地理野生,vjms://61.216.1.24:8500:3502/live/cid=263#vjms://153.99.180.75:8500:5021/live/cid=263
-探索科学,vjms://122.155.180.8:8500:3502/live/cid=457
+探索科学,vjms://122.155.180.8:8500:3502/live/cid=457#vjms://153.99.180.75:8500:5021/live/cid=457#vjms://61.216.1.24:8500:3502/live/cid=457
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery#vjms://61.216.1.24:8500:3502/live/cid=440#vjms://153.99.180.75:8500:5021/live/cid=440
 TLC旅游生活,vjms://153.99.180.75:8500:5021/live/cid=103#vjms://61.216.1.24:8500:3502/live/cid=103
-发现科学,vjms://153.99.180.75:8500:5021/live/cid=457#vjms://61.216.1.24:8500:3502/live/cid=457
 BBC,vjms://122.155.180.8:8500:3502/live/cid=418#vjms://58.215.133.154:8500/live/cid=418#vjms://58.215.133.154:8500:3502/live/cid=418
 CNBC,vjms://122.155.180.8:8500:3502/live/cid=98
 CNN,vjms://122.155.180.8:8500:3502/live/cid=428#vjms://58.215.133.154:8500/live/cid=428
@@ -528,8 +525,6 @@ YTN사이언스,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunkli
 이데일리TV,http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8#rtmp://edaily.flive.skcdn.com/high/livestream
 팍스경제TV,rtmp://124.139.232.61/live//livestream#rtmp://124.139.232.61:1935/live/livestream
 한국직업방송,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8#rtmp://live.worktv.or.kr:1935/live/wowtvlive1.sdp
-happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
-松视,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 EE,https://ott.luo2888.cn/ublive.m3u8?time=5F2BA574&checksum=dG9rZW4lM0Q0OWY1NjliYjI2NGU5ZmQxYjNkNzM4ODE2ZTg0YzhjOCUyM3JlbW90ZSUzRDM5Ljk5LjE3NC4yMTYlMjN1cmwlM0RodHRwJTNBJTJGJTJGZjYudmlwdWIxODE4LmNvbSUzQTgwODAlMkZsaXZlJTJGNDA4JTJGNWY3YWUxODk3NjczOWYzYzcyOGU1MmFlMThjMmQ1YWElMkZpbmRleC5tM3U4
 日本映画専門,http://ff16.vipub1818.com/live/246/0445bd876254fa231d26cf5b92a15598/index.m3u8
 日テレG,http://ff16.vipub1818.com/live/248/a5e006ae1d93fccab14346c98a6c4fd3/index.m3u8
@@ -667,6 +662,12 @@ Dave,http://ff16.vipub1818.com/live/1044/66da0006e405aee0c7b475e9c57a53bc/index.
 HOT,http://ff16.vipub1818.com/live/407/d9222c50f878e95ab5097b73dcb0c9fb/index.m3u8
 happy,http://ff16.vipub1818.com/live/412/cff2e4a302d15b51021413afc0e1e9f5/index.m3u8
 驚豔台,http://ff16.vipub1818.com/live/409/f307e52d6025a869c80d347b1793f4ac/index.m3u8
+happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+松視1,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+松視1,http://live5.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+松视1,vjms://61.216.1.24:8500:3502/live/cid=262
+松视2,vjms://61.216.1.24:8500:3502/live/cid=267
+松视3,vjms://61.216.1.24:8500:3502/live/cid=268
 Erox HD,http://ff16.vipub1818.com/live/456/297a932a0419ff05f088d9f287473ade/index.m3u8
 Dorcel HD,http://ff16.vipub1818.com/live/454/411d1a1b24086ec3bd231af6968ffb67/index.m3u8
 Babes TV HD,http://ff16.vipub1818.com/live/458/ec21dcf35851b42b1dc2578da0d5a098/index.m3u8
@@ -752,7 +753,6 @@ Movieplus,vjms://58.215.133.154:8500/live/cid=497
 日-Discovery,vjms://58.215.133.154:8500/live/cid=496
 日本频道,vjms://58.215.133.154:8500/live/cid=492
 日本剧场,vjms://58.215.133.154:8500/live/cid=493
-日-MTV,vjms://58.215.133.154:8500/live/cid=52
 日本电视剧,vjms://58.215.133.154:8500/live/cid=213
 WOWOWプライム,vjms://58.215.133.154:8500/live/cid=205
 日-Sports,vjms://58.215.133.154:8500/live/cid=414
