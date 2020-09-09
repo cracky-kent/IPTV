@@ -2,10 +2,12 @@ $c_start电影$c_end
 HBO,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900115.m3u8#http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 HBO,http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 AXN,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900116.m3u8
-好莱坞电影,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-福克斯动作,http://live5.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX动作电影,http://live5.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 东森电影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森洋片,http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+华纳电影,http://live5.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+好莱坞电影,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 龙祥电影,http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
 HBO,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://61.216.1.24:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
 HBO强档,vjms://61.216.1.24:8500:3502/live/cid=238#vjms://153.99.180.75:8500:5021/live/cid=238
@@ -53,7 +55,7 @@ BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500
 国家地理,https://www.fanmingming.cn/hls/natlgeo.m3u8
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-国家地理,http://live5.ocnttv.com:8080/ZZ_hbo/ZZ_hbo/ZZ_hbo.m3u8#http://ltv5.98spi.com/tw.php?id=10#http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900114.m3u8#http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
+国家地理,http://live5.ocnttv.com:8080/ZZ_hbo/ZZ_hbo/ZZ_hbo.m3u8#http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8#http://ltv5.98spi.com/tw.php?id=10#http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900114.m3u8#http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 动物星球,http://live5.ocnttv.com:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 CNEX纪实,http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
@@ -77,8 +79,8 @@ $c_start新闻$c_end
 TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 非凡新闻,http://125.227.210.37:61738/VideoInput/play.ts
-TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 东森新闻,http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
