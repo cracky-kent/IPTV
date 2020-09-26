@@ -6,7 +6,7 @@ AXN,http://ku2.freeyun.gq/5mstv.php?id=1044.m3u8
 catchplay,http://ku2.freeyun.gq/5mstv.php?id=362.m3u8
 CHINA MOVIE,http://ku2.freeyun.gq/5mstv.php?id=206.m3u8
 CINEMAWORLD,http://ku2.freeyun.gq/5mstv.php?id=84.m3u8
-凤凰电影,http://ku2.freeyun.gq/5mstv.php?id=18.m3u8
+Thrill,http://ku2.freeyun.gq/5mstv.php?id=18.m3u8
 凤凰电影,http://ku2.freeyun.gq/5mstv.php?id=19.m3u8
 东森电影,http://ku2.freeyun.gq/5mstv.php?id=350.m3u8
 东森洋片,http://ku2.freeyun.gq/5mstv.php?id=1128.m3u8
@@ -45,9 +45,6 @@ CINEMAX,http://kean-hoe.gq/keanhoe/dl/ha.php?id=71
 AXN,http://kean-hoe.gq/keanhoe/dl/ha.php?id=84
 LS TIME电影http://kean-hoe.gq/keanhoe/dl/ha.php?id=92
 FOX频道,http://kean-hoe.gq/keanhoe/dl/ha.php?id=101
-HBO,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://yd.sitvp2p.com:8500:5021/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
-HBO强档,vjms://153.99.180.75:8500:5021/live/cid=238
-AXN 电影,vjms://153.99.180.75:8500:5021/live/cid=2
 邵氏经典老电影,http://tv.kksyw.top/tv_ls123/gn/bilibili.php?id=21759196
 经典影院,http://220.158.149.28:8180/live/TV00000000000000000081@HHZT
 经典影院2,http://220.158.149.28:8180/live/TV00000000000000000080@HHZT
@@ -123,16 +120,6 @@ EVE,http://kean-hoe.gq/keanhoe/dl/ha.php?id=215
 国家地理,https://www.fanmingming.cn/hls/natlgeo.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 CNEX纪实,http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
-动物星球,vjms://153.99.180.75:8500:5021/live/cid=3#vjms://yd.sitvp2p.com:8500:5021/live/cid=3
-国家地理HD,vjms://yd.sitvp2p.com:8500:5021/live/cid=115#vjms://153.99.180.75:8500:5021/live/cid=115
-国家地理野生,vjms://153.99.180.75:8500:5021/live/cid=263#vjms://yd.sitvp2p.com:8500:3502/live/cid=263
-探索科学,vjms://yd.sitvp2p.com:8500:5021/live/cid=457#vjms://153.99.180.75:8500:5021/live/cid=457
-探索频道,rtmp://yd.sitvp2p.com:8500:5021/livetv/discovery#vjms://153.99.180.75:8500:5021/live/cid=440
-TLC旅游生活,vjms://153.99.180.75:8500:5021/live/cid=103#vjms://yd.sitvp2p.com:8500:5021/live/cid=103
-BBC,vjms://yd.sitvp2p.com:8500:5021/live/cid=418#vjms://58.215.133.154:8500/live/cid=418
-CNBC,vjms://yd.sitvp2p.com:8500:5021/live/cid=98
-CNN,vjms://yd.sitvp2p.com:8500:5021/live/cid=428#vjms://58.215.133.154:8500/live/cid=428
-MTV,vjms://58.215.133.216:8500:3502/live/cid=52
 MTV频道,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CBN每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 MTV 亚洲音乐,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900113.m3u8
@@ -201,15 +188,6 @@ NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
 NHK BS1,http://125.227.210.37:8939/VideoInput/play.ts
 NHK-World,http://125.227.210.37:8931/VideoInput/play.ts
 NOW新闻,http://iptv.zbhzi.xyz:8082/hls/ch114.m3u8
-TVBS新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=348
-三立新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=352
-中天新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=407
-东森新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=340
-东森财经新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=456
-民视新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=454
-年代新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=455
-非凡新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=443
-壹新闻,vjms://yd.sitvp2p.com:8500:5021/live/cid=445
 台湾,#genre#
 TVBS,https://gogohaha.000webhostapp.com/?id=Hu1FkdAOws0
 TVBS欢乐,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
@@ -370,14 +348,6 @@ TV5MONDE,http://kean-hoe.gq/keanhoe/dl/ha.php?id=170
 Arirang,http://kean-hoe.gq/keanhoe/dl/ha.php?id=171
 tvN,http://kean-hoe.gq/keanhoe/dl/ha.php?id=225
 CBeebies,http://kean-hoe.gq/keanhoe/dl/ha.php?id=209
-三立都会,vjms://yd.sitvp2p.com:8500:5021/live/cid=226
-东森财经,vjms://yd.sitvp2p.com:8500:5021/live/cid=456
-迪士尼卡通,vjms://153.99.180.75:8500:5021/live/cid=361#vjms://yd.sitvp2p.com:8500:5021/live/cid=361
-纬来体育,vjms://153.99.180.75:8500:5021/live/cid=202
-TVB翡翠,vjms://yd.sitvp2p.com:8500:5021/live/cid=362
-法国时尚,vjms://yd.sitvp2p.com:8500:5021/live/cid=399#vjms://153.99.180.75:8500:5021/live/cid=399
-法国国际五台,vjms://yd.sitvp2p.com:8500:5021/live/cid=396#vjms://153.99.180.75:8500:5021/live/cid=396
-澳亚卫视,vjms://yd.sitvp2p.com:8500:5021/live/cid=337
 中港澳,#genre#
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 环球电视台,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8 
@@ -658,167 +628,67 @@ YTN사이언스,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunkli
 한국직업방송,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8#rtmp://live.worktv.or.kr:1935/live/wowtvlive1.sdp
 EE,https://ott.luo2888.cn/ublive.m3u8?time=5F2BA574&checksum=dG9rZW4lM0Q0OWY1NjliYjI2NGU5ZmQxYjNkNzM4ODE2ZTg0YzhjOCUyM3JlbW90ZSUzRDM5Ljk5LjE3NC4yMTYlMjN1cmwlM0RodHRwJTNBJTJGJTJGZjYudmlwdWIxODE4LmNvbSUzQTgwODAlMkZsaXZlJTJGNDA4JTJGNWY3YWUxODk3NjczOWYzYzcyOGU1MmFlMThjMmQ1YWElMkZpbmRleC5tM3U4
 
-加納,#genre#
-TVB翡翠,vjms://yd.sitvp2p.com:8500:3502/live/cid=362
-澳亞衛視,vjms://yd.sitvp2p.com:8500:3502/live/cid=337
-TVBS新闻,vjms://yd.sitvp2p.com:8500:3502/live/cid=348
-HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261
-HBO,vjms://yd.sitvp2p.com:8500:3502/live/cid=261
-壹新闻,vjms://yd.sitvp2p.com:8500:3502/live/cid=445
-东森新闻,vjms://yd.sitvp2p.com:8500:3502/live/cid=340
-東森財經,vjms://yd.sitvp2p.com:8500:3502/live/cid=456
-三立都会,vjms://yd.sitvp2p.com:8500:3502/live/cid=226
-探索科学,vjms://yd.sitvp2p.com:8500:3502/live/cid=457
-AXN 电影,vjms://153.99.180.75:8500:5021/live/cid=2
-国家地理野生,vjms://153.99.180.75:8500:5021/live/cid=263
-国家地理野生,vjms://yd.sitvp2p.com:8500:3502/live/cid=263
-国家地理HD,vjms://153.99.180.75:8500:5021/live/cid=115
-国家地理HD,vjms://yd.sitvp2p.com:8500:3502/live/cid=115
-探索频道,vjms://153.99.180.75:8500:5021/live/cid=440
-探索频道,vjms://yd.sitvp2p.com:8500:3502/live/cid=440
-探索频道,rtmp://yd.sitvp2p.com:8500:5021/livetv/discovery
-动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
-动物星球,vjms://yd.sitvp2p.com:8500:3502/live/cid=3
-发现科学,vjms://153.99.180.75:8500:5021/live/cid=457
-发现科学,vjms://yd.sitvp2p.com:8500:3502/live/cid=457
-TLC旅游生活,vjms://153.99.180.75:8500:5021/live/cid=103
-TLC旅游生活,vjms://yd.sitvp2p.com:8500:3502/live/cid=103
-法國國際五台,vjms://153.99.180.75:8500:5021/live/cid=396
-法國國際五台,vjms://yd.sitvp2p.com:8500:3502/live/cid=396
-法国时尚,vjms://153.99.180.75:8500:5021/live/cid=399
-法国时尚,vjms://yd.sitvp2p.com:8500:3502/live/cid=399
-电影,vjms://153.99.180.75:8500:5021/live/cid=2
 
-日韩(vjms),#genre#
-KBS1,vjms://153.99.180.75:8500:5021/live/cid=140
-KBS2,vjms://153.99.180.75:8500:5021/live/cid=141
-SBS,vjms://153.99.180.75:8500:5021/live/cid=143
-MBC,vjms://153.99.180.75:8500:5021/live/cid=142
-JTBC,vjms://153.99.180.75:8500:5021/live/cid=144
-JTBC2,vjms://153.99.180.75:8500:5021/live/cid=163
-TVN,vjms://153.99.180.75:8500:5021/live/cid=146
-OTVN,vjms://153.99.180.75:8500:5021/live/cid=165
-MNET,vjms://153.99.180.75:8500:5021/live/cid=161
-FX,vjms://153.99.180.75:8500:5021/live/cid=162
-채넬A,vjms://153.99.180.75:8500:5021/live/cid=167
-YTN,vjms://153.99.180.75:8500:5021/live/cid=145
-MBN,vjms://153.99.180.75:8500:5021/live/cid=147
-연합뉴스,vjms://153.99.180.75:8500:5021/live/cid=168
-KBS WORLD,vjms://153.99.180.75:8500:5021/live/cid=216
-TV COHSUN,vjms://153.99.180.75:8500:5021/live/cid=166
-KBSjog,vjms://153.99.180.75:8500:5021/live/cid=155
-SBSPIUS,vjms://153.99.180.75:8500:5021/live/cid=152
-SBS fune,vjms://153.99.180.75:8500:5021/live/cid=164
-KBS드라마,vjms://153.99.180.75:8500:5021/live/cid=149
-MBC드라마,vjms://153.99.180.75:8500:5021/live/cid=150
-OCN,vjms://153.99.180.75:8500:5021/live/cid=160
-SPOTV,vjms://153.99.180.75:8500:5021/live/cid=157
-SPOTV2,vjms://153.99.180.75:8500:5021/live/cid=151
-KBSN,vjms://153.99.180.75:8500:5021/live/cid=153
-FTV,vjms://153.99.180.75:8500:5021/live/cid=169
-MBC스포츠,vjms://153.99.180.75:8500:5021/live/cid=154
-JTBCGOLF,vjms://153.99.180.75:8500:5021/live/cid=158
-SBSGOIF,vjms://153.99.180.75:8500:5021/live/cid=159
-SBS sports,vjms://153.99.180.75:8500:5021/live/cid=156
-EBS1,vjms://153.99.180.75:8500:5021/live/cid=148
-KBS1,vjms://yd.sitvp2p.com:8500:5021/live/cid=140#vjms://122.155.180.8:8500:5021/live/cid=140#vjms://122.155.180.8:8500/live/cid=140
-KBS2,vjms://yd.sitvp2p.com:8500:5021/live/cid=141#vjms://122.155.180.8:8500:5021/live/cid=141#vjms://122.155.180.8:8500/live/cid=141
-SBS,vjms://yd.sitvp2p.com:8500:5021/live/cid=143#vjms://122.155.180.8:8500:5021/live/cid=143#vjms://122.155.180.8:8500/live/cid=143
-MBC,vjms://yd.sitvp2p.com:8500:5021/live/cid=142#vjms://122.155.180.8:8500:5021/live/cid=142#vjms://122.155.180.8:8500/live/cid=142
-JTBC,vjms://yd.sitvp2p.com:8500:5021/live/cid=144#vjms://122.155.180.8:8500:5021/live/cid=144#vjms://122.155.180.8:8500/live/cid=144
-日本星空电影1台,vjms://58.215.133.154:8500/live/cid=326
-日本星空电影2台,vjms://58.215.133.154:8500/live/cid=191
-日本星空电影3台,vjms://58.215.133.154:8500/live/cid=193
-Movieplus,vjms://58.215.133.154:8500/live/cid=497
-日-Discovery,vjms://58.215.133.154:8500/live/cid=496
-日本频道,vjms://58.215.133.154:8500/live/cid=492
-日本剧场,vjms://58.215.133.154:8500/live/cid=493
-日本电视剧,vjms://58.215.133.154:8500/live/cid=213
-WOWOWプライム,vjms://58.215.133.154:8500/live/cid=205
-日-Sports,vjms://58.215.133.154:8500/live/cid=414
-日-Sports1,vjms://58.215.133.154:8500/live/cid=415
-日-Sports2,vjms://58.215.133.154:8500/live/cid=416
-日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
-日本钓鱼,vjms://58.215.133.154:8500/live/cid=55
-HISTORY,vjms://58.215.133.154:8500/live/cid=219
-NHKG,vjms://58.215.133.154:8500/live/cid=317
-日-J,vjms://58.215.133.154:8500/live/cid=495
-NHKE,vjms://58.215.133.154:8500/live/cid=318
-MGS,vjms://58.215.133.154:8500/live/cid=319
-SUN,vjms://58.215.133.154:8500/live/cid=320
-KIDS,vjms://58.215.133.154:8500/live/cid=494
-ANIMAX,vjms://58.215.133.154:8500/live/cid=498
-迪士尼,vjms://58.215.133.154:8500/live/cid=499
-HBO,vjms://58.215.133.154:8500/live/cid=261
-KBSWORLD,vjms://58.215.133.154:8500/live/cid=216
-TBSNEWS,vjms://58.215.133.154:8500/live/cid=220
-日本动画,vjms://58.215.133.154:8500/live/cid=316
-TVTOKD,vjms://58.215.133.154:8500/live/cid=315
-TVO7,vjms://58.215.133.154:8500/live/cid=322
-TBS,vjms://58.215.133.154:8500/live/cid=314
-TBS1,vjms://58.215.133.154:8500/live/cid=221
-朝日1,vjms://58.215.133.154:8500/live/cid=223
-BS洋片,vjms://58.215.133.154:8500/live/cid=307
-NHKBSP,vjms://58.215.133.154:8500/live/cid=303
-BS-TBS,vjms://58.215.133.154:8500/live/cid=305
-日本‖STAR1,vjms://58.215.133.154:8500/live/cid=326
-日本‖STAR2,vjms://58.215.133.154:8500/live/cid=191
-日本‖STAR3,vjms://58.215.133.154:8500/live/cid=193
-日本‖Movie Plus,vjms://58.215.133.154:8500/live/cid=497
-日本‖日テレプラス,vjms://58.215.133.154:8500/live/cid=492
-日本‖ファミリー劇場,vjms://58.215.133.154:8500/live/cid=493
-日本‖フジテレビ（関東）,vjms://58.215.133.154:8500/live/cid=316
-日本‖BS釣りビジョン,vjms://58.215.133.154:8500/live/cid=55
-日本‖日本映画専門チャンネル,vjms://58.215.133.154:8500/live/cid=213
-日本‖MTV,vjms://58.215.133.154:8500/live/cid=52
-日本‖NHKBSP,vjms://58.215.133.154:8500/live/cid=303
-日本‖BS-TBS,vjms://58.215.133.154:8500/live/cid=305
-日本‖BS-フジ,vjms://58.215.133.154:8500/live/cid=307
-日本‖NHK-G（関東）,vjms://58.215.133.154:8500/live/cid=317
-日本‖NHK-E（関東）,vjms://58.215.133.154:8500/live/cid=318
-日本‖MBS毎日（関西）,vjms://58.215.133.154:8500/live/cid=319
-日本‖SUNサンテレビ（関西）,vjms://58.215.133.154:8500/live/cid=320
-日本‖music Japan,vjms://58.215.133.154:8500/live/cid=495
-日本‖Discovery,vjms://58.215.133.154:8500/live/cid=496
-日本‖GOLF NTWORK,vjms://58.215.133.154:8500/live/cid=409
-日本‖GREEN Channel,vjms://58.215.133.154:8500/live/cid=412
-日本‖FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
-日本‖HISTORY,vjms://58.215.133.154:8500/live/cid=219
-日本‖テレビ東京（関東）,vjms://58.215.133.154:8500/live/cid=315
-日本‖テレビ大阪（関西）,vjms://58.215.133.154:8500/live/cid=322
-日本‖CS TBS1,vjms://58.215.133.154:8500/live/cid=221
-日本‖CS テレ朝1,vjms://58.215.133.154:8500/live/cid=223
-日本‖KIDS STATION,vjms://58.215.133.154:8500/live/cid=494
-日本‖ANIMAX,vjms://58.215.133.154:8500/live/cid=498
-日本‖WOWOWライブ,vjms://58.215.133.154:8500/live/cid=205
-日本‖CS EXスポーツ&バラエティ,vjms://58.215.133.154:8500/live/cid=414
-日本‖J SPORTS1,vjms://58.215.133.154:8500/live/cid=415
-日本‖J SPORTS2,vjms://58.215.133.154:8500/live/cid=416
-朝鲜电视,http://tv.nknews.org/tvhls/stream.m3u8
-韓国‖KBS WORLD,vjms://58.215.133.154:8500/live/cid=216
-日-Family theather,vjms://23.237.115.18:8500:3502/live/cid=493
-日-Movie Plus,vjms://23.237.115.18:8500:3502/live/cid=497
-日-GOLF NTWORK,vjms://23.237.115.18:8500:3502/live/cid=409
-日-Sports ESPN,vjms://23.237.115.18:8500:3502/live/cid=410
-日-Sports Plus,vjms://23.237.115.18:8500:3502/live/cid=411
-日-Green,vjms://23.237.115.18:8500:3502/live/cid=412
-日-GAORA,vjms://23.237.115.18:8500:3502/live/cid=413
-日-sports1,vjms://23.237.115.18:8500:3502/live/cid=415
-日-Sports 2,vjms://23.237.115.18:8500:3502/live/cid=416
-Fighting-TV,vjms://23.237.115.18:8500:3502/live/cid=408
-GOLF,vjms://23.237.115.18:8500:3502/live/cid=409
-J-Sports-3,vjms://23.237.115.18:8500:3502/live/cid=410
-J-Sports-4,vjms://23.237.115.18:8500:3502/live/cid=411
-BS-GREEN,vjms://23.237.115.18:8500:3502/live/cid=412
-GAORA SPORTS,vjms://23.237.115.18:8500:3502/live/cid=413
-EX-Sports-TV,vjms://23.237.115.18:8500:3502/live/cid=414
-J-Sports-1,vjms://23.237.115.18:8500:3502/live/cid=415
-J-Sports-2,vjms://23.237.115.18:8500:3502/live/cid=416
-ファミリ?`剧场 - Fami Gekijo HD,vjms://23.237.115.18:8500:3502/live/cid=493
-Discovery,vjms://23.237.115.18:8500:3502/live/cid=496
-Movie Plus,vjms://23.237.115.18:8500:3502/live/cid=497
+日韩,#genre#
+日本1,http://ku2.freeyun.gq/5mstv.php?id=33.m3u8
+日本2,http://ku2.freeyun.gq/5mstv.php?id=39.m3u8
+日本3,http://ku2.freeyun.gq/5mstv.php?id=42.m3u8
+日本14,http://ku2.freeyun.gq/5mstv.php?id=129.m3u8
+日本15,http://ku2.freeyun.gq/5mstv.php?id=130.m3u8
+日本16,http://ku2.freeyun.gq/5mstv.php?id=131.m3u8
+日本17,http://ku2.freeyun.gq/5mstv.php?id=132.m3u8
+日本18,http://ku2.freeyun.gq/5mstv.php?id=133.m3u8
+日本19,http://ku2.freeyun.gq/5mstv.php?id=134.m3u8
+日本20,http://ku2.freeyun.gq/5mstv.php?id=135.m3u8
+日本21,http://ku2.freeyun.gq/5mstv.php?id=136.m3u8
+日本22,http://ku2.freeyun.gq/5mstv.php?id=137.m3u8
+日本23,http://ku2.freeyun.gq/5mstv.php?id=138.m3u8
+日本24,http://ku2.freeyun.gq/5mstv.php?id=139.m3u8
+日本25,http://ku2.freeyun.gq/5mstv.php?id=140.m3u8
+日本26,http://ku2.freeyun.gq/5mstv.php?id=198.m3u8
+日本27,http://ku2.freeyun.gq/5mstv.php?id=199.m3u8
+日本28,http://ku2.freeyun.gq/5mstv.php?id=240.m3u8
+日本29,http://ku2.freeyun.gq/5mstv.php?id=241.m3u8
+日本30,http://ku2.freeyun.gq/5mstv.php?id=242.m3u8
+日本31,http://ku2.freeyun.gq/5mstv.php?id=243.m3u8
+日本32,http://ku2.freeyun.gq/5mstv.php?id=244.m3u8
+日本33,http://ku2.freeyun.gq/5mstv.php?id=245.m3u8
+日本34,http://ku2.freeyun.gq/5mstv.php?id=247.m3u8
+日本35,http://ku2.freeyun.gq/5mstv.php?id=249.m3u8
+日本36,http://ku2.freeyun.gq/5mstv.php?id=287.m3u8
+日本37,http://ku2.freeyun.gq/5mstv.php?id=289.m3u8
+日本38,http://ku2.freeyun.gq/5mstv.php?id=290.m3u8
+日本39,http://ku2.freeyun.gq/5mstv.php?id=296.m3u8
+日本40,http://ku2.freeyun.gq/5mstv.php?id=298.m3u8
+日本41,http://ku2.freeyun.gq/5mstv.php?id=235.m3u8
+日本42,http://ku2.freeyun.gq/5mstv.php?id=237.m3u8
+日本43,http://ku2.freeyun.gq/5mstv.php?id=238.m3u8
+日本44,http://ku2.freeyun.gq/5mstv.php?id=239.m3u8
+KBS2,http://ku2.freeyun.gq/5mstv.php?id=250.m3u8
+mgc,http://ku2.freeyun.gq/5mstv.php?id=251.m3u8
+韩1,http://ku2.freeyun.gq/5mstv.php?id=252.m3u8
+韩2,http://ku2.freeyun.gq/5mstv.php?id=253.m3u8
+韩3,http://ku2.freeyun.gq/5mstv.php?id=254.m3u8
+韩4,http://ku2.freeyun.gq/5mstv.php?id=255.m3u8
+韩5,http://ku2.freeyun.gq/5mstv.php?id=256.m3u8
+韩6,http://ku2.freeyun.gq/5mstv.php?id=257.m3u8
+韩7,http://ku2.freeyun.gq/5mstv.php?id=258.m3u8
+韩8,http://ku2.freeyun.gq/5mstv.php?id=261.m3u8
+韩9,http://ku2.freeyun.gq/5mstv.php?id=262.m3u8
+韩10,http://ku2.freeyun.gq/5mstv.php?id=264.m3u8
+韩11,http://ku2.freeyun.gq/5mstv.php?id=265.m3u8
+韩12,http://ku2.freeyun.gq/5mstv.php?id=266.m3u8
+韩13,http://ku2.freeyun.gq/5mstv.php?id=267.m3u8
+韩14,http://ku2.freeyun.gq/5mstv.php?id=268.m3u8
+269,http://ku2.freeyun.gq/5mstv.php?id=269.m3u8
+270,http://ku2.freeyun.gq/5mstv.php?id=270.m3u8
+271,http://ku2.freeyun.gq/5mstv.php?id=271.m3u8
+272,http://ku2.freeyun.gq/5mstv.php?id=272.m3u8
+273,http://ku2.freeyun.gq/5mstv.php?id=273.m3u8
+274,http://ku2.freeyun.gq/5mstv.php?id=274.m3u8
+275,http://ku2.freeyun.gq/5mstv.php?id=275.m3u8
 
-R_2,#genre#
+R_0,#genre#
 happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 松視1,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 松视1,http://ku2.freeyun.gq/5mstv.php?id=402.m3u8
