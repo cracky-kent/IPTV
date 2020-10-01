@@ -1,4 +1,4 @@
-电影,#genre#
+$c_start电影$c_end
 HBO,http://198.98.55.16/crtv.php?id=464
 AXN,http://198.98.55.16/crtv.php?id=1044
 AXN亚洲,http://198.98.55.16/crtv.php?id=1066
@@ -75,7 +75,7 @@ FOX频道,http://kean-hoe.gq/keanhoe/dl/ha.php?id=101
 爱奇艺_经典重温,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingdianchongwen_720p_t5/c16_lb_jingdianchongwen_720p_t5.m3u8
 爱奇艺_军事观察,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
 爱奇艺_历史秘闻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
-探索,#genre#
+$c_start探索$c_end
 BBC EARTH,http://198.98.55.16/crtv.php?id=97
 Love Nature,http://198.98.55.16/crtv.php?id=388
 Outdoor,http://198.98.55.16/crtv.php?id=374
@@ -134,7 +134,7 @@ MTV 亚洲音乐,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&pro
 Fashion TV,http://220.158.149.28:8180/live/TV00000000000000000116@HHZT
 民视旅游,http://520574.xyz/dl/gt.php?id=ftvtravel
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-新闻,#genre#
+$c_start新闻$c_end
 TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
@@ -196,7 +196,7 @@ NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
 NHK BS1,http://125.227.210.37:8939/VideoInput/play.ts
 NHK-World,http://125.227.210.37:8931/VideoInput/play.ts
 NOW新闻,http://iptv.zbhzi.xyz:8082/hls/ch114.m3u8
-台湾,#genre#
+$c_start台湾$c_end
 TVBS,https://gogohaha.000webhostapp.com/?id=Hu1FkdAOws0
 TVBS欢乐,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 公视,https://gogohaha.000webhostapp.com/?id=ED4QXd5xAco
@@ -426,7 +426,7 @@ TV5MONDE,http://kean-hoe.gq/keanhoe/dl/ha.php?id=170
 Arirang,http://kean-hoe.gq/keanhoe/dl/ha.php?id=171
 tvN,http://kean-hoe.gq/keanhoe/dl/ha.php?id=225
 CBeebies,http://kean-hoe.gq/keanhoe/dl/ha.php?id=209
-中港澳,#genre#
+$c_start中港澳$c_end
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 环球电视台,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8 
 凤凰中文,http://39.135.225.5:18890/PLTV/88888888/224/3221225900/1.m3u8
@@ -610,7 +610,7 @@ RT（俄罗斯）,http://220.158.149.28:8180/live/TV00000000000000000061@HHZT
 空中英语教室,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 越南k+,http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
 AXNK+,http://220.158.149.28:8180/live/TV00000000000000000108@HHZT
-日韩,#genre#
+$c_start日韩$c_end
 Arirang World,http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/chunklist_b3256000_sleng.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArteTV,http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
@@ -705,9 +705,6 @@ YTN사이언스,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunkli
 팍스경제TV,rtmp://124.139.232.61/live//livestream#rtmp://124.139.232.61:1935/live/livestream
 한국직업방송,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8#rtmp://live.worktv.or.kr:1935/live/wowtvlive1.sdp
 EE,https://ott.luo2888.cn/ublive.m3u8?time=5F2BA574&checksum=dG9rZW4lM0Q0OWY1NjliYjI2NGU5ZmQxYjNkNzM4ODE2ZTg0YzhjOCUyM3JlbW90ZSUzRDM5Ljk5LjE3NC4yMTYlMjN1cmwlM0RodHRwJTNBJTJGJTJGZjYudmlwdWIxODE4LmNvbSUzQTgwODAlMkZsaXZlJTJGNDA4JTJGNWY3YWUxODk3NjczOWYzYzcyOGU1MmFlMThjMmQ1YWElMkZpbmRleC5tM3U4
-
-
-日韩,#genre#
 BSテレビ东京,http://198.98.55.16/crtv.php?id=243
 时代剧の専门家,http://198.98.55.16/crtv.php?id=287
 テレビ朝日,http://198.98.55.16/crtv.php?id=237
@@ -908,7 +905,7 @@ Sony,http://198.98.55.16/crtv.php?id=483
 Sony Max,http://198.98.55.16/crtv.php?id=477
 
 
-R_0,#genre#
+$c_startpink_0$c_end
 happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 松視1,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 松视1台,http://198.98.55.16/crtv.php?id=402
@@ -937,49 +934,6 @@ HOT 频道,http://kean-hoe.gq/keanhoe/dl/ha.php?id=403
 潘朵拉粉红http://kean-hoe.gq/keanhoe/dl/ha.php?id=412
 惊艳成人电视http://kean-hoe.gq/keanhoe/dl/ha.php?id=413
 香蕉台http://kean-hoe.gq/keanhoe/dl/ha.php?id=414
-香蕉台,http://joy.joytv-app.cc/live/11/22/87996.ts
-惊艳成人电视,http://joy.joytv-app.cc/live/11/22/87997.ts
-潘多拉粉红,http://joy.joytv-app.cc/live/11/22/87998.ts
-潘多拉完美,http://joy.joytv-app.cc/live/11/22/87999.ts
-HAPPY,http://joy.joytv-app.cc/live/11/22/88000.ts
-HOT,http://joy.joytv-app.cc/live/11/22/88001.ts
-彩虹e台,http://joy.joytv-app.cc/live/11/22/88002.ts
-彩虹电影,http://joy.joytv-app.cc/live/11/22/88003.ts
-K频道,http://joy.joytv-app.cc/live/11/22/88004.ts
-松视1,http://joy.joytv-app.cc/live/11/22/88005.ts
-松视2,http://joy.joytv-app.cc/live/11/22/88006.ts
-松视3,http://joy.joytv-app.cc/live/11/22/88007.ts
-MATURE,http://joy.joytv-app.cc/live/11/22/88008.ts
-latina,http://joy.joytv-app.cc/live/11/22/88009.ts
-HD,http://joy.joytv-app.cc/live/11/22/88010.ts
-Hardcore,http://joy.joytv-app.cc/live/11/22/88011.ts
-Erotic,http://joy.joytv-app.cc/live/11/22/88012.ts
-Fetish,http://joy.joytv-app.cc/live/11/22/88013.ts
-ebony,http://joy.joytv-app.cc/live/11/22/88014.ts
-blowjob,http://joy.joytv-app.cc/live/11/22/88015.ts
-asian,http://joy.joytv-app.cc/live/11/22/88016.ts
-anal,http://joy.joytv-app.cc/live/11/22/88017.ts
-午夜动漫1,http://joy.joytv-app.cc/live/11/22/88018.ts
-c1,http://joy.joytv-app.cc/live/11/22/200246329.ts
-c2,http://joy.joytv-app.cc/live/11/22/200246365.ts
-c3,http://joy.joytv-app.cc/live/11/22/200246425.ts
-c4,http://joy.joytv-app.cc/live/11/22/200246469.ts
-c5,http://joy.joytv-app.cc/live/11/22/200246487.ts
-c6,http://joy.joytv-app.cc/live/11/22/200246544.ts
-c7,http://joy.joytv-app.cc/live/11/22/200246621.ts
-c8,http://joy.joytv-app.cc/live/11/22/200246859.ts
-c9,http://joy.joytv-app.cc/live/11/22/200246924.ts
-b1,http://joy.joytv-app.cc/live/11/22/200374128.ts
-b2,http://joy.joytv-app.cc/live/11/22/200374147.ts
-b3,http://joy.joytv-app.cc/live/11/22/200374233.ts
-b4,http://joy.joytv-app.cc/live/11/22/200374303.ts
-b5,http://joy.joytv-app.cc/live/11/22/200374351.ts
-b6,http://joy.joytv-app.cc/live/11/22/200374394.ts
-b7,http://joy.joytv-app.cc/live/11/22/200374435.ts
-b8,http://joy.joytv-app.cc/live/11/22/200374481.ts
-c10,http://joy.joytv-app.cc/live/11/22/200246964.ts
-c11,http://joy.joytv-app.cc/live/11/22/200371025.ts
-c12,http://joy.joytv-app.cc/live/11/22/200371478.ts
 松视1台,http://live.vpnyun.tk:8080/demo/456321/531
 松视2,http://live.vpnyun.tk:8080/demo/456321/532
 松视3台,http://live.vpnyun.tk:8080/demo/456321/533
