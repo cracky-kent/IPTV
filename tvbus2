@@ -1,5 +1,5 @@
-台湾分类,#genre# 
-*百川--tvbus2*,tvbus://6TGif8EbHMdyDF
+$c_start台湾分类$c_end 
+*EZ--tvbus2*,tvbus://6TGif8EbHMdyDF
 亚洲旅游台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
 动物星球,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq
 国兴卫视,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
@@ -97,7 +97,7 @@ tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
 迪士尼,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
 卡通频道,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
 MOMO亲子,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
-电影频道,#genre# 
+$c_start电影频道$c_end 
 HBO,tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
 HBO原创,tvbus://6c6yvoNhChui1kDJuVTNne6jdmncQ6BR3BBhPB1dSQKUjmohGqbXJV7G3CGqN
 HBO强档,tvbus://6Kq4EfNGSDQKVthowXmS7hgdBpnxB5rz2uyd1fURCQiKr9FfdiHU48vH1orek
@@ -126,7 +126,7 @@ FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
 靖天电影台,tvbus://5TwdQ9cS9ytejmgT77nfnGW7xYuXtGxFqeeUjhgp79yQtamqBuxYkmY4FLLbe
 靖天映画,tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 电影第一,tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
-港澳频道,#genre# 
+$c_start港澳频道$c_end 
 翡翠,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
 无线新闻,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 明珠,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
@@ -152,7 +152,7 @@ rthk31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
 澳门卫视,tvbus://8BJBkC5TsYJt2jnHAc8evYrvrcBSPPUeGiKx8RH3UxAL8kAEaH
 NOW 新闻,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM
 NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
-新马,#genre# 
+$c_start新马$c_end 
 ASTRO WARNA,tvbus://6DP2zC8zfpj7qRFtRowFTyj8DvGJTgb9m17iJ522n85QFjsF4H7oLFU3pMwtV
 卫视卡式台,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
 OKEY,tvbus://6Rx8NSXLxzTk8sy84z688ZUqbHv76seQGBi2MjmynSwSVMQ4YcWGGYef35Wbo
@@ -174,7 +174,7 @@ ML 天映,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
 ML 小太阳,tvbus://6LktFjSSxNajgkUMFiNyQ5929UGv7otwbF7NYuVfCsDzQy9CxRQDdTyJYcYmJ
 Channel News Asia,tvbus://6dr6ak7rDN59qs8j7GzSzPeiZXKQg38UbbdQJVKszQeycSNpsz2rmGpM363oP
 ML 欢喜,tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6
-外语频道,#genre# 
+$c_start外语频道$c_end 
 BBC Lifestyle Channel,tvbus://5wefCvSVvkt2zhp4HDBEWmxbYV7g5r6Xj27bg7FJMv8o9FBdYudRNYyLVw2at
 CNBC Asia Channel,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5xspipEdxZi
 BBC Earth,tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m
@@ -192,7 +192,78 @@ nba,tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
 Eleven Sport2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
 FOX CRIME,tvbus://5SfH5CqHH7Caop9yq7RPojibWTmSthiuZgcoAzjJ4zakagDu6mDGnV1Rz5XPP
 Bloomberg TV,tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB7L
-央视卫视,#genre# 
+WARNA,tvbus://8L6nzv6UYfH4WFMfZb6vtSd7PGXb7fy3vTmamP4584C8hZAGNN
+NTV7,tvbus://7tkL67EzTpN83Hcsdij17CgB94pReFwBosrZy13ZjyscTpVDUk
+AEC,tvbus://7ujpYvZDp2JE8t82MrGkwujTupsUYgp82EGQnC71GZmiS1yM5g
+天映頻道,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
+小太陽,tvbus://8Pe3wipkqx3q8BJSUtcwcN4FtmPEuQLwmcQTppxNc3zCohjFRJ
+歡喜,tvbus://71Jwu3tfPt6yUftBEL3ioCsheU4AYZJw8VyhgTZFWv2iDJMWHN
+channel 5,tvbus://84hp7KukuktftXj8NMVjSP9g2WpGugFAFnYSinVhyhXuxFa1AZ
+awani,tvbus://7uQAWwrfFmBTYUWBAZn8GTeXtLyFJCx1R5xjT4CjJAHZUDEJjX
+Bernama News Channel,tvbus://7r1xa4NKmRGAyYL7vrNPUXN5ArcjvYopp9gWw4W8aonrP6ikVN
+TV8,tvbus://84zMgP98dWCVP7RHdBrZqYLkxxPnZRs2mz5tX4ZNRyPzsUWg9g
+ASSP1,tvbus://7kSynKXrrgV36xtPXcpkvuruBbVRxJqRqxzEotzy151YRmafp3
+ASSP2,tvbus://7K6LwQoB9Qh2pgktJDHCwx1kYVemHGgaPxhxJv2C2iycq5cdYv
+ASSP3,tvbus://8hob5vUkw8rQeUYSKj7VDFFScEvpY3rDrZ92k6qL1r8nJxXbVf
+ASSP4,tvbus://7m9PNnrU7wUSCDkajYBze2JZk5xri7HvAa53udXhZmzjmcRgYp
+TELETOON Asia,tvbus://8Vn63mSjXjV7eEaM8n7MaqoqCfsSvEhiqgFu43Naq9g1icn53q
+CNN-NEWS,tvbus://7JMpjEdHqGdqhbMTdRZKFDawSrNTT2V8hociehB7Wna128JP1i
+CARTOON-NETWORK,tvbus://7Lr21okH8XCba6FGUxjB8qqwoKspzA82zP4oPv8eNiNR7TA8GQ
+DISNEY-CHANNEL,tvbus://8eYWL71dxmBNz1DKjfMznrF356oM1Xjgiaj7NCndYDteXRrkho
+DISNEY-JR,tvbus://7s6FkUUb3uDzcSmhEDriZJWS67RawudBAHvN1Tn2C2quoSjGqz
+DISNEY-XD,tvbus://8kJMuCRGEk8XXCDCDbiSXifXNBbz6b6329UcA4b1wRMeUeRbT4
+FOX HD,tvbus://7C4s1GsoxF4a4qg3oPKaDLQZu6K51HyxxW2VY1Kt5h8q1NShGc
+FOX Life,tvbus://7XTk3XcqwZ4tNkG9AsuUR2b9SyLQ26QSsPTFXFPowPYrHc2c2k
+FOX Action Movies HD,tvbus://7pdhq4dRtkNSTX2JstU3gQrZW4zHsL56hJwFGu1BMcrsDvqsQU
+Trans 7,tvbus://8f5DNHWgvUksDyq4YEEN69TWbZUuEn1z9q21ycNjNGikscM5o6
+Trans TV,tvbus://7xcou2gTTM2HdiGVSBnPkNEZrw1d1sM44aNU1DRtEWPu28j8SC
+SCTV,tvbus://7Meo6pCHuJvD2iUXziuxGuqE8Uv1f2fkEfNi8maXns8nmmNMkc
+Indosiar,tvbus://7PgpcmrHskpeCgjXSUfUXo6tKvS7ABV7xoPuKQDpaPFjFA21zR
+ANTV,tvbus://8KhKFxtJuRQrCc77RQfSfMWgAC9QzLPFhkzPSpd1JsW1W8DkoZ
+Berita Satu News,tvbus://85m77G1f6NFiTc3NrRQDLgp8ebAHujQTnsQaTThjRAyrGnN2Jw
+TV ONE,tvbus://8kCNTFksU4PEnfZe8y2jmZ9fsVH8iGdAFo3D6fSSAH76GwiMoS
+Kompas TV,tvbus://7wiyEP56aHcY3KVEFoVJXGdcMJEgFKpCSUgSTKBu8RYMBsPNq2
+Metro TV,tvbus://779hR673bxTA5qQehsisTd1gUWE9Mz4898Jpa8UMChWwxPvVac
+CNN Indonesia,tvbus://7LtV4vUuiq6j3GWCwUp6qtyKqXsh1GmSub9vUNhDzPHLBPZfWv
+Star Chinese Movies HD,tvbus://6rG5TmEagfbY1NRuMkaWuCeLPHQvbJ1f74MhY6oRyhZdbh3Rvh
+Waku Waku Japan,tvbus://786qCNs7FLm9ouCtbUEPA57ZkRQZfZBkcQM7Yg8CV6Xti36r7D
+National Geographic Channel HD,tvbus://6swYNAkHMQMsAurvHd7EkrCN8shyVivY4wydXpzGPknSrYVZYp
+National Geographic Wild HD,tvbus://7yBiHf8XiNGwnDkN2tG66gYMs1d9WgEJx6AtK2RHuZEJV79mFd
+Animax,tvbus://75CFwq3SwbVUh9dcVA1HFRgP17eLAAEigXZ5amYKbGVSnyJC8H
+Sony ONE,tvbus://8F1BWGpaCrfPiyyeTsTWF8k8sNnGMnYRGRzmbk2JFFd2ac65TC
+Celestial Movies,tvbus://8deU4wgz4swa11hTXW87d4UAeYJG7amVtvfP2Rbqxxa259qGmk
+K plus,tvbus://79qsnDDTxjQztASgnsE87qEunUE2hpGpNCtySqZeFKRLq94fMv
+NET TV HD,tvbus://86M38k6iMV1VCuHMxxHbwauBjH6LZGvbmMb2kSvHUrCTZhMqco
+KIX,tvbus://7bpGEoZnaZSaQZsJgP5AnFjRYaXgfqqzUmFRNdU1KbpUiMmS5y
+TVRI,tvbus://77LNjM2fAkQoRRJncEDvoSQpWVXZNM22V5esE8gqqjdYpNnoCC
+Rajawali TV,tvbus://7yc97kvwGxQ54Rt8ggTJsBXHPLCGZcduDYCSNG9tUX19hd8QZm
+HBO Hits,tvbus://7mRLZxrQn5Rabs5NXDfwi4BW1nLtAzf3Q5i1F9FdUCvnKMeSiy
+HBO Family,tvbus://8UjFiuxCEycuvYdum5QbHHiLA8AJ4No7vweC5xN7De7qWNfjAK
+HBO Signature,tvbus://7yLB9coWSbrFtqn9NWPSsWzCsi3MyjcgUysNGGkdfxRfshEPJH
+TLC,tvbus://7CuZW13fjhhGbZdVhNiE2EgVyFpTCXNdmHsWvswNYi8iDbAUib
+AFC,tvbus://75sWGTnTts67CBnEwR56b6KfPeWvwZ3YjCwRXiJBvKkitqwDPr
+Warner TV,tvbus://6wK5cjJtAEL3L8Vh1Mo2vyZvEL8JM3LqfJaiuaKHjtrjCuZGK1
+テレビ朝日,tvbus://7j4NSj16NvAjEydw8nApb8as42EPWY3KL1UMEtEgM5AG8t48t3
+スカイA,tvbus://7oemHhpSthGgzsf3P8G8FFRqD4RFqG7wyP4mGVT34chDE3w2Pp
+ABC朝日放送,tvbus://7UQazdQUJccpYUQQYMmZAZY8MPjUEpTAQP3EN5BuEUh6MUEfC8
+NBA（USA）,tvbus://8iqWzABMeapydPyTddoJg3w5pJG4S4fKeW9KXFcTseBtNkY5As
+espnu,tvbus://7wdibMum2bcfTyt84ythjEWSxtaq2SX2jgH6ov3vJk2P82atwX
+NBA（NA）,tvbus://88ygMpdWtzHonx8W6b4siSkfi1b3NPfMqYPRVE9B4qWcqmtkTB
+eurosp2,tvbus://7uFSrkdyw6jd2TcA9JKWxsRn7sxQPDGrxPUYZnmsVirji45z5i
+espn,tvbus://8JqY6fmxmZPeoJEFJD8oHUPoSUKtT2ygYMb8YikpeyyXcFDxjj
+eurosp1,tvbus://7cbud4qyAJB2awB24g4QHnj7QCkTJTDb3JNJbc2rtk3otXvTUy
+Mature,tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
+Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
+HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
+Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
+Fetish,tvbus://5SBVvaU8SPvEPAj9YnD2ZnGHyzZJptZTWZYZU6ohQDtFxjK9Ysx77bx4Yhv8W
+Erotic,tvbus://5i6o9iq4vofeNi4BnHCvk7MnzCyaJTxmF51Xe1PGnPGrKTAZw12bfMRBV5Ten
+Ebony,tvbus://5U8Jumknpip7e6G4NVLvpUQMbPyMpv1KYDDRBKivDFtjpm6Zt9JEpGzb2AqtT
+Blowjob,tvbus://5Q5mYj9gbLRRQj4MxgmXBhmcSFGwPUWFyRiNEgGKviHa4aNnwC1ap8MnC3YRk
+Asian,tvbus://5Y7X5S1tXaKWzYGkLCLMpQmCxeqRp6D3ic44sGUycsvPFTjfe8x9TohBHp2m1
+Anal,tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
+
+$c_start央视卫视$c_end 
 cctv1,tvbus://69Mb4nuPDqZ22UV9cSgDHee47LgNh4ZuyxJB3uKzpYx6sx3nbxarNwNGFWeZ7
 cctv2,tvbus://6TgMRPM93iM23VTMwx8oQV3G6BrMPtyMj68LZz4VsX2FeDzgDJ6TwDXiPJnUr
 cctv3,tvbus://6UNvStCaUueHCHHdrNDWNNhnsyrc7kABPXmmUwj7YJoLCJTXtEFEXnWrnXy6W
@@ -250,7 +321,7 @@ chc动作,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5Kwwq5t
 汕头一台,tvbus://5WoSXcKFzpzKpr1AL36jaKrbsGUzx373dHBHe55tzGJ5pQUMfy25yvJfDrPj5
 清远综合,tvbus://5dfvDDGFWAnpqcuStmXaSv2q7PWupaN6JgngUv3pAbBhdrTVFpknecaZB2hkN
 青海卫视,tvbus://5QZWicna1g6YtFjwAvegfkLpXn9SF5rjhFsEv63xbS8kBDXCTAxQz7uX6Wctw
-体育频道,#genre# 
+$c_start体育频道$c_end 
 爱尔达体育1台,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
 爱尔达体育2台,tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb
 爱尔达体育3台,tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm
@@ -265,5 +336,4 @@ chc动作,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5Kwwq5t
 纬来体育,tvbus://6dvyXxrgyK2SDTDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2
 Golf Channel (博斯高球),tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
 Golf Plus (博斯高球二台),tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
- 博斯无限 ,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
 FOX SPORTS 3,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5
