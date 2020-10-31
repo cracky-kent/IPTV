@@ -647,7 +647,7 @@ ABSCBN,p8p://user3.shusongw.mobi:16871/5f539146000651371022801be5a96c8d.ts
 Hope,tvbus://5dbjBhVgdsXALh9XBptsuDBwEktPpVsJGcwdxQTvAqxAm7Pg6vmLYUKr9Y5dr
 
 
-$c_start🌺歡樂时光_0$c_end
+$c_start歡樂时光_0$c_end
 HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462551.m3u8
 松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
