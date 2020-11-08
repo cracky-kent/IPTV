@@ -33,7 +33,8 @@ CHC动作电影,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5K
 
 $c_start🌺探索🌺$c_end
 BBC_Earth,tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m#p8p://198.255.106.42:16871/5f37e7c6000e815e42da8e731be212cf
-亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#p8p://198.255.106.42:16871/5f37daf50006d78842a87c149a44362d
+亚洲旅游,tvbus://8BJXVj7FLwmtr3mTxTu41yH9uvitUyU9PmzjfUjAFCdzem7bNv#tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
+纬来日本,tvbus://6uRaEVB6zUUTj8hPENXF15Xb888X3y3Yrhj7HjZubfA18jRhCu#tvbus://6dvyXxrgyK2TDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2
 動物星球,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq#p8p://198.255.106.42:16871/5d1a69da000a2acf11be734ba3f44eda
 國家地理悠人頻道,tvbus://5m7TtafZKHo75EiC1uq3Sh6A7iqESKd6XH6oTRoiuZEaoxNX4zmfQ6zNF1t4G#p8p://198.255.106.42:16871/5f37d0fb00088f51428183f5a24c108a
 國家地理野生頻道,tvbus://5mCzngrHffNW5Vg78ggmwUbrPpNeSNbtERQz7HefJp33QgcNocfMEnjhspuEg#p8p://198.255.106.42:16871/5f37cf4000053244427ac0a15f6658f1
@@ -41,7 +42,6 @@ BBC_Earth,tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m#
 探索亞洲,tvbus://67zjm3ScZsgzCy1q6td5sR6NRSskv1cj3fUwEyZbqL84VAtQTYRik6ukRJacM#p8p://198.255.106.42:16871/5f37d15a000efba84282f8b2e586739c
 探索科學,tvbus://6CCSwQ923yP9J91sY94fxSeg9ks8gsnccVJkSKMFZCiU8UpmgToYYF5feyWqF#p8p://198.255.106.42:16871/5f37d1f3000dbded42854e09147e692f
 探索頻道,tvbus://6Txg1fvUdyUvVQMo9yNXBTh1uwokDAqG4fD9X8Ww6tthHGKtUMjAy1ARQRyB7#p8p://198.255.106.42:16871/5f2e56190004729f1d7980176b355250
-緯來日本,p8p://198.255.106.42:16871/5d8b6caa00035a0b14c1c834b40e4885#p8p://198.255.106.42:16871/5f380d8d000d7e3b436e1f88d7eee082
 國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP#p8p://198.255.106.42:16871/5f37c744000be418425b91f78d7bfb6d
 Outdoor,tvbus://5UYzSz2kzSGzc9vkM1LT7PtymykeXz3Kh5sHDkBEVWKjzUw4ToJQ3GNU9RKU8#p8p://198.255.106.42:16871/5f37d29d000976d04287e500ad137fca#
 TLC旅遊生活,tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir#p8p://198.255.106.42:16871/5f2e54d6000c0f901d7494527e9c38a8
