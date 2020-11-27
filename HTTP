@@ -1,5 +1,5 @@
+電影,#genre#
 $c_start电影$c_end
-*EZ--HTTP*,http://198.98.55.16
 HBO HD,http://27.124.3.48/28609001/jiegectx.php?id=332
 FOX ACTION,http://27.124.3.48/28609001/jiegectx.php?id=385
 FOX CRIME,http://27.124.3.48/28609001/jiegectx.php?id=386
@@ -81,6 +81,7 @@ WOWOW电影,http://193.42.99.130:23455/3700/playlist.m3u8
 爱奇艺_经典重温,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingdianchongwen_720p_t5/c16_lb_jingdianchongwen_720p_t5.m3u8
 爱奇艺_军事观察,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
 爱奇艺_历史秘闻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
+探索,#genre#
 $c_start探索$c_end
 BBC EARTH,http://27.124.3.48/28609001/jiegectx.php?id=97
 国家地理,http://27.124.3.48/28609001/jiegectx.php?id=302
@@ -128,6 +129,7 @@ CBN每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fs
 Fashion TV,http://220.158.149.28:8180/live/TV00000000000000000116@HHZT
 民视旅游,http://520574.xyz/dl/gt.php?id=ftvtravel
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+新闻,#genre#
 $c_start新闻$c_end
 TVBS新闻,http://27.124.3.48/28609001/jiegectx.php?id=2
 东森新闻,http://27.124.3.48/28609001/jiegectx.php?id=12
@@ -159,7 +161,7 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
 NHK BS1,http://125.227.210.37:8939/VideoInput/play.ts
 NHK-World,http://125.227.210.37:8931/VideoInput/play.ts
-
+台湾,#genre#
 $c_start台湾$c_end
 AFN,http://27.124.3.48/28609001/jiegectx.php?id=195
 AFN,http://27.124.3.48/28609001/jiegectx.php?id=307
@@ -265,7 +267,7 @@ HakkqTV,http://27.124.3.48/28609001/jiegectx.php?id=76
 寰宇综合,http://27.124.3.48/28609001/jiegectx.php?id=190
 爆笑频道,http://27.124.3.48/28609001/jiegectx.php?id=85
 韩国娱乐台,http://27.124.3.48/28609001/jiegectx.php?id=73
-
+港澳,#genre#
 $c_start港澳$c_end
 a,http://27.124.3.48/28609001/jiegectx.php?id=358
 18台,http://27.124.3.48/28609001/jiegectx.php?id=44
@@ -344,6 +346,7 @@ BS朝日,http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 越南k+,http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
 越南VIV,http://220.158.149.28:8180/live/TV00000000000000000106@HHZT
 珠江,rtmp://xiaoyu.speedws.com/sat/hk031
+中,#genre#
 $c_start中$c_end
 CCTV1,http://27.124.3.48/28609001/jiegectx.php?id=200
 CCTV2,http://27.124.3.48/28609001/jiegectx.php?id=201
@@ -521,7 +524,7 @@ Channel 4,http://27.124.3.48/28609001/jiegectx.php?id=169
 印尼-InsanTV,http://27.124.3.48/28609001/jiegectx.php?id=1143
 印尼-CNN Indonesia,http://27.124.3.48/28609001/jiegectx.php?id=1145
 印尼-MetroTV,http://27.124.3.48/28609001/jiegectx.php?id=1124
-
+4K专区,#genre#
 $c_start4K专区$c_end
 爱上4K 32M2160,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 CCTV1 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8
@@ -653,7 +656,7 @@ BEST电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 ③山西,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/f1609a418f444f1ca0f9b8441d7a49fe/main.m3u8?maxbr=2048&minbr=400
 ③吉林,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/7736ba0a79a94bdb83abef7ca0843c35/main.m3u8?maxbr=2048&minbr=400
 ③宁夏,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/main.m3u8?maxbr=2048&minbr=400
-
+日韩,#genre#
 $c_start日韩$c_end
 日本-ABC朝日,http://27.124.3.48/28609001/jiegectx.php?id=127
 日本-animax,http://27.124.3.48/28609001/jiegectx.php?id=139
@@ -1033,6 +1036,7 @@ YTN사이언스,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunkli
 팍스경제TV,rtmp://124.139.232.61/live//livestream#rtmp://124.139.232.61:1935/live/livestream
 한국직업방송,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8#rtmp://live.worktv.or.kr:1935/live/wowtvlive1.sdp
 EE,https://ott.luo2888.cn/ublive.m3u8?time=5F2BA574&checksum=dG9rZW4lM0Q0OWY1NjliYjI2NGU5ZmQxYjNkNzM4ODE2ZTg0YzhjOCUyM3JlbW90ZSUzRDM5Ljk5LjE3NC4yMTYlMjN1cmwlM0RodHRwJTNBJTJGJTJGZjYudmlwdWIxODE4LmNvbSUzQTgwODAlMkZsaXZlJTJGNDA4JTJGNWY3YWUxODk3NjczOWYzYzcyOGU1MmFlMThjMmQ1YWElMkZpbmRleC5tM3U4
+兰博基尼,#genre#
 $c_start兰博基尼_0$c_end
 粉-松视1,http://27.124.3.48/28609001/jiegectx.php?id=402
 粉-松视2,http://27.124.3.48/28609001/jiegectx.php?id=403
