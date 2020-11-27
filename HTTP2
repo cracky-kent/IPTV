@@ -1,5 +1,6 @@
+電影,#genre#
 $c_start电影$c_end
-*EZ--HTTP2*,http://198.98.55.16
+*HTTP2*,http://198.98.55.16
 HBO HD,http://520574.xyz:80/dl/ublive.php?cid=332
 FOX ACTION,http://520574.xyz:80/dl/ublive.php?cid=385
 FOX CRIME,http://520574.xyz:80/dl/ublive.php?cid=386
@@ -58,6 +59,7 @@ NOW爆谷台,http://jtfl.mx27.top/qq1792493091/jtzb.php?id=25
 经典影院2,http://220.158.149.28:8180/live/TV00000000000000000080@HHZT
 爱奇艺_军事观察,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
 爱奇艺_历史秘闻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
+探索,#genre#
 $c_start探索$c_end
 BBC EARTH,http://520574.xyz:80/dl/ublive.php?cid=97
 国家地理,http://520574.xyz:80/dl/ublive.php?cid=302
@@ -106,6 +108,7 @@ MTV 亚洲音乐,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&pro
 Fashion TV,http://220.158.149.28:8180/live/TV00000000000000000116@HHZT
 民视旅游,http://520574.xyz/dl/gt.php?id=ftvtravel
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+新闻,#genre#
 $c_start新闻$c_end
 TVBS新闻,http://520574.xyz:80/dl/ublive.php?cid=2
 东森新闻,http://520574.xyz:80/dl/ublive.php?cid=12
@@ -135,6 +138,7 @@ NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
 NHK BS1,http://125.227.210.37:8939/VideoInput/play.ts
 NHK-World,http://125.227.210.37:8931/VideoInput/play.ts
 NOW新闻,http://iptv.zbhzi.xyz:8082/hls/ch114.m3u8
+台湾,#genre#
 $c_start台湾$c_end
 中视,http://520574.xyz:80/dl/ublive.php?cid=28
 中视,http://520574.xyz:80/dl/ublive.php?cid=333
@@ -248,6 +252,7 @@ TVBS精采,http://cdn.wakds.xyz:25461/live/hls/live/1425.m3u8
 晴洋戏剧,http://61.58.60.230:9319/live/203.m3u8
 华艺影剧台,http://zhu2.crtv.zstv.top/iptv.php?id=44
 ariang,http://61.58.60.230:9319/live/130.m3u8
+中港澳,#genre#
 $c_start中港澳$c_end
 凤凰香港,http://api.kaka-app.xyz/mm654123/proxy.php?vid=vipga&cid=6027
 a,http://520574.xyz:80/dl/ublive.php?cid=358
@@ -358,7 +363,7 @@ RT（俄罗斯）,http://220.158.149.28:8180/live/TV00000000000000000061@HHZT
 空中英语教室,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 越南k+,http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
 AXNK+,http://220.158.149.28:8180/live/TV00000000000000000108@HHZT
-
+日韩,#genre#
 $c_start日韩$c_end
 日本-ABC朝日,http://520574.xyz:80/dl/ublive.php?cid=127
 日本-animax,http://520574.xyz:80/dl/ublive.php?cid=139
@@ -573,6 +578,7 @@ EE,https://ott.luo2888.cn/ublive.m3u8?time=5F2BA574&checksum=dG9rZW4lM0Q0OWY1Njl
 韩国-YTN,http://jiegectx.sk27.top/jieting.php?id=255/7f33b1ae8ee19f7a145628315523c9c1/index.m3u8
 韩国-YTN Science,http://jiegectx.sk27.top/jieting.php?id=1092
 韩国-半岛国际新闻,http://jiegectx.sk27.top/jieting.php?id=494
+其它,#genre#
 $c_start其它$c_end
 A&E ES,http://520574.xyz:80/dl/ublive.php?cid=1049
 AEC,http://520574.xyz:80/dl/ublive.php?cid=433
@@ -870,6 +876,7 @@ TNT ES,http://520574.xyz:80/dl/ublive.php?cid=1088
 印度-Zee TV,http://520574.xyz:80/dl/ublive.php?cid=482
 印度-ZeeNews,http://520574.xyz:80/dl/ublive.php?cid=465
 Antena 3,http://520574.xyz:80/dl/ublive.php?cid=1051
+兰博基尼,#genre#
 $c_start兰博基尼_0$c_end
 粉-松视1,http://520574.xyz:80/dl/ublive.php?cid=402
 粉-松视2,http://520574.xyz:80/dl/ublive.php?cid=403
