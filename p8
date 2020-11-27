@@ -1,4 +1,4 @@
-🌺電影🌺$,#genre#
+🌺電影🌺,#genre#
 $c_start🌺電影🌺$c_end
 *tvbus--P8*,http://198.98.55.16
 HBOHD,tvbus://6GFRVAcUsiqY67h8ePy4DnJvBS2L7onVFvB1g6HRCJZ3n57Ua2pBbENmboqd7#p8p://user3.shusongw.mobi:16871/5f2faab60000da2822ac0474501db664
@@ -31,7 +31,7 @@ CINEMAX_HD,tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuADKd8U
 CHC高清电影,tvbus://5SyJCjeETvr9yMBVba2K1eR4x9TRiZewydfnHdmMvM1dKmshAisKCUKUBG7gW
 CHC动作电影,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5Kwwq5t
 電影第一,tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
-🌺探索🌺$,#genre#
+🌺探索🌺,#genre#
 $c_start🌺探索🌺$c_end
 BBC_Earth,tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m#p8p://user3.shusongw.mobi:16871/5f37e7c6000e815e42da8e731be212cf
 亚洲旅游,tvbus://8BJXVj7FLwmtr3mTxTu41yH9uvitUyU9PmzjfUjAFCdzem7bNv#tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
@@ -54,7 +54,7 @@ EYE_TV旅遊台,tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAb
 歷史頻道,tvbus://5e5WsYxPHbGNzugLb4WNbiJx523VzgDtGXd9L44e5YUKwLuKHLgR4R3xdPYYZ#tvbus://6si6fWSk5a1Lgng5Q9cZPcT681cxGgsW36BpUwFWRgPrksUg61
 歷史頻道2,tvbus://5L1Qtycxg7RW5cwZtEmTjCrcgq3Zb65g5iqEEAUmkmEkXG9Dzoori39SwjrQL#p8p://user3.shusongw.mobi:16871/5f37f880000277dd431be1ee86aa5437
 MTV_Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs#p8p://user3.shusongw.mobi:16871/5f37e3c7000bfbc942caf1b5d40f4c88
-🌺新聞🌺$,#genre#
+🌺新聞🌺,#genre#
 $c_start🌺新聞🌺$c_end
 TVBS新聞,p8p://user3.shusongw.mobi:16871/5db05ca40003699da50b30c835589bf5
 三立新聞,tvbus://7GdvmGzuRdupgWZWAuE6YVqQrRT4xj4cKRttsyEY4aRtVRMSzC#p8p://user3.shusongw.mobi:16871/5d1a69ad0006fe8711bdc2b3f14f64be
@@ -82,7 +82,7 @@ cnn-news,tvbus://5Xvj6C1ifRTytkXEtw6QaYE7BNG58HQMPkaXKQSRWBmox63MqNstXWuBTjbBm#p
 CbcNews,tvbus://66hXtpJAkqdfjjvcptVuaYcxuMsn2BUALFJoMPg5g2QaGXD2qKQd2TjjD2WcB#p8p://user3.shusongw.mobi:16871/5d1a696d000c9f8011bcca24b8fcdf0e
 BBC News,tvbus://5vpCNErf1u2vJFowgkbDWz7HatmnBQCLx5UM6ATeoHjy4xZWHg7FNzAHtHqrL
 
-🌺台灣🌺$,#genre#
+🌺台灣🌺,#genre#
 $c_start🌺台灣🌺$c_end
 EYE_TV戲劇台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8E29bH#p8p://user3.shusongw.mobi:16871/5f37d8dc00062aca42a04a40e5f66359
 JET綜合,p8p://user3.shusongw.mobi:16871/5d1a69a7000abe1711bdac390219d138
@@ -166,7 +166,7 @@ FOX_SPORTS_HD,tvbus://6ZoiQNkhZSPfY9s3VffwMPXEusncCbcjNAu7vKNZTtdhdZ76CfFMd13z4A
 高爾夫美國,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG#p8p://user3.shusongw.mobi:16871/5f37fdea0002ace04331080bb8277c60
 
 
-🌺港澳🌺$,#genre#
+🌺港澳🌺,#genre#
 $c_start🌺港澳🌺$c_end
 鳳凰資訊,tvbus://5PQkmSaNk2sjuNgQH8cw46Ko6QDSX3epASPj6nanWgqbPq2dwT6EFxN6uBVGT#p8p://user3.shusongw.mobi:16871/5f2cfb640007e2c1182f2df12d0ba74b
 鳳凰衛視,tvbus://6R8TLLFfoA9xE8RKMp2NuDkon9PjV3RN52cXw9bq15qSArywyYxxD7v23BUrR#p8p://user3.shusongw.mobi:16871/5d1a69d80007b1db11be6ad9e2339543
@@ -195,7 +195,7 @@ RTHK32,tvbus://5xC1gXWkq5xmTJWL9vH6Kb1jbCaDPxLSqBJw8KDEajs4zM1PvqBTiyjgz3E6h
 澳亞衛視,tvbus://6fdkVX4C1Ka7kfwsHCGjXthgFCjhrXMVVzs6mfP8cJsar99Tgn2pPimkPWSyY
 澳門衛視,tvbus://5sJZw1Miok72fsGiMn8CFKK6LkXRmcRxt9LCxXq4ETeWTYKmz48wmZLnyRxpU
 
-🌺央视衛視🌺$,#genre#
+🌺央视衛視🌺,#genre#
 $c_start🌺央视衛視🌺$c_end
 CCTV1,p8p://user3.shusongw.mobi:16871/5d1a699a0001165b11bd76f8cbcb11f4
 CCTV2,p8p://user3.shusongw.mobi:16871/5d1a699a000bdb0c11bd79ba05109953
@@ -249,7 +249,7 @@ CHC家庭影院,tvbus://5SJex4DJSFtsx2yY1wskJWcf7H4mHrbGb3zi6TKoR7BZDdDmUKTea5Yk
 四海釣魚,tvbus://5e6Cd4CGQ6ep8xvyzcCRA1iUYtMCEB6RubiGrVzXZE61T1s9MU3qKNKtgd3vs
 河北卫视,p8p://user3.shusongw.mobi:16871/5d1a69c7000bf64e11be298959e31717
 第一財經,tvbus://6BBJyrCDoXqWRBFSf6N1S56XKQmuAqm7b5QMfv5ux2tnKTNFttn7ryLqjsGBY
-🌺新馬🌺$,#genre#
+🌺新馬🌺,#genre#
 $c_start🌺新馬🌺$c_end
 卫视卡式台,tvbus://6H9Sd3UuK8sb5xSWCM7xbRhGstVdLsTYEgpVSobHd4j1VkreoD5YMiQxxQtqT#p8p://user3.shusongw.mobi:16871/5f48bada00043d2824039410317b1853
 爱奇艺,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g#p8p://user3.shusongw.mobi:16871/5f38d81300083da4468539a0eb8d0c0a
@@ -326,7 +326,7 @@ AFC HD,tvbus://5bt8GdWfz7CoBFt6bKyk8V1sa5QTTH8sSWty9bt9hcWQ2ERWovGiH284MWRbX
 LifeTime,tvbus://5gaNcVq2rh644s1JWSdhTS8EiABmUsq1vannXKfiCatMHBBNTzjgm38up1PZA
 Warner TV ID HD,tvbus://6Jhf16nXVNno5pA73rGoJAAoCcra14JHe5RK9RrixSt8nusTV9S6iwWX4763C
 Okey,tvbus://6Rx8NSXLxzTk8sy84z688ZUqbHv76seQGBi2MjmynSwSVMQ4YcWGGYef35Wbo#p8p://user3.shusongw.mobi:16871/5f48bddf0001bb51240f5ef48dda30d1
-🌺韩國🌺$,#genre#
+🌺韩國🌺,#genre#
 $c_start🌺韩國🌺$c_end
 KBS1,p8p://user3.shusongw.mobi:16871/5e800141000635315f325718f827212e
 KBS2,p8p://user3.shusongw.mobi:16871/5e80014200061ea35f325afaae1fa1ce
@@ -368,7 +368,7 @@ NGC,p8p://user3.shusongw.mobi:16871/5e800264000c91a45f36c970441699ec
 바둑TV,p8p://user3.shusongw.mobi:16871/5e800265000ac5815f36cce37c6f602e
 디즈니주니어,p8p://user3.shusongw.mobi:16871/5e8002660008c80b5f36d048b251d5dd
 투니버스,p8p://user3.shusongw.mobi:16871/5e8002670000367f5f36d1ff33311ad6
-🌺日本🌺$,#genre#
+🌺日本🌺,#genre#
 $c_start🌺日本🌺$c_end
 読売テレビ,p8p://user3.shusongw.mobi:16871/5d414f6d00024d6a75f7ac02caeafefc
 NHK総合-大阪,p8p://user3.shusongw.mobi:16871/5d414f6c00077b3d75f7a96d657b07ca
@@ -412,7 +412,7 @@ ABC朝日放送,p8p://user3.shusongw.mobi:16871/5d40057f000bcd0b70eee4c0aa37319f
 MBS毎日放送,p8p://user3.shusongw.mobi:16871/5d40057e000b0ab570eee0a6c5bec41b
 NHK-World,tvbus://6fJBEHjG9AZwVERMRNof5rLB6Xy2efAmuSadSCc3pG6TSeHgvDrAp8curWfBE
 
-🌺美加🌺$,#genre#
+🌺美加🌺,#genre#
 $c_start🌺美加🌺$c_end
 TSN_1,tvbus://5ZbsXTkLkg7zEPC6Vnrdk5ubjpFhgWYaZTdGf6Z6oQoTmxXhJaZized89To7r#p8p://user3.shusongw.mobi:16871/5f39eb8b000dd7c54ab947cf1105f8a8
 TSN_2,tvbus://6TQtzYHYn7VZ1Eknw2gNMySaHgPbBR5P1nVnqQWSUqV8b9uFsK1tYvcL6CSAD#p8p://user3.shusongw.mobi:16871/5f39f37a000e7e314ad8459246ea70d2
@@ -513,7 +513,7 @@ BeIN_Sports_12,tvbus://6vuuVvdQJFhrJwQPC2YpjEZZrUXJZpqYT6xRcNFnvzgA1MUeG4
 CGTN,tvbus://5gcCXJny6WJxcsi9Ez3ifrtmZKRgXf8jV9CrjcD614uKn6GPzHig2kuWPHKH2
 
 
-🌺印尼🌺$,#genre#
+🌺印尼🌺,#genre#
 $c_start🌺印尼🌺$c_end
 CNN-news,tvbus://5Xvj6C1ifRTytkXEtw6QaYE7BNG58HQMPkaXKQSRWBmox63MqNstXWuBTjbBm
 CNN-news,p8p://user3.shusongw.mobi:16871/5f3a9d510003035b4d6fb279501b02a0
@@ -563,7 +563,7 @@ Thrill,tvbus://6fYLgmZWx83EmKoc8HxcKhJKcMtwcD7BP6yRortrWBigtdADbEfym7rXuFeGu
 Nick-Jr,tvbus://5iQX2PRY26vG3PYDeLWRNz22doPu54jx1z5yJFW7sDZENdogennPVuL3tayHb
 Channel-News-Asia,tvbus://5fEMw1C9tHhDtYi9cTe6vjVVfWvkj6MTZg5nDPuNVDboWfKEjxYEKr9HVeQtP
 Life,tvbus://5Q2LKmdEpTQ4RSWr5aSfxvydBQsgpFvKFNpeq4bmMWitoz6EHwfDxxo6TLXpA
-🌺印度🌺$,#genre#
+🌺印度🌺,#genre#
 $c_start🌺印度🌺$c_end
 SUNLIFE,tvbus://6B7YLgkAmLuH8QpR3R4rsBwbsA4vxqfHxoYYovsmD2GyQ8msmTnsH4t3uJA25
 SUNTV,tvbus://5SF927Ye88BjPB2eV9f1QbRaHckTMaLZzdw28KESqAD46BpWthFaRHttjKsuH
@@ -599,7 +599,7 @@ DD-URDU,tvbus://6xoqXQA3Wipc53U92PNwUKeXeSe8tfpdRHwtZZw99SnZh9Wj13
 SUN-TV-HD,tvbus://82VsbYWsHs39dUfx3LKry2iSUZ3NqUDS4oQsTV9E7BCP48bSu7
 Music-Top,tvbus://7W7NZaFABzdPSQrifCnNKaC8f2AQF2mYsRLEhtsbmobMtG6Z5h
 SUN-LIFE,tvbus://7c5UkASLHzPXhcjVDrScbGv4pYAZNf4mkqCiWmP87PiEZKCiAY
-🌺越南🌺$,#genre#
+🌺越南🌺,#genre#
 $c_start🌺越南🌺$c_end
 K+1,tvbus://5bf61Cg9K4693k7vi9GZbTW4ZiczGJ428uz5zH172G5f8EsRR91juAC3ZjB58
 K+NS,tvbus://6gycHzgxcQ2xgYpEQEWGfiTNp5jgJphQMY63s6foa9tK4XZY9Ww9SHrArETuK
@@ -611,7 +611,7 @@ DaNang2,tvbus://6FMVGidRRqiq9pMLPSMqvdpCMToqypSfxJ6CejZCnmfusBBDGCbekbBQUPWD5
 QRT,tvbus://5bTVsPfkqZLuppPyXc3vnnrCtnruosCFkfFxMLni55GWE2kJKjHujK7qMjG8a
 DRT_Da_Nang1,tvbus://5xewi3f1ptr35Hwp6Jbw6bUESh81ToEf61FZG25M2PHaSspbyZL3TEsvszjFM
 DRT1,tvbus://67YUjZeHM32rSkvDBhRmMFZ19zW7fSnsPVfP1N1QwUruLgT5Qmg4YocVkRacH
-🌺泰國🌺$,#genre#
+🌺泰國🌺,#genre#
 $c_start🌺泰國🌺$c_end
 8,p8p://user3.shusongw.mobi:16871/5d1a6960000d01a711bc9775a84751d1
 Nation,p8p://user3.shusongw.mobi:16871/5d1a69e2000bb03311be92ef2a2330ac
@@ -632,7 +632,7 @@ Super_Ent,p8p://user3.shusongw.mobi:16871/5d1a69eb00066bb811beb4be2e00f8bf
 News1_(USA),p8p://user3.shusongw.mobi:16871/5d1a69e600058ab011bea0fc8a6fa32d
 CH.1,p8p://user3.shusongw.mobi:16871/5d1a6970000ba43811bcd59c32d704df
 TGN,p8p://user3.shusongw.mobi:16871/5d1a69ee00020c6911bebf57495301ab
-🌺菲律宾🌺$,#genre#
+🌺菲律宾🌺,#genre#
 $c_start🌺菲律宾🌺$c_end
 IBC,tvbus://61pBxZdssrxAG9PjjNcYNCBu5TBirbh5yyh3mQS5vZxhDzAUgYqzHXBV9YYZF
 FOX family,tvbus://6DgXLsR9ATRN5SJtdEERtw5JnMKmzDLySGG91CBXgxC6twzMtmATFPxD4LR5T
@@ -648,7 +648,7 @@ UNTV,tvbus://6QNqQLYUeTgLJJTh6bbc83J34nJ5mmX4q1Kqy8st6TFxUXcZi1VjRJkREzvsb
 ABSCBN,p8p://user3.shusongw.mobi:16871/5f539146000651371022801be5a96c8d
 Hope,tvbus://5dbjBhVgdsXALh9XBptsuDBwEktPpVsJGcwdxQTvAqxAm7Pg6vmLYUKr9Y5dr
 
-🌺歡樂时光🌺$,#genre#
+🌺歡樂时光🌺,#genre#
 $c_start歡樂时光_0$c_end
 HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462551.m3u8
 松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
