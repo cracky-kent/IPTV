@@ -1,5 +1,6 @@
 电影,#genre# 
-*百川--tvbus*,http://198.98.55.16
+$c_start🍌電影🍌$c_end
+*--tvbus*,http://198.98.55.16
 HBO HD,tvbus://8YNafZohAS9Gg4nLfi7KuGSoXi9cZ1TKv9Y6VLz2TF48L8j49V
 HBO家庭,tvbus://6t7dTZfJb3GEarqdpdg94LgptXM88DG1RXGUWpmW53fNfrRhGA
 HBO強檔,tvbus://7sNpDZdJ5pP1Ksd2acTBisLdzLTb63tgBt1hkyGN3QnGHBcNcn
@@ -62,6 +63,7 @@ FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
 
 
 探索,#genre# 
+$c_start🍌探索🍌$c_end
 BBC_Earth,tvbus://6wmwiio8QAs9M55rojfvmg9oKv2294kzTPmGcpmv7KoNCwrxXG
 探索亚洲,tvbus://7RUCS67H3HejsT87vfMq5ZhZE7jNHBCWi5TXEvN4YqpFK4Z8nL
 探索科學,tvbus://7pt39NqgjwQ581HqSHQHxj6VThhfpbrjMzXkPmNTaL7xr8rfcq
@@ -109,6 +111,7 @@ EYE_TV旅游台,tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAb
 罪案偵緝頻道,tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
 BBC_Lifestyle_Channel,tvbus://5wefCvSVvkt2zhp4HDBEWmxbYV7g5r6Xj27bg7FJMv8o9FBdYudRNYyLVw2at
 新闻,#genre# 
+$c_start🍌新闻🍌$c_end
 TVBS新聞,tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9
 東森新聞,tvbus://78Xc88RpwMy8oVCbeHLe8FMoVYJMNytJs9i1hGsP25Mz3KqZKh
 東森財經新聞,tvbus://7YpF7VbL4JJRLGYJHvurtd2KsVQ1xdkZSsGJAhfvtDkjdhKgma
@@ -142,6 +145,42 @@ CNBC_Asia_Channel,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5xsp
 CNN_國際,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
 DMAX,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 台湾,#genre# 
+$c_start🍌台湾🍌$c_end
+公視,tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5
+公視,tvbus://7gZG9TtGAevuGZ6z3sUYaPxrr8zeqP5pAPMS6o2HVTag7yh4Bm
+公視二台,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
+公視三台,tvbus://8RT5B4va9wkfC7a6twDMtKQiQAhu8HcNNmVdi7Rhnri1nSnv9b
+公視三台,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
+公視台語台,tvbus://6qkEzW3LhZ8DgVL5ivQFaJwKUXJXXrGsi3aQnSHZAHRNFeSoy8
+民視,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd
+民視,tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp
+民視第一台,tvbus://7Mr4JguE9t8WmjxQrbVopcAtPjtkbBsQhXaoYmthFEcQ2Ews3u
+民視第一台HD,tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
+民視台灣台,tvbus://8NozZU7NHAr4ePJwNgpUMDKXHnrd3kjGr2hLevzsvaYdBbBGXr
+民視台灣台HD,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
+台視,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
+台視,tvbus://7t2ivyBLp7Dy8j2NQdnHPxrJRLs8qUDAQjKUiZmAD7y3k6QtTb
+台視財經台,tvbus://87CC5jmRkPXg4SciMr5sDQ5HHgLjw5VErXV5xvh7mMsZnh5vTH
+台視綜合台,tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
+台視綜合台,tvbus://816nXW2wpNN4h8qUWSyfi197s5H9B4RHmKiLvPB5SjYfTg6Joh
+中視,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb
+中視,tvbus://6tmVPLy8qewPrgUS6n1VhBv3EkTcCwQbXTkEg7zh3mfvPFCnz5
+中視菁采台,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
+中視菁采台,tvbus://8jQZXR3YkjrgsK8v68Fm52KtNjnXg2auM4b46tb1XUXjkCQ3rH
+中視經典台,tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
+中視經典台,tvbus://7b2H1BoizYf6gefs5Vo5U2en49smSNQ7ZHdj6kGakroVumFR1W
+中視新聞HD,tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
+華視,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx
+華視,tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX
+華視體育台,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
+大愛電視,tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
+大愛電視,tvbus://7DCyc4FLPENQTLThfYHS1yDF7cyBAVr3FVHD9YTvVk2AiWtQT3
+大愛二台,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
+大愛二台,tvbus://78Butmx62nXwBdFxgCfCAXYEHSLLxUUGa6Z4KCbyEHLMikeKLU
+客家衛視,tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
+客家衛視,tvbus://7M7rPXeKUqP2xNkz1EwmHoGkySiJMs9UzXhfoChd3kyUMvBD6B
+原民台,tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
+原民台,tvbus://7vWh1u5brLVpYaeBZStpaFMVif3SLnd9vfSou5Apc1V7WP5b2B
 EYE_TV戲劇台,tvbus://7ov4s8mnAtM6WFdJT8TostCCUPuGeSbPSsAWYnsmESYeyZBX6t
 JET综合,tvbus://8TgDNgJ5T9iurGbCLm5voU7KBU45V6eEBiRYTgkJ6vxifm7Z52
 MOMO親子,tvbus://8LYzzxsK9M826tCuaepTTrHW5xAvwogA53NcLdYWGno72Xx5nF
@@ -183,24 +222,7 @@ tvN,tvbus://84U3BwpWEdfLDSLgcCeF2LBrahz2YCuu1Jn6ubThEqUvPhzjDb
 衛視中文,tvbus://8RszbvB7e8knMo7EUqEzXPdZuTFVUbj8ShxYwA7Nojjjv5dany
 星衛娛樂台,tvbus://7KKrc2NvRebrNFkLrCgdjcGJUXdXnBxTMEF14cWy4wUJZCyA7E
 壹電視綜合台,tvbus://8KUKSUJwJhYmBh8PjfyA7yJt9vhm4WMVTipGY4gzgQXBGzYiqB
-公視,tvbus://7gZG9TtGAevuGZ6z3sUYaPxrr8zeqP5pAPMS6o2HVTag7yh4Bm
-公視台語台,tvbus://6qkEzW3LhZ8DgVL5ivQFaJwKUXJXXrGsi3aQnSHZAHRNFeSoy8
-公視3,tvbus://8RT5B4va9wkfC7a6twDMtKQiQAhu8HcNNmVdi7Rhnri1nSnv9b
-大愛電視,tvbus://7DCyc4FLPENQTLThfYHS1yDF7cyBAVr3FVHD9YTvVk2AiWtQT3
-大愛二台,tvbus://78Butmx62nXwBdFxgCfCAXYEHSLLxUUGa6Z4KCbyEHLMikeKLU
-台視,tvbus://7t2ivyBLp7Dy8j2NQdnHPxrJRLs8qUDAQjKUiZmAD7y3k6QtTb
-台視財經台,tvbus://87CC5jmRkPXg4SciMr5sDQ5HHgLjw5VErXV5xvh7mMsZnh5vTH
-台視綜合台,tvbus://816nXW2wpNN4h8qUWSyfi197s5H9B4RHmKiLvPB5SjYfTg6Joh
-華視,tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX
-民視,tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp
-民視第一台,tvbus://7Mr4JguE9t8WmjxQrbVopcAtPjtkbBsQhXaoYmthFEcQ2Ews3u
-民視台灣台,tvbus://8NozZU7NHAr4ePJwNgpUMDKXHnrd3kjGr2hLevzsvaYdBbBGXr
-原民台,tvbus://7vWh1u5brLVpYaeBZStpaFMVif3SLnd9vfSou5Apc1V7WP5b2B
-中視,tvbus://6tmVPLy8qewPrgUS6n1VhBv3EkTcCwQbXTkEg7zh3mfvPFCnz5
-中視菁采台,tvbus://8jQZXR3YkjrgsK8v68Fm52KtNjnXg2auM4b46tb1XUXjkCQ3rH
-中視經典台,tvbus://7b2H1BoizYf6gefs5Vo5U2en49smSNQ7ZHdj6kGakroVumFR1W
 卡通頻道,tvbus://6w4yoNvqa2xSmPhaptHSCatSvnhPzJ6w76kmm9Y82pP1VpVdLv
-客家衛視,tvbus://7M7rPXeKUqP2xNkz1EwmHoGkySiJMs9UzXhfoChd3kyUMvBD6B
 EYE_TV戲劇台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8E29bH
 JET綜合,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv
 MTV_Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
@@ -236,25 +258,9 @@ tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
 中天亞洲HD,tvbus://7CVqdKzUR9iqkby7NK9YFXivwbbUE3CAQQuEc7tUax5LKtY2Z6
 中天娛樂,tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R
 中天綜合_HD,tvbus://5rgD9pjmXsTKdWcJnpJuJyrvUnaBotkNk8Yr38KkcZVUyNRcCTu2bhPnMFfMN
-公視,tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5
-公視二台,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
-公視三台,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
-大愛電視,tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
-大愛二台,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
-華視,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx
-華視體育台,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
-客家衛視,tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
-民視,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd
-民視第一台HD,tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
-民視台灣台HD,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
-台視,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
-台視綜合台,tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
-原民台,tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
-中視新聞HD,tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
-中視,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb
-中視菁采台,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
-中視經典台,tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
+
 港澳电视,#genre# 
+$c_start🍌港澳电视🍌$c_end
 翡翠台,tvbus://7Q2moGnjSEAaarByLqndnMjwGG8TH7Ty52LLoZHdUGYu3aBLGU
 無線新聞台,tvbus://7rahZUSe5TxfziNDrkutwXq7M7JGeueXxchSQu1qzKdGdRAWRk
 明珠台,tvbus://7cNLEHAbLNR7n6FZ112Rxjh1otHUr3d3nQi3yaMcPQAmAbDEQD
@@ -320,6 +326,7 @@ ViuTV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
 有線體育2,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
 
 央视卫视,#genre# 
+$c_start🍌央视卫视🍌$c_end
 CCTV1,tvbus://8bQsn6pTCh3bitB9Q65tMZ9Cab93f7REd2GS3mnp5hoeb8qRUR
 CCTV2,tvbus://6xgkn6ePweLWnUqj3CgZq5xTy2EoY5kUMD4seDnuFCyGxpE7dR
 CCTV3,tvbus://8bFmdBSP9hs6rvBnyXqmYftzmXndeQx5WuN7Zodq4JWj56f7c1
@@ -433,6 +440,7 @@ chc動作,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5Kwwq5t
 青海衛視,tvbus://5QZWicna1g6YtFjwAvegfkLpXn9SF5rjhFsEv63xbS8kBDXCTAxQz7uX6Wctw
 
 新马,#genre# 
+$c_start🍌新马🍌$c_end
 Drama Sangat,tvbus://7hpGkE1VrHUSALMJJJhBUxa7VcPHFsCmGspw3pMD7wi4emGgzm
 WARNA,tvbus://8L6nzv6UYfH4WFMfZb6vtSd7PGXb7fy3vTmamP4584C8hZAGNN
 卫视卡式台,tvbus://7n2hA4hJH7rqhSQ2LLs3iPh3FYu1bC7sEBjEf4fDLV4Gp5LpSJ
@@ -769,6 +777,7 @@ CTV_TORONTO|SD,tvbus://6DtvmrHzE2QrDpxkEPKkzv5NhW6SHUyMudroq7rX3pMpk94ZCvfqDS3Z3
 CTV_NEWS|SD,tvbus://66DSH9erdnKvzHiuVhTviV8Ri3xmJiwX3nt1aUWdZUkpJoiiDo13t7hD5Ya2f
 CTV_MONTREAL|SD,tvbus://6LgaCmcUc9SgxBJfW2epjkfQwpy77izxnZo9hwdMGb9nH4kuE7gjtzwBwLbgq
 日韩,#genre# 
+$c_start🍌日韩🍌$c_end
 RB_読売テレビ,tvbus://5uZzb6LHcprS1duLYwVMiPC6iqsHSE4sAxSSwYskaaPPvTjmQ4rUfWZwSWwoB
 RB_NHK総合-大阪,tvbus://61EgTy58KnWL1wAh94Y6DKmV1FUkGB4a3CLn18sadyXxUa2rsHPSKXpH9C3d8
 RB_テレビ东京,tvbus://667pfsL9S3ww3uvMgpdV7zZLYZAxr67UQ3CNzFUcaAgFaqmDEhqrxDyNSj2jA
@@ -909,6 +918,7 @@ DRT_Da_Nang1,tvbus://5xewi3f1ptr35Hwp6Jbw6bUESh81ToEf61FZG25M2PHaSspbyZL3TEsvszj
 DRT1,tvbus://67YUjZeHM32rSkvDBhRmMFZ19zW7fSnsPVfP1N1QwUruLgT5Qmg4YocVkRacH
 Bloomberg_TV,tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB7L
 🔞pink🔞_0,#genre#
+$c_start🍌pink🍌$c_end
 松视1台,http://198.98.55.16/crtv.php?id=402
 松视2台,http://198.98.55.16/crtv.php?id=403
 松视3台,http://198.98.55.16/crtv.php?id=404
