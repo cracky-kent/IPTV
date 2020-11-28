@@ -1,5 +1,6 @@
 電影,#genre#
 $c_start电影$c_end
+*--HTTP*,http://198.98.55.16
 HBO HD,http://27.124.3.48/28609001/jiegectx.php?id=332
 FOX ACTION,http://27.124.3.48/28609001/jiegectx.php?id=385
 FOX CRIME,http://27.124.3.48/28609001/jiegectx.php?id=386
