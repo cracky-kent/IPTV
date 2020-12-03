@@ -650,11 +650,13 @@ Hope,tvbus://5dbjBhVgdsXALh9XBptsuDBwEktPpVsJGcwdxQTvAqxAm7Pg6vmLYUKr9Y5dr
 
 🌺歡樂时光🌺,#genre#
 $c_start歡樂时光_0$c_end
-HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462551.m3u8
-松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
-松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
-松视2台,vjms://61.216.1.24:8500:3502/live/cid=267
-松视3台,vjms://61.216.1.24:8500:3502/live/cid=268
+极限电影台,mitv://ns1.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
+LOOK,mitv://ns1.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
+松视1,mitv://ns1.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
+松视2,mitv://ns1.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
+彩虹MOIVE,mitv://ns1.hellotvvod.com:9906/5f8981c1000557c82eb8f9b427146e0f.ts
+彩虹e台,mitv://ns1.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
+潘多拉玩美,mitv://ns1.hellotvvod.com:9906/5f89837800056df62ebfac9c6a20310d.ts
 潘多拉玩美,p8p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23
 潘多拉粉红,p8p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31
 彩虹电影,p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf
@@ -667,6 +669,11 @@ HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w15234
 松视3,p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c
 HOT,p8p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d
 HAPPY,p8p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f
+HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462551.m3u8
+松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
+松视2台,vjms://61.216.1.24:8500:3502/live/cid=267
+松视3台,vjms://61.216.1.24:8500:3502/live/cid=268
 Mature,tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
 Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
 HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
