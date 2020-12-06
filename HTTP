@@ -4,7 +4,7 @@ $c_start电影$c_end
 HBO HD,http://ub.wakds.xyz/tv.php?p=332
 HBO Hits,http://ub.wakds.xyz/tv.php?p=330
 HBO Family,http://ub.wakds.xyz/tv.php?p=331
-HBO Signature,http://ub.wakds.xyz/tv.php?p=329
+HBO Signature,http://tv.tangyuanya.com:8080/hls/ke9797/200#http://ub.wakds.xyz/tv.php?p=329
 FOX ACTION,http://ub.wakds.xyz/tv.php?p=385
 FOX CRIME,http://ub.wakds.xyz/tv.php?p=386
 FOX Family,http://ub.wakds.xyz/tv.php?p=383
@@ -20,7 +20,10 @@ CATCHPLAY电影台,http://ub.wakds.xyz/tv.php?p=362
 龙华经典,http://ub.wakds.xyz/tv.php?p=100
 龙华经典,http://ub.wakds.xyz/tv.php?p=364
 龙翔时代,http://ub.wakds.xyz/tv.php?p=373
-影迷數位電影,http://ub.wakds.xyz/tv.php?p=497
+影迷數位電影,http://tv.tangyuanya.com:8080/hls/ke9797/672#http://ub.wakds.xyz/tv.php?p=497
+电影,http://tv.tangyuanya.com:8080/hls/ke9797/669
+电影2,http://tv.tangyuanya.com:8080/hls/ke9797/670
+电影3,http://tv.tangyuanya.com:8080/hls/ke9797/671
 光影欧洲,http://ub.wakds.xyz/tv.php?p=1157
 华纳电影,http://ub.wakds.xyz/tv.php?p=83
 好莱坞电影,http://ub.wakds.xyz/tv.php?p=37
@@ -85,13 +88,14 @@ WOWOW电影,http://193.42.99.130:23455/3700/playlist.m3u8
 爱奇艺_历史秘闻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
 探索,#genre#
 $c_start探索$c_end
-BBC EARTH,http://ub.wakds.xyz/tv.php?p=97
+BBC EARTH,http://tv.tangyuanya.com:8080/hls/ke9797/209#http://ub.wakds.xyz/tv.php?p=97
 亚洲旅游,http://ub.wakds.xyz/tv.php?p=77
 纬来日本,http://ub.wakds.xyz/tv.php?p=337/bf5474ae2ac0f220559c36c582ea1428/index.m3u8
 纬来日本,http://ub.wakds.xyz/tv.php?p=46/9dc57837a5e1c44d6d4009f00b008f0d/index.m3u8
 Outdoor,http://ub.wakds.xyz/tv.php?p=374
 Love Nature,http://ub.wakds.xyz/tv.php?p=388/a31de67631b48c8efd263e31a2646f89/index.m3u8
-Travel Channel,http://ub.wakds.xyz/tv.php?p=63/da9e43c4a6d4f5a9ded6eebfe559a329/index.m3u8
+中文Smithsonian,http://tv.tangyuanya.com:8080/hls/ke9797/649#http://ub.wakds.xyz/tv.php?p=291/1fba61c063c035f61cb1bef4bb29c474/index.m3u8
+Travel Channel,http://tv.tangyuanya.com:8080/hls/ke9797/643#http://ub.wakds.xyz/tv.php?p=63/da9e43c4a6d4f5a9ded6eebfe559a329/index.m3u8
 动物星球,http://ub.wakds.xyz/tv.php?p=367/43fa95d600bcd596955302f7eeb436eb/index.m3u8
 国家野生,http://ub.wakds.xyz/tv.php?p=1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
 国家地理,http://ub.wakds.xyz/tv.php?p=302/faad72636ddbcc746eca505497f469a5/index.m3u8
@@ -125,7 +129,6 @@ Pet Club,http://ub.wakds.xyz/tv.php?p=368/8fd89098988c05ec516fbea2a817fd90/index
 法国时装,http://ub.wakds.xyz/tv.php?p=113/49910b3be4f4f8bcec00e533fe529487/index.m3u8
 BLVE ANT EXTREME,http://ub.wakds.xyz/tv.php?p=103
 CW LIVE,http://ub.wakds.xyz/tv.php?p=420
-中文Smithsonian,http://ub.wakds.xyz/tv.php?p=291/1fba61c063c035f61cb1bef4bb29c474/index.m3u8
 FashionTV,http://198.16.106.58:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 纬来日本,rtmp://161.202.204.248:1935/sat/tv771
 星空衛視,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
@@ -147,7 +150,7 @@ TVBS新闻,http://ub.wakds.xyz/tv.php?p=2
 iNEWS,http://ub.wakds.xyz/tv.php?p=8
 寰宇新闻台湾台,http://ub.wakds.xyz/tv.php?p=87
 年代新闻,http://ub.wakds.xyz/tv.php?p=236
-中天新闻,http://ub.wakds.xyz/tv.php?p=3
+中天新闻,http://tv.tangyuanya.com:8080/hls/ke9797/228#http://ub.wakds.xyz/tv.php?p=3
 壹新闻,http://ub.wakds.xyz/tv.php?p=303
 寰宇新闻台,http://ub.wakds.xyz/tv.php?p=304
 非凡新闻,http://ub.wakds.xyz/tv.php?p=314
@@ -185,7 +188,7 @@ $c_start台湾$c_end
 民视,http://ub.wakds.xyz/tv.php?p=26
 民视,http://ub.wakds.xyz/tv.php?p=336
 民视台湾,http://ub.wakds.xyz/tv.php?p=36
-民视第一台,http://ub.wakds.xyz/tv.php?p=34
+民视第一台,http://tv.tangyuanya.com:8080/hls/ke9797/579#http://ub.wakds.xyz/tv.php?p=34
 民视影剧,http://ub.wakds.xyz/tv.php?p=1023
 民视综艺,http://ub.wakds.xyz/tv.php?p=98
 公视,http://ub.wakds.xyz/tv.php?p=361
