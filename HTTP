@@ -129,9 +129,16 @@ BBC EARTH,http://193.105.83.43/ublive.php?id=97
 Love Nature,http://193.105.83.43/ublive.php?id=388
 亞洲旅遊,http://193.105.83.43/ublive.php?id=77
 探索頻道,http://193.105.83.43/ublive.php?id=1035
-探索亞洲,http://193.105.83.43/ublive.php?id=306
-探索動力,http://193.105.83.43/ublive.php?id=335
-探索科學,http://193.105.83.43/ublive.php?id=343
+BBC EARTH,http://103.133.176.197/hzdl.php?id=97
+Love Nature,http://103.133.176.197/hzdl.php?id=388
+亞洲旅遊,http://103.133.176.197/hzdl.php?id=77
+探索頻道,http://103.133.176.197/hzdl.php?id=1035
+探索亞洲,http://103.133.176.197/hzdl.php?id=306#http://193.105.83.43/ublive.php?id=306
+探索動力,http://103.133.176.197/hzdl.php?id=335#http://193.105.83.43/ublive.php?id=335
+探索科學,http://103.133.176.197/hzdl.php?id=343#http://193.105.83.43/ublive.php?id=343
+探索EVE,http://103.133.176.197/hzdl.php?id=1036
+國家地理,http://103.133.176.197/hzdl.php?id=302
+國家地理悠人,http://103.133.176.197/hzdl.php?id=114
 探索EVE,http://193.105.83.43/ublive.php?id=1036
 國家地理,http://193.105.83.43/ublive.php?id=302
 國家地理悠人,http://193.105.83.43/ublive.php?id=114
@@ -1756,7 +1763,7 @@ YTN사이언스,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunkli
 한국직업방송,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8#rtmp://live.worktv.or.kr:1935/live/wowtvlive1.sdp
 EE,https://ott.luo2888.cn/ublive.m3u8?time=5F2BA574&checksum=dG9rZW4lM0Q0OWY1NjliYjI2NGU5ZmQxYjNkNzM4ODE2ZTg0YzhjOCUyM3JlbW90ZSUzRDM5Ljk5LjE3NC4yMTYlMjN1cmwlM0RodHRwJTNBJTJGJTJGZjYudmlwdWIxODE4LmNvbSUzQTgwODAlMkZsaXZlJTJGNDA4JTJGNWY3YWUxODk3NjczOWYzYzcyOGU1MmFlMThjMmQ1YWElMkZpbmRleC5tM3U4
 蘭博基尼,#genre#
-$c_start🍌蘭博基尼_0🍌$c_end
+$c_start🍌蘭博基尼_0$c_end
 粉-松視1,http://193.105.83.43/ublive.php?id=402
 粉-松視2,http://193.105.83.43/ublive.php?id=403
 粉-松視3,http://193.105.83.43/ublive.php?id=404
