@@ -6,18 +6,9 @@ FOX電影,vjms://50.7.253.59:8500/live/cid=94
 AXN,vjms://50.7.253.59:8500/live/cid=2
 東森洋片,vjms://50.7.253.59:8500/live/cid=34
 東森電影,vjms://50.7.253.59:8500/live/cid=338
-緯來電影,rtmp://v3948069e.live.126.net/live/fwq3/wldyfgs
 緯來電影,http://50.7.159.85:61980/myplay/cn_4_14009/index.m3u8
 緯來電影,vjms://50.7.253.59:8500/live/cid=446
 衛視電影,vjms://50.7.253.59:8500/live/cid=101
-thrill,rtmp://v3948069e.live.126.net/live/fwq5/rtgthrill
-有線電影,rtmp://v3948069e.live.126.net/live/fwq6/xgydsxhg
-fox,rtmp://v3948069e.live.126.net/live/fwq4/tyujnewsqqq
-龍華電影,rtmp://v3948069e.live.126.net/live/fwq2/ardtyqw
-龍華經典,rtmp://v3948069e.live.126.net/live/fwq4/lhghsjd
-華納電影,rtmp://v3948069e.live.126.net/live/fwq5/xghldy
-數位電影臺,rtmp://v3948069e.live.126.net/live/fwq5/swdytsd
-CATCHPLAY電影,rtmp://v3948069e.live.126.net/live/fwq5/dfgCATCHPLAY
 壹電影,http://50.7.159.85:61980/myplay/cn_5_15006/index.m3u8
 HBO HD,http://193.105.83.15/live/tangyuan/12345678/94.ts
 FOX CRIME,http://193.105.83.15/live/tangyuan/12345678/95.ts
@@ -43,11 +34,8 @@ CATCHPLAY,http://193.105.83.15/live/tangyuan/12345678/74.ts
 
 探索,#genre#
 $c_start探索$c_end
-BBC earth,rtmp://v3948069e.live.126.net/live/fwq6/bbcedsf
-緯來日本,rtmp://v3948069e.live.126.net/live/fwq3/ewlrdg
 緯來日本,http://50.7.159.85:61980/myplay/cn_4_14013/index.m3u8
 緯來日本,vjms://50.7.253.59:8500/live/cid=332
-探索頻道,rtmp://v3948069e.live.126.net/live/fwq4/hgtspd
 探索動物,vjms://50.7.253.59:8500/live/cid=440
 探索科學,vjms://50.7.253.59:8500/live/cid=457
 探索世界,vjms://50.7.253.59:8500/live/cid=351
@@ -55,7 +43,6 @@ BBC earth,rtmp://v3948069e.live.126.net/live/fwq6/bbcedsf
 國家地理HD,vjms://50.7.253.59:8500/live/cid=115
 野生動物頻道,vjms://50.7.253.59:8500/live/cid=263
 TLC旅游生活,vjms://50.7.253.59:8500/live/cid=103
-History,rtmp://v3948069e.live.126.net/live/fwq3/historydd
 亞洲旅遊,http://193.105.83.15/live/tangyuan/12345678/109.ts
 國家地理,http://193.105.83.15/live/tangyuan/12345678/102.ts
 國家野生,http://193.105.83.15/live/tangyuan/12345678/103.ts
@@ -72,37 +59,22 @@ NG WILD,http://193.105.83.15/live/tangyuan/12345678/165.ts
 
 新聞,#genre#
 $c_start新聞$c_end
-臺視新聞,rtmp://v3948069e.live.126.net/live/fwq2/tsxwwe
-中視新聞,rtmp://v3948069e.live.126.net/live/fwq2/zsxwfd
 中視新聞,http://ldpc.ld0766.club/tvb.php?id=ztxw
-民視新聞,rtmp://v3948069e.live.126.net/live/fwq2/msxwd
-華視新聞,rtmp://v3948069e.live.126.net/live/fwq2/fscwxw
-三立iNEWS,rtmp://v3948069e.live.126.net/live/fwq3/ineyws
 三立iNEWS,http://50.7.159.85:61980/myplay/cn_4_14022/index.m3u8
-三立新聞,rtmp://v3948069e.live.126.net/live/fwq3/liveerf
 三立新聞,http://50.7.159.85:61980/myplay/cn_4_14021/index.m3u8
 三立新聞,vjms://50.7.253.59:8500/live/cid=352
-TVBS新聞,rtmp://v3948069e.live.126.net/live/fwq2/ztxwed3
 TVBS新聞,http://50.7.159.85:61980/myplay/cn_4_14017/index.m3u8
 TVBS新聞,vjms://50.7.253.59:8500/live/cid=348
 TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
-東森新聞,rtmp://v3948069e.live.126.net/live/fwq2/dsxwds
 東森新聞,http://45.93.217.106/jiuban/iptvt.php?id=27
 東森新聞,vjms://50.7.253.59:8500/live/cid=340
 東森新聞,http://ldpc.ld0766.club/tvb.php?id=dsxw
 非凡新聞,vjms://50.7.253.59:8500/live/cid=443
-寰宇新聞,rtmp://v3948069e.live.126.net/live/fwq2/hyxwkl9
 寰宇新聞,http://50.7.159.85:61980/myplay/cn_5_15005/index.m3u8
-年代新聞,rtmp://v3948069e.live.126.net/live/fwq2/ndxgw55
 年代新聞,vjms://50.7.253.59:8500/live/cid=455
 壹新聞,vjms://50.7.253.59:8500/live/cid=445
-中天新聞,rtmp://v3948069e.live.126.net/live/fwq2/ztxwtyd
 中天新聞,vjms://50.7.253.59:8500/live/cid=407
 東森財經,vjms://50.7.253.59:8500/live/cid=456
-bbc,rtmp://v3948069e.live.126.net/live/fwq3/mgddbbc23
-nbc,rtmp://v3948069e.live.126.net/live/fwq3/fdnbcbc
-美國CNN,rtmp://v3948069e.live.126.net/live/fwq3/cnndfg
-cnbc,rtmp://v3948069e.live.126.net/live/fwq6/cnbcdrdth
 BBC world news,http://50.7.159.85:61980/myplay/cn_5_15007/index.m3u8
 TVBS新聞,http://193.105.83.15/live/tangyuan/12345678/14.ts
 中天新聞,http://193.105.83.15/live/tangyuan/12345678/17.ts
@@ -154,36 +126,6 @@ TVBS歡樂,rtmp://59.124.75.156:1935/sat/tv421
 中天娛樂,http://50.7.159.85:61980/myplay/cn_4_14020/index.m3u8
 中天綜合,http://50.7.159.85:61980/myplay/cn_4_14019/index.m3u8
 法國國際五,vjms://50.7.253.59:8500/live/cid=396
-民視,rtmp://v3948069e.live.126.net/live/fwq4/tgwms
-臺視,rtmp://v3948069e.live.126.net/live/fwq4/twdtsc
-中視,rtmp://v3948069e.live.126.net/live/fwq2/zsxwsds
-臺視綜合,rtmp://v3948069e.live.126.net/live/fwq2/tszhgd
-華視,rtmp://v3948069e.live.126.net/live/fwq4/tgtwhs
-民視綜藝,rtmp://v3948069e.live.126.net/live/fwq4/tgmsztx
-民視影劇,rtmp://v3948069e.live.126.net/live/fwq2/msyjt
-民視第一臺,rtmp://v3948069e.live.126.net/live/fwq4/twmsdyfr
-民視臺灣臺,rtmp://v3948069e.live.126.net/live/fwq4/tgwmstdtw
-星衛娛樂,rtmp://v3948069e.live.126.net/live/fwq5/fdgxwylf
-寰宇臺灣,rtmp://v3948069e.live.126.net/live/fwq2/hytwtg
-BBCcbbe,rtmp://v3948069e.live.126.net/live/fwq6/CBeejbies55
-壹綜合,rtmp://v3948069e.live.126.net/live/fwq2/tzhgh
-中天亞洲,rtmp://v3948069e.live.126.net/live/fwq4/twxztyzt
-中天亞洲,rtmp://v3948069e.live.126.net/live/fwq4/ilztyzs
-中天娛樂,rtmp://v3948069e.live.126.net/live/fwq4/twztyyl
-中天娛樂,rtmp://v3948069e.live.126.net/live/fwq4/ztghyh
-緯來綜合,rtmp://v3948069e.live.126.net/live/fwq3/wlzhfd
-緯來戲劇,rtmp://v3948069e.live.126.net/live/fwq3/wlxjghs
-三立綜合,rtmp://v3948069e.live.126.net/live/fwq3/slzhgd
-三立戲劇,rtmp://v3948069e.live.126.net/live/fwq3/slxjgd
-三立臺灣,rtmp://v3948069e.live.126.net/live/fwq3/sltwgd
-三立都會,rtmp://v3948069e.live.126.net/live/fwq3/sldhfgd
-靖天戲劇,rtmp://v3948069e.live.126.net/live/fwq4/ghqtxj
-八大第一,rtmp://v3948069e.live.126.net/live/fwq4/bddygf
-八大娛樂,rtmp://v3948069e.live.126.net/live/fwq4/hgbdygn
-八大戲劇,rtmp://v3948069e.live.126.net/live/fwq4/wwsbdjx
-龍華偶像,rtmp://v3948069e.live.126.net/live/fwq4/kjlhax
-龍華戲劇,rtmp://v3948069e.live.126.net/live/fwq4/trwlhxj
-東森超視,rtmp://v3948069e.live.126.net/live/fwq4/dsghvsx
 台視,http://193.105.83.15/live/tangyuan/12345678/21.ts
 台視新聞,http://193.105.83.15/live/tangyuan/12345678/22.ts
 中視,http://193.105.83.15/live/tangyuan/12345678/23.ts
@@ -245,24 +187,8 @@ TVB J2,vjms://50.7.253.59:8500/live/cid=368
 鳳凰資訊,vjms://50.7.253.59:8500/live/cid=401
 明珠,vjms://50.7.253.59:8500/live/cid=367
 無綫新聞,vjms://50.7.253.59:8500/live/cid=366
-﻿有線新聞,rtmp://v3948069e.live.126.net/live/fwq5/RHK32rhg
-NOW新聞,rtmp://v3948069e.live.126.net/live/fwq6/dftgdrthgrf
-NOW直播,rtmp://v3948069e.live.126.net/live/fwq6/binowdsf
-now  sports,rtmp://v3948069e.live.126.net/live/fwq6/fdhdtrserw
-18臺,rtmp://v3948069e.live.126.net/live/fwq6/cdksdcfs
-RTHK31,rtmp://v3948069e.live.126.net/live/fwq5/dfgsgRHK31
-vivtv6,rtmp://v3948069e.live.126.net/live/fwq5/uhgcfh
-香港開電視,rtmp://v3948069e.live.126.net/live/fwq6/xgkghdg
-無線財經,rtmp://v3948069e.live.126.net/live/fwq6/yxhgswe
 有線娛樂,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 有線財經,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
-jade,rtmp://v3948069e.live.126.net/live/fwq5/xgfsts
-TVB1,rtmp://v3948069e.live.126.net/live/fwq5/xgtvb1sd
-astro全佳,rtmp://v3948069e.live.126.net/live/fwq5/fgastrogh
-astro雙星,rtmp://v3948069e.live.126.net/live/fwq5/dfgseawrd
-TVB星河,rtmp://v3948069e.live.126.net/live/fwq6/xgxmxh
-衛視卡式臺,rtmp://v3948069e.live.126.net/live/fwq5/xgwskst11
-明珠,rtmp://v3948069e.live.126.net/live/fwq5/xgmzgf
 TV1,http://193.105.83.15/live/tangyuan/12345678/149.ts
 TV2,http://193.105.83.15/live/tangyuan/12345678/150.ts
 TV3,http://193.105.83.15/live/tangyuan/12345678/151.ts
@@ -340,7 +266,6 @@ NOW新闻,http://193.105.83.15/live/tangyuan/12345678/236.ts
 凤凰资讯,http://193.105.83.15/live/tangyuan/12345678/237.ts
 凤凰中文,http://193.105.83.15/live/tangyuan/12345678/238.ts
 凤凰资讯,http://193.105.83.15/live/tangyuan/12345678/239.ts
-
 New tv,http://193.105.83.15/live/tangyuan/12345678/240.ts
 CCTV1,http://193.105.83.15/live/tangyuan/12345678/241.ts
 CCTV1,http://193.105.83.15/live/tangyuan/12345678/242.ts
@@ -474,9 +399,9 @@ LOOK(H.265),mitv://ns2.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
 Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
 松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
 HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
-松视1台%,vjms://50.7.253.59:8500/live/cid=262#松视1台%,vjms://50.7.253.59:8500/live/cid=6
-松视2台%,vjms://50.7.253.59:8500/live/cid=267#松视2台%,vjms://50.7.253.59:8500/live/cid=4
-松视3台%,vjms://50.7.253.59:8500/live/cid=268#松视3台%,vjms://50.7.253.59:8500/live/cid=5
+松视1台,vjms://50.7.253.59:8500/live/cid=262#vjms://50.7.253.59:8500/live/cid=6
+松视2台,vjms://50.7.253.59:8500/live/cid=267#vjms://50.7.253.59:8500/live/cid=4
+松视3台,vjms://50.7.253.59:8500/live/cid=268#vjms://50.7.253.59:8500/live/cid=5
 HAPPY,p8p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
 彩虹電影,p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
 彩虹e臺,p8p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
