@@ -19,44 +19,27 @@ fox,rtmp://v3948069e.live.126.net/live/fwq4/tyujnewsqqq
 數位電影臺,rtmp://v3948069e.live.126.net/live/fwq5/swdytsd
 CATCHPLAY電影,rtmp://v3948069e.live.126.net/live/fwq5/dfgCATCHPLAY
 壹電影,http://50.7.159.85:61980/myplay/cn_5_15006/index.m3u8
-HBO HD,http://141.164.41.198/UUU/ppppp.php?cid=332
-HBO Hits,http://141.164.41.198/UUU/ppppp.php?cid=330
-HBO Family,http://141.164.41.198/UUU/ppppp.php?cid=331
-HBOSignature,http://141.164.41.198/UUU/ppppp.php?cid=329
-FOX MOVIES,http://141.164.41.198/UUU/ppppp.php?cid=387
-FOX Family,http://141.164.41.198/UUU/ppppp.php?cid=383
-FOX ACTION,http://141.164.41.198/UUU/ppppp.php?cid=385
-FOX CRIME,http://141.164.41.198/UUU/ppppp.php?cid=386
-CineMAX,http://141.164.41.198/UUU/ppppp.php?cid=346
-FOX,http://141.164.41.198/UUU/ppppp.php?cid=384
-CATCHPLAY,http://141.164.41.198/UUU/ppppp.php?cid=362
-衛視西片,http://141.164.41.198/UUU/ppppp.php?cid=369
-東森電影,http://141.164.41.198/UUU/ppppp.php?cid=350
-龍華經典,http://141.164.41.198/UUU/ppppp.php?cid=100
-東森洋片,http://141.164.41.198/UUU/ppppp.php?cid=1128
-AXN亞洲,http://141.164.41.198/UUU/ppppp.php?cid=1066
-AXN臺灣,http://141.164.41.198/UUU/ppppp.php?cid=423
-龍翔時代,http://141.164.41.198/UUU/ppppp.php?cid=373
-靖天國際,http://141.164.41.198/UUU/ppppp.php?cid=345
-衛視電影,http://141.164.41.198/UUU/ppppp.php?cid=93
-星衛電影,http://141.164.41.198/UUU/ppppp.php?cid=84
-星衛電影,http://141.164.41.198/UUU/ppppp.php?cid=496
-澳門蓮花,http://141.164.41.198/UUU/ppppp.php?cid=70
-HKC電影一台,http://141.164.41.198/UUU/ppppp.php?cid=354
-CinemaWorld,http://141.164.41.198/UUU/ppppp.php?cid=84
-光影歐洲,http://141.164.41.198/UUU/ppppp.php?cid=1157
-Blue Ant Extreme,http://141.164.41.198/UUU/ppppp.php?cid=103
-緯來電影,http://141.164.41.198/UUU/ppppp.php?cid=96
-華納電影,http://141.164.41.198/UUU/ppppp.php?cid=83
-美亞電影,http://141.164.41.198/UUU/ppppp.php?cid=375
-天映經典,http://141.164.41.198/UUU/ppppp.php?cid=328
-好萊塢電影,http://141.164.41.198/UUU/ppppp.php?cid=37
-靖天電影,http://141.164.41.198/UUU/ppppp.php?cid=110
-thrill,http://141.164.41.198/UUU/ppppp.php?cid=18
-靖天映畫,http://141.164.41.198/UUU/ppppp.php?cid=349
-影迷數位電影,http://141.164.41.198/UUU/ppppp.php?cid=497
-龍華電影,http://141.164.41.198/UUU/ppppp.php?cid=311
-AMC,http://141.164.41.198/UUU/ppppp.php?cid=92
+HBO HD,http://193.105.83.15/live/tangyuan/12345678/94.ts
+FOX CRIME,http://193.105.83.15/live/tangyuan/12345678/95.ts
+HBO Hits,http://193.105.83.15/live/tangyuan/12345678/96.ts
+FOX,http://193.105.83.15/live/tangyuan/12345678/97.ts
+FOX ACTION,http://193.105.83.15/live/tangyuan/12345678/98.ts
+FOX Family,http://193.105.83.15/live/tangyuan/12345678/99.ts
+FX,http://193.105.83.15/live/tangyuan/12345678/100.ts
+AXN,http://193.105.83.15/live/tangyuan/12345678/42.ts
+HKC電影一台,http://193.105.83.15/live/tangyuan/12345678/10.ts
+靖天國際,http://193.105.83.15/live/tangyuan/12345678/48.ts
+靖天電影,http://193.105.83.15/live/tangyuan/12345678/49.ts
+靖天映畫,http://193.105.83.15/live/tangyuan/12345678/52.ts
+東森電影,http://193.105.83.15/live/tangyuan/12345678/53.ts
+東森洋片,http://193.105.83.15/live/tangyuan/12345678/56.ts
+星衛電影,http://193.105.83.15/live/tangyuan/12345678/57.ts
+龍華電影,http://193.105.83.15/live/tangyuan/12345678/58.ts
+龍翔時代,http://193.105.83.15/live/tangyuan/12345678/62.ts
+美亞電影,http://193.105.83.15/live/tangyuan/12345678/73.ts
+CATCHPLAY,http://193.105.83.15/live/tangyuan/12345678/74.ts
+緯來電影,http://193.105.83.15/live/tangyuan/12345678/77.ts
+爆谷台,http://193.105.83.15/live/tangyuan/12345678/230.ts
 
 探索,#genre#
 $c_start探索$c_end
@@ -73,41 +56,19 @@ BBC earth,rtmp://v3948069e.live.126.net/live/fwq6/bbcedsf
 野生動物頻道,vjms://50.7.253.59:8500/live/cid=263
 TLC旅游生活,vjms://50.7.253.59:8500/live/cid=103
 History,rtmp://v3948069e.live.126.net/live/fwq3/historydd
-BBC EARTH,http://141.164.41.198/UUU/ppppp.php?cid=97
-亞洲旅遊,http://141.164.41.198/UUU/ppppp.php?cid=77
-緯來日本,http://141.164.41.198/UUU/ppppp.php?cid=337
-緯來日本,http://141.164.41.198/UUU/ppppp.php?cid=46
-國家野生,http://141.164.41.198/UUU/ppppp.php?cid=1038
-動物星球,http://141.164.41.198/UUU/ppppp.php?cid=367
-探索亞洲,http://141.164.41.198/UUU/ppppp.php?cid=306
-探索頻道,http://141.164.41.198/UUU/ppppp.php?cid=1035
-國家地理,http://141.164.41.198/UUU/ppppp.php?cid=302
-國家地理悠人,http://141.164.41.198/UUU/ppppp.php?cid=114
-國家人文,http://141.164.41.198/UUU/ppppp.php?cid=334
-探索動力DMAX,http://141.164.41.198/UUU/ppppp.php?cid=335
-探索科學,http://141.164.41.198/UUU/ppppp.php?cid=343
-國興衛視,http://141.164.41.198/UUU/ppppp.php?cid=65
-民視旅遊,http://141.164.41.198/UUU/ppppp.php?cid=78
-cnex,http://141.164.41.198/UUU/ppppp.php?cid=91
-探索EVE,http://141.164.41.198/UUU/ppppp.php?cid=1036
-LUXE,http://141.164.41.198/UUU/ppppp.php?cid=112
-BBC Lifestyle,http://141.164.41.198/UUU/ppppp.php?cid=424
-SMART知識,http://141.164.41.198/UUU/ppppp.php?cid=352
-TLC旅遊生活,http://141.164.41.198/UUU/ppppp.php?cid=102
-Travel Channel,http://141.164.41.198/UUU/ppppp.php?cid=63
-History 1,http://141.164.41.198/UUU/ppppp.php?cid=116
-History 2,http://141.164.41.198/UUU/ppppp.php?cid=1158
-CI罪案偵查,http://141.164.41.198/UUU/ppppp.php?cid=1159
-爆笑頻道,http://141.164.41.198/UUU/ppppp.php?cid=85
-達文西頻道,http://141.164.41.198/UUU/ppppp.php?cid=68
-Pet Club,http://141.164.41.198/UUU/ppppp.php?cid=368
-法國時裝,http://141.164.41.198/UUU/ppppp.php?cid=113
-幸福空間居家,http://141.164.41.198/UUU/ppppp.php?cid=61
-Medici Arts,http://141.164.41.198/UUU/ppppp.php?cid=188
-Outdoor(en),http://141.164.41.198/UUU/ppppp.php?cid=374
-AFN,http://141.164.41.198/UUU/ppppp.php?cid=195
-AFN,http://141.164.41.198/UUU/ppppp.php?cid=307
-BBC CBeebies,http://141.164.41.198/UUU/ppppp.php?cid=115
+亞洲旅遊,http://193.105.83.15/live/tangyuan/12345678/109.ts
+國家地理,http://193.105.83.15/live/tangyuan/12345678/102.ts
+國家野生,http://193.105.83.15/live/tangyuan/12345678/103.ts
+動物星球,http://193.105.83.15/live/tangyuan/12345678/104.ts
+探索動力DMAX,http://193.105.83.15/live/tangyuan/12345678/105.ts
+探索科學,http://193.105.83.15/live/tangyuan/12345678/106.ts
+探索亞洲,http://193.105.83.15/live/tangyuan/12345678/107.ts
+緯來日本,http://193.105.83.15/live/tangyuan/12345678/76.ts
+afn美食,http://193.105.83.15/live/tangyuan/12345678/82.ts
+美食,http://193.105.83.15/live/tangyuan/12345678/83.ts
+美食星球,http://193.105.83.15/live/tangyuan/12345678/84.ts
+CI罪案偵查,http://193.105.83.15/live/tangyuan/12345678/108.ts
+NG WILD,http://193.105.83.15/live/tangyuan/12345678/165.ts
 
 新聞,#genre#
 $c_start新聞$c_end
@@ -143,29 +104,17 @@ nbc,rtmp://v3948069e.live.126.net/live/fwq3/fdnbcbc
 美國CNN,rtmp://v3948069e.live.126.net/live/fwq3/cnndfg
 cnbc,rtmp://v3948069e.live.126.net/live/fwq6/cnbcdrdth
 BBC world news,http://50.7.159.85:61980/myplay/cn_5_15007/index.m3u8
-台視新聞,http://141.164.41.198/UUU/ppppp.php?cid=1
-台視財經,http://141.164.41.198/UUU/ppppp.php?cid=300
-華視新聞,http://141.164.41.198/UUU/ppppp.php?cid=6
-中視新聞,http://141.164.41.198/UUU/ppppp.php?cid=7
-民視新聞,http://141.164.41.198/UUU/ppppp.php?cid=13
-TVBS新聞,http://141.164.41.198/UUU/ppppp.php?cid=2
-中天新聞,http://141.164.41.198/UUU/ppppp.php?cid=3
-三立LIVE新聞,http://141.164.41.198/UUU/ppppp.php?cid=4
-iNEWS,http://141.164.41.198/UUU/ppppp.php?cid=8
-東森新聞,http://141.164.41.198/UUU/ppppp.php?cid=9
-東森財經新聞,http://141.164.41.198/UUU/ppppp.php?cid=12
-寰宇新聞,http://141.164.41.198/UUU/ppppp.php?cid=304
-寰宇臺灣新聞,http://141.164.41.198/UUU/ppppp.php?cid=87
-環宇財經,http://141.164.41.198/UUU/ppppp.php?cid=320
-年代新聞,http://141.164.41.198/UUU/ppppp.php?cid=236
-壹電視新聞,http://141.164.41.198/UUU/ppppp.php?cid=303
-非凡新聞,http://141.164.41.198/UUU/ppppp.php?cid=314
-非凡商業,http://141.164.41.198/UUU/ppppp.php?cid=187
-美國唐人街台,http://141.164.41.198/UUU/ppppp.php?cid=43
-CBN News,http://141.164.41.198/UUU/ppppp.php?cid=499
-Bloomberg Europe,http://141.164.41.198/UUU/ppppp.php?cid=370
-VOA美國之音,http://141.164.41.198/UUU/ppppp.php?cid=495
-半島國際新聞,http://141.164.41.198/UUU/ppppp.php?cid=494
+TVBS新聞,http://193.105.83.15/live/tangyuan/12345678/14.ts
+中天新聞,http://193.105.83.15/live/tangyuan/12345678/17.ts
+寰宇新闻,http://193.105.83.15/live/tangyuan/12345678/231.ts
+東森新聞,http://193.105.83.15/live/tangyuan/12345678/37.ts
+非凡新聞,http://193.105.83.15/live/tangyuan/12345678/45.ts
+年代新聞,http://193.105.83.15/live/tangyuan/12345678/54.ts
+東森財經新聞,http://193.105.83.15/live/tangyuan/12345678/88.ts
+壹電視新聞,http://193.105.83.15/live/tangyuan/12345678/89.ts
+france24,http://193.105.83.15/live/tangyuan/12345678/112.ts
+D/W,http://193.105.83.15/live/tangyuan/12345678/113.ts
+CN HD,http://193.105.83.15/live/tangyuan/12345678/118.ts
 
 台灣,#genre#
 $c_start台灣$c_end
@@ -235,81 +184,55 @@ BBCcbbe,rtmp://v3948069e.live.126.net/live/fwq6/CBeejbies55
 龍華偶像,rtmp://v3948069e.live.126.net/live/fwq4/kjlhax
 龍華戲劇,rtmp://v3948069e.live.126.net/live/fwq4/trwlhxj
 東森超視,rtmp://v3948069e.live.126.net/live/fwq4/dsghvsx
-民視,http://141.164.41.198/UUU/ppppp.php?cid=26
-民視,http://141.164.41.198/UUU/ppppp.php?cid=336
-華視,http://141.164.41.198/UUU/ppppp.php?cid=32
-華視,http://141.164.41.198/UUU/ppppp.php?cid=327
-中視,http://141.164.41.198/UUU/ppppp.php?cid=28
-中視,http://141.164.41.198/UUU/ppppp.php?cid=333
-中視菁采台,http://141.164.41.198/UUU/ppppp.php?cid=74
-中視經典,http://141.164.41.198/UUU/ppppp.php?cid=185
-台視,http://141.164.41.198/UUU/ppppp.php?cid=27
-台視,http://141.164.41.198/UUU/ppppp.php?cid=326
-臺視綜合,http://141.164.41.198/UUU/ppppp.php?cid=309
-民視第一台,http://141.164.41.198/UUU/ppppp.php?cid=34
-民視台灣,http://141.164.41.198/UUU/ppppp.php?cid=36
-民視影劇,http://141.164.41.198/UUU/ppppp.php?cid=1023
-民視綜藝,http://141.164.41.198/UUU/ppppp.php?cid=98
-公視,http://141.164.41.198/UUU/ppppp.php?cid=86
-公視,http://141.164.41.198/UUU/ppppp.php?cid=361
-公視台語,http://141.164.41.198/UUU/ppppp.php?cid=58
-公視戲劇,http://141.164.41.198/UUU/ppppp.php?cid=69
-大愛電視,http://141.164.41.198/UUU/ppppp.php?cid=184
-大愛二臺,http://141.164.41.198/UUU/ppppp.php?cid=197
-三立都會,http://141.164.41.198/UUU/ppppp.php?cid=38
-三立都會,http://141.164.41.198/UUU/ppppp.php?cid=1001
-三立臺灣,http://141.164.41.198/UUU/ppppp.php?cid=35
-三立臺灣,http://141.164.41.198/UUU/ppppp.php?cid=21
-三立綜合,http://141.164.41.198/UUU/ppppp.php?cid=315
-JET綜合,http://141.164.41.198/UUU/ppppp.php?cid=41
-壹電視綜合,http://141.164.41.198/UUU/ppppp.php?cid=305
-八大綜合,http://141.164.41.198/UUU/ppppp.php?cid=90
-八大綜合,http://141.164.41.198/UUU/ppppp.php?cid=325
-八大第一,http://141.164.41.198/UUU/ppppp.php?cid=318
-八大精彩,http://141.164.41.198/UUU/ppppp.php?cid=1024
-八大娛樂,http://141.164.41.198/UUU/ppppp.php?cid=105
-TVBS HD,http://141.164.41.198/UUU/ppppp.php?cid=88
-TVBS HD,http://141.164.41.198/UUU/ppppp.php?cid=16
-TVBS精采,http://141.164.41.198/UUU/ppppp.php?cid=66
-TVBS歡樂臺,http://141.164.41.198/UUU/ppppp.php?cid=40
-緯來育樂,http://141.164.41.198/UUU/ppppp.php?cid=312
-緯來育樂,http://141.164.41.198/UUU/ppppp.php?cid=338
-緯來綜合,http://141.164.41.198/UUU/ppppp.php?cid=340
-中天綜合,http://141.164.41.198/UUU/ppppp.php?cid=54
-中天亞洲,http://141.164.41.198/UUU/ppppp.php?cid=322
-中天娛樂,http://141.164.41.198/UUU/ppppp.php?cid=324
-寰宇綜合,http://141.164.41.198/UUU/ppppp.php?cid=190
-華藝綜合,http://141.164.41.198/UUU/ppppp.php?cid=310
-原住民電視,http://141.164.41.198/UUU/ppppp.php?cid=95
-高點綜合,http://141.164.41.198/UUU/ppppp.php?cid=99
-星衛娛樂,http://141.164.41.198/UUU/ppppp.php?cid=89
-東森超視,http://141.164.41.198/UUU/ppppp.php?cid=80
-東森綜合,http://141.164.41.198/UUU/ppppp.php?cid=372
-東森戲劇,http://141.164.41.198/UUU/ppppp.php?cid=321
-衛視中文,http://141.164.41.198/UUU/ppppp.php?cid=342
-八大戲劇,http://141.164.41.198/UUU/ppppp.php?cid=81
-三立戲劇,http://141.164.41.198/UUU/ppppp.php?cid=64
-緯來戲劇,http://141.164.41.198/UUU/ppppp.php?cid=339
-龍華戲劇,http://141.164.41.198/UUU/ppppp.php?cid=365
-靖洋戲劇,http://141.164.41.198/UUU/ppppp.php?cid=319
-采昌影劇,http://141.164.41.198/UUU/ppppp.php?cid=62
-靖天戲劇,http://141.164.41.198/UUU/ppppp.php?cid=109
-靖天綜合,http://141.164.41.198/UUU/ppppp.php?cid=308
-靖天育樂,http://141.164.41.198/UUU/ppppp.php?cid=1029
-靖天日本,http://141.164.41.198/UUU/ppppp.php?cid=108
-靖天歡樂,http://141.164.41.198/UUU/ppppp.php?cid=51
-靖天資訊,http://141.164.41.198/UUU/ppppp.php?cid=49
-龍華日韓,http://141.164.41.198/UUU/ppppp.php?cid=382
-龍華偶像,http://141.164.41.198/UUU/ppppp.php?cid=347
-韓國娛樂台,http://141.164.41.198/UUU/ppppp.php?cid=73
-客家電視,http://141.164.41.198/UUU/ppppp.php?cid=76
-豬哥亮歌廳秀,http://141.164.41.198/UUU/ppppp.php?cid=75
-ELTA影劇,http://141.164.41.198/UUU/ppppp.php?cid=500
-ELTA娛樂台,http://141.164.41.198/UUU/ppppp.php?cid=351
-ELTA綜合,http://141.164.41.198/UUU/ppppp.php?cid=1137
-EYE TV戲劇,http://141.164.41.198/UUU/ppppp.php?cid=191
-MTV,http://141.164.41.198/UUU/ppppp.php?cid=106
-CLASSICA 古典樂,http://141.164.41.198/UUU/ppppp.php?cid=1027
+台視,http://193.105.83.15/live/tangyuan/12345678/21.ts
+台視新聞,http://193.105.83.15/live/tangyuan/12345678/22.ts
+中視,http://193.105.83.15/live/tangyuan/12345678/23.ts
+中視新聞,http://193.105.83.15/live/tangyuan/12345678/24.ts
+华视,http://193.105.83.15/live/tangyuan/12345678/232.ts
+民視新聞,http://193.105.83.15/live/tangyuan/12345678/25.ts
+民視,http://193.105.83.15/live/tangyuan/12345678/26.ts
+民視台灣,http://193.105.83.15/live/tangyuan/12345678/27.ts
+民視第一台,http://193.105.83.15/live/tangyuan/12345678/46.ts
+華視,http://193.105.83.15/live/tangyuan/12345678/28.ts
+公視,http://193.105.83.15/live/tangyuan/12345678/29.ts
+TVBS歡樂臺,http://193.105.83.15/live/tangyuan/12345678/15.ts
+TVBS HD,http://193.105.83.15/live/tangyuan/12345678/16.ts
+八大第一台,http://193.105.83.15/live/tangyuan/12345678/30.ts
+八大綜合,http://193.105.83.15/live/tangyuan/12345678/31.ts
+八大戲劇,http://193.105.83.15/live/tangyuan/12345678/32.ts
+八大娛樂,http://193.105.83.15/live/tangyuan/12345678/33.ts
+三立臺灣,http://193.105.83.15/live/tangyuan/12345678/34.ts
+三立綜合,http://193.105.83.15/live/tangyuan/12345678/35.ts
+三立都會,http://193.105.83.15/live/tangyuan/12345678/36.ts
+中天娛樂,http://193.105.83.15/live/tangyuan/12345678/18.ts
+中天綜合,http://193.105.83.15/live/tangyuan/12345678/19.ts
+東森綜合,http://193.105.83.15/live/tangyuan/12345678/38.ts
+東森戲劇,http://193.105.83.15/live/tangyuan/12345678/39.ts
+東森超視,http://193.105.83.15/live/tangyuan/12345678/40.ts
+大愛電視,http://193.105.83.15/live/tangyuan/12345678/41.ts
+CN卡通,http://193.105.83.15/live/tangyuan/12345678/43.ts
+CN卡通,http://193.105.83.15/live/tangyuan/12345678/44.ts
+龍華偶像,http://193.105.83.15/live/tangyuan/12345678/47.ts
+靖天資訊,http://193.105.83.15/live/tangyuan/12345678/51.ts
+靖天卡通,http://193.105.83.15/live/tangyuan/12345678/55.ts
+ELTA影劇,http://193.105.83.15/live/tangyuan/12345678/60.ts
+GOOD2,http://193.105.83.15/live/tangyuan/12345678/61.ts
+YOYO,http://193.105.83.15/live/tangyuan/12345678/63.ts
+衛視臺,http://193.105.83.15/live/tangyuan/12345678/64.ts
+龍華動畫,http://193.105.83.15/live/tangyuan/12345678/69.ts
+三立戲劇,http://193.105.83.15/live/tangyuan/12345678/70.ts
+寰宇綜合,http://193.105.83.15/live/tangyuan/12345678/71.ts
+ELTA影劇,http://193.105.83.15/live/tangyuan/12345678/72.ts
+ELTA綜合,http://193.105.83.15/live/tangyuan/12345678/75.ts
+緯來精采,http://193.105.83.15/live/tangyuan/12345678/78.ts
+緯來體育,http://193.105.83.15/live/tangyuan/12345678/79.ts
+緯來戲劇,http://193.105.83.15/live/tangyuan/12345678/80.ts
+緯來綜合,http://193.105.83.15/live/tangyuan/12345678/81.ts
+EYE TV戲劇,http://193.105.83.15/live/tangyuan/12345678/87.ts
+迪士尼卡通,http://193.105.83.15/live/tangyuan/12345678/115.ts
+CN卡通,http://193.105.83.15/live/tangyuan/12345678/117.ts
+Baby,http://193.105.83.15/live/tangyuan/12345678/119.ts
+CinemaWorld,http://193.105.83.15/live/tangyuan/12345678/148.ts
 
 香港,#genre#
 $c_start香港$c_end
@@ -340,81 +263,180 @@ astro雙星,rtmp://v3948069e.live.126.net/live/fwq5/dfgseawrd
 TVB星河,rtmp://v3948069e.live.126.net/live/fwq6/xgxmxh
 衛視卡式臺,rtmp://v3948069e.live.126.net/live/fwq5/xgwskst11
 明珠,rtmp://v3948069e.live.126.net/live/fwq5/xgmzgf
-TVB翡翠,http://141.164.41.198/UUU/ppppp.php?cid=390
-TVB翡翠,http://141.164.41.198/UUU/ppppp.php?cid=30
-TVB翡翠,http://141.164.41.198/UUU/ppppp.php?cid=1084
-TVB明珠,http://141.164.41.198/UUU/ppppp.php?cid=391
-TVB星河,http://141.164.41.198/UUU/ppppp.php?cid=1079
-TVB經典,http://141.164.41.198/UUU/ppppp.php?cid=1083
-衛視卡式臺,http://141.164.41.198/UUU/ppppp.php?cid=1085
-無線新聞,http://141.164.41.198/UUU/ppppp.php?cid=394
-無線新聞,http://141.164.41.198/UUU/ppppp.php?cid=45
-有線新聞,http://141.164.41.198/UUU/ppppp.php?cid=395
-Viutv,http://141.164.41.198/UUU/ppppp.php?cid=72
-VTV4,http://141.164.41.198/UUU/ppppp.php?cid=341
-TVB無線財經,http://141.164.41.198/UUU/ppppp.php?cid=393
-TVBJ2,http://141.164.41.198/UUU/ppppp.php?cid=392
-香港開電視,http://141.164.41.198/UUU/ppppp.php?cid=17
-NOW新聞,http://141.164.41.198/UUU/ppppp.php?cid=396
-NOW財經,http://141.164.41.198/UUU/ppppp.php?cid=111
-NOW直播,http://141.164.41.198/UUU/ppppp.php?cid=400
-鳳凰香港,http://141.164.41.198/UUU/ppppp.php?cid=358
-鳳凰衛視,http://141.164.41.198/UUU/ppppp.php?cid=357
-鳳凰資訊,http://141.164.41.198/UUU/ppppp.php?cid=359
-鳳凰電影,http://141.164.41.198/UUU/ppppp.php?cid=19
-耀才财经,http://141.164.41.198/UUU/ppppp.php?cid=355
-港臺32,http://141.164.41.198/UUU/ppppp.php?cid=397
-港臺31,http://141.164.41.198/UUU/ppppp.php?cid=353
-新時代多倫多,http://141.164.41.198/UUU/ppppp.php?cid=1031
-新時代多倫多2,http://141.164.41.198/UUU/ppppp.php?cid=1033
-新時代温哥華,http://141.164.41.198/UUU/ppppp.php?cid=1032
-HKC娛樂,http://141.164.41.198/UUU/ppppp.php?cid=360
-HKS,http://141.164.41.198/UUU/ppppp.php?cid=399
-澳視澳門,http://141.164.41.198/UUU/ppppp.php?cid=364
-澳視澳門,http://141.164.41.198/UUU/ppppp.php?cid=23
-澳視葡語,http://141.164.41.198/UUU/ppppp.php?cid=24
-澳門衛星,http://141.164.41.198/UUU/ppppp.php?cid=29
-體育台,http://141.164.41.198/UUU/ppppp.php?cid=401
-18台,http://141.164.41.198/UUU/ppppp.php?cid=44
-TVB功夫,http://141.164.41.198/UUU/ppppp.php?cid=356
-Viutv 6,http://141.164.41.198/UUU/ppppp.php?cid=176
-大陸,#genre#
-$c_start大陸$c_end
-CCTV1,http://141.164.41.198/UUU/ppppp.php?cid=200
-CCTV2,http://141.164.41.198/UUU/ppppp.php?cid=201
-CCTV3,http://141.164.41.198/UUU/ppppp.php?cid=202
-CCTV4,http://141.164.41.198/UUU/ppppp.php?cid=203
-CCTV5,http://141.164.41.198/UUU/ppppp.php?cid=204
-CCTV5plus,http://141.164.41.198/UUU/ppppp.php?cid=205
-CCTV6,http://141.164.41.198/UUU/ppppp.php?cid=206
-CCTV7,http://141.164.41.198/UUU/ppppp.php?cid=207
-CCTV8,http://141.164.41.198/UUU/ppppp.php?cid=208
-CCTV9,http://141.164.41.198/UUU/ppppp.php?cid=209
-CCTV10,http://141.164.41.198/UUU/ppppp.php?cid=210
-CCTV11,http://141.164.41.198/UUU/ppppp.php?cid=211
-CCTV12,http://141.164.41.198/UUU/ppppp.php?cid=212
-CCTV13,http://141.164.41.198/UUU/ppppp.php?cid=213
-CCTV14,http://141.164.41.198/UUU/ppppp.php?cid=214
-CCTV15,http://141.164.41.198/UUU/ppppp.php?cid=215
-厦门卫视,http://141.164.41.198/UUU/ppppp.php?cid=216
-浙江卫视,http://141.164.41.198/UUU/ppppp.php?cid=217
-江苏卫视,http://141.164.41.198/UUU/ppppp.php?cid=218
-南方粤语,http://141.164.41.198/UUU/ppppp.php?cid=219
-北京卫视,http://141.164.41.198/UUU/ppppp.php?cid=220
-CCTVNEWS,http://141.164.41.198/UUU/ppppp.php?cid=221
-CCTV娱乐,http://141.164.41.198/UUU/ppppp.php?cid=222
-海峡卫视,http://141.164.41.198/UUU/ppppp.php?cid=223
-东方卫视,http://141.164.41.198/UUU/ppppp.php?cid=224
-河北卫视,http://141.164.41.198/UUU/ppppp.php?cid=225
-湖南卫视,http://141.164.41.198/UUU/ppppp.php?cid=226
-湖北卫视,http://141.164.41.198/UUU/ppppp.php?cid=227
-东南卫视,http://141.164.41.198/UUU/ppppp.php?cid=228
-辽宁卫视,http://141.164.41.198/UUU/ppppp.php?cid=229
-深圳卫视,http://141.164.41.198/UUU/ppppp.php?cid=230
-广东卫视,http://141.164.41.198/UUU/ppppp.php?cid=231
-安徽卫视,http://141.164.41.198/UUU/ppppp.php?cid=232
-四川卫视,http://141.164.41.198/UUU/ppppp.php?cid=233
-山东卫视,http://141.164.41.198/UUU/ppppp.php?cid=234
+TV1,http://193.105.83.15/live/tangyuan/12345678/149.ts
+TV2,http://193.105.83.15/live/tangyuan/12345678/150.ts
+TV3,http://193.105.83.15/live/tangyuan/12345678/151.ts
+TV9,http://193.105.83.15/live/tangyuan/12345678/152.ts
+NTV7,http://193.105.83.15/live/tangyuan/12345678/153.ts
+TV8,http://193.105.83.15/live/tangyuan/12345678/154.ts
+小太陽,http://193.105.83.15/live/tangyuan/12345678/155.ts
+AOD,http://193.105.83.15/live/tangyuan/12345678/156.ts
+Astro Awani,http://193.105.83.15/live/tangyuan/12345678/157.ts
+Astro RIA,http://193.105.83.15/live/tangyuan/12345678/158.ts
+Astro Awan,http://193.105.83.15/live/tangyuan/12345678/159.ts
+SPORT,http://193.105.83.15/live/tangyuan/12345678/160.ts
+VIVO,http://193.105.83.15/live/tangyuan/12345678/161.ts
+MetroTV,http://193.105.83.15/live/tangyuan/12345678/162.ts
+SPORT,http://193.105.83.15/live/tangyuan/12345678/163.ts
+SPORT,http://193.105.83.15/live/tangyuan/12345678/164.ts
+Astro Oasis,http://193.105.83.15/live/tangyuan/12345678/166.ts
+Astro Ceria,http://193.105.83.15/live/tangyuan/12345678/167.ts
+Astro CIRA,http://193.105.83.15/live/tangyuan/12345678/168.ts
+Astro ,http://193.105.83.15/live/tangyuan/12345678/169.ts
+NAURA,http://193.105.83.15/live/tangyuan/12345678/170.ts
+Hello,http://193.105.83.15/live/tangyuan/12345678/171.ts
+GAAYA,http://193.105.83.15/live/tangyuan/12345678/172.ts
+GO,http://193.105.83.15/live/tangyuan/12345678/173.ts
+ONE,http://193.105.83.15/live/tangyuan/12345678/174.ts
+KBS WORLD,http://193.105.83.15/live/tangyuan/12345678/175.ts
+tvN,http://193.105.83.15/live/tangyuan/12345678/176.ts
+Ohk,http://193.105.83.15/live/tangyuan/12345678/177.ts
+CCM,http://193.105.83.15/live/tangyuan/12345678/179.ts
+Astro WARNA,http://193.105.83.15/live/tangyuan/12345678/180.ts
+Astro RIA,http://193.105.83.15/live/tangyuan/12345678/181.ts
+Astro ABC,http://193.105.83.15/live/tangyuan/12345678/182.ts
+Astro AOD,http://193.105.83.15/live/tangyuan/12345678/183.ts
+翡翠台,http://193.105.83.15/live/tangyuan/12345678/184.ts
+Astro 双星,http://193.105.83.15/live/tangyuan/12345678/185.ts
+愛奇藝,http://193.105.83.15/live/tangyuan/12345678/186.ts
+Astro AOD,http://193.105.83.15/live/tangyuan/12345678/187.ts
+Astro 双星,http://193.105.83.15/live/tangyuan/12345678/189.ts
+Astro 小太阳,http://193.105.83.15/live/tangyuan/12345678/190.ts
+TVB星河,http://193.105.83.15/live/tangyuan/12345678/191.ts
+kix,http://193.105.83.15/live/tangyuan/12345678/192.ts
+HBO,http://193.105.83.15/live/tangyuan/12345678/193.ts
+HGTV,http://193.105.83.15/live/tangyuan/12345678/194.ts
+animal plant,http://193.105.83.15/live/tangyuan/12345678/195.ts
+mbc,http://193.105.83.15/live/tangyuan/12345678/200.ts
+5mbc,http://193.105.83.15/live/tangyuan/12345678/203.ts
+A HD,http://193.105.83.15/live/tangyuan/12345678/204.ts
+mbc,http://193.105.83.15/live/tangyuan/12345678/206.ts
+mbc,http://193.105.83.15/live/tangyuan/12345678/207.ts
+天映频道,http://193.105.83.15/live/tangyuan/12345678/211.ts
+sport,http://193.105.83.15/live/tangyuan/12345678/212.ts
+carton,http://193.105.83.15/live/tangyuan/12345678/214.ts
+momo,http://193.105.83.15/live/tangyuan/12345678/217.ts
+wjg,http://193.105.83.15/live/tangyuan/12345678/218.ts
+news,http://193.105.83.15/live/tangyuan/12345678/219.ts
+news,http://193.105.83.15/live/tangyuan/12345678/223.ts
+news,http://193.105.83.15/live/tangyuan/12345678/224.ts
+BBC news,http://193.105.83.15/live/tangyuan/12345678/225.ts
+Top news,http://193.105.83.15/live/tangyuan/12345678/226.ts
+seoul,http://193.105.83.15/live/tangyuan/12345678/227.ts
+news,http://193.105.83.15/live/tangyuan/12345678/228.ts
+TVB经典,http://193.105.83.15/live/tangyuan/12345678/229.ts
+﻿鳳凰衛視,http://193.105.83.15/live/tangyuan/12345678/2.ts
+鳳凰香港,http://193.105.83.15/live/tangyuan/12345678/3.ts
+TVB翡翠,http://193.105.83.15/live/tangyuan/12345678/4.ts
+FG5,http://193.105.83.15/live/tangyuan/12345678/5.ts
+TVB無線財經,http://193.105.83.15/live/tangyuan/12345678/6.ts
+TVB明珠,http://193.105.83.15/live/tangyuan/12345678/7.ts
+TVB星河,http://193.105.83.15/live/tangyuan/12345678/8.ts
+Viutv,http://193.105.83.15/live/tangyuan/12345678/9.ts
+卫视卡式,http://193.105.83.15/live/tangyuan/12345678/233.ts
+无线新闻,http://193.105.83.15/live/tangyuan/12345678/234.ts
+有线新闻,http://193.105.83.15/live/tangyuan/12345678/235.ts
+NOW新闻,http://193.105.83.15/live/tangyuan/12345678/236.ts
+凤凰资讯,http://193.105.83.15/live/tangyuan/12345678/237.ts
+凤凰中文,http://193.105.83.15/live/tangyuan/12345678/238.ts
+凤凰资讯,http://193.105.83.15/live/tangyuan/12345678/239.ts
+
+New tv,http://193.105.83.15/live/tangyuan/12345678/240.ts
+CCTV1,http://193.105.83.15/live/tangyuan/12345678/241.ts
+CCTV1,http://193.105.83.15/live/tangyuan/12345678/242.ts
+CCTV1,http://193.105.83.15/live/tangyuan/12345678/243.ts
+CCTV1,http://193.105.83.15/live/tangyuan/12345678/244.ts
+CCTV1,http://193.105.83.15/live/tangyuan/12345678/245.ts
+CCTV2,http://193.105.83.15/live/tangyuan/12345678/246.ts
+CCTV2,http://193.105.83.15/live/tangyuan/12345678/247.ts
+CCTV2,http://193.105.83.15/live/tangyuan/12345678/248.ts
+CCTV3,http://193.105.83.15/live/tangyuan/12345678/249.ts
+CCTV4,http://193.105.83.15/live/tangyuan/12345678/250.ts
+CCTV4,http://193.105.83.15/live/tangyuan/12345678/251.ts
+CCTV4,http://193.105.83.15/live/tangyuan/12345678/252.ts
+CCTV5,http://193.105.83.15/live/tangyuan/12345678/253.ts
+CCTV5plus,http://193.105.83.15/live/tangyuan/12345678/254.ts
+CCTV5plus,http://193.105.83.15/live/tangyuan/12345678/255.ts
+CCTV5plus,http://193.105.83.15/live/tangyuan/12345678/256.ts
+CCTV6,http://193.105.83.15/live/tangyuan/12345678/257.ts
+CCTV7,http://193.105.83.15/live/tangyuan/12345678/258.ts
+CCTV7,http://193.105.83.15/live/tangyuan/12345678/259.ts
+CCTV8,http://193.105.83.15/live/tangyuan/12345678/260.ts
+CCTV9,http://193.105.83.15/live/tangyuan/12345678/261.ts
+CCTV9,http://193.105.83.15/live/tangyuan/12345678/262.ts
+CCTV10,http://193.105.83.15/live/tangyuan/12345678/263.ts
+CCTV10,http://193.105.83.15/live/tangyuan/12345678/264.ts
+CCTV11,http://193.105.83.15/live/tangyuan/12345678/265.ts
+CCTV11,http://193.105.83.15/live/tangyuan/12345678/266.ts
+CCTV11,http://193.105.83.15/live/tangyuan/12345678/267.ts
+CCTV12,http://193.105.83.15/live/tangyuan/12345678/268.ts
+CCTV12,http://193.105.83.15/live/tangyuan/12345678/269.ts
+CCTV13,http://193.105.83.15/live/tangyuan/12345678/270.ts
+CCTV14,http://193.105.83.15/live/tangyuan/12345678/271.ts
+CCTV14,http://193.105.83.15/live/tangyuan/12345678/272.ts
+CCTV15,http://193.105.83.15/live/tangyuan/12345678/273.ts
+CCTV15,http://193.105.83.15/live/tangyuan/12345678/274.ts
+CCTV15,http://193.105.83.15/live/tangyuan/12345678/275.ts
+CCTV17,http://193.105.83.15/live/tangyuan/12345678/276.ts
+CCTV17,http://193.105.83.15/live/tangyuan/12345678/277.ts
+CETV1,http://193.105.83.15/live/tangyuan/12345678/278.ts
+东南卫视,http://193.105.83.15/live/tangyuan/12345678/279.ts
+东南卫视,http://193.105.83.15/live/tangyuan/12345678/280.ts
+东南卫视,http://193.105.83.15/live/tangyuan/12345678/281.ts
+东南卫视,http://193.105.83.15/live/tangyuan/12345678/282.ts
+东方卫视,http://193.105.83.15/live/tangyuan/12345678/283.ts
+东方卫视,http://193.105.83.15/live/tangyuan/12345678/284.ts
+东方卫视,http://193.105.83.15/live/tangyuan/12345678/285.ts
+东方卫视,http://193.105.83.15/live/tangyuan/12345678/286.ts
+东方卫视,http://193.105.83.15/live/tangyuan/12345678/287.ts
+北京卫视,http://193.105.83.15/live/tangyuan/12345678/288.ts
+北京卫视,http://193.105.83.15/live/tangyuan/12345678/289.ts
+北京卫视,http://193.105.83.15/live/tangyuan/12345678/290.ts
+北京卫视,http://193.105.83.15/live/tangyuan/12345678/291.ts
+北京卫视,http://193.105.83.15/live/tangyuan/12345678/292.ts
+天津卫视,http://193.105.83.15/live/tangyuan/12345678/293.ts
+天津卫视,http://193.105.83.15/live/tangyuan/12345678/294.ts
+天津卫视,http://193.105.83.15/live/tangyuan/12345678/295.ts
+天津卫视,http://193.105.83.15/live/tangyuan/12345678/296.ts
+安徽卫视,http://193.105.83.15/live/tangyuan/12345678/297.ts
+安徽卫视,http://193.105.83.15/live/tangyuan/12345678/298.ts
+安徽卫视,http://193.105.83.15/live/tangyuan/12345678/299.ts
+安徽卫视,http://193.105.83.15/live/tangyuan/12345678/300.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/301.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/302.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/303.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/304.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/305.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/306.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/307.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/308.ts
+广东卫视,http://193.105.83.15/live/tangyuan/12345678/309.ts
+江苏卫视,http://193.105.83.15/live/tangyuan/12345678/310.ts
+江苏卫视,http://193.105.83.15/live/tangyuan/12345678/311.ts
+江苏卫视,http://193.105.83.15/live/tangyuan/12345678/312.ts
+江苏卫视,http://193.105.83.15/live/tangyuan/12345678/313.ts
+江苏卫视,http://193.105.83.15/live/tangyuan/12345678/314.ts
+江西卫视,http://193.105.83.15/live/tangyuan/12345678/315.ts
+江西卫视,http://193.105.83.15/live/tangyuan/12345678/316.ts
+江西卫视,http://193.105.83.15/live/tangyuan/12345678/317.ts
+河北卫视,http://193.105.83.15/live/tangyuan/12345678/318.ts
+河北卫视,http://193.105.83.15/live/tangyuan/12345678/319.ts
+河北卫视,http://193.105.83.15/live/tangyuan/12345678/320.ts
+河北卫视,http://193.105.83.15/live/tangyuan/12345678/321.ts
+浙江卫视,http://193.105.83.15/live/tangyuan/12345678/188.ts
+浙江卫视,http://193.105.83.15/live/tangyuan/12345678/322.ts
+浙江卫视,http://193.105.83.15/live/tangyuan/12345678/323.ts
+浙江卫视,http://193.105.83.15/live/tangyuan/12345678/324.ts
+浙江卫视,http://193.105.83.15/live/tangyuan/12345678/325.ts
+浙江卫视,http://193.105.83.15/live/tangyuan/12345678/326.ts
+深圳卫视,http://193.105.83.15/live/tangyuan/12345678/327.ts
+深圳卫视,http://193.105.83.15/live/tangyuan/12345678/328.ts
+深圳卫视,http://193.105.83.15/live/tangyuan/12345678/329.ts
+湖北卫视,http://193.105.83.15/live/tangyuan/12345678/330.ts
+湖北卫视,http://193.105.83.15/live/tangyuan/12345678/331.ts
+湖北卫视,http://193.105.83.15/live/tangyuan/12345678/332.ts
+湖北卫视,http://193.105.83.15/live/tangyuan/12345678/333.ts
+湖北卫视,http://193.105.83.15/live/tangyuan/12345678/334.ts
 
 日本,#genre#
 $c_start日本$c_end
@@ -438,512 +460,3 @@ HBO3,vjms://50.7.253.59:8500/live/cid=436
 日本動漫,vjms://50.7.253.59:8500/live/cid=493
 日本動漫12,vjms://50.7.253.59:8500/live/cid=498
 視,vjms://50.7.253.59:8500/live/cid=497
-JapaNews24,http://141.164.41.198/UUU/ppppp.php?cid=1043
-Tokyo MX1,http://141.164.41.198/UUU/ppppp.php?cid=33
-NTV News24,http://141.164.41.198/UUU/ppppp.php?cid=42
-BS-JAPAN,http://141.164.41.198/UUU/ppppp.php?cid=243
-日本映画専門,http://141.164.41.198/UUU/ppppp.php?cid=246
-日テレG,http://141.164.41.198/UUU/ppppp.php?cid=248
-時代劇の専門家,http://141.164.41.198/UUU/ppppp.php?cid=287
-KIDS,http://141.164.41.198/UUU/ppppp.php?cid=289
-朝日放送,http://141.164.41.198/UUU/ppppp.php?cid=237
-SKY A,http://141.164.41.198/UUU/ppppp.php?cid=247
-読売テレビ,http://141.164.41.198/UUU/ppppp.php?cid=198
-毎日放送,http://141.164.41.198/UUU/ppppp.php?cid=199
-サンテレビ,http://141.164.41.198/UUU/ppppp.php?cid=238
-BSプレミアム,http://141.164.41.198/UUU/ppppp.php?cid=239
-BS日テレ,http://141.164.41.198/UUU/ppppp.php?cid=240
-BS朝日,http://141.164.41.198/UUU/ppppp.php?cid=241
-GREEN,http://141.164.41.198/UUU/ppppp.php?cid=245
-関西テレビ,http://141.164.41.198/UUU/ppppp.php?cid=235
-BS-TBS,http://141.164.41.198/UUU/ppppp.php?cid=242
-Golf Network,http://141.164.41.198/UUU/ppppp.php?cid=249
-BS-FUJI,http://141.164.41.198/UUU/ppppp.php?cid=244
-ム一ビ一プラス,http://141.164.41.198/UUU/ppppp.php?cid=295
-FoodNetwork,http://141.164.41.198/UUU/ppppp.php?cid=294
-Tokyo MX2,http://141.164.41.198/UUU/ppppp.php?cid=1148
-Japan Channel DX,http://141.164.41.198/UUU/ppppp.php?cid=39
-GaoRa,http://141.164.41.198/UUU/ppppp.php?cid=296
-NTV,http://141.164.41.198/UUU/ppppp.php?cid=119
-NHK World,http://141.164.41.198/UUU/ppppp.php?cid=117
-NHKE,http://141.164.41.198/UUU/ppppp.php?cid=120
-NHK-G,http://141.164.41.198/UUU/ppppp.php?cid=121
-tvtokyo,http://141.164.41.198/UUU/ppppp.php?cid=123
-FU JI,http://141.164.41.198/UUU/ppppp.php?cid=122
-TBS,http://141.164.41.198/UUU/ppppp.php?cid=124
-大阪TV,http://141.164.41.198/UUU/ppppp.php?cid=126
-ABC朝日,http://141.164.41.198/UUU/ppppp.php?cid=127
-bs1,http://141.164.41.198/UUU/ppppp.php?cid=128
-wowo1,http://141.164.41.198/UUU/ppppp.php?cid=133
-wowo2,http://141.164.41.198/UUU/ppppp.php?cid=134
-wowo3,http://141.164.41.198/UUU/ppppp.php?cid=135
-STAR1,http://141.164.41.198/UUU/ppppp.php?cid=136
-STAR2,http://141.164.41.198/UUU/ppppp.php?cid=137
-STAR3,http://141.164.41.198/UUU/ppppp.php?cid=138
-animax,http://141.164.41.198/UUU/ppppp.php?cid=139
-Green,http://141.164.41.198/UUU/ppppp.php?cid=140
-Discovery,http://141.164.41.198/UUU/ppppp.php?cid=290
-Smithsonian,http://141.164.41.198/UUU/ppppp.php?cid=291
-TBSニュ-ス,http://141.164.41.198/UUU/ppppp.php?cid=293
-ファミリ一劇場,http://141.164.41.198/UUU/ppppp.php?cid=298
-National Geographic,http://141.164.41.198/UUU/ppppp.php?cid=292
-MUSIC JAPAN,http://141.164.41.198/UUU/ppppp.php?cid=288
-LaLa TV,http://141.164.41.198/UUU/ppppp.php?cid=297
-tv asahi,http://141.164.41.198/UUU/ppppp.php?cid=125
-映畫專門,http://141.164.41.198/UUU/ppppp.php?cid=118
-한국,#genre#
-$c_start한국$c_end
-Arirang TV,http://141.164.41.198/UUU/ppppp.php?cid=1154
-연합뉴스TV,http://141.164.41.198/UUU/ppppp.php?cid=1039
-KBS WORLD 24,http://141.164.41.198/UUU/ppppp.php?cid=1040
-KBS1,http://141.164.41.198/UUU/ppppp.php?cid=174
-KBS2,http://141.164.41.198/UUU/ppppp.php?cid=250
-MBC,http://141.164.41.198/UUU/ppppp.php?cid=251
-SBS,http://141.164.41.198/UUU/ppppp.php?cid=252
-JTBC,http://141.164.41.198/UUU/ppppp.php?cid=253
-TVN,http://141.164.41.198/UUU/ppppp.php?cid=254
-YTN,http://141.164.41.198/UUU/ppppp.php?cid=255
-TV조선,http://141.164.41.198/UUU/ppppp.php?cid=256
-MBN,http://141.164.41.198/UUU/ppppp.php?cid=257
-채널A,http://141.164.41.198/UUU/ppppp.php?cid=258
-연합뉴스TV,http://141.164.41.198/UUU/ppppp.php?cid=259
-KBS드라마,http://141.164.41.198/UUU/ppppp.php?cid=260
-MBC드라마,http://141.164.41.198/UUU/ppppp.php?cid=261
-SBS PLus,http://141.164.41.198/UUU/ppppp.php?cid=262
-SBS스포츠,http://141.164.41.198/UUU/ppppp.php?cid=263
-KBSN스포츠,http://141.164.41.198/UUU/ppppp.php?cid=264
-MBC스포츠+,http://141.164.41.198/UUU/ppppp.php?cid=265
-Spotv,http://141.164.41.198/UUU/ppppp.php?cid=266
-JTBC골프,http://141.164.41.198/UUU/ppppp.php?cid=268
-CGV,http://141.164.41.198/UUU/ppppp.php?cid=492
-OCN,http://141.164.41.198/UUU/ppppp.php?cid=488
-iNet,http://141.164.41.198/UUU/ppppp.php?cid=490
-CTS,http://141.164.41.198/UUU/ppppp.php?cid=491
-Spotv2,http://141.164.41.198/UUU/ppppp.php?cid=267
-Tooniverse,http://141.164.41.198/UUU/ppppp.php?cid=1020
-Disney,http://141.164.41.198/UUU/ppppp.php?cid=489
-CBS,http://141.164.41.198/UUU/ppppp.php?cid=493
-SBS골프,http://141.164.41.198/UUU/ppppp.php?cid=486
-On Style,http://141.164.41.198/UUU/ppppp.php?cid=487
-FTV,http://141.164.41.198/UUU/ppppp.php?cid=1134
-围棋,http://141.164.41.198/UUU/ppppp.php?cid=1135
-Mnet,http://141.164.41.198/UUU/ppppp.php?cid=1136
-美國,#genre#
-$c_start美國$c_end
-加拿大国家电视台,http://141.164.41.198/UUU/ppppp.php?cid=1003
-CNN HD,http://141.164.41.198/UUU/ppppp.php?cid=146
-FOX-HD,http://141.164.41.198/UUU/ppppp.php?cid=149
-TBS HD,http://141.164.41.198/UUU/ppppp.php?cid=156
-FOX-News,http://141.164.41.198/UUU/ppppp.php?cid=150
-ABC HD,http://141.164.41.198/UUU/ppppp.php?cid=143
-CBS HD,http://141.164.41.198/UUU/ppppp.php?cid=144
-BET,http://141.164.41.198/UUU/ppppp.php?cid=270
-CBC-EAST,http://141.164.41.198/UUU/ppppp.php?cid=272
-OWN,http://141.164.41.198/UUU/ppppp.php?cid=284
-CHCH,http://141.164.41.198/UUU/ppppp.php?cid=274
-CITY-TV,http://141.164.41.198/UUU/ppppp.php?cid=275
-CP24,http://141.164.41.198/UUU/ppppp.php?cid=276
-CTV,http://141.164.41.198/UUU/ppppp.php?cid=278
-TVA FR,http://141.164.41.198/UUU/ppppp.php?cid=281
-CTV-NEWS,http://141.164.41.198/UUU/ppppp.php?cid=280
-CBC-NEWS-NETWORK,http://141.164.41.198/UUU/ppppp.php?cid=273
-BNN,http://141.164.41.198/UUU/ppppp.php?cid=271
-ABC-SPARK,http://141.164.41.198/UUU/ppppp.php?cid=269
-CPAC,http://141.164.41.198/UUU/ppppp.php?cid=277
-TVO,http://141.164.41.198/UUU/ppppp.php?cid=283
-W-NETWORK,http://141.164.41.198/UUU/ppppp.php?cid=286
-OLN,http://141.164.41.198/UUU/ppppp.php?cid=285
-CTV Atlantic,http://141.164.41.198/UUU/ppppp.php?cid=279
-YTV,http://141.164.41.198/UUU/ppppp.php?cid=282
-CNBC,http://141.164.41.198/UUU/ppppp.php?cid=145
-英國,#genre#
-$c_start英國$c_end
-Sky News,http://141.164.41.198/UUU/ppppp.php?cid=1041
-BBC News,http://141.164.41.198/UUU/ppppp.php?cid=164
-Channel 4,http://141.164.41.198/UUU/ppppp.php?cid=169
-BBC 1,http://141.164.41.198/UUU/ppppp.php?cid=161
-BBC 2,http://141.164.41.198/UUU/ppppp.php?cid=162
-BBC 4,http://141.164.41.198/UUU/ppppp.php?cid=163
-ITV 4,http://141.164.41.198/UUU/ppppp.php?cid=160
-ITV 3,http://141.164.41.198/UUU/ppppp.php?cid=159
-ITV 1,http://141.164.41.198/UUU/ppppp.php?cid=157
-ITV 2,http://141.164.41.198/UUU/ppppp.php?cid=158
-Discovery,http://141.164.41.198/UUU/ppppp.php?cid=1045
-Dave,http://141.164.41.198/UUU/ppppp.php?cid=1044
-新馬,#genre#
-$c_start新馬$c_end
-CNA 24,http://141.164.41.198/UUU/ppppp.php?cid=15
-Channel8,http://141.164.41.198/UUU/ppppp.php?cid=142
-Channel5,http://141.164.41.198/UUU/ppppp.php?cid=141
-IKIM TV,http://141.164.41.198/UUU/ppppp.php?cid=1147
-Astro Awani,http://141.164.41.198/UUU/ppppp.php?cid=440
-Channel 8,http://141.164.41.198/UUU/ppppp.php?cid=450
-天映頻道HD,http://141.164.41.198/UUU/ppppp.php?cid=441
-全佳,http://141.164.41.198/UUU/ppppp.php?cid=427
-kix,http://141.164.41.198/UUU/ppppp.php?cid=430
-歡喜,http://141.164.41.198/UUU/ppppp.php?cid=432
-suria,http://141.164.41.198/UUU/ppppp.php?cid=434
-雙星,http://141.164.41.198/UUU/ppppp.php?cid=431
-AEC,http://141.164.41.198/UUU/ppppp.php?cid=433
-華麗,http://141.164.41.198/UUU/ppppp.php?cid=429
-Channel 5,http://141.164.41.198/UUU/ppppp.php?cid=449
-TV1,http://141.164.41.198/UUU/ppppp.php?cid=435
-TV2,http://141.164.41.198/UUU/ppppp.php?cid=436
-TV3,http://141.164.41.198/UUU/ppppp.php?cid=437
-TV9,http://141.164.41.198/UUU/ppppp.php?cid=438
-NTV7,http://141.164.41.198/UUU/ppppp.php?cid=439
-TV8,http://141.164.41.198/UUU/ppppp.php?cid=442
-小太陽,http://141.164.41.198/UUU/ppppp.php?cid=443
-AOD,http://141.164.41.198/UUU/ppppp.php?cid=428
-Channel U,http://141.164.41.198/UUU/ppppp.php?cid=448
-泰國印尼,#genre#
-$c_start泰國印尼$c_end
-Thairath TV,http://141.164.41.198/UUU/ppppp.php?cid=1139
-Channel 8,http://141.164.41.198/UUU/ppppp.php?cid=1140
-DDTV,http://141.164.41.198/UUU/ppppp.php?cid=1138
-KOMPAS TV,http://141.164.41.198/UUU/ppppp.php?cid=1146
-Karaoke,http://141.164.41.198/UUU/ppppp.php?cid=1141
-InsanTV,http://141.164.41.198/UUU/ppppp.php?cid=1143
-CNN Indonesia,http://141.164.41.198/UUU/ppppp.php?cid=1145
-MetroTV,http://141.164.41.198/UUU/ppppp.php?cid=1124
-西班牙,#genre#
-$c_start西班牙$c_end
-#0HD,http://141.164.41.198/UUU/ppppp.php?cid=1047
-4 Horas,http://141.164.41.198/UUU/ppppp.php?cid=1048
-A&E ES,http://141.164.41.198/UUU/ppppp.php?cid=1049
-AMC ES,http://141.164.41.198/UUU/ppppp.php?cid=1050
-Antena 3,http://141.164.41.198/UUU/ppppp.php?cid=1051
-Barca TV,http://141.164.41.198/UUU/ppppp.php?cid=1052
-Bein Sport,http://141.164.41.198/UUU/ppppp.php?cid=1053
-Boing,http://141.164.41.198/UUU/ppppp.php?cid=1054
-Calle 13,http://141.164.41.198/UUU/ppppp.php?cid=1055
-M Action,http://141.164.41.198/UUU/ppppp.php?cid=1056
-M Deportes 2,http://141.164.41.198/UUU/ppppp.php?cid=1057
-M Deportes 1,http://141.164.41.198/UUU/ppppp.php?cid=1058
-M Futbol,http://141.164.41.198/UUU/ppppp.php?cid=1060
-M Golf,http://141.164.41.198/UUU/ppppp.php?cid=1061
-M Series Xtra,http://141.164.41.198/UUU/ppppp.php?cid=1062
-Toros,http://141.164.41.198/UUU/ppppp.php?cid=1063
-M Xtra,http://141.164.41.198/UUU/ppppp.php?cid=1064
-Cocina,http://141.164.41.198/UUU/ppppp.php?cid=1065
-DeCasa,http://141.164.41.198/UUU/ppppp.php?cid=1067
-M SERIES HD,http://141.164.41.198/UUU/ppppp.php?cid=1068
-M Formula 1,http://141.164.41.198/UUU/ppppp.php?cid=1069
-Caza Y Pesca,http://141.164.41.198/UUU/ppppp.php?cid=1070
-Clan Tve,http://141.164.41.198/UUU/ppppp.php?cid=1071
-Comedy Central,http://141.164.41.198/UUU/ppppp.php?cid=1072
-Cosmo,http://141.164.41.198/UUU/ppppp.php?cid=1073
-Cuatro,http://141.164.41.198/UUU/ppppp.php?cid=1074
-Discovery ES,http://141.164.41.198/UUU/ppppp.php?cid=1075
-Disney ES,http://141.164.41.198/UUU/ppppp.php?cid=1076
-Energy,http://141.164.41.198/UUU/ppppp.php?cid=1077
-Euro Sport 1,http://141.164.41.198/UUU/ppppp.php?cid=1078
-FDF,http://141.164.41.198/UUU/ppppp.php?cid=1080
-Fox ES,http://141.164.41.198/UUU/ppppp.php?cid=1081
-GOL TV,http://141.164.41.198/UUU/ppppp.php?cid=1082
-NOVA,http://141.164.41.198/UUU/ppppp.php?cid=1086
-Odisea,http://141.164.41.198/UUU/ppppp.php?cid=1087
-TNT ES,http://141.164.41.198/UUU/ppppp.php?cid=1088
-भारत
-REPUBLIC News,http://141.164.41.198/UUU/ppppp.php?cid=1151
-Tv9 Bharatvarsh,http://141.164.41.198/UUU/ppppp.php?cid=1125
-NDTV India,http://141.164.41.198/UUU/ppppp.php?cid=1030
-NDTV,http://141.164.41.198/UUU/ppppp.php?cid=1028
-ABP News,http://141.164.41.198/UUU/ppppp.php?cid=476
-POP-Pataka,http://141.164.41.198/UUU/ppppp.php?cid=25
-ZeeNews,http://141.164.41.198/UUU/ppppp.php?cid=465
-DD News,http://141.164.41.198/UUU/ppppp.php?cid=463
-TEN1,http://141.164.41.198/UUU/ppppp.php?cid=466
-TEN2,http://141.164.41.198/UUU/ppppp.php?cid=467
-TEN3,http://141.164.41.198/UUU/ppppp.php?cid=468
-And Pictures,http://141.164.41.198/UUU/ppppp.php?cid=469
-Colors HD,http://141.164.41.198/UUU/ppppp.php?cid=470
-NDTV,http://141.164.41.198/UUU/ppppp.php?cid=471
-Zee Tamil,http://141.164.41.198/UUU/ppppp.php?cid=472
-India TV,http://141.164.41.198/UUU/ppppp.php?cid=473
-Sony Mix,http://141.164.41.198/UUU/ppppp.php?cid=474
-Star Movies,http://141.164.41.198/UUU/ppppp.php?cid=478
-Star Plus,http://141.164.41.198/UUU/ppppp.php?cid=479
-Zee Marathi,http://141.164.41.198/UUU/ppppp.php?cid=480
-Zee Studio,http://141.164.41.198/UUU/ppppp.php?cid=481
-Zee TV,http://141.164.41.198/UUU/ppppp.php?cid=482
-Zee Cinema,http://141.164.41.198/UUU/ppppp.php?cid=484
-Zee Classic,http://141.164.41.198/UUU/ppppp.php?cid=485
-Sony Sab,http://141.164.41.198/UUU/ppppp.php?cid=475
-Sony,http://141.164.41.198/UUU/ppppp.php?cid=483
-魅力足球,http://141.164.41.198/UUU/ppppp.php?cid=464
-Sony Max,http://141.164.41.198/UUU/ppppp.php?cid=477
-Eleven Sport 2,http://141.164.41.198/UUU/ppppp.php?cid=301
-信吉電視,http://141.164.41.198/UUU/ppppp.php?cid=422
-HKC體育1,http://141.164.41.198/UUU/ppppp.php?cid=401
-HKC體育2,http://141.164.41.198/UUU/ppppp.php?cid=356
-有線603,http://141.164.41.198/UUU/ppppp.php?cid=398
-廣東珠江,http://141.164.41.198/UUU/ppppp.php?cid=1034
-VOA衛視,http://141.164.41.198/UUU/ppppp.php?cid=22
-DW德國之聲,http://141.164.41.198/UUU/ppppp.php?cid=1059
-第1商業,http://141.164.41.198/UUU/ppppp.php?cid=186
-CNN頭條新聞,http://141.164.41.198/UUU/ppppp.php?cid=43
-CNN國際新聞,http://141.164.41.198/UUU/ppppp.php?cid=420
-BBC World News,http://141.164.41.198/UUU/ppppp.php?cid=421
-霹靂臺灣,http://141.164.41.198/UUU/ppppp.php?cid=1339
-金光布袋戲,http://141.164.41.198/UUU/ppppp.php?cid=1060
-TVN MOVIE,http://141.164.41.198/UUU/ppppp.php?cid=1082
-Edge Sport,http://141.164.41.198/UUU/ppppp.php?cid=1341
-歐洲體育,http://141.164.41.198/UUU/ppppp.php?cid=1342
-緯來體育,http://141.164.41.198/UUU/ppppp.php?cid=118
-FOX Sport 3,http://141.164.41.198/UUU/ppppp.php?cid=376
-ELEVEN SPORTS PLUS,http://141.164.41.198/UUU/ppppp.php?cid=419
-ELTA體育1,http://141.164.41.198/UUU/ppppp.php?cid=192
-ELTA體育2,http://141.164.41.198/UUU/ppppp.php?cid=193
-ELTA體育3,http://141.164.41.198/UUU/ppppp.php?cid=194
-博斯無限2,http://141.164.41.198/UUU/ppppp.php?cid=426
-ESPN-U,http://141.164.41.198/UUU/ppppp.php?cid=170
-Sky Sport 2,http://141.164.41.198/UUU/ppppp.php?cid=171
-Sky Sports 1,http://141.164.41.198/UUU/ppppp.php?cid=172
-Sky Sport 3,http://141.164.41.198/UUU/ppppp.php?cid=183
-Sky Sport 4,http://141.164.41.198/UUU/ppppp.php?cid=417
-Sky Sport 5,http://141.164.41.198/UUU/ppppp.php?cid=418
-Ginx電競,http://141.164.41.198/UUU/ppppp.php?cid=425
-WWE,http://141.164.41.198/UUU/ppppp.php?cid=1081
-NASA Live,http://141.164.41.198/UUU/ppppp.php?cid=196
-NASA TV,http://141.164.41.198/UUU/ppppp.php?cid=25
-TV5MONDE STYLE,http://141.164.41.198/UUU/ppppp.php?cid=389
-車迷TV,http://141.164.41.198/UUU/ppppp.php?cid=352
-i-Fun動漫,http://141.164.41.198/UUU/ppppp.php?cid=1127
-靖洋卡通,http://141.164.41.198/UUU/ppppp.php?cid=348
-Nick Jr.,http://141.164.41.198/UUU/ppppp.php?cid=50
-愛放2,http://141.164.41.198/UUU/ppppp.php?cid=299
-愛放3,http://141.164.41.198/UUU/ppppp.php?cid=259
-Dreamworks,http://141.164.41.198/UUU/ppppp.php?cid=48
-BabyTV,http://141.164.41.198/UUU/ppppp.php?cid=1241
-MTV Live,http://141.164.41.198/UUU/ppppp.php?cid=106
-Relaxing Music,http://141.164.41.198/UUU/ppppp.php?cid=1089
-Tropical House,http://141.164.41.198/UUU/ppppp.php?cid=1090
-自然の音,http://141.164.41.198/UUU/ppppp.php?cid=1091
-Relaxing Music,http://141.164.41.198/UUU/ppppp.php?cid=1087
-Calm Piano Music,http://141.164.41.198/UUU/ppppp.php?cid=1088
-Trace Urban,http://141.164.41.198/UUU/ppppp.php?cid=1003
-佛衛慈悲台,http://141.164.41.198/UUU/ppppp.php?cid=1306
-南方卫视,http://141.164.41.198/UUU/ppppp.php?cid=219
-BSテレビ東京,http://141.164.41.198/UUU/ppppp.php?cid=243
-テレビ朝日,http://141.164.41.198/UUU/ppppp.php?cid=237
-衛星劇場,http://141.164.41.198/UUU/ppppp.php?cid=298
-YTN,http://141.164.41.198/UUU/ppppp.php?cid=1061
-Korean Culture,http://141.164.41.198/UUU/ppppp.php?cid=1135
-SBS FUNE,http://141.164.41.198/UUU/ppppp.php?cid=254
-SBS CNBC,http://141.164.41.198/UUU/ppppp.php?cid=255
-Channel A,http://141.164.41.198/UUU/ppppp.php?cid=258
-NGC,http://141.164.41.198/UUU/ppppp.php?cid=1064
-바둑TV,http://141.164.41.198/UUU/ppppp.php?cid=1065
-투니버스,http://141.164.41.198/UUU/ppppp.php?cid=492
-CNTV,http://141.164.41.198/UUU/ppppp.php?cid=256
-OCNMOVIES,http://141.164.41.198/UUU/ppppp.php?cid=1020
-SBS Sports,http://141.164.41.198/UUU/ppppp.php?cid=487
-MBCevery1,http://141.164.41.198/UUU/ppppp.php?cid=476
-Tconvers,http://141.164.41.198/UUU/ppppp.php?cid=1134
-KBS joy,http://141.164.41.198/UUU/ppppp.php?cid=1154
-KBS Dram,http://141.164.41.198/UUU/ppppp.php?cid=1062
-YTN Science,http://141.164.41.198/UUU/ppppp.php?cid=1092
-EBS 2,http://141.164.41.198/UUU/ppppp.php?cid=1093
-EBS Kcids,http://141.164.41.198/UUU/ppppp.php?cid=1094
-EBS English,http://141.164.41.198/UUU/ppppp.php?cid=1095
-EBSPlus 1,http://141.164.41.198/UUU/ppppp.php?cid=1096
-EBSPlus 2,http://141.164.41.198/UUU/ppppp.php?cid=1097
-EBS1,http://141.164.41.198/UUU/ppppp.php?cid=1098
-UBC SBS,http://141.164.41.198/UUU/ppppp.php?cid=1099
-KTV,http://141.164.41.198/UUU/ppppp.php?cid=1100
-SBS Star,http://141.164.41.198/UUU/ppppp.php?cid=1101
-ABC News Live,http://141.164.41.198/UUU/ppppp.php?cid=189
-NBC News,http://141.164.41.198/UUU/ppppp.php?cid=1053
-NBC2,http://141.164.41.198/UUU/ppppp.php?cid=460
-HBO Signature,http://141.164.41.198/UUU/ppppp.php?cid=272
-TNT,http://141.164.41.198/UUU/ppppp.php?cid=284
-HGTV-HD,http://141.164.41.198/UUU/ppppp.php?cid=274
-HISTORY,http://141.164.41.198/UUU/ppppp.php?cid=275
-GOD TV,http://141.164.41.198/UUU/ppppp.php?cid=276
-Big Ten Network,http://141.164.41.198/UUU/ppppp.php?cid=278
-NESN,http://141.164.41.198/UUU/ppppp.php?cid=281
-NFL RedZone,http://141.164.41.198/UUU/ppppp.php?cid=280
-HBO Zone East,http://141.164.41.198/UUU/ppppp.php?cid=273
-HBO East,http://141.164.41.198/UUU/ppppp.php?cid=271
-HBO Comedy East,http://141.164.41.198/UUU/ppppp.php?cid=269
-Box Nation,http://141.164.41.198/UUU/ppppp.php?cid=277
-UFC Network,http://141.164.41.198/UUU/ppppp.php?cid=283
-MTV,http://141.164.41.198/UUU/ppppp.php?cid=286
-NAT-GEO,http://141.164.41.198/UUU/ppppp.php?cid=285
-Sec Network,http://141.164.41.198/UUU/ppppp.php?cid=279
-Tennis,http://141.164.41.198/UUU/ppppp.php?cid=282
-Bloomberg Television,http://141.164.41.198/UUU/ppppp.php?cid=1058
-American Horrors,http://141.164.41.198/UUU/ppppp.php?cid=1054
-30A TV,http://141.164.41.198/UUU/ppppp.php?cid=1052
-Atlanta,http://141.164.41.198/UUU/ppppp.php?cid=1055
-Panama City,http://141.164.41.198/UUU/ppppp.php?cid=1056
-Pawleys Island,http://141.164.41.198/UUU/ppppp.php?cid=1057
-CNN USA,http://141.164.41.198/UUU/ppppp.php?cid=1102
-FOX News,http://141.164.41.198/UUU/ppppp.php?cid=1103
-ABC,http://141.164.41.198/UUU/ppppp.php?cid=1216
-NBC,http://141.164.41.198/UUU/ppppp.php?cid=1217
-FOX,http://141.164.41.198/UUU/ppppp.php?cid=1218
-CNBC,http://141.164.41.198/UUU/ppppp.php?cid=1106
-5 Star Max,http://141.164.41.198/UUU/ppppp.php?cid=1174
-Action Max,http://141.164.41.198/UUU/ppppp.php?cid=1175
-MoreMax,http://141.164.41.198/UUU/ppppp.php?cid=1176
-Hallmark Channel,http://141.164.41.198/UUU/ppppp.php?cid=1177
-Hallmark Drama,http://141.164.41.198/UUU/ppppp.php?cid=1178
-Hallmark Movie,http://141.164.41.198/UUU/ppppp.php?cid=1179
-TCM,http://141.164.41.198/UUU/ppppp.php?cid=1180
-Starz in Black,http://141.164.41.198/UUU/ppppp.php?cid=1181
-ESPN 1,http://141.164.41.198/UUU/ppppp.php?cid=1182
-ESPN 2,http://141.164.41.198/UUU/ppppp.php?cid=1183
-NBC Sport,http://141.164.41.198/UUU/ppppp.php?cid=1184
-NBA TV US,http://141.164.41.198/UUU/ppppp.php?cid=1185
-Fox Sport 1,http://141.164.41.198/UUU/ppppp.php?cid=1186
-Fox Sport 2,http://141.164.41.198/UUU/ppppp.php?cid=1187
-Tennis,http://141.164.41.198/UUU/ppppp.php?cid=1188
-NFL Network,http://141.164.41.198/UUU/ppppp.php?cid=1189
-Golf,http://141.164.41.198/UUU/ppppp.php?cid=1190
-WWE,http://141.164.41.198/UUU/ppppp.php?cid=1191
-UFC PASS,http://141.164.41.198/UUU/ppppp.php?cid=1192
-Willow,http://141.164.41.198/UUU/ppppp.php?cid=1193
-NHL Network,http://141.164.41.198/UUU/ppppp.php?cid=1194
-Bein Sports USA,http://141.164.41.198/UUU/ppppp.php?cid=1195
-ESPN U,http://141.164.41.198/UUU/ppppp.php?cid=1196
-Big Ten Network,http://141.164.41.198/UUU/ppppp.php?cid=1197
-Discovery Channel,http://141.164.41.198/UUU/ppppp.php?cid=1198
-Motor Trend,http://141.164.41.198/UUU/ppppp.php?cid=1199
-National Geographic,http://141.164.41.198/UUU/ppppp.php?cid=1200
-Nat Geo Wild,http://141.164.41.198/UUU/ppppp.php?cid=1201
-Investigation Discovery US,http://141.164.41.198/UUU/ppppp.php?cid=1202
-Animal Planet,http://141.164.41.198/UUU/ppppp.php?cid=1203
-History,http://141.164.41.198/UUU/ppppp.php?cid=1204
-SMITHSONIAN,http://141.164.41.198/UUU/ppppp.php?cid=1205
-TLC,http://141.164.41.198/UUU/ppppp.php?cid=1206
-Science,http://141.164.41.198/UUU/ppppp.php?cid=1207
-Disney,http://141.164.41.198/UUU/ppppp.php?cid=1208
-Disney XD,http://141.164.41.198/UUU/ppppp.php?cid=1209
-Disney Junior,http://141.164.41.198/UUU/ppppp.php?cid=1210
-Cartoon Network US,http://141.164.41.198/UUU/ppppp.php?cid=1211
-Nickelodeon US,http://141.164.41.198/UUU/ppppp.php?cid=1212
-Nick Junior,http://141.164.41.198/UUU/ppppp.php?cid=1213
-Boomerang,http://141.164.41.198/UUU/ppppp.php?cid=1214
-Universal Kcids,http://141.164.41.198/UUU/ppppp.php?cid=1215
-CBS,http://141.164.41.198/UUU/ppppp.php?cid=1219
-CW,http://141.164.41.198/UUU/ppppp.php?cid=1220
-SYFY,http://141.164.41.198/UUU/ppppp.php?cid=1221
-E!,http://141.164.41.198/UUU/ppppp.php?cid=1222
-Comedy Central,http://141.164.41.198/UUU/ppppp.php?cid=1223
-TNT US,http://141.164.41.198/UUU/ppppp.php?cid=1224
-Bravo US,http://141.164.41.198/UUU/ppppp.php?cid=1225
-LifeTime US,http://141.164.41.198/UUU/ppppp.php?cid=1226
-Arts and Entertainment,http://141.164.41.198/UUU/ppppp.php?cid=1227
-AMC,http://141.164.41.198/UUU/ppppp.php?cid=1228
-WE TV,http://141.164.41.198/UUU/ppppp.php?cid=1229
-USA Network,http://141.164.41.198/UUU/ppppp.php?cid=1230
-BET,http://141.164.41.198/UUU/ppppp.php?cid=1231
-Lifetime Movie Network,http://141.164.41.198/UUU/ppppp.php?cid=1232
-VH-1,http://141.164.41.198/UUU/ppppp.php?cid=1233
-TBS,http://141.164.41.198/UUU/ppppp.php?cid=1234
-OWN US,http://141.164.41.198/UUU/ppppp.php?cid=1235
-GSN,http://141.164.41.198/UUU/ppppp.php?cid=1236
-HGTV US,http://141.164.41.198/UUU/ppppp.php?cid=1237
-Cooking Channel,http://141.164.41.198/UUU/ppppp.php?cid=1238
-MTV US,http://141.164.41.198/UUU/ppppp.php?cid=1239
-FYI,http://141.164.41.198/UUU/ppppp.php?cid=1240
-TVB1,http://141.164.41.198/UUU/ppppp.php?cid=1242
-TVB DRAMA,http://141.164.41.198/UUU/ppppp.php?cid=1243
-TVBJ1,http://141.164.41.198/UUU/ppppp.php?cid=1244
-TVBE,http://141.164.41.198/UUU/ppppp.php?cid=1245
-NOWTV,http://141.164.41.198/UUU/ppppp.php?cid=1246
-MSNBC,http://141.164.41.198/UUU/ppppp.php?cid=1104
-The Weather Nation,http://141.164.41.198/UUU/ppppp.php?cid=1105
-Bloomberg,http://141.164.41.198/UUU/ppppp.php?cid=1107
-Fox Business,http://141.164.41.198/UUU/ppppp.php?cid=1108
-HBO Comedy,http://141.164.41.198/UUU/ppppp.php?cid=1109
-HBO 1 US,http://141.164.41.198/UUU/ppppp.php?cid=1110
-HBO 2 US,http://141.164.41.198/UUU/ppppp.php?cid=1111
-HBO Signature,http://141.164.41.198/UUU/ppppp.php?cid=1112
-HBO Family,http://141.164.41.198/UUU/ppppp.php?cid=1113
-ShowTime 1,http://141.164.41.198/UUU/ppppp.php?cid=1114
-ShowTime 2,http://141.164.41.198/UUU/ppppp.php?cid=1115
-ShowCase US,http://141.164.41.198/UUU/ppppp.php?cid=1116
-Starz,http://141.164.41.198/UUU/ppppp.php?cid=1117
-Starz Comedy,http://141.164.41.198/UUU/ppppp.php?cid=1118
-Starz Edge,http://141.164.41.198/UUU/ppppp.php?cid=1119
-Starz Kcids Family,http://141.164.41.198/UUU/ppppp.php?cid=1120
-Starz Encore,http://141.164.41.198/UUU/ppppp.php?cid=1121
-Starz Encore Westerns,http://141.164.41.198/UUU/ppppp.php?cid=1122
-Cinemax,http://141.164.41.198/UUU/ppppp.php?cid=1123
-Sky News,http://141.164.41.198/UUU/ppppp.php?cid=169
-BBC Alba,http://141.164.41.198/UUU/ppppp.php?cid=161
-BBC Parliament,http://141.164.41.198/UUU/ppppp.php?cid=162
-BBC ALBA,http://141.164.41.198/UUU/ppppp.php?cid=163
-BBC Entertainment,http://141.164.41.198/UUU/ppppp.php?cid=160
-BBC Parliament,http://141.164.41.198/UUU/ppppp.php?cid=159
-BBC 2,http://141.164.41.198/UUU/ppppp.php?cid=157
-BBC 1,http://141.164.41.198/UUU/ppppp.php?cid=158
-Nickelodeon UK,http://141.164.41.198/UUU/ppppp.php?cid=1305
-BBC World News,http://141.164.41.198/UUU/ppppp.php?cid=1308
-CERIA,http://141.164.41.198/UUU/ppppp.php?cid=1161
-AOD351,http://141.164.41.198/UUU/ppppp.php?cid=1162
-AOD352,http://141.164.41.198/UUU/ppppp.php?cid=1163
-AOD353,http://141.164.41.198/UUU/ppppp.php?cid=1164
-AOD354,http://141.164.41.198/UUU/ppppp.php?cid=1165
-AOD355,http://141.164.41.198/UUU/ppppp.php?cid=1166
-WWE,http://141.164.41.198/UUU/ppppp.php?cid=1167
-EGG,http://141.164.41.198/UUU/ppppp.php?cid=1168
-OKTO,http://141.164.41.198/UUU/ppppp.php?cid=1169
-TVN,http://141.164.41.198/UUU/ppppp.php?cid=1170
-BNC,http://141.164.41.198/UUU/ppppp.php?cid=1171
-Arena,http://141.164.41.198/UUU/ppppp.php?cid=1172
-CRICKET,http://141.164.41.198/UUU/ppppp.php?cid=1173
-KIX,http://141.164.41.198/UUU/ppppp.php?cid=430
-Suria,http://141.164.41.198/UUU/ppppp.php?cid=434
-ARENA_HD,http://141.164.41.198/UUU/ppppp.php?cid=1049
-AOD351,http://141.164.41.198/UUU/ppppp.php?cid=1050
-AOD352,http://141.164.41.198/UUU/ppppp.php?cid=450
-AOD353,http://141.164.41.198/UUU/ppppp.php?cid=1067
-AOD354,http://141.164.41.198/UUU/ppppp.php?cid=1068
-AOD355,http://141.164.41.198/UUU/ppppp.php?cid=1069
-ASSP1_HD,http://141.164.41.198/UUU/ppppp.php?cid=1070
-ASSP2_HD,http://141.164.41.198/UUU/ppppp.php?cid=1071
-ASSP3_HD,http://141.164.41.198/UUU/ppppp.php?cid=1072
-ASSP4_HD,http://141.164.41.198/UUU/ppppp.php?cid=1074
-AEC,http://141.164.41.198/UUU/ppppp.php?cid=1073
-Channel U,http://141.164.41.198/UUU/ppppp.php?cid=1077
-Vasantham,http://141.164.41.198/UUU/ppppp.php?cid=1078
-小太陽,http://141.164.41.198/UUU/ppppp.php?cid=1080
-雙星,http://141.164.41.198/UUU/ppppp.php?cid=1086
-Suria,http://141.164.41.198/UUU/ppppp.php?cid=1076
-OKEY,http://141.164.41.198/UUU/ppppp.php?cid=1075
-AWANI,http://141.164.41.198/UUU/ppppp.php?cid=1151
-AXN,http://141.164.41.198/UUU/ppppp.php?cid=1044
-BNC,http://141.164.41.198/UUU/ppppp.php?cid=1045
-Channel 8,http://141.164.41.198/UUU/ppppp.php?cid=1160
-密,#genre#
-$c_start密$c_end
-松視1,http://141.164.41.198/UUU/ppppp.php?cid=402
-松視2,http://141.164.41.198/UUU/ppppp.php?cid=403
-松視3,http://141.164.41.198/UUU/ppppp.php?cid=404
-香蕉台,http://141.164.41.198/UUU/ppppp.php?cid=408
-潘朵拉完美,http://141.164.41.198/UUU/ppppp.php?cid=410
-潘朵拉粉紅,http://141.164.41.198/UUU/ppppp.php?cid=411
-彩虹電影,http://141.164.41.198/UUU/ppppp.php?cid=413
-彩虹K,http://141.164.41.198/UUU/ppppp.php?cid=406
-彩虹E,http://141.164.41.198/UUU/ppppp.php?cid=405
-一本道,http://141.164.41.198/UUU/ppppp.php?cid=414
-二本道,http://141.164.41.198/UUU/ppppp.php?cid=415
-東京熱,http://141.164.41.198/UUU/ppppp.php?cid=416
-HOT,http://141.164.41.198/UUU/ppppp.php?cid=407
-happy,http://141.164.41.198/UUU/ppppp.php?cid=412
-驚豔台,http://141.164.41.198/UUU/ppppp.php?cid=409
-Erox HD,http://141.164.41.198/UUU/ppppp.php?cid=456
-Dorcel HD,http://141.164.41.198/UUU/ppppp.php?cid=454
-Babes TV HD,http://141.164.41.198/UUU/ppppp.php?cid=458
-Hustler HD,http://141.164.41.198/UUU/ppppp.php?cid=451
-SCT Classic,http://141.164.41.198/UUU/ppppp.php?cid=462
-Redlight HD,http://141.164.41.198/UUU/ppppp.php?cid=452
-SEX ATION HD,http://141.164.41.198/UUU/ppppp.php?cid=459
-Super One HD,http://141.164.41.198/UUU/ppppp.php?cid=457
-Prıvate TV,http://141.164.41.198/UUU/ppppp.php?cid=453
-Passie,http://141.164.41.198/UUU/ppppp.php?cid=461
-Vivid Red HD,http://141.164.41.198/UUU/ppppp.php?cid=455
