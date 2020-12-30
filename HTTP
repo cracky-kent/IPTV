@@ -10,27 +10,6 @@ AXN,vjms://50.7.253.59:8500/live/cid=2
 緯來電影,vjms://50.7.253.59:8500/live/cid=446
 衛視電影,vjms://50.7.253.59:8500/live/cid=101
 壹電影,http://50.7.159.85:61980/myplay/cn_5_15006/index.m3u8
-HBO HD,http://193.105.83.15/live/tangyuan/12345678/94.ts
-FOX CRIME,http://193.105.83.15/live/tangyuan/12345678/95.ts
-HBO Hits,http://193.105.83.15/live/tangyuan/12345678/96.ts
-FOX,http://193.105.83.15/live/tangyuan/12345678/97.ts
-FOX ACTION,http://193.105.83.15/live/tangyuan/12345678/98.ts
-FOX Family,http://193.105.83.15/live/tangyuan/12345678/99.ts
-FX,http://193.105.83.15/live/tangyuan/12345678/100.ts
-AXN,http://193.105.83.15/live/tangyuan/12345678/42.ts
-HKC電影一台,http://193.105.83.15/live/tangyuan/12345678/10.ts
-靖天國際,http://193.105.83.15/live/tangyuan/12345678/48.ts
-靖天電影,http://193.105.83.15/live/tangyuan/12345678/49.ts
-靖天映畫,http://193.105.83.15/live/tangyuan/12345678/52.ts
-東森電影,http://193.105.83.15/live/tangyuan/12345678/53.ts
-東森洋片,http://193.105.83.15/live/tangyuan/12345678/56.ts
-星衛電影,http://193.105.83.15/live/tangyuan/12345678/57.ts
-龍華電影,http://193.105.83.15/live/tangyuan/12345678/58.ts
-龍翔時代,http://193.105.83.15/live/tangyuan/12345678/62.ts
-美亞電影,http://193.105.83.15/live/tangyuan/12345678/73.ts
-CATCHPLAY,http://193.105.83.15/live/tangyuan/12345678/74.ts
-緯來電影,http://193.105.83.15/live/tangyuan/12345678/77.ts
-爆谷台,http://193.105.83.15/live/tangyuan/12345678/230.ts
 
 探索,#genre#
 $c_start探索$c_end
@@ -43,19 +22,6 @@ $c_start探索$c_end
 國家地理HD,vjms://50.7.253.59:8500/live/cid=115
 野生動物頻道,vjms://50.7.253.59:8500/live/cid=263
 TLC旅游生活,vjms://50.7.253.59:8500/live/cid=103
-亞洲旅遊,http://193.105.83.15/live/tangyuan/12345678/109.ts
-國家地理,http://193.105.83.15/live/tangyuan/12345678/102.ts
-國家野生,http://193.105.83.15/live/tangyuan/12345678/103.ts
-動物星球,http://193.105.83.15/live/tangyuan/12345678/104.ts
-探索動力DMAX,http://193.105.83.15/live/tangyuan/12345678/105.ts
-探索科學,http://193.105.83.15/live/tangyuan/12345678/106.ts
-探索亞洲,http://193.105.83.15/live/tangyuan/12345678/107.ts
-緯來日本,http://193.105.83.15/live/tangyuan/12345678/76.ts
-afn美食,http://193.105.83.15/live/tangyuan/12345678/82.ts
-美食,http://193.105.83.15/live/tangyuan/12345678/83.ts
-美食星球,http://193.105.83.15/live/tangyuan/12345678/84.ts
-CI罪案偵查,http://193.105.83.15/live/tangyuan/12345678/108.ts
-NG WILD,http://193.105.83.15/live/tangyuan/12345678/165.ts
 
 新聞,#genre#
 $c_start新聞$c_end
@@ -76,17 +42,6 @@ TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
 中天新聞,vjms://50.7.253.59:8500/live/cid=407
 東森財經,vjms://50.7.253.59:8500/live/cid=456
 BBC world news,http://50.7.159.85:61980/myplay/cn_5_15007/index.m3u8
-TVBS新聞,http://193.105.83.15/live/tangyuan/12345678/14.ts
-中天新聞,http://193.105.83.15/live/tangyuan/12345678/17.ts
-寰宇新闻,http://193.105.83.15/live/tangyuan/12345678/231.ts
-東森新聞,http://193.105.83.15/live/tangyuan/12345678/37.ts
-非凡新聞,http://193.105.83.15/live/tangyuan/12345678/45.ts
-年代新聞,http://193.105.83.15/live/tangyuan/12345678/54.ts
-東森財經新聞,http://193.105.83.15/live/tangyuan/12345678/88.ts
-壹電視新聞,http://193.105.83.15/live/tangyuan/12345678/89.ts
-france24,http://193.105.83.15/live/tangyuan/12345678/112.ts
-D/W,http://193.105.83.15/live/tangyuan/12345678/113.ts
-CN HD,http://193.105.83.15/live/tangyuan/12345678/118.ts
 
 台灣,#genre#
 $c_start台灣$c_end
@@ -126,55 +81,6 @@ TVBS歡樂,rtmp://59.124.75.156:1935/sat/tv421
 中天娛樂,http://50.7.159.85:61980/myplay/cn_4_14020/index.m3u8
 中天綜合,http://50.7.159.85:61980/myplay/cn_4_14019/index.m3u8
 法國國際五,vjms://50.7.253.59:8500/live/cid=396
-台視,http://193.105.83.15/live/tangyuan/12345678/21.ts
-台視新聞,http://193.105.83.15/live/tangyuan/12345678/22.ts
-中視,http://193.105.83.15/live/tangyuan/12345678/23.ts
-中視新聞,http://193.105.83.15/live/tangyuan/12345678/24.ts
-华视,http://193.105.83.15/live/tangyuan/12345678/232.ts
-民視新聞,http://193.105.83.15/live/tangyuan/12345678/25.ts
-民視,http://193.105.83.15/live/tangyuan/12345678/26.ts
-民視台灣,http://193.105.83.15/live/tangyuan/12345678/27.ts
-民視第一台,http://193.105.83.15/live/tangyuan/12345678/46.ts
-華視,http://193.105.83.15/live/tangyuan/12345678/28.ts
-公視,http://193.105.83.15/live/tangyuan/12345678/29.ts
-TVBS歡樂臺,http://193.105.83.15/live/tangyuan/12345678/15.ts
-TVBS HD,http://193.105.83.15/live/tangyuan/12345678/16.ts
-八大第一台,http://193.105.83.15/live/tangyuan/12345678/30.ts
-八大綜合,http://193.105.83.15/live/tangyuan/12345678/31.ts
-八大戲劇,http://193.105.83.15/live/tangyuan/12345678/32.ts
-八大娛樂,http://193.105.83.15/live/tangyuan/12345678/33.ts
-三立臺灣,http://193.105.83.15/live/tangyuan/12345678/34.ts
-三立綜合,http://193.105.83.15/live/tangyuan/12345678/35.ts
-三立都會,http://193.105.83.15/live/tangyuan/12345678/36.ts
-中天娛樂,http://193.105.83.15/live/tangyuan/12345678/18.ts
-中天綜合,http://193.105.83.15/live/tangyuan/12345678/19.ts
-東森綜合,http://193.105.83.15/live/tangyuan/12345678/38.ts
-東森戲劇,http://193.105.83.15/live/tangyuan/12345678/39.ts
-東森超視,http://193.105.83.15/live/tangyuan/12345678/40.ts
-大愛電視,http://193.105.83.15/live/tangyuan/12345678/41.ts
-CN卡通,http://193.105.83.15/live/tangyuan/12345678/43.ts
-CN卡通,http://193.105.83.15/live/tangyuan/12345678/44.ts
-龍華偶像,http://193.105.83.15/live/tangyuan/12345678/47.ts
-靖天資訊,http://193.105.83.15/live/tangyuan/12345678/51.ts
-靖天卡通,http://193.105.83.15/live/tangyuan/12345678/55.ts
-ELTA影劇,http://193.105.83.15/live/tangyuan/12345678/60.ts
-GOOD2,http://193.105.83.15/live/tangyuan/12345678/61.ts
-YOYO,http://193.105.83.15/live/tangyuan/12345678/63.ts
-衛視臺,http://193.105.83.15/live/tangyuan/12345678/64.ts
-龍華動畫,http://193.105.83.15/live/tangyuan/12345678/69.ts
-三立戲劇,http://193.105.83.15/live/tangyuan/12345678/70.ts
-寰宇綜合,http://193.105.83.15/live/tangyuan/12345678/71.ts
-ELTA影劇,http://193.105.83.15/live/tangyuan/12345678/72.ts
-ELTA綜合,http://193.105.83.15/live/tangyuan/12345678/75.ts
-緯來精采,http://193.105.83.15/live/tangyuan/12345678/78.ts
-緯來體育,http://193.105.83.15/live/tangyuan/12345678/79.ts
-緯來戲劇,http://193.105.83.15/live/tangyuan/12345678/80.ts
-緯來綜合,http://193.105.83.15/live/tangyuan/12345678/81.ts
-EYE TV戲劇,http://193.105.83.15/live/tangyuan/12345678/87.ts
-迪士尼卡通,http://193.105.83.15/live/tangyuan/12345678/115.ts
-CN卡通,http://193.105.83.15/live/tangyuan/12345678/117.ts
-Baby,http://193.105.83.15/live/tangyuan/12345678/119.ts
-CinemaWorld,http://193.105.83.15/live/tangyuan/12345678/148.ts
 
 香港,#genre#
 $c_start香港$c_end
@@ -189,179 +95,6 @@ TVB J2,vjms://50.7.253.59:8500/live/cid=368
 無綫新聞,vjms://50.7.253.59:8500/live/cid=366
 有線娛樂,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 有線財經,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
-TV1,http://193.105.83.15/live/tangyuan/12345678/149.ts
-TV2,http://193.105.83.15/live/tangyuan/12345678/150.ts
-TV3,http://193.105.83.15/live/tangyuan/12345678/151.ts
-TV9,http://193.105.83.15/live/tangyuan/12345678/152.ts
-NTV7,http://193.105.83.15/live/tangyuan/12345678/153.ts
-TV8,http://193.105.83.15/live/tangyuan/12345678/154.ts
-小太陽,http://193.105.83.15/live/tangyuan/12345678/155.ts
-AOD,http://193.105.83.15/live/tangyuan/12345678/156.ts
-Astro Awani,http://193.105.83.15/live/tangyuan/12345678/157.ts
-Astro RIA,http://193.105.83.15/live/tangyuan/12345678/158.ts
-Astro Awan,http://193.105.83.15/live/tangyuan/12345678/159.ts
-SPORT,http://193.105.83.15/live/tangyuan/12345678/160.ts
-VIVO,http://193.105.83.15/live/tangyuan/12345678/161.ts
-MetroTV,http://193.105.83.15/live/tangyuan/12345678/162.ts
-SPORT,http://193.105.83.15/live/tangyuan/12345678/163.ts
-SPORT,http://193.105.83.15/live/tangyuan/12345678/164.ts
-Astro Oasis,http://193.105.83.15/live/tangyuan/12345678/166.ts
-Astro Ceria,http://193.105.83.15/live/tangyuan/12345678/167.ts
-Astro CIRA,http://193.105.83.15/live/tangyuan/12345678/168.ts
-Astro ,http://193.105.83.15/live/tangyuan/12345678/169.ts
-NAURA,http://193.105.83.15/live/tangyuan/12345678/170.ts
-Hello,http://193.105.83.15/live/tangyuan/12345678/171.ts
-GAAYA,http://193.105.83.15/live/tangyuan/12345678/172.ts
-GO,http://193.105.83.15/live/tangyuan/12345678/173.ts
-ONE,http://193.105.83.15/live/tangyuan/12345678/174.ts
-KBS WORLD,http://193.105.83.15/live/tangyuan/12345678/175.ts
-tvN,http://193.105.83.15/live/tangyuan/12345678/176.ts
-Ohk,http://193.105.83.15/live/tangyuan/12345678/177.ts
-CCM,http://193.105.83.15/live/tangyuan/12345678/179.ts
-Astro WARNA,http://193.105.83.15/live/tangyuan/12345678/180.ts
-Astro RIA,http://193.105.83.15/live/tangyuan/12345678/181.ts
-Astro ABC,http://193.105.83.15/live/tangyuan/12345678/182.ts
-Astro AOD,http://193.105.83.15/live/tangyuan/12345678/183.ts
-翡翠台,http://193.105.83.15/live/tangyuan/12345678/184.ts
-Astro 双星,http://193.105.83.15/live/tangyuan/12345678/185.ts
-愛奇藝,http://193.105.83.15/live/tangyuan/12345678/186.ts
-Astro AOD,http://193.105.83.15/live/tangyuan/12345678/187.ts
-Astro 双星,http://193.105.83.15/live/tangyuan/12345678/189.ts
-Astro 小太阳,http://193.105.83.15/live/tangyuan/12345678/190.ts
-TVB星河,http://193.105.83.15/live/tangyuan/12345678/191.ts
-kix,http://193.105.83.15/live/tangyuan/12345678/192.ts
-HBO,http://193.105.83.15/live/tangyuan/12345678/193.ts
-HGTV,http://193.105.83.15/live/tangyuan/12345678/194.ts
-animal plant,http://193.105.83.15/live/tangyuan/12345678/195.ts
-mbc,http://193.105.83.15/live/tangyuan/12345678/200.ts
-5mbc,http://193.105.83.15/live/tangyuan/12345678/203.ts
-A HD,http://193.105.83.15/live/tangyuan/12345678/204.ts
-mbc,http://193.105.83.15/live/tangyuan/12345678/206.ts
-mbc,http://193.105.83.15/live/tangyuan/12345678/207.ts
-天映频道,http://193.105.83.15/live/tangyuan/12345678/211.ts
-sport,http://193.105.83.15/live/tangyuan/12345678/212.ts
-carton,http://193.105.83.15/live/tangyuan/12345678/214.ts
-momo,http://193.105.83.15/live/tangyuan/12345678/217.ts
-wjg,http://193.105.83.15/live/tangyuan/12345678/218.ts
-news,http://193.105.83.15/live/tangyuan/12345678/219.ts
-news,http://193.105.83.15/live/tangyuan/12345678/223.ts
-news,http://193.105.83.15/live/tangyuan/12345678/224.ts
-BBC news,http://193.105.83.15/live/tangyuan/12345678/225.ts
-Top news,http://193.105.83.15/live/tangyuan/12345678/226.ts
-seoul,http://193.105.83.15/live/tangyuan/12345678/227.ts
-news,http://193.105.83.15/live/tangyuan/12345678/228.ts
-TVB经典,http://193.105.83.15/live/tangyuan/12345678/229.ts
-﻿鳳凰衛視,http://193.105.83.15/live/tangyuan/12345678/2.ts
-鳳凰香港,http://193.105.83.15/live/tangyuan/12345678/3.ts
-TVB翡翠,http://193.105.83.15/live/tangyuan/12345678/4.ts
-FG5,http://193.105.83.15/live/tangyuan/12345678/5.ts
-TVB無線財經,http://193.105.83.15/live/tangyuan/12345678/6.ts
-TVB明珠,http://193.105.83.15/live/tangyuan/12345678/7.ts
-TVB星河,http://193.105.83.15/live/tangyuan/12345678/8.ts
-Viutv,http://193.105.83.15/live/tangyuan/12345678/9.ts
-卫视卡式,http://193.105.83.15/live/tangyuan/12345678/233.ts
-无线新闻,http://193.105.83.15/live/tangyuan/12345678/234.ts
-有线新闻,http://193.105.83.15/live/tangyuan/12345678/235.ts
-NOW新闻,http://193.105.83.15/live/tangyuan/12345678/236.ts
-凤凰资讯,http://193.105.83.15/live/tangyuan/12345678/237.ts
-凤凰中文,http://193.105.83.15/live/tangyuan/12345678/238.ts
-凤凰资讯,http://193.105.83.15/live/tangyuan/12345678/239.ts
-New tv,http://193.105.83.15/live/tangyuan/12345678/240.ts
-CCTV1,http://193.105.83.15/live/tangyuan/12345678/241.ts
-CCTV1,http://193.105.83.15/live/tangyuan/12345678/242.ts
-CCTV1,http://193.105.83.15/live/tangyuan/12345678/243.ts
-CCTV1,http://193.105.83.15/live/tangyuan/12345678/244.ts
-CCTV1,http://193.105.83.15/live/tangyuan/12345678/245.ts
-CCTV2,http://193.105.83.15/live/tangyuan/12345678/246.ts
-CCTV2,http://193.105.83.15/live/tangyuan/12345678/247.ts
-CCTV2,http://193.105.83.15/live/tangyuan/12345678/248.ts
-CCTV3,http://193.105.83.15/live/tangyuan/12345678/249.ts
-CCTV4,http://193.105.83.15/live/tangyuan/12345678/250.ts
-CCTV4,http://193.105.83.15/live/tangyuan/12345678/251.ts
-CCTV4,http://193.105.83.15/live/tangyuan/12345678/252.ts
-CCTV5,http://193.105.83.15/live/tangyuan/12345678/253.ts
-CCTV5plus,http://193.105.83.15/live/tangyuan/12345678/254.ts
-CCTV5plus,http://193.105.83.15/live/tangyuan/12345678/255.ts
-CCTV5plus,http://193.105.83.15/live/tangyuan/12345678/256.ts
-CCTV6,http://193.105.83.15/live/tangyuan/12345678/257.ts
-CCTV7,http://193.105.83.15/live/tangyuan/12345678/258.ts
-CCTV7,http://193.105.83.15/live/tangyuan/12345678/259.ts
-CCTV8,http://193.105.83.15/live/tangyuan/12345678/260.ts
-CCTV9,http://193.105.83.15/live/tangyuan/12345678/261.ts
-CCTV9,http://193.105.83.15/live/tangyuan/12345678/262.ts
-CCTV10,http://193.105.83.15/live/tangyuan/12345678/263.ts
-CCTV10,http://193.105.83.15/live/tangyuan/12345678/264.ts
-CCTV11,http://193.105.83.15/live/tangyuan/12345678/265.ts
-CCTV11,http://193.105.83.15/live/tangyuan/12345678/266.ts
-CCTV11,http://193.105.83.15/live/tangyuan/12345678/267.ts
-CCTV12,http://193.105.83.15/live/tangyuan/12345678/268.ts
-CCTV12,http://193.105.83.15/live/tangyuan/12345678/269.ts
-CCTV13,http://193.105.83.15/live/tangyuan/12345678/270.ts
-CCTV14,http://193.105.83.15/live/tangyuan/12345678/271.ts
-CCTV14,http://193.105.83.15/live/tangyuan/12345678/272.ts
-CCTV15,http://193.105.83.15/live/tangyuan/12345678/273.ts
-CCTV15,http://193.105.83.15/live/tangyuan/12345678/274.ts
-CCTV15,http://193.105.83.15/live/tangyuan/12345678/275.ts
-CCTV17,http://193.105.83.15/live/tangyuan/12345678/276.ts
-CCTV17,http://193.105.83.15/live/tangyuan/12345678/277.ts
-CETV1,http://193.105.83.15/live/tangyuan/12345678/278.ts
-东南卫视,http://193.105.83.15/live/tangyuan/12345678/279.ts
-东南卫视,http://193.105.83.15/live/tangyuan/12345678/280.ts
-东南卫视,http://193.105.83.15/live/tangyuan/12345678/281.ts
-东南卫视,http://193.105.83.15/live/tangyuan/12345678/282.ts
-东方卫视,http://193.105.83.15/live/tangyuan/12345678/283.ts
-东方卫视,http://193.105.83.15/live/tangyuan/12345678/284.ts
-东方卫视,http://193.105.83.15/live/tangyuan/12345678/285.ts
-东方卫视,http://193.105.83.15/live/tangyuan/12345678/286.ts
-东方卫视,http://193.105.83.15/live/tangyuan/12345678/287.ts
-北京卫视,http://193.105.83.15/live/tangyuan/12345678/288.ts
-北京卫视,http://193.105.83.15/live/tangyuan/12345678/289.ts
-北京卫视,http://193.105.83.15/live/tangyuan/12345678/290.ts
-北京卫视,http://193.105.83.15/live/tangyuan/12345678/291.ts
-北京卫视,http://193.105.83.15/live/tangyuan/12345678/292.ts
-天津卫视,http://193.105.83.15/live/tangyuan/12345678/293.ts
-天津卫视,http://193.105.83.15/live/tangyuan/12345678/294.ts
-天津卫视,http://193.105.83.15/live/tangyuan/12345678/295.ts
-天津卫视,http://193.105.83.15/live/tangyuan/12345678/296.ts
-安徽卫视,http://193.105.83.15/live/tangyuan/12345678/297.ts
-安徽卫视,http://193.105.83.15/live/tangyuan/12345678/298.ts
-安徽卫视,http://193.105.83.15/live/tangyuan/12345678/299.ts
-安徽卫视,http://193.105.83.15/live/tangyuan/12345678/300.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/301.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/302.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/303.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/304.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/305.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/306.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/307.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/308.ts
-广东卫视,http://193.105.83.15/live/tangyuan/12345678/309.ts
-江苏卫视,http://193.105.83.15/live/tangyuan/12345678/310.ts
-江苏卫视,http://193.105.83.15/live/tangyuan/12345678/311.ts
-江苏卫视,http://193.105.83.15/live/tangyuan/12345678/312.ts
-江苏卫视,http://193.105.83.15/live/tangyuan/12345678/313.ts
-江苏卫视,http://193.105.83.15/live/tangyuan/12345678/314.ts
-江西卫视,http://193.105.83.15/live/tangyuan/12345678/315.ts
-江西卫视,http://193.105.83.15/live/tangyuan/12345678/316.ts
-江西卫视,http://193.105.83.15/live/tangyuan/12345678/317.ts
-河北卫视,http://193.105.83.15/live/tangyuan/12345678/318.ts
-河北卫视,http://193.105.83.15/live/tangyuan/12345678/319.ts
-河北卫视,http://193.105.83.15/live/tangyuan/12345678/320.ts
-河北卫视,http://193.105.83.15/live/tangyuan/12345678/321.ts
-浙江卫视,http://193.105.83.15/live/tangyuan/12345678/188.ts
-浙江卫视,http://193.105.83.15/live/tangyuan/12345678/322.ts
-浙江卫视,http://193.105.83.15/live/tangyuan/12345678/323.ts
-浙江卫视,http://193.105.83.15/live/tangyuan/12345678/324.ts
-浙江卫视,http://193.105.83.15/live/tangyuan/12345678/325.ts
-浙江卫视,http://193.105.83.15/live/tangyuan/12345678/326.ts
-深圳卫视,http://193.105.83.15/live/tangyuan/12345678/327.ts
-深圳卫视,http://193.105.83.15/live/tangyuan/12345678/328.ts
-深圳卫视,http://193.105.83.15/live/tangyuan/12345678/329.ts
-湖北卫视,http://193.105.83.15/live/tangyuan/12345678/330.ts
-湖北卫视,http://193.105.83.15/live/tangyuan/12345678/331.ts
-湖北卫视,http://193.105.83.15/live/tangyuan/12345678/332.ts
-湖北卫视,http://193.105.83.15/live/tangyuan/12345678/333.ts
-湖北卫视,http://193.105.83.15/live/tangyuan/12345678/334.ts
 
 日本,#genre#
 $c_start日本$c_end
