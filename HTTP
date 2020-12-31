@@ -1,6 +1,19 @@
 電影,#genre#
 $c_start電影$c_end
 *--HTTP*,http://198.98.55.16
+HBO HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/94.ts
+HBO Hits,http://tv.wakds.xyz:8080/live/tangyuan/12345678/96.ts
+FOX ACTION,http://tv.wakds.xyz:8080/live/tangyuan/12345678/98.ts
+FOX Family,http://tv.wakds.xyz:8080/live/tangyuan/12345678/99.ts
+HKC電影一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/10.ts
+靖天映畫,http://tv.wakds.xyz:8080/live/tangyuan/12345678/52.ts
+東森電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/53.ts
+東森洋片,http://tv.wakds.xyz:8080/live/tangyuan/12345678/56.ts
+龍華電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/58.ts
+美亞電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/73.ts
+CATCHPLAY,http://tv.wakds.xyz:8080/live/tangyuan/12345678/74.ts
+緯來電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/77.ts
+爆谷台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/230.ts
 HBO 亞洲,vjms://50.7.253.59:8500/live/cid=261
 FOX電影,vjms://50.7.253.59:8500/live/cid=94
 AXN,vjms://50.7.253.59:8500/live/cid=2
@@ -22,6 +35,11 @@ $c_start探索$c_end
 國家地理HD,vjms://50.7.253.59:8500/live/cid=115
 野生動物頻道,vjms://50.7.253.59:8500/live/cid=263
 TLC旅游生活,vjms://50.7.253.59:8500/live/cid=103
+緯來日本,http://tv.wakds.xyz:8080/live/tangyuan/12345678/76.ts
+afn美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/82.ts
+美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/83.ts
+美食星球,http://tv.wakds.xyz:8080/live/tangyuan/12345678/84.ts
+NG WILD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/165.ts
 
 新聞,#genre#
 $c_start新聞$c_end
@@ -42,9 +60,51 @@ TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
 中天新聞,vjms://50.7.253.59:8500/live/cid=407
 東森財經,vjms://50.7.253.59:8500/live/cid=456
 BBC world news,http://50.7.159.85:61980/myplay/cn_5_15007/index.m3u8
+TVBS新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/14.ts
+中天新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/17.ts
+寰宇新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/231.ts
+東森新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/37.ts
+非凡新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/45.ts
+東森財經新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/88.ts
+壹電視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/89.ts
 
 台灣,#genre#
 $c_start台灣$c_end
+台視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/21.ts
+台視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/22.ts
+中視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/23.ts
+中視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/24.ts
+华视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/232.ts
+民視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/25.ts
+民視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/26.ts
+民視第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/46.ts
+華視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/28.ts
+TVBS歡樂臺,http://tv.wakds.xyz:8080/live/tangyuan/12345678/15.ts
+TVBS HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/16.ts
+八大第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/30.ts
+八大綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/31.ts
+八大娛樂,http://tv.wakds.xyz:8080/live/tangyuan/12345678/33.ts
+三立臺灣,http://tv.wakds.xyz:8080/live/tangyuan/12345678/34.ts
+中天娛樂,http://tv.wakds.xyz:8080/live/tangyuan/12345678/18.ts
+中天綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/19.ts
+東森綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/38.ts
+東森戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/39.ts
+大愛電視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/41.ts
+CN卡通,http://tv.wakds.xyz:8080/live/tangyuan/12345678/43.ts
+龍華偶像,http://tv.wakds.xyz:8080/live/tangyuan/12345678/47.ts
+靖天資訊,http://tv.wakds.xyz:8080/live/tangyuan/12345678/51.ts
+靖天卡通,http://tv.wakds.xyz:8080/live/tangyuan/12345678/55.ts
+ELTA影劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/60.ts
+YOYO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/63.ts
+龍華動畫,http://tv.wakds.xyz:8080/live/tangyuan/12345678/69.ts
+三立戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/70.ts
+寰宇綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/71.ts
+ELTA綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/75.ts
+緯來精采,http://tv.wakds.xyz:8080/live/tangyuan/12345678/78.ts
+緯來體育,http://tv.wakds.xyz:8080/live/tangyuan/12345678/79.ts
+緯來戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/80.ts
+緯來綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/81.ts
+CinemaWorld,http://tv.wakds.xyz:8080/live/tangyuan/12345678/148.ts
 台視,rtmp://59.124.75.156:1935/sat/tv071
 台視,vjms://50.7.253.59:8500/live/cid=453
 中視,rtmp://59.124.75.156:1935/sat/tv091
@@ -84,6 +144,77 @@ TVBS歡樂,rtmp://59.124.75.156:1935/sat/tv421
 
 香港,#genre#
 $c_start香港$c_end
+TV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/149.ts
+TV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/150.ts
+TV3,http://tv.wakds.xyz:8080/live/tangyuan/12345678/151.ts
+TV9,http://tv.wakds.xyz:8080/live/tangyuan/12345678/152.ts
+NTV7,http://tv.wakds.xyz:8080/live/tangyuan/12345678/153.ts
+TV8,http://tv.wakds.xyz:8080/live/tangyuan/12345678/154.ts
+小太陽,http://tv.wakds.xyz:8080/live/tangyuan/12345678/155.ts
+AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/156.ts
+Astro Awani,http://tv.wakds.xyz:8080/live/tangyuan/12345678/157.ts
+Astro RIA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/158.ts
+Astro Awan,http://tv.wakds.xyz:8080/live/tangyuan/12345678/159.ts
+SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/160.ts
+VIVO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/161.ts
+MetroTV,http://tv.wakds.xyz:8080/live/tangyuan/12345678/162.ts
+SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/163.ts
+SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/164.ts
+Astro Oasis,http://tv.wakds.xyz:8080/live/tangyuan/12345678/166.ts
+Astro Ceria,http://tv.wakds.xyz:8080/live/tangyuan/12345678/167.ts
+Astro CIRA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/168.ts
+Astro ,http://tv.wakds.xyz:8080/live/tangyuan/12345678/169.ts
+NAURA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/170.ts
+Hello,http://tv.wakds.xyz:8080/live/tangyuan/12345678/171.ts
+GAAYA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/172.ts
+GO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/173.ts
+ONE,http://tv.wakds.xyz:8080/live/tangyuan/12345678/174.ts
+KBS WORLD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/175.ts
+tvN,http://tv.wakds.xyz:8080/live/tangyuan/12345678/176.ts
+Ohk,http://tv.wakds.xyz:8080/live/tangyuan/12345678/177.ts
+CCM,http://tv.wakds.xyz:8080/live/tangyuan/12345678/179.ts
+Astro WARNA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/180.ts
+Astro RIA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/181.ts
+Astro ABC,http://tv.wakds.xyz:8080/live/tangyuan/12345678/182.ts
+Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/183.ts
+翡翠台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/184.ts
+Astro 双星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/185.ts
+愛奇藝,http://tv.wakds.xyz:8080/live/tangyuan/12345678/186.ts
+Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/187.ts
+Astro 双星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/189.ts
+Astro 小太阳,http://tv.wakds.xyz:8080/live/tangyuan/12345678/190.ts
+TVB星河,http://tv.wakds.xyz:8080/live/tangyuan/12345678/191.ts
+kix,http://tv.wakds.xyz:8080/live/tangyuan/12345678/192.ts
+HBO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/193.ts
+HGTV,http://tv.wakds.xyz:8080/live/tangyuan/12345678/194.ts
+animal plant,http://tv.wakds.xyz:8080/live/tangyuan/12345678/195.ts
+5mbc,http://tv.wakds.xyz:8080/live/tangyuan/12345678/203.ts
+A HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/204.ts
+mbc,http://tv.wakds.xyz:8080/live/tangyuan/12345678/206.ts
+sport,http://tv.wakds.xyz:8080/live/tangyuan/12345678/212.ts
+carton,http://tv.wakds.xyz:8080/live/tangyuan/12345678/214.ts
+momo,http://tv.wakds.xyz:8080/live/tangyuan/12345678/217.ts
+wjg,http://tv.wakds.xyz:8080/live/tangyuan/12345678/218.ts
+news,http://tv.wakds.xyz:8080/live/tangyuan/12345678/219.ts
+BBC news,http://tv.wakds.xyz:8080/live/tangyuan/12345678/225.ts
+Top news,http://tv.wakds.xyz:8080/live/tangyuan/12345678/226.ts
+TVB经典,http://tv.wakds.xyz:8080/live/tangyuan/12345678/229.ts
+﻿鳳凰衛視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/2.ts
+鳳凰香港,http://tv.wakds.xyz:8080/live/tangyuan/12345678/3.ts
+TVB翡翠,http://tv.wakds.xyz:8080/live/tangyuan/12345678/4.ts
+FG5,http://tv.wakds.xyz:8080/live/tangyuan/12345678/5.ts
+TVB無線財經,http://tv.wakds.xyz:8080/live/tangyuan/12345678/6.ts
+TVB明珠,http://tv.wakds.xyz:8080/live/tangyuan/12345678/7.ts
+TVB星河,http://tv.wakds.xyz:8080/live/tangyuan/12345678/8.ts
+Viutv,http://tv.wakds.xyz:8080/live/tangyuan/12345678/9.ts
+卫视卡式,http://tv.wakds.xyz:8080/live/tangyuan/12345678/233.ts
+无线新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/234.ts
+有线新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/235.ts
+NOW新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/236.ts
+凤凰资讯,http://tv.wakds.xyz:8080/live/tangyuan/12345678/237.ts
+凤凰中文,http://tv.wakds.xyz:8080/live/tangyuan/12345678/238.ts
+凤凰资讯,http://tv.wakds.xyz:8080/live/tangyuan/12345678/239.ts
+New tv,http://tv.wakds.xyz:8080/live/tangyuan/12345678/240.ts
 SCL,vjms://50.7.253.59:8500/live/cid=457
 TVB J2,vjms://50.7.253.59:8500/live/cid=363
 TVB J2,vjms://50.7.253.59:8500/live/cid=368
@@ -95,6 +226,101 @@ TVB J2,vjms://50.7.253.59:8500/live/cid=368
 無綫新聞,vjms://50.7.253.59:8500/live/cid=366
 有線娛樂,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 有線財經,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
+CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/241.ts
+CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/242.ts
+CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/243.ts
+CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/244.ts
+CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/245.ts
+CCTV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/246.ts
+CCTV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/247.ts
+CCTV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/248.ts
+CCTV3,http://tv.wakds.xyz:8080/live/tangyuan/12345678/249.ts
+CCTV4,http://tv.wakds.xyz:8080/live/tangyuan/12345678/250.ts
+CCTV4,http://tv.wakds.xyz:8080/live/tangyuan/12345678/251.ts
+CCTV4,http://tv.wakds.xyz:8080/live/tangyuan/12345678/252.ts
+CCTV5,http://tv.wakds.xyz:8080/live/tangyuan/12345678/253.ts
+CCTV5plus,http://tv.wakds.xyz:8080/live/tangyuan/12345678/254.ts
+CCTV5plus,http://tv.wakds.xyz:8080/live/tangyuan/12345678/255.ts
+CCTV5plus,http://tv.wakds.xyz:8080/live/tangyuan/12345678/256.ts
+CCTV6,http://tv.wakds.xyz:8080/live/tangyuan/12345678/257.ts
+CCTV7,http://tv.wakds.xyz:8080/live/tangyuan/12345678/258.ts
+CCTV7,http://tv.wakds.xyz:8080/live/tangyuan/12345678/259.ts
+CCTV8,http://tv.wakds.xyz:8080/live/tangyuan/12345678/260.ts
+CCTV9,http://tv.wakds.xyz:8080/live/tangyuan/12345678/261.ts
+CCTV9,http://tv.wakds.xyz:8080/live/tangyuan/12345678/262.ts
+CCTV10,http://tv.wakds.xyz:8080/live/tangyuan/12345678/263.ts
+CCTV10,http://tv.wakds.xyz:8080/live/tangyuan/12345678/264.ts
+CCTV11,http://tv.wakds.xyz:8080/live/tangyuan/12345678/265.ts
+CCTV11,http://tv.wakds.xyz:8080/live/tangyuan/12345678/266.ts
+CCTV11,http://tv.wakds.xyz:8080/live/tangyuan/12345678/267.ts
+CCTV12,http://tv.wakds.xyz:8080/live/tangyuan/12345678/268.ts
+CCTV12,http://tv.wakds.xyz:8080/live/tangyuan/12345678/269.ts
+CCTV13,http://tv.wakds.xyz:8080/live/tangyuan/12345678/270.ts
+CCTV14,http://tv.wakds.xyz:8080/live/tangyuan/12345678/271.ts
+CCTV14,http://tv.wakds.xyz:8080/live/tangyuan/12345678/272.ts
+CCTV15,http://tv.wakds.xyz:8080/live/tangyuan/12345678/273.ts
+CCTV15,http://tv.wakds.xyz:8080/live/tangyuan/12345678/274.ts
+CCTV15,http://tv.wakds.xyz:8080/live/tangyuan/12345678/275.ts
+CCTV17,http://tv.wakds.xyz:8080/live/tangyuan/12345678/276.ts
+CCTV17,http://tv.wakds.xyz:8080/live/tangyuan/12345678/277.ts
+CETV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/278.ts
+东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/279.ts
+东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/280.ts
+东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/281.ts
+东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/282.ts
+东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/283.ts
+东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/284.ts
+东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/285.ts
+东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/286.ts
+东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/287.ts
+北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/288.ts
+北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/289.ts
+北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/290.ts
+北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/291.ts
+北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/292.ts
+天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/293.ts
+天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/294.ts
+天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/295.ts
+天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/296.ts
+安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/297.ts
+安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/298.ts
+安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/299.ts
+安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/300.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/301.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/302.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/303.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/304.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/305.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/306.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/307.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/308.ts
+广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/309.ts
+江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/310.ts
+江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/311.ts
+江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/312.ts
+江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/313.ts
+江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/314.ts
+江西卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/315.ts
+江西卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/316.ts
+江西卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/317.ts
+河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/318.ts
+河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/319.ts
+河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/320.ts
+河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/321.ts
+浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/188.ts
+浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/322.ts
+浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/323.ts
+浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/324.ts
+浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/325.ts
+浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/326.ts
+深圳卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/327.ts
+深圳卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/328.ts
+深圳卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/329.ts
+湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/330.ts
+湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/331.ts
+湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/332.ts
+湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/333.ts
+湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/334.ts
 
 日本,#genre#
 $c_start日本$c_end
