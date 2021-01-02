@@ -5,6 +5,9 @@ HBO,p5p://174.128.239.250:16871/5f2faab60000da2822ac0474501db664#p5p://0198.0268
 HBO原創,p5p://174.128.239.250:16871/5f37f5130009afbd430e81ff7c677543#p5p://0198.02686.cc:16871/5f37f5130009afbd430e81ff7c677543#P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
 HBO強檔,p5p://174.128.239.250:16871/5f37f49900041ac2430ca40198bc8786#p5p://0198.02686.cc:16871/5f37f49900041ac2430ca40198bc8786#P2p://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 HBO家庭,p5p://174.128.239.250:16871/5f37f3d500011f024309a59d8aa557cb#p5p://0198.02686.cc:16871/5f37f3d500011f024309a59d8aa557cb
+HBO原創,tvbus://6c6yvoNhChui1kDJuVTNne6jdmncQ6BR3BBhPB1dSQKUjmohGqbXJV7G3CGqN
+HBO強檔,tvbus://6Kq4EfNGSDQKVthowXmS7hgdBpnxB5rz2uyd1fURCQiKr9FfdiHU48vH1orek
+HBO家庭,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw
 FOX頻道,p5p://174.128.239.250:16871/5f380ae10009d7fe4363aeb910bc02d4#p5p://0198.02686.cc:16871/5f380ae10009d7fe4363aeb910bc02d4#P2p://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5.ts
 FOX家庭電影,p5p://174.128.239.250:16871/5f37f33400062617430731ffad0889f5#p5p://0198.02686.cc:16871/5f37f33400062617430731ffad0889f5#P2p://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
 FOX優質影院,p5p://174.128.239.250:16871/5f2facfc000be0b622b4e8b621e53cca#p5p://0198.02686.cc:16871/5f2facfc000be0b622b4e8b621e53cca#P2p://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
@@ -35,7 +38,7 @@ CatchPlay電影,tvbus://5KkNqoQ2jK5w7Z4RqFLiDppxWv29gctUDiNm2XTMwuZertsfjNARUPM9
 HBO原創,tvbus://5KQoHz5FKQMhQt1DLMKsmP8qMXvFJ53k7fQ24t7x1h2icmny9UEbhZZRFHZZs
 HBO強檔,tvbus://63B7oVpAhaKPqvbcYyBEvLGx6BZvcoYEHexjuUFF7BRtKiJdKkF7GRydyzZV9
 HBO家庭,tvbus://6FppC5qQ4bw7FFgyzXr2bhJDtD4kabry8CeFCU7zPib6wvRCvUJuJ8pMSVBdD
-星衛HD電影,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
+星衛電影,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
 Fox家庭電影,tvbus://6geZ8Q1FXN7tbD8UFaBcjsSJeDCkXHS6NcEdf7zx6aUfUV1vrRteXCMKvquNA,
 FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
 HITS,P2p://147.135.39.171:9906/5ed1603f0006f0c387755fa818635fdb.ts
@@ -54,6 +57,7 @@ Thrill,P2p://147.135.39.171:9906/5ed15ffd0002a6fa87745cbf1c0f1bd0.ts
 龍祥時代,tvbus://6LPRczsLaX5Zg1GATf3R7g3osN4z6dcFHa5E17sM1keh6C3bc64jpUv2MxMFM
 HBO,tvbus://6GFRVAcUsiqY67h8ePy4DnJvBS2L7onVFvB1g6HRCJZ3n57Ua2pBbENmboqd7
 東森洋片,tvbus://6dTYTD7sdGGBDNnToo42Nig1KvfEw2nNfn1NuWRcYfUGudoiorjJFkHCXV9My
+AXN,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
 AXN,tvbus://5qJ31Et5HmpR7tzVBxYMqHuVsLSzxRJ5Z41iByDvuNhZYCh7FWSaHK1e4vXHG
 好萊塢電影,tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP
 Fox Movies,tvbus://5i2AgQmMgxMdEnaVsmcjNpedPxdUphJdSg9CcuBRRLyh6uTYt5CXnrLBT76vP
@@ -76,8 +80,11 @@ Outdoot,p5p://174.128.239.250:16871/5f37d29d000976d04287e500ad137fca#p5p://0198.
 動物星球,p5p://174.128.239.250:16871/5d1a69da000a2acf11be734ba3f44eda#p5p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda#P2p://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
 國家地理野生,p5p://174.128.239.250:16871/5f37cf4000053244427ac0a15f6658f1#p5p://0198.02686.cc:16871/5f37cf4000053244427ac0a15f6658f1#P2p://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
 探索動力頻道,P2p://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
+探索動力頻道,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 探索科學,p5p://174.128.239.250:16871/5f37d1f3000dbded42854e09147e692f#p5p://0198.02686.cc:16871/5f37d1f3000dbded42854e09147e692f#P2p://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
 國家地理悠人,p5p://174.128.239.250:16871/5f37d0fb00088f51428183f5a24c108a#p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a#P2p://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
+國家地理野生,tvbus://5oRJxmZ4F1mga6wmLhCEkCZDiJWrbydZc9rvG4eynVwHRLqgKW38fVjchKJML
+國家地理悠人,tvbus://5rcm8hf7wJMULKec5YcP7MSV4s7fd7LHhfjpWrBqmoLP4M8Xb4r8DJGSqTTfa
 TLC旅游,p5p://174.128.239.250:16871/5f2e54d6000c0f901d7494527e9c38a8#p5p://0198.02686.cc:16871/5f2e54d6000c0f901d7494527e9c38a8#P2p://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
 國興衛視,p5p://174.128.239.250:16871/5f37c744000be418425b91f78d7bfb6d#p5p://0198.02686.cc:16871/5f37c744000be418425b91f78d7bfb6d#P2p://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 EYE TV旅游,p5p://174.128.239.250:16871/5f37d838000ad036429dcad101035470#p5p://0198.02686.cc:16871/5f37d838000ad036429dcad101035470#P2p://147.135.39.171:9906/5eb5302a000e2110195949c1104f58d8.ts
@@ -89,6 +96,9 @@ Discovery EVE ,P2p://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
 Food Network,P2p://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 Fashion TV,P2p://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
 罪案偵探頻道,p5p://174.128.239.250:16871/5f37c7ab0006a300425d22f785b390d0#p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0#P2p://147.135.39.171:9906/5e9e6e670005ae36c07441c41ce47c56.ts
+探索頻道,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F
+探索亞洲,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
+探索科學,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
 CNN 國際,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
 國家地理頻道,tvbus://5pbKHNJoUr11PKU8cjdTBEtZLXSHiybnhzijoQKe7SwKBibdwtjjHwagjsgfp
 探索頻道,tvbus://6Txg1fvUdyUvVQMo9yNXBTh1uwokDAqG4fD9X8Ww6tthHGKtUMjAy1ARQRyB7
@@ -104,6 +114,7 @@ EYE TV旅遊,tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAbmKJ
 探索科學,tvbus://6CCSwQ923yP9J91sY94fxSeg9ks8gsnccVJkSKMFZCiU8UpmgToYYF5feyWqF
 亞洲美食頻道,tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC
 探索亞洲,tvbus://67zjm3ScZsgzCy1q6td5sR6NRSskv1cj3fUwEyZbqL84VAtQTYRik6ukRJacM
+歷史頻道,tvbus://5e5WsYxPHbGNzugLb4WNbiJx523VzgDtGXd9L44e5YUKwLuKHLgR4R3xdPYYZ
 歷史頻道2,tvbus://5L1Qtycxg7RW5cwZtEmTjCrcgq3Zb65g5iqEEAUmkmEkXG9Dzoori39SwjrQL,
 國家地理野生頻道,tvbus://5mCzngrHffNW5Vg78ggmwUbrPpNeSNbtERQz7HefJp33QgcNocfMEnjhspuEg
 國家地理悠人頻道,tvbus://5m7TtafZKHo75EiC1uq3Sh6A7iqESKd6XH6oTRoiuZEaoxNX4zmfQ6zNF1t4G
@@ -195,6 +206,7 @@ MTV,P2p://147.135.39.171:9906/5e975a500008d0a0a4cdb69671c34c21.ts
 高點綜合,P2p://147.135.39.171:9906/5ede79e400080386baa19dd37ef10dd6.ts
 法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist w1702070444.m3u8
 法國模特,https://bozztv.com/36bay2/gin/giniko modelinc 2000kb 36bay2/tracks-v1a1/mono.m3u8
+壹電視綜合,tvbus://6JoHPN2vJPd74ovcY8E7CegLmiCbQjEYzrRVVkihK18qTR8giDMX1eqzQaGNn
 中視經典,tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
 中視菁采,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
 台視,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
@@ -291,6 +303,7 @@ TVB翡翠(備),P2p://147.135.39.171:9906/5e9e8063000969abc0ba831e7a0351c1.ts
 有線體育Plus 2,P2p://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
 VIUTV,P2p://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
 VIUTV6,P2p://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
+卫视卡式台,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
 
 央視衛視,#genre#
 $c_start🍌央視衛視🍌$c_end
