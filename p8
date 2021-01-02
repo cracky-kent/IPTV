@@ -1,5 +1,5 @@
 電影,#genre#
-$c start🍌電影🍌$c end
+$c_start🍌電影🍌$c_end
 *--P5P*,P2p://147.135.39.171:9906
 HBO,p5p://174.128.239.250:16871/5f2faab60000da2822ac0474501db664#p5p://0198.02686.cc:16871/5f2faab60000da2822ac0474501db664#P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 HBO原創,p5p://174.128.239.250:16871/5f37f5130009afbd430e81ff7c677543#p5p://0198.02686.cc:16871/5f37f5130009afbd430e81ff7c677543#P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
@@ -65,7 +65,7 @@ FOX動作電影,tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT92
 華納電影,tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
 
 🌺探索🌺,#genre#
-$c start🍌探索🍌$c end
+$c_start🍌探索🍌$c_end
 BBC Earth,p5p://174.128.239.250:16871/5f37e7c6000e815e42da8e731be212cf#p5p://0198.02686.cc:16871/5f37e7c6000e815e42da8e731be212cf#P2p://147.135.39.171:9906/5e7cf264000516d63da78cde4a2240a2.ts
 Outdoot,p5p://174.128.239.250:16871/5f37d29d000976d04287e500ad137fca#p5p://0198.02686.cc:16871/5f37d29d000976d04287e500ad137fca#P2p://147.135.39.171:9906/5eb2a08a0005f30e0f583eae16ae002e.ts
 亞洲旅遊,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
@@ -109,7 +109,7 @@ EYE TV旅遊,tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAbmKJ
 國家地理悠人頻道,tvbus://5m7TtafZKHo75EiC1uq3Sh6A7iqESKd6XH6oTRoiuZEaoxNX4zmfQ6zNF1t4G
 
 新聞,#genre#
-$c start🍌新聞🍌$c end
+$c_start🍌新聞🍌$c_end
 TVBS新聞,p5p://174.128.239.250:16871/5db05ca40003699da50b30c835589bf5#p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5#P2p://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 三立新聞,p5p://174.128.239.250:16871/5d1a69ad0006fe8711bdc2b3f14f64be#p5p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be#P2p://147.135.39.171:9906/5eb29a60000cb7220f402c5343fa7df9.ts
 三立財經,p5p://174.128.239.250:16871/5f3809ea0001f912435fe7ddcd7dafe7#p5p://0198.02686.cc:16871/5f3809ea0001f912435fe7ddcd7dafe7#P2p://147.135.39.171:9906/5ea13bb00007ef12cb662788049d46cf.ts
@@ -141,7 +141,7 @@ Bloomberg TV,tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB
 
 
 台灣,#genre#
-$c start🍌台灣🍌$c end
+$c_start🍌台灣🍌$c_end
 中視,p5p://174.128.239.250:16871/5f3656bb000a656c3cbbfa6d262e3d24#p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24#P2p://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts
 台視,p5p://174.128.239.250:16871/5f2e53b0000e6e031d70187e387dbafc#p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc#P2p://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts
 民視,p5p://174.128.239.250:16871/5d8f08b60007eeea22db58419a492c10#p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10#P2p://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7.ts
@@ -258,7 +258,7 @@ Fight Sport ,tvbus://5bPPQaxBZozxSDVUDR32yxFaKRyMCuFfDwF4e4bkbXgUkzMcgLAvCxtCwVR
 民視台灣,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
 
 港澳,#genre#
-$c start🍌港澳🍌$c end
+$c_start🍌港澳🍌$c_end
 鳳凰中文,p5p://174.128.239.250:16871/5d1a69d80007b1db11be6ad9e2339543#p5p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543#P2p://147.135.39.171:9906/5ea13baf0004cbf3cb6622c5369a374f.ts
 鳳凰資訊,p5p://174.128.239.250:16871/5f2cfb640007e2c1182f2df12d0ba74b#p5p://0198.02686.cc:16871/5f2cfb640007e2c1182f2df12d0ba74b#P2p://147.135.39.171:9906/5ea13bae000e9045cb66215e35896f97.ts
 鳳凰香港,p5p://174.128.239.250:16871/5d1a69d6000505cd11be625a06b24e50#p5p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50#P2p://147.135.39.171:9906/5ea13baf000ac75dcb66245c746d1eb5.ts
@@ -293,7 +293,7 @@ VIUTV,P2p://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
 VIUTV6,P2p://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
 
 央視衛視,#genre#
-$c start🍌央視衛視🍌$c end
+$c_start🍌央視衛視🍌$c_end
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
@@ -370,7 +370,7 @@ CHC動作電影,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5K
 084,http://36.37.252.114:888/Apple/OneTV-084/playlist.m3u8
 中85,http://36.37.252.114:888/Apple/OneTV-085/playlist.m3u8
 新馬,#genre#
-$c start🍌新馬🍌$c end
+$c_start🍌新馬🍌$c_end
 全佳,P2p://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
 雙星,P2p://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
 歡喜,P2p://147.135.39.171:9906/5e98aade000b7c3ca9f062024ca07104.ts
@@ -765,7 +765,7 @@ CTV9,tvbus://62sKmLopCUohviRGrtnv2sD37k62ba8TmDVoNDS5JbxtXyyCt8Gxq1Q2bBnDJ
 bayontv,tvbus://3sr96jjB4TWbEokjVpwWNViYEAafKhkKwFeMQx9uEji1ygcBgjk7HniLjTb3F
 
 日韓,#genre#
-$c start🍌日韓🍌$c end
+$c_start🍌日韓🍌$c_end
 読売テレビ,p5p://174.128.239.250:16871/5d414f6d00024d6a75f7ac02caeafefc#p5p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc#P2p://147.135.39.171:9906/5f0a0d8f000cfa8c64dac9bf624b4af1.ts
 NHK総合-大阪,p5p://174.128.239.250:16871/5d414f6c00077b3d75f7a96d657b07ca#p5p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca
 テレビ朝日,p5p://174.128.239.250:16871/5d414f6a000606ea75f7a13e185ff3ac#p5p://0198.02686.cc:16871/5d414f6a000606ea75f7a13e185ff3ac#P2p://147.135.39.171:9906/5f0a0a67000da20b64ce759e0e5254fc.ts
@@ -858,7 +858,7 @@ Channel 3 ,P2p://147.135.39.171:9906/5eab16a3000493d0f1e57e3551bf4dcd.ts
 PPTV ,P2p://147.135.39.171:9906/5eab17360001d134f1e7bbb1443657e0.ts
 ,P2p://147.135.39.171:9906/5d0288c6000eee53e31e7d3b04d62f5e.ts
 美加,#genre#
-$c start🍌美加🍌$c end
+$c_start🍌美加🍌$c_end
 Lingua ,P2p://147.135.39.171:9906/5ec62ecd0000579e5bbc15d8505d3e65.ts
 BBC Lifestyle,P2p://147.135.39.171:9906/5e7cf26300079eee3da7899262bc4841.ts
 BBC WORLD NEWS,P2p://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
@@ -905,7 +905,7 @@ CNBC,P2p://147.135.39.171:9906/5eea255e0002c094e83782a03165180c.ts
 Fox News,P2p://147.135.39.171:9906/5eec88f8000c8d8ff18c96b064502b37.ts
 HGTV,P2p://147.135.39.171:9906/5eb535c70006670d196f350514163185.ts
 泰國,#genre#
-$c start🍌泰國🍌$c end
+$c_start🍌泰國🍌$c_end
 MTV,http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
 泰01,http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
 泰02,http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
@@ -982,7 +982,7 @@ MTV,http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
 泰114,http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 泰117,http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
 CR,#genre#
-$c start🍌CR 0🍌$c end
+$c_start🍌CR 0🍌$c_end
 香蕉,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f#p5p://104.194.8.20:20012/5f3f24c1000af48d0a277f8997de9d5f
 驚艷電影,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2#p5p://104.194.8.20:20012/5f3f25da000e99280a2bca20680560c2
 潘多拉粉紅,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31#p5p://104.194.8.20:20012/5f3f26e00005c41d0a2fc74dc6d2ac31#p5p://174.128.239.250:16871/5f1d24af0004642c099932bfbe58004b#p5p://0198.02686.cc:16871/5f1d24af0004642c099932bfbe58004b
