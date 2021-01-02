@@ -1,19 +1,45 @@
 電影,#genre#
 $c_start電影$c_end
 *--HTTP*,http://198.98.55.16
-HBO HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/94.ts
-HBO Hits,http://tv.wakds.xyz:8080/live/tangyuan/12345678/96.ts
-FOX ACTION,http://tv.wakds.xyz:8080/live/tangyuan/12345678/98.ts
-FOX Family,http://tv.wakds.xyz:8080/live/tangyuan/12345678/99.ts
-HKC電影一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/10.ts
-靖天映畫,http://tv.wakds.xyz:8080/live/tangyuan/12345678/52.ts
-東森電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/53.ts
-東森洋片,http://tv.wakds.xyz:8080/live/tangyuan/12345678/56.ts
-龍華電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/58.ts
-美亞電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/73.ts
-CATCHPLAY,http://tv.wakds.xyz:8080/live/tangyuan/12345678/74.ts
-緯來電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/77.ts
-爆谷台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/230.ts
+HBO HD,http://158.247.219.148/x/x.php?x=332
+HBO Hits,http://158.247.219.148/x/x.php?x=330
+HBO Family,http://158.247.219.148/x/x.php?x=331
+HBOSignature,http://158.247.219.148/x/x.php?x=329
+FOX MOVIES,http://158.247.219.148/x/x.php?x=387
+FOX Family,http://158.247.219.148/x/x.php?x=383
+FOX ACTION,http://158.247.219.148/x/x.php?x=385
+FOX CRIME,http://158.247.219.148/x/x.php?x=386
+CineMAX,http://158.247.219.148/x/x.php?x=346
+FOX,http://158.247.219.148/x/x.php?x=384
+CATCHPLAY,http://158.247.219.148/x/x.php?x=362
+衛視西片,http://158.247.219.148/x/x.php?x=369
+東森電影,http://158.247.219.148/x/x.php?x=350
+龍華經典,http://158.247.219.148/x/x.php?x=100
+東森洋片,http://158.247.219.148/x/x.php?x=1128
+AXN亞洲,http://158.247.219.148/x/x.php?x=1066
+AXN臺灣,http://158.247.219.148/x/x.php?x=423
+龍翔時代,http://158.247.219.148/x/x.php?x=373
+靖天國際,http://158.247.219.148/x/x.php?x=345
+衛視電影,http://158.247.219.148/x/x.php?x=93
+星衛電影,http://158.247.219.148/x/x.php?x=84
+星衛電影,http://158.247.219.148/x/x.php?x=496
+澳門蓮花,http://158.247.219.148/x/x.php?x=70
+HKC電影一台,http://158.247.219.148/x/x.php?x=354
+CinemaWorld,http://158.247.219.148/x/x.php?x=84
+光影歐洲,http://158.247.219.148/x/x.php?x=1157
+Blue Ant Extreme,http://158.247.219.148/x/x.php?x=103
+緯來電影,http://158.247.219.148/x/x.php?x=96
+華納電影,http://158.247.219.148/x/x.php?x=83
+美亞電影,http://158.247.219.148/x/x.php?x=375
+天映經典,http://158.247.219.148/x/x.php?x=328
+好萊塢電影,http://158.247.219.148/x/x.php?x=37
+靖天電影,http://158.247.219.148/x/x.php?x=110
+thrill,http://158.247.219.148/x/x.php?x=18
+靖天映畫,http://158.247.219.148/x/x.php?x=349
+影迷數位電影,http://158.247.219.148/x/x.php?x=497
+龍華電影,http://158.247.219.148/x/x.php?x=311
+爆穀台,http://158.247.219.148/x/x.php?x=152
+AMC,http://158.247.219.148/x/x.php?x=92
 HBO 亞洲,vjms://50.7.253.59:8500/live/cid=261
 FOX電影,vjms://50.7.253.59:8500/live/cid=94
 AXN,vjms://50.7.253.59:8500/live/cid=2
@@ -35,11 +61,41 @@ $c_start探索$c_end
 國家地理HD,vjms://50.7.253.59:8500/live/cid=115
 野生動物頻道,vjms://50.7.253.59:8500/live/cid=263
 TLC旅游生活,vjms://50.7.253.59:8500/live/cid=103
-緯來日本,http://tv.wakds.xyz:8080/live/tangyuan/12345678/76.ts
-afn美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/82.ts
-美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/83.ts
-美食星球,http://tv.wakds.xyz:8080/live/tangyuan/12345678/84.ts
-NG WILD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/165.ts
+BBC EARTH,http://158.247.219.148/x/x.php?x=97
+亞洲旅遊,http://158.247.219.148/x/x.php?x=77
+緯來日本,http://158.247.219.148/x/x.php?x=337
+緯來日本,http://158.247.219.148/x/x.php?x=46
+國家野生,http://158.247.219.148/x/x.php?x=1038
+動物星球,http://158.247.219.148/x/x.php?x=367
+探索亞洲,http://158.247.219.148/x/x.php?x=306
+探索頻道,http://158.247.219.148/x/x.php?x=1035
+國家地理,http://158.247.219.148/x/x.php?x=302
+國家地理悠人,http://158.247.219.148/x/x.php?x=114
+國家人文,http://158.247.219.148/x/x.php?x=334
+探索動力DMAX,http://158.247.219.148/x/x.php?x=335
+探索科學,http://158.247.219.148/x/x.php?x=343
+國興衛視,http://158.247.219.148/x/x.php?x=65
+民視旅遊,http://158.247.219.148/x/x.php?x=78
+cnex,http://158.247.219.148/x/x.php?x=91
+探索EVE,http://158.247.219.148/x/x.php?x=1036
+LUXE,http://158.247.219.148/x/x.php?x=112
+BBC Lifestyle,http://158.247.219.148/x/x.php?x=424
+SMART知識,http://158.247.219.148/x/x.php?x=352
+TLC旅遊生活,http://158.247.219.148/x/x.php?x=102
+Travel Channel,http://158.247.219.148/x/x.php?x=63
+History 1,http://158.247.219.148/x/x.php?x=116
+History 2,http://158.247.219.148/x/x.php?x=1158
+CI罪案偵查,http://158.247.219.148/x/x.php?x=1159
+爆笑頻道,http://158.247.219.148/x/x.php?x=85
+達文西頻道,http://158.247.219.148/x/x.php?x=68
+Pet Club,http://158.247.219.148/x/x.php?x=368
+法國時裝,http://158.247.219.148/x/x.php?x=113
+幸福空間居家,http://158.247.219.148/x/x.php?x=61
+Medici Arts,http://158.247.219.148/x/x.php?x=188
+Outdoor(en),http://158.247.219.148/x/x.php?x=374
+AFN,http://158.247.219.148/x/x.php?x=195
+AFN,http://158.247.219.148/x/x.php?x=307
+BBC CBeebies,http://158.247.219.148/x/x.php?x=115
 
 新聞,#genre#
 $c_start新聞$c_end
@@ -60,51 +116,107 @@ TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
 中天新聞,vjms://50.7.253.59:8500/live/cid=407
 東森財經,vjms://50.7.253.59:8500/live/cid=456
 BBC world news,http://50.7.159.85:61980/myplay/cn_5_15007/index.m3u8
-TVBS新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/14.ts
-中天新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/17.ts
-寰宇新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/231.ts
-東森新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/37.ts
-非凡新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/45.ts
-東森財經新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/88.ts
-壹電視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/89.ts
+台視新聞,http://158.247.219.148/x/x.php?x=1
+台視財經,http://158.247.219.148/x/x.php?x=300
+華視新聞,http://158.247.219.148/x/x.php?x=6
+中視新聞,http://158.247.219.148/x/x.php?x=7
+民視新聞,http://158.247.219.148/x/x.php?x=13
+TVBS新聞,http://158.247.219.148/x/x.php?x=2
+中天新聞,http://158.247.219.148/x/x.php?x=3
+三立LIVE新聞,http://158.247.219.148/x/x.php?x=4
+iNEWS,http://158.247.219.148/x/x.php?x=8
+東森新聞,http://158.247.219.148/x/x.php?x=9
+東森財經新聞,http://158.247.219.148/x/x.php?x=12
+寰宇新聞,http://158.247.219.148/x/x.php?x=304
+寰宇臺灣新聞,http://158.247.219.148/x/x.php?x=87
+環宇財經,http://158.247.219.148/x/x.php?x=320
+年代新聞,http://158.247.219.148/x/x.php?x=236
+壹電視新聞,http://158.247.219.148/x/x.php?x=303
+非凡新聞,http://158.247.219.148/x/x.php?x=314
+非凡商業,http://158.247.219.148/x/x.php?x=187
+美國唐人街台,http://158.247.219.148/x/x.php?x=43
+CBN News,http://158.247.219.148/x/x.php?x=499
+Bloomberg Europe,http://158.247.219.148/x/x.php?x=370
+VOA美國之音,http://158.247.219.148/x/x.php?x=495
+半島國際新聞,http://158.247.219.148/x/x.php?x=494
 
 台灣,#genre#
 $c_start台灣$c_end
-台視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/21.ts
-台視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/22.ts
-中視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/23.ts
-中視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/24.ts
-华视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/232.ts
-民視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/25.ts
-民視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/26.ts
-民視第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/46.ts
-華視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/28.ts
-TVBS歡樂臺,http://tv.wakds.xyz:8080/live/tangyuan/12345678/15.ts
-TVBS HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/16.ts
-八大第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/30.ts
-八大綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/31.ts
-八大娛樂,http://tv.wakds.xyz:8080/live/tangyuan/12345678/33.ts
-三立臺灣,http://tv.wakds.xyz:8080/live/tangyuan/12345678/34.ts
-中天娛樂,http://tv.wakds.xyz:8080/live/tangyuan/12345678/18.ts
-中天綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/19.ts
-東森綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/38.ts
-東森戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/39.ts
-大愛電視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/41.ts
-CN卡通,http://tv.wakds.xyz:8080/live/tangyuan/12345678/43.ts
-龍華偶像,http://tv.wakds.xyz:8080/live/tangyuan/12345678/47.ts
-靖天資訊,http://tv.wakds.xyz:8080/live/tangyuan/12345678/51.ts
-靖天卡通,http://tv.wakds.xyz:8080/live/tangyuan/12345678/55.ts
-ELTA影劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/60.ts
-YOYO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/63.ts
-龍華動畫,http://tv.wakds.xyz:8080/live/tangyuan/12345678/69.ts
-三立戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/70.ts
-寰宇綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/71.ts
-ELTA綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/75.ts
-緯來精采,http://tv.wakds.xyz:8080/live/tangyuan/12345678/78.ts
-緯來體育,http://tv.wakds.xyz:8080/live/tangyuan/12345678/79.ts
-緯來戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/80.ts
-緯來綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/81.ts
-CinemaWorld,http://tv.wakds.xyz:8080/live/tangyuan/12345678/148.ts
+民視,http://158.247.219.148/x/x.php?x=26
+民視,http://158.247.219.148/x/x.php?x=336
+華視,http://158.247.219.148/x/x.php?x=32
+華視,http://158.247.219.148/x/x.php?x=327
+中視,http://158.247.219.148/x/x.php?x=28
+中視,http://158.247.219.148/x/x.php?x=333
+中視菁采台,http://158.247.219.148/x/x.php?x=74
+中視經典,http://158.247.219.148/x/x.php?x=185
+台視,http://158.247.219.148/x/x.php?x=27
+台視,http://158.247.219.148/x/x.php?x=326
+臺視綜合,http://158.247.219.148/x/x.php?x=309
+民視第一台,http://158.247.219.148/x/x.php?x=34
+民視台灣,http://158.247.219.148/x/x.php?x=36
+民視影劇,http://158.247.219.148/x/x.php?x=1023
+民視綜藝,http://158.247.219.148/x/x.php?x=98
+公視,http://158.247.219.148/x/x.php?x=86
+公視,http://158.247.219.148/x/x.php?x=361
+公視台語,http://158.247.219.148/x/x.php?x=58
+公視戲劇,http://158.247.219.148/x/x.php?x=69
+大愛電視,http://158.247.219.148/x/x.php?x=184
+大愛二臺,http://158.247.219.148/x/x.php?x=197
+三立都會,http://158.247.219.148/x/x.php?x=38
+三立都會,http://158.247.219.148/x/x.php?x=1001
+三立臺灣,http://158.247.219.148/x/x.php?x=35
+三立臺灣,http://158.247.219.148/x/x.php?x=21
+三立綜合,http://158.247.219.148/x/x.php?x=315
+JET綜合,http://158.247.219.148/x/x.php?x=41
+壹電視綜合,http://158.247.219.148/x/x.php?x=305
+八大綜合,http://158.247.219.148/x/x.php?x=90
+八大綜合,http://158.247.219.148/x/x.php?x=325
+八大第一,http://158.247.219.148/x/x.php?x=318
+八大精彩,http://158.247.219.148/x/x.php?x=1024
+八大娛樂,http://158.247.219.148/x/x.php?x=105
+TVBS HD,http://158.247.219.148/x/x.php?x=88
+TVBS HD,http://158.247.219.148/x/x.php?x=16
+TVBS精采,http://158.247.219.148/x/x.php?x=66
+TVBS歡樂臺,http://158.247.219.148/x/x.php?x=40
+緯來育樂,http://158.247.219.148/x/x.php?x=312
+緯來育樂,http://158.247.219.148/x/x.php?x=338
+緯來綜合,http://158.247.219.148/x/x.php?x=340
+中天綜合,http://158.247.219.148/x/x.php?x=54
+中天亞洲,http://158.247.219.148/x/x.php?x=322
+中天娛樂,http://158.247.219.148/x/x.php?x=324
+寰宇綜合,http://158.247.219.148/x/x.php?x=190
+華藝綜合,http://158.247.219.148/x/x.php?x=310
+原住民電視,http://158.247.219.148/x/x.php?x=95
+高點綜合,http://158.247.219.148/x/x.php?x=99
+星衛娛樂,http://158.247.219.148/x/x.php?x=89
+東森超視,http://158.247.219.148/x/x.php?x=80
+東森綜合,http://158.247.219.148/x/x.php?x=372
+東森戲劇,http://158.247.219.148/x/x.php?x=321
+衛視中文,http://158.247.219.148/x/x.php?x=342
+八大戲劇,http://158.247.219.148/x/x.php?x=81
+三立戲劇,http://158.247.219.148/x/x.php?x=64
+緯來戲劇,http://158.247.219.148/x/x.php?x=339
+龍華戲劇,http://158.247.219.148/x/x.php?x=365
+靖洋戲劇,http://158.247.219.148/x/x.php?x=319
+采昌影劇,http://158.247.219.148/x/x.php?x=62
+靖天戲劇,http://158.247.219.148/x/x.php?x=109
+靖天綜合,http://158.247.219.148/x/x.php?x=308
+靖天育樂,http://158.247.219.148/x/x.php?x=1029
+靖天日本,http://158.247.219.148/x/x.php?x=108
+靖天歡樂,http://158.247.219.148/x/x.php?x=51
+靖天資訊,http://158.247.219.148/x/x.php?x=49
+龍華日韓,http://158.247.219.148/x/x.php?x=382
+龍華偶像,http://158.247.219.148/x/x.php?x=347
+韓國娛樂台,http://158.247.219.148/x/x.php?x=73
+客家電視,http://158.247.219.148/x/x.php?x=76
+豬哥亮歌廳秀,http://158.247.219.148/x/x.php?x=75
+ELTA影劇,http://158.247.219.148/x/x.php?x=500
+ELTA娛樂台,http://158.247.219.148/x/x.php?x=351
+ELTA綜合,http://158.247.219.148/x/x.php?x=1137
+EYE TV戲劇,http://158.247.219.148/x/x.php?x=191
+MTV,http://158.247.219.148/x/x.php?x=106
+CLASSICA 古典樂,http://158.247.219.148/x/x.php?x=1027
 台視,rtmp://59.124.75.156:1935/sat/tv071
 台視,vjms://50.7.253.59:8500/live/cid=453
 中視,rtmp://59.124.75.156:1935/sat/tv091
@@ -144,77 +256,44 @@ TVBS歡樂,rtmp://59.124.75.156:1935/sat/tv421
 
 香港,#genre#
 $c_start香港$c_end
-TV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/149.ts
-TV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/150.ts
-TV3,http://tv.wakds.xyz:8080/live/tangyuan/12345678/151.ts
-TV9,http://tv.wakds.xyz:8080/live/tangyuan/12345678/152.ts
-NTV7,http://tv.wakds.xyz:8080/live/tangyuan/12345678/153.ts
-TV8,http://tv.wakds.xyz:8080/live/tangyuan/12345678/154.ts
-小太陽,http://tv.wakds.xyz:8080/live/tangyuan/12345678/155.ts
-AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/156.ts
-Astro Awani,http://tv.wakds.xyz:8080/live/tangyuan/12345678/157.ts
-Astro RIA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/158.ts
-Astro Awan,http://tv.wakds.xyz:8080/live/tangyuan/12345678/159.ts
-SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/160.ts
-VIVO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/161.ts
-MetroTV,http://tv.wakds.xyz:8080/live/tangyuan/12345678/162.ts
-SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/163.ts
-SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/164.ts
-Astro Oasis,http://tv.wakds.xyz:8080/live/tangyuan/12345678/166.ts
-Astro Ceria,http://tv.wakds.xyz:8080/live/tangyuan/12345678/167.ts
-Astro CIRA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/168.ts
-Astro ,http://tv.wakds.xyz:8080/live/tangyuan/12345678/169.ts
-NAURA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/170.ts
-Hello,http://tv.wakds.xyz:8080/live/tangyuan/12345678/171.ts
-GAAYA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/172.ts
-GO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/173.ts
-ONE,http://tv.wakds.xyz:8080/live/tangyuan/12345678/174.ts
-KBS WORLD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/175.ts
-tvN,http://tv.wakds.xyz:8080/live/tangyuan/12345678/176.ts
-Ohk,http://tv.wakds.xyz:8080/live/tangyuan/12345678/177.ts
-CCM,http://tv.wakds.xyz:8080/live/tangyuan/12345678/179.ts
-Astro WARNA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/180.ts
-Astro RIA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/181.ts
-Astro ABC,http://tv.wakds.xyz:8080/live/tangyuan/12345678/182.ts
-Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/183.ts
-翡翠台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/184.ts
-Astro 双星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/185.ts
-愛奇藝,http://tv.wakds.xyz:8080/live/tangyuan/12345678/186.ts
-Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/187.ts
-Astro 双星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/189.ts
-Astro 小太阳,http://tv.wakds.xyz:8080/live/tangyuan/12345678/190.ts
-TVB星河,http://tv.wakds.xyz:8080/live/tangyuan/12345678/191.ts
-kix,http://tv.wakds.xyz:8080/live/tangyuan/12345678/192.ts
-HBO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/193.ts
-HGTV,http://tv.wakds.xyz:8080/live/tangyuan/12345678/194.ts
-animal plant,http://tv.wakds.xyz:8080/live/tangyuan/12345678/195.ts
-5mbc,http://tv.wakds.xyz:8080/live/tangyuan/12345678/203.ts
-A HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/204.ts
-mbc,http://tv.wakds.xyz:8080/live/tangyuan/12345678/206.ts
-sport,http://tv.wakds.xyz:8080/live/tangyuan/12345678/212.ts
-carton,http://tv.wakds.xyz:8080/live/tangyuan/12345678/214.ts
-momo,http://tv.wakds.xyz:8080/live/tangyuan/12345678/217.ts
-wjg,http://tv.wakds.xyz:8080/live/tangyuan/12345678/218.ts
-news,http://tv.wakds.xyz:8080/live/tangyuan/12345678/219.ts
-BBC news,http://tv.wakds.xyz:8080/live/tangyuan/12345678/225.ts
-Top news,http://tv.wakds.xyz:8080/live/tangyuan/12345678/226.ts
-TVB经典,http://tv.wakds.xyz:8080/live/tangyuan/12345678/229.ts
-﻿鳳凰衛視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/2.ts
-鳳凰香港,http://tv.wakds.xyz:8080/live/tangyuan/12345678/3.ts
-TVB翡翠,http://tv.wakds.xyz:8080/live/tangyuan/12345678/4.ts
-FG5,http://tv.wakds.xyz:8080/live/tangyuan/12345678/5.ts
-TVB無線財經,http://tv.wakds.xyz:8080/live/tangyuan/12345678/6.ts
-TVB明珠,http://tv.wakds.xyz:8080/live/tangyuan/12345678/7.ts
-TVB星河,http://tv.wakds.xyz:8080/live/tangyuan/12345678/8.ts
-Viutv,http://tv.wakds.xyz:8080/live/tangyuan/12345678/9.ts
-卫视卡式,http://tv.wakds.xyz:8080/live/tangyuan/12345678/233.ts
-无线新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/234.ts
-有线新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/235.ts
-NOW新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/236.ts
-凤凰资讯,http://tv.wakds.xyz:8080/live/tangyuan/12345678/237.ts
-凤凰中文,http://tv.wakds.xyz:8080/live/tangyuan/12345678/238.ts
-凤凰资讯,http://tv.wakds.xyz:8080/live/tangyuan/12345678/239.ts
-New tv,http://tv.wakds.xyz:8080/live/tangyuan/12345678/240.ts
+TVB翡翠,http://158.247.219.148/x/x.php?x=390
+TVB翡翠,http://158.247.219.148/x/x.php?x=30
+TVB翡翠,http://158.247.219.148/x/x.php?x=1084
+TVB明珠,http://158.247.219.148/x/x.php?x=391
+TVB星河,http://158.247.219.148/x/x.php?x=1079
+TVB經典,http://158.247.219.148/x/x.php?x=1083
+衛視卡式臺,http://158.247.219.148/x/x.php?x=1085
+無線新聞,http://158.247.219.148/x/x.php?x=394
+無線新聞,http://158.247.219.148/x/x.php?x=45
+有線新聞,http://158.247.219.148/x/x.php?x=395
+Viutv,http://158.247.219.148/x/x.php?x=72
+VTV4,http://158.247.219.148/x/x.php?x=341
+TVB無線財經,http://158.247.219.148/x/x.php?x=393
+TVBJ2,http://158.247.219.148/x/x.php?x=392
+香港開電視,http://158.247.219.148/x/x.php?x=17
+NOW新聞,http://158.247.219.148/x/x.php?x=396
+NOW財經,http://158.247.219.148/x/x.php?x=111
+NOW直播,http://158.247.219.148/x/x.php?x=400
+鳳凰香港,http://158.247.219.148/x/x.php?x=358
+鳳凰衛視,http://158.247.219.148/x/x.php?x=357
+鳳凰資訊,http://158.247.219.148/x/x.php?x=359
+鳳凰電影,http://158.247.219.148/x/x.php?x=19
+耀才财经,http://158.247.219.148/x/x.php?x=355
+港臺32,http://158.247.219.148/x/x.php?x=397
+港臺31,http://158.247.219.148/x/x.php?x=353
+新時代多倫多,http://158.247.219.148/x/x.php?x=1031
+新時代多倫多2,http://158.247.219.148/x/x.php?x=1033
+新時代温哥華,http://158.247.219.148/x/x.php?x=1032
+HKC娛樂,http://158.247.219.148/x/x.php?x=360
+HKS,http://158.247.219.148/x/x.php?x=399
+澳視澳門,http://158.247.219.148/x/x.php?x=364
+澳視澳門,http://158.247.219.148/x/x.php?x=23
+澳視葡語,http://158.247.219.148/x/x.php?x=24
+澳門衛星,http://158.247.219.148/x/x.php?x=29
+體育台,http://158.247.219.148/x/x.php?x=401
+18台,http://158.247.219.148/x/x.php?x=44
+TVB功夫,http://158.247.219.148/x/x.php?x=356
+Viutv 6,http://158.247.219.148/x/x.php?x=176
 SCL,vjms://50.7.253.59:8500/live/cid=457
 TVB J2,vjms://50.7.253.59:8500/live/cid=363
 TVB J2,vjms://50.7.253.59:8500/live/cid=368
@@ -226,104 +305,496 @@ TVB J2,vjms://50.7.253.59:8500/live/cid=368
 無綫新聞,vjms://50.7.253.59:8500/live/cid=366
 有線娛樂,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 有線財經,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
-CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/241.ts
-CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/242.ts
-CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/243.ts
-CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/244.ts
-CCTV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/245.ts
-CCTV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/246.ts
-CCTV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/247.ts
-CCTV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/248.ts
-CCTV3,http://tv.wakds.xyz:8080/live/tangyuan/12345678/249.ts
-CCTV4,http://tv.wakds.xyz:8080/live/tangyuan/12345678/250.ts
-CCTV4,http://tv.wakds.xyz:8080/live/tangyuan/12345678/251.ts
-CCTV4,http://tv.wakds.xyz:8080/live/tangyuan/12345678/252.ts
-CCTV5,http://tv.wakds.xyz:8080/live/tangyuan/12345678/253.ts
-CCTV5plus,http://tv.wakds.xyz:8080/live/tangyuan/12345678/254.ts
-CCTV5plus,http://tv.wakds.xyz:8080/live/tangyuan/12345678/255.ts
-CCTV5plus,http://tv.wakds.xyz:8080/live/tangyuan/12345678/256.ts
-CCTV6,http://tv.wakds.xyz:8080/live/tangyuan/12345678/257.ts
-CCTV7,http://tv.wakds.xyz:8080/live/tangyuan/12345678/258.ts
-CCTV7,http://tv.wakds.xyz:8080/live/tangyuan/12345678/259.ts
-CCTV8,http://tv.wakds.xyz:8080/live/tangyuan/12345678/260.ts
-CCTV9,http://tv.wakds.xyz:8080/live/tangyuan/12345678/261.ts
-CCTV9,http://tv.wakds.xyz:8080/live/tangyuan/12345678/262.ts
-CCTV10,http://tv.wakds.xyz:8080/live/tangyuan/12345678/263.ts
-CCTV10,http://tv.wakds.xyz:8080/live/tangyuan/12345678/264.ts
-CCTV11,http://tv.wakds.xyz:8080/live/tangyuan/12345678/265.ts
-CCTV11,http://tv.wakds.xyz:8080/live/tangyuan/12345678/266.ts
-CCTV11,http://tv.wakds.xyz:8080/live/tangyuan/12345678/267.ts
-CCTV12,http://tv.wakds.xyz:8080/live/tangyuan/12345678/268.ts
-CCTV12,http://tv.wakds.xyz:8080/live/tangyuan/12345678/269.ts
-CCTV13,http://tv.wakds.xyz:8080/live/tangyuan/12345678/270.ts
-CCTV14,http://tv.wakds.xyz:8080/live/tangyuan/12345678/271.ts
-CCTV14,http://tv.wakds.xyz:8080/live/tangyuan/12345678/272.ts
-CCTV15,http://tv.wakds.xyz:8080/live/tangyuan/12345678/273.ts
-CCTV15,http://tv.wakds.xyz:8080/live/tangyuan/12345678/274.ts
-CCTV15,http://tv.wakds.xyz:8080/live/tangyuan/12345678/275.ts
-CCTV17,http://tv.wakds.xyz:8080/live/tangyuan/12345678/276.ts
-CCTV17,http://tv.wakds.xyz:8080/live/tangyuan/12345678/277.ts
-CETV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/278.ts
-东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/279.ts
-东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/280.ts
-东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/281.ts
-东南卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/282.ts
-东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/283.ts
-东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/284.ts
-东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/285.ts
-东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/286.ts
-东方卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/287.ts
-北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/288.ts
-北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/289.ts
-北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/290.ts
-北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/291.ts
-北京卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/292.ts
-天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/293.ts
-天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/294.ts
-天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/295.ts
-天津卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/296.ts
-安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/297.ts
-安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/298.ts
-安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/299.ts
-安徽卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/300.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/301.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/302.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/303.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/304.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/305.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/306.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/307.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/308.ts
-广东卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/309.ts
-江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/310.ts
-江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/311.ts
-江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/312.ts
-江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/313.ts
-江苏卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/314.ts
-江西卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/315.ts
-江西卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/316.ts
-江西卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/317.ts
-河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/318.ts
-河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/319.ts
-河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/320.ts
-河北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/321.ts
-浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/188.ts
-浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/322.ts
-浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/323.ts
-浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/324.ts
-浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/325.ts
-浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/326.ts
-深圳卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/327.ts
-深圳卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/328.ts
-深圳卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/329.ts
-湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/330.ts
-湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/331.ts
-湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/332.ts
-湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/333.ts
-湖北卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/334.ts
+CCTV1,http://158.247.219.148/x/x.php?x=200
+CCTV2,http://158.247.219.148/x/x.php?x=201
+CCTV3,http://158.247.219.148/x/x.php?x=202
+CCTV4,http://158.247.219.148/x/x.php?x=203
+CCTV5,http://158.247.219.148/x/x.php?x=204
+CCTV5plus,http://158.247.219.148/x/x.php?x=205
+CCTV6,http://158.247.219.148/x/x.php?x=206
+CCTV7,http://158.247.219.148/x/x.php?x=207
+CCTV8,http://158.247.219.148/x/x.php?x=208
+CCTV9,http://158.247.219.148/x/x.php?x=209
+CCTV10,http://158.247.219.148/x/x.php?x=210
+CCTV11,http://158.247.219.148/x/x.php?x=211
+CCTV12,http://158.247.219.148/x/x.php?x=212
+CCTV13,http://158.247.219.148/x/x.php?x=213
+CCTV14,http://158.247.219.148/x/x.php?x=214
+CCTV15,http://158.247.219.148/x/x.php?x=215
+厦门卫视,http://158.247.219.148/x/x.php?x=216
+浙江卫视,http://158.247.219.148/x/x.php?x=217
+江苏卫视,http://158.247.219.148/x/x.php?x=218
+南方粤语,http://158.247.219.148/x/x.php?x=219
+北京卫视,http://158.247.219.148/x/x.php?x=220
+CCTVNEWS,http://158.247.219.148/x/x.php?x=221
+CCTV娱乐,http://158.247.219.148/x/x.php?x=222
+海峡卫视,http://158.247.219.148/x/x.php?x=223
+东方卫视,http://158.247.219.148/x/x.php?x=224
+河北卫视,http://158.247.219.148/x/x.php?x=225
+湖南卫视,http://158.247.219.148/x/x.php?x=226
+湖北卫视,http://158.247.219.148/x/x.php?x=227
+东南卫视,http://158.247.219.148/x/x.php?x=228
+辽宁卫视,http://158.247.219.148/x/x.php?x=229
+深圳卫视,http://158.247.219.148/x/x.php?x=230
+广东卫视,http://158.247.219.148/x/x.php?x=231
+安徽卫视,http://158.247.219.148/x/x.php?x=232
+四川卫视,http://158.247.219.148/x/x.php?x=233
+山东卫视,http://158.247.219.148/x/x.php?x=234
 
 日本,#genre#
 $c_start日本$c_end
+JapaNews24,http://158.247.219.148/x/x.php?x=1043
+Tokyo MX1,http://158.247.219.148/x/x.php?x=33
+NTV News24,http://158.247.219.148/x/x.php?x=42
+BS-JAPAN,http://158.247.219.148/x/x.php?x=243
+日本映画専門,http://158.247.219.148/x/x.php?x=246
+日テレG,http://158.247.219.148/x/x.php?x=248
+時代劇の専門家,http://158.247.219.148/x/x.php?x=287
+KIDS,http://158.247.219.148/x/x.php?x=289
+朝日放送,http://158.247.219.148/x/x.php?x=237
+SKY A,http://158.247.219.148/x/x.php?x=247
+読売テレビ,http://158.247.219.148/x/x.php?x=198
+毎日放送,http://158.247.219.148/x/x.php?x=199
+サンテレビ,http://158.247.219.148/x/x.php?x=238
+BSプレミアム,http://158.247.219.148/x/x.php?x=239
+BS日テレ,http://158.247.219.148/x/x.php?x=240
+BS朝日,http://158.247.219.148/x/x.php?x=241
+GREEN,http://158.247.219.148/x/x.php?x=245
+関西テレビ,http://158.247.219.148/x/x.php?x=235
+BS-TBS,http://158.247.219.148/x/x.php?x=242
+Golf Network,http://158.247.219.148/x/x.php?x=249
+BS-FUJI,http://158.247.219.148/x/x.php?x=244
+ム一ビ一プラス,http://158.247.219.148/x/x.php?x=295
+FoodNetwork,http://158.247.219.148/x/x.php?x=294
+Tokyo MX2,http://158.247.219.148/x/x.php?x=1148
+Japan Channel DX,http://158.247.219.148/x/x.php?x=39
+GaoRa,http://158.247.219.148/x/x.php?x=296
+NTV,http://158.247.219.148/x/x.php?x=119
+NHK World,http://158.247.219.148/x/x.php?x=117
+NHKE,http://158.247.219.148/x/x.php?x=120
+NHK-G,http://158.247.219.148/x/x.php?x=121
+tvtokyo,http://158.247.219.148/x/x.php?x=123
+FU JI,http://158.247.219.148/x/x.php?x=122
+TBS,http://158.247.219.148/x/x.php?x=124
+大阪TV,http://158.247.219.148/x/x.php?x=126
+ABC朝日,http://158.247.219.148/x/x.php?x=127
+bs1,http://158.247.219.148/x/x.php?x=128
+wowo1,http://158.247.219.148/x/x.php?x=133
+wowo2,http://158.247.219.148/x/x.php?x=134
+wowo3,http://158.247.219.148/x/x.php?x=135
+STAR1,http://158.247.219.148/x/x.php?x=136
+STAR2,http://158.247.219.148/x/x.php?x=137
+STAR3,http://158.247.219.148/x/x.php?x=138
+animax,http://158.247.219.148/x/x.php?x=139
+Green,http://158.247.219.148/x/x.php?x=140
+Discovery,http://158.247.219.148/x/x.php?x=290
+Smithsonian,http://158.247.219.148/x/x.php?x=291
+TBSニュ-ス,http://158.247.219.148/x/x.php?x=293
+ファミリ一劇場,http://158.247.219.148/x/x.php?x=298
+National Geographic,http://158.247.219.148/x/x.php?x=292
+MUSIC JAPAN,http://158.247.219.148/x/x.php?x=288
+LaLa TV,http://158.247.219.148/x/x.php?x=297
+tv asahi,http://158.247.219.148/x/x.php?x=125
+映畫專門,http://158.247.219.148/x/x.php?x=118
+⭕️Arirang TV,http://158.247.219.148/x/x.php?x=1154
+연합뉴스TV,http://158.247.219.148/x/x.php?x=1039
+KBS WORLD 24,http://158.247.219.148/x/x.php?x=1040
+KBS1,http://158.247.219.148/x/x.php?x=174
+KBS2,http://158.247.219.148/x/x.php?x=250
+MBC,http://158.247.219.148/x/x.php?x=251
+SBS,http://158.247.219.148/x/x.php?x=252
+JTBC,http://158.247.219.148/x/x.php?x=253
+TVN,http://158.247.219.148/x/x.php?x=254
+YTN,http://158.247.219.148/x/x.php?x=255
+TV조선,http://158.247.219.148/x/x.php?x=256
+MBN,http://158.247.219.148/x/x.php?x=257
+채널A,http://158.247.219.148/x/x.php?x=258
+연합뉴스TV,http://158.247.219.148/x/x.php?x=259
+KBS드라마,http://158.247.219.148/x/x.php?x=260
+MBC드라마,http://158.247.219.148/x/x.php?x=261
+SBS PLus,http://158.247.219.148/x/x.php?x=262
+SBS스포츠,http://158.247.219.148/x/x.php?x=263
+KBSN스포츠,http://158.247.219.148/x/x.php?x=264
+MBC스포츠+,http://158.247.219.148/x/x.php?x=265
+Spotv,http://158.247.219.148/x/x.php?x=266
+JTBC골프,http://158.247.219.148/x/x.php?x=268
+CGV,http://158.247.219.148/x/x.php?x=492
+OCN,http://158.247.219.148/x/x.php?x=488
+iNet,http://158.247.219.148/x/x.php?x=490
+CTS,http://158.247.219.148/x/x.php?x=491
+Spotv2,http://158.247.219.148/x/x.php?x=267
+Tooniverse,http://158.247.219.148/x/x.php?x=1020
+Disney,http://158.247.219.148/x/x.php?x=489
+CBS,http://158.247.219.148/x/x.php?x=493
+SBS골프,http://158.247.219.148/x/x.php?x=486
+On Style,http://158.247.219.148/x/x.php?x=487
+FTV,http://158.247.219.148/x/x.php?x=1134
+围棋,http://158.247.219.148/x/x.php?x=1135
+Mnet,http://158.247.219.148/x/x.php?x=1136
+⭕️加拿大国家电视台,http://158.247.219.148/x/x.php?x=1003
+CNN HD,http://158.247.219.148/x/x.php?x=146
+FOX-HD,http://158.247.219.148/x/x.php?x=149
+TBS HD,http://158.247.219.148/x/x.php?x=156
+FOX-News,http://158.247.219.148/x/x.php?x=150
+ABC HD,http://158.247.219.148/x/x.php?x=143
+CBS HD,http://158.247.219.148/x/x.php?x=144
+BET,http://158.247.219.148/x/x.php?x=270
+CBC-EAST,http://158.247.219.148/x/x.php?x=272
+OWN,http://158.247.219.148/x/x.php?x=284
+CHCH,http://158.247.219.148/x/x.php?x=274
+CITY-TV,http://158.247.219.148/x/x.php?x=275
+CP24,http://158.247.219.148/x/x.php?x=276
+CTV,http://158.247.219.148/x/x.php?x=278
+TVA FR,http://158.247.219.148/x/x.php?x=281
+CTV-NEWS,http://158.247.219.148/x/x.php?x=280
+CBC-NEWS-NETWORK,http://158.247.219.148/x/x.php?x=273
+BNN,http://158.247.219.148/x/x.php?x=271
+ABC-SPARK,http://158.247.219.148/x/x.php?x=269
+CPAC,http://158.247.219.148/x/x.php?x=277
+TVO,http://158.247.219.148/x/x.php?x=283
+W-NETWORK,http://158.247.219.148/x/x.php?x=286
+OLN,http://158.247.219.148/x/x.php?x=285
+CTV Atlantic,http://158.247.219.148/x/x.php?x=279
+YTV,http://158.247.219.148/x/x.php?x=282
+CNBC,http://158.247.219.148/x/x.php?x=145
+⭕️Sky News,http://158.247.219.148/x/x.php?x=1041
+BBC News,http://158.247.219.148/x/x.php?x=164
+Channel 4,http://158.247.219.148/x/x.php?x=169
+BBC 1,http://158.247.219.148/x/x.php?x=161
+BBC 2,http://158.247.219.148/x/x.php?x=162
+BBC 4,http://158.247.219.148/x/x.php?x=163
+ITV 4,http://158.247.219.148/x/x.php?x=160
+ITV 3,http://158.247.219.148/x/x.php?x=159
+ITV 1,http://158.247.219.148/x/x.php?x=157
+ITV 2,http://158.247.219.148/x/x.php?x=158
+Discovery,http://158.247.219.148/x/x.php?x=1045
+Dave,http://158.247.219.148/x/x.php?x=1044
+⭕️CNA 24,http://158.247.219.148/x/x.php?x=15
+Channel8,http://158.247.219.148/x/x.php?x=142
+Channel5,http://158.247.219.148/x/x.php?x=141
+IKIM TV,http://158.247.219.148/x/x.php?x=1147
+Astro Awani,http://158.247.219.148/x/x.php?x=440
+Channel 8,http://158.247.219.148/x/x.php?x=450
+天映頻道HD,http://158.247.219.148/x/x.php?x=441
+全佳,http://158.247.219.148/x/x.php?x=427
+kix,http://158.247.219.148/x/x.php?x=430
+歡喜,http://158.247.219.148/x/x.php?x=432
+suria,http://158.247.219.148/x/x.php?x=434
+雙星,http://158.247.219.148/x/x.php?x=431
+AEC,http://158.247.219.148/x/x.php?x=433
+華麗,http://158.247.219.148/x/x.php?x=429
+Channel 5,http://158.247.219.148/x/x.php?x=449
+TV1,http://158.247.219.148/x/x.php?x=435
+TV2,http://158.247.219.148/x/x.php?x=436
+TV3,http://158.247.219.148/x/x.php?x=437
+TV9,http://158.247.219.148/x/x.php?x=438
+NTV7,http://158.247.219.148/x/x.php?x=439
+TV8,http://158.247.219.148/x/x.php?x=442
+小太陽,http://158.247.219.148/x/x.php?x=443
+AOD,http://158.247.219.148/x/x.php?x=428
+Channel U,http://158.247.219.148/x/x.php?x=448
+⭕️Thairath TV,http://158.247.219.148/x/x.php?x=1139
+Channel 8,http://158.247.219.148/x/x.php?x=1140
+DDTV,http://158.247.219.148/x/x.php?x=1138
+KOMPAS TV,http://158.247.219.148/x/x.php?x=1146
+Karaoke,http://158.247.219.148/x/x.php?x=1141
+InsanTV,http://158.247.219.148/x/x.php?x=1143
+CNN Indonesia,http://158.247.219.148/x/x.php?x=1145
+MetroTV,http://158.247.219.148/x/x.php?x=1124
+⭕️0HD,http://158.247.219.148/x/x.php?x=1047
+4 Horas,http://158.247.219.148/x/x.php?x=1048
+A&E ES,http://158.247.219.148/x/x.php?x=1049
+AMC ES,http://158.247.219.148/x/x.php?x=1050
+Antena 3,http://158.247.219.148/x/x.php?x=1051
+Barca TV,http://158.247.219.148/x/x.php?x=1052
+Bein Sport,http://158.247.219.148/x/x.php?x=1053
+Boing,http://158.247.219.148/x/x.php?x=1054
+Calle 13,http://158.247.219.148/x/x.php?x=1055
+M Action,http://158.247.219.148/x/x.php?x=1056
+M Deportes 2,http://158.247.219.148/x/x.php?x=1057
+M Deportes 1,http://158.247.219.148/x/x.php?x=1058
+M Futbol,http://158.247.219.148/x/x.php?x=1060
+M Golf,http://158.247.219.148/x/x.php?x=1061
+M Series Xtra,http://158.247.219.148/x/x.php?x=1062
+Toros,http://158.247.219.148/x/x.php?x=1063
+M Xtra,http://158.247.219.148/x/x.php?x=1064
+Cocina,http://158.247.219.148/x/x.php?x=1065
+DeCasa,http://158.247.219.148/x/x.php?x=1067
+M SERIES HD,http://158.247.219.148/x/x.php?x=1068
+M Formula 1,http://158.247.219.148/x/x.php?x=1069
+Caza Y Pesca,http://158.247.219.148/x/x.php?x=1070
+Clan Tve,http://158.247.219.148/x/x.php?x=1071
+Comedy Central,http://158.247.219.148/x/x.php?x=1072
+Cosmo,http://158.247.219.148/x/x.php?x=1073
+Cuatro,http://158.247.219.148/x/x.php?x=1074
+Discovery ES,http://158.247.219.148/x/x.php?x=1075
+Disney ES,http://158.247.219.148/x/x.php?x=1076
+Energy,http://158.247.219.148/x/x.php?x=1077
+Euro Sport 1,http://158.247.219.148/x/x.php?x=1078
+FDF,http://158.247.219.148/x/x.php?x=1080
+Fox ES,http://158.247.219.148/x/x.php?x=1081
+GOL TV,http://158.247.219.148/x/x.php?x=1082
+NOVA,http://158.247.219.148/x/x.php?x=1086
+Odisea,http://158.247.219.148/x/x.php?x=1087
+TNT ES,http://158.247.219.148/x/x.php?x=1088
+⭕️REPUBLIC News,http://158.247.219.148/x/x.php?x=1151
+Tv9 Bharatvarsh,http://158.247.219.148/x/x.php?x=1125
+NDTV India,http://158.247.219.148/x/x.php?x=1030
+NDTV,http://158.247.219.148/x/x.php?x=1028
+ABP News,http://158.247.219.148/x/x.php?x=476
+POP-Pataka,http://158.247.219.148/x/x.php?x=25
+ZeeNews,http://158.247.219.148/x/x.php?x=465
+DD News,http://158.247.219.148/x/x.php?x=463
+TEN1,http://158.247.219.148/x/x.php?x=466
+TEN2,http://158.247.219.148/x/x.php?x=467
+TEN3,http://158.247.219.148/x/x.php?x=468
+And Pictures,http://158.247.219.148/x/x.php?x=469
+Colors HD,http://158.247.219.148/x/x.php?x=470
+NDTV,http://158.247.219.148/x/x.php?x=471
+Zee Tamil,http://158.247.219.148/x/x.php?x=472
+India TV,http://158.247.219.148/x/x.php?x=473
+Sony Mix,http://158.247.219.148/x/x.php?x=474
+Star Movies,http://158.247.219.148/x/x.php?x=478
+Star Plus,http://158.247.219.148/x/x.php?x=479
+Zee Marathi,http://158.247.219.148/x/x.php?x=480
+Zee Studio,http://158.247.219.148/x/x.php?x=481
+Zee TV,http://158.247.219.148/x/x.php?x=482
+Zee Cinema,http://158.247.219.148/x/x.php?x=484
+Zee Classic,http://158.247.219.148/x/x.php?x=485
+Sony Sab,http://158.247.219.148/x/x.php?x=475
+Sony,http://158.247.219.148/x/x.php?x=483
+魅力足球,http://158.247.219.148/x/x.php?x=464
+Sony Max,http://158.247.219.148/x/x.php?x=477
+Eleven Sport 2,http://158.247.219.148/x/x.php?x=301
+信吉電視,http://158.247.219.148/x/x.php?x=422
+HKC體育1,http://158.247.219.148/x/x.php?x=401
+HKC體育2,http://158.247.219.148/x/x.php?x=356
+有線603,http://158.247.219.148/x/x.php?x=398
+廣東珠江,http://158.247.219.148/x/x.php?x=1034
+VOA衛視,http://158.247.219.148/x/x.php?x=22
+DW德國之聲,http://158.247.219.148/x/x.php?x=1059
+第1商業,http://158.247.219.148/x/x.php?x=186
+CNN頭條新聞,http://158.247.219.148/x/x.php?x=43
+CNN國際新聞,http://158.247.219.148/x/x.php?x=420
+BBC World News,http://158.247.219.148/x/x.php?x=421
+霹靂臺灣,http://158.247.219.148/x/x.php?x=1339
+金光布袋戲,http://158.247.219.148/x/x.php?x=1060
+TVN MOVIE,http://158.247.219.148/x/x.php?x=1082
+WWE,http://158.247.219.148/x/x.php?x=1081
+NASA Live,http://158.247.219.148/x/x.php?x=196
+NASA TV,http://158.247.219.148/x/x.php?x=25
+TV5MONDE STYLE,http://158.247.219.148/x/x.php?x=389
+車迷TV,http://158.247.219.148/x/x.php?x=352
+i-Fun動漫,http://158.247.219.148/x/x.php?x=1127
+靖洋卡通,http://158.247.219.148/x/x.php?x=348
+Nick Jr.,http://158.247.219.148/x/x.php?x=50
+愛放2,http://158.247.219.148/x/x.php?x=299
+愛放3,http://158.247.219.148/x/x.php?x=259
+Dreamworks,http://158.247.219.148/x/x.php?x=48
+BabyTV,http://158.247.219.148/x/x.php?x=1241
+MTV Live,http://158.247.219.148/x/x.php?x=106
+Relaxing Music,http://158.247.219.148/x/x.php?x=1089
+Tropical House,http://158.247.219.148/x/x.php?x=1090
+自然の音,http://158.247.219.148/x/x.php?x=1091
+Relaxing Music,http://158.247.219.148/x/x.php?x=1087
+Calm Piano Music,http://158.247.219.148/x/x.php?x=1088
+Trace Urban,http://158.247.219.148/x/x.php?x=1003
+佛衛慈悲台,http://158.247.219.148/x/x.php?x=1306
+南方卫视,http://158.247.219.148/x/x.php?x=219
+BSテレビ東京,http://158.247.219.148/x/x.php?x=243
+テレビ朝日,http://158.247.219.148/x/x.php?x=237
+衛星劇場,http://158.247.219.148/x/x.php?x=298
+YTN,http://158.247.219.148/x/x.php?x=1061
+Korean Culture,http://158.247.219.148/x/x.php?x=1135
+SBS FUNE,http://158.247.219.148/x/x.php?x=254
+SBS CNBC,http://158.247.219.148/x/x.php?x=255
+Channel A,http://158.247.219.148/x/x.php?x=258
+NGC,http://158.247.219.148/x/x.php?x=1064
+바둑TV,http://158.247.219.148/x/x.php?x=1065
+투니버스,http://158.247.219.148/x/x.php?x=492
+CNTV,http://158.247.219.148/x/x.php?x=256
+OCNMOVIES,http://158.247.219.148/x/x.php?x=1020
+SBS Sports,http://158.247.219.148/x/x.php?x=487
+MBCevery1,http://158.247.219.148/x/x.php?x=476
+Tconvers,http://158.247.219.148/x/x.php?x=1134
+KBS joy,http://158.247.219.148/x/x.php?x=1154
+KBS Dram,http://158.247.219.148/x/x.php?x=1062
+YTN Science,http://158.247.219.148/x/x.php?x=1092
+EBS 2,http://158.247.219.148/x/x.php?x=1093
+EBS Kcids,http://158.247.219.148/x/x.php?x=1094
+EBS English,http://158.247.219.148/x/x.php?x=1095
+EBSPlus 1,http://158.247.219.148/x/x.php?x=1096
+EBSPlus 2,http://158.247.219.148/x/x.php?x=1097
+EBS1,http://158.247.219.148/x/x.php?x=1098
+UBC SBS,http://158.247.219.148/x/x.php?x=1099
+KTV,http://158.247.219.148/x/x.php?x=1100
+SBS Star,http://158.247.219.148/x/x.php?x=1101
+ABC News Live,http://158.247.219.148/x/x.php?x=189
+NBC News,http://158.247.219.148/x/x.php?x=1053
+NBC2,http://158.247.219.148/x/x.php?x=460
+HBO Signature,http://158.247.219.148/x/x.php?x=272
+TNT,http://158.247.219.148/x/x.php?x=284
+HGTV-HD,http://158.247.219.148/x/x.php?x=274
+HISTORY,http://158.247.219.148/x/x.php?x=275
+GOD TV,http://158.247.219.148/x/x.php?x=276
+Big Ten Network,http://158.247.219.148/x/x.php?x=278
+NESN,http://158.247.219.148/x/x.php?x=281
+NFL RedZone,http://158.247.219.148/x/x.php?x=280
+HBO Zone East,http://158.247.219.148/x/x.php?x=273
+HBO East,http://158.247.219.148/x/x.php?x=271
+HBO Comedy East,http://158.247.219.148/x/x.php?x=269
+Box Nation,http://158.247.219.148/x/x.php?x=277
+UFC Network,http://158.247.219.148/x/x.php?x=283
+MTV,http://158.247.219.148/x/x.php?x=286
+NAT-GEO,http://158.247.219.148/x/x.php?x=285
+Sec Network,http://158.247.219.148/x/x.php?x=279
+Tennis,http://158.247.219.148/x/x.php?x=282
+Bloomberg Television,http://158.247.219.148/x/x.php?x=1058
+American Horrors,http://158.247.219.148/x/x.php?x=1054
+30A TV,http://158.247.219.148/x/x.php?x=1052
+Atlanta,http://158.247.219.148/x/x.php?x=1055
+Panama City,http://158.247.219.148/x/x.php?x=1056
+Pawleys Island,http://158.247.219.148/x/x.php?x=1057
+CNN USA,http://158.247.219.148/x/x.php?x=1102
+FOX News,http://158.247.219.148/x/x.php?x=1103
+ABC,http://158.247.219.148/x/x.php?x=1216
+NBC,http://158.247.219.148/x/x.php?x=1217
+FOX,http://158.247.219.148/x/x.php?x=1218
+CNBC,http://158.247.219.148/x/x.php?x=1106
+5 Star Max,http://158.247.219.148/x/x.php?x=1174
+Action Max,http://158.247.219.148/x/x.php?x=1175
+MoreMax,http://158.247.219.148/x/x.php?x=1176
+Hallmark Channel,http://158.247.219.148/x/x.php?x=1177
+Hallmark Drama,http://158.247.219.148/x/x.php?x=1178
+Hallmark Movie,http://158.247.219.148/x/x.php?x=1179
+TCM,http://158.247.219.148/x/x.php?x=1180
+Starz in Black,http://158.247.219.148/x/x.php?x=1181
+ESPN 1,http://158.247.219.148/x/x.php?x=1182
+ESPN 2,http://158.247.219.148/x/x.php?x=1183
+NBC Sport,http://158.247.219.148/x/x.php?x=1184
+NBA TV US,http://158.247.219.148/x/x.php?x=1185
+Fox Sport 1,http://158.247.219.148/x/x.php?x=1186
+Fox Sport 2,http://158.247.219.148/x/x.php?x=1187
+Tennis,http://158.247.219.148/x/x.php?x=1188
+NFL Network,http://158.247.219.148/x/x.php?x=1189
+Golf,http://158.247.219.148/x/x.php?x=1190
+WWE,http://158.247.219.148/x/x.php?x=1191
+UFC PASS,http://158.247.219.148/x/x.php?x=1192
+Willow,http://158.247.219.148/x/x.php?x=1193
+NHL Network,http://158.247.219.148/x/x.php?x=1194
+Bein Sports USA,http://158.247.219.148/x/x.php?x=1195
+ESPN U,http://158.247.219.148/x/x.php?x=1196
+Big Ten Network,http://158.247.219.148/x/x.php?x=1197
+Discovery Channel,http://158.247.219.148/x/x.php?x=1198
+Motor Trend,http://158.247.219.148/x/x.php?x=1199
+National Geographic,http://158.247.219.148/x/x.php?x=1200
+Nat Geo Wild,http://158.247.219.148/x/x.php?x=1201
+Investigation Discovery US,http://158.247.219.148/x/x.php?x=1202
+Animal Planet,http://158.247.219.148/x/x.php?x=1203
+History,http://158.247.219.148/x/x.php?x=1204
+SMITHSONIAN,http://158.247.219.148/x/x.php?x=1205
+TLC,http://158.247.219.148/x/x.php?x=1206
+Science,http://158.247.219.148/x/x.php?x=1207
+Disney,http://158.247.219.148/x/x.php?x=1208
+Disney XD,http://158.247.219.148/x/x.php?x=1209
+Disney Junior,http://158.247.219.148/x/x.php?x=1210
+Cartoon Network US,http://158.247.219.148/x/x.php?x=1211
+Nickelodeon US,http://158.247.219.148/x/x.php?x=1212
+Nick Junior,http://158.247.219.148/x/x.php?x=1213
+Boomerang,http://158.247.219.148/x/x.php?x=1214
+Universal Kcids,http://158.247.219.148/x/x.php?x=1215
+CBS,http://158.247.219.148/x/x.php?x=1219
+CW,http://158.247.219.148/x/x.php?x=1220
+SYFY,http://158.247.219.148/x/x.php?x=1221
+E!,http://158.247.219.148/x/x.php?x=1222
+Comedy Central,http://158.247.219.148/x/x.php?x=1223
+TNT US,http://158.247.219.148/x/x.php?x=1224
+Bravo US,http://158.247.219.148/x/x.php?x=1225
+LifeTime US,http://158.247.219.148/x/x.php?x=1226
+Arts and Entertainment,http://158.247.219.148/x/x.php?x=1227
+AMC,http://158.247.219.148/x/x.php?x=1228
+WE TV,http://158.247.219.148/x/x.php?x=1229
+USA Network,http://158.247.219.148/x/x.php?x=1230
+BET,http://158.247.219.148/x/x.php?x=1231
+Lifetime Movie Network,http://158.247.219.148/x/x.php?x=1232
+VH-1,http://158.247.219.148/x/x.php?x=1233
+TBS,http://158.247.219.148/x/x.php?x=1234
+OWN US,http://158.247.219.148/x/x.php?x=1235
+GSN,http://158.247.219.148/x/x.php?x=1236
+HGTV US,http://158.247.219.148/x/x.php?x=1237
+Cooking Channel,http://158.247.219.148/x/x.php?x=1238
+MTV US,http://158.247.219.148/x/x.php?x=1239
+FYI,http://158.247.219.148/x/x.php?x=1240
+TVB1,http://158.247.219.148/x/x.php?x=1242
+TVB DRAMA,http://158.247.219.148/x/x.php?x=1243
+TVBJ1,http://158.247.219.148/x/x.php?x=1244
+TVBE,http://158.247.219.148/x/x.php?x=1245
+NOWTV,http://158.247.219.148/x/x.php?x=1246
+MSNBC,http://158.247.219.148/x/x.php?x=1104
+The Weather Nation,http://158.247.219.148/x/x.php?x=1105
+Bloomberg,http://158.247.219.148/x/x.php?x=1107
+Fox Business,http://158.247.219.148/x/x.php?x=1108
+HBO Comedy,http://158.247.219.148/x/x.php?x=1109
+HBO 1 US,http://158.247.219.148/x/x.php?x=1110
+HBO 2 US,http://158.247.219.148/x/x.php?x=1111
+HBO Signature,http://158.247.219.148/x/x.php?x=1112
+HBO Family,http://158.247.219.148/x/x.php?x=1113
+ShowTime 1,http://158.247.219.148/x/x.php?x=1114
+ShowTime 2,http://158.247.219.148/x/x.php?x=1115
+ShowCase US,http://158.247.219.148/x/x.php?x=1116
+Starz,http://158.247.219.148/x/x.php?x=1117
+Starz Comedy,http://158.247.219.148/x/x.php?x=1118
+Starz Edge,http://158.247.219.148/x/x.php?x=1119
+Starz Kcids Family,http://158.247.219.148/x/x.php?x=1120
+Starz Encore,http://158.247.219.148/x/x.php?x=1121
+Starz Encore Westerns,http://158.247.219.148/x/x.php?x=1122
+Cinemax,http://158.247.219.148/x/x.php?x=1123
+Sky News,http://158.247.219.148/x/x.php?x=169
+BBC Alba,http://158.247.219.148/x/x.php?x=161
+BBC Parliament,http://158.247.219.148/x/x.php?x=162
+BBC ALBA,http://158.247.219.148/x/x.php?x=163
+BBC Entertainment,http://158.247.219.148/x/x.php?x=160
+BBC Parliament,http://158.247.219.148/x/x.php?x=159
+BBC 2,http://158.247.219.148/x/x.php?x=157
+BBC 1,http://158.247.219.148/x/x.php?x=158
+Nickelodeon UK,http://158.247.219.148/x/x.php?x=1305
+BBC World News,http://158.247.219.148/x/x.php?x=1308
+CERIA,http://158.247.219.148/x/x.php?x=1161
+AOD351,http://158.247.219.148/x/x.php?x=1162
+AOD352,http://158.247.219.148/x/x.php?x=1163
+AOD353,http://158.247.219.148/x/x.php?x=1164
+AOD354,http://158.247.219.148/x/x.php?x=1165
+AOD355,http://158.247.219.148/x/x.php?x=1166
+WWE,http://158.247.219.148/x/x.php?x=1167
+EGG,http://158.247.219.148/x/x.php?x=1168
+OKTO,http://158.247.219.148/x/x.php?x=1169
+TVN,http://158.247.219.148/x/x.php?x=1170
+BNC,http://158.247.219.148/x/x.php?x=1171
+Arena,http://158.247.219.148/x/x.php?x=1172
+CRICKET,http://158.247.219.148/x/x.php?x=1173
+KIX,http://158.247.219.148/x/x.php?x=430
+Suria,http://158.247.219.148/x/x.php?x=434
+ARENA_HD,http://158.247.219.148/x/x.php?x=1049
+AOD351,http://158.247.219.148/x/x.php?x=1050
+AOD352,http://158.247.219.148/x/x.php?x=450
+AOD353,http://158.247.219.148/x/x.php?x=1067
+AOD354,http://158.247.219.148/x/x.php?x=1068
+AOD355,http://158.247.219.148/x/x.php?x=1069
+ASSP1_HD,http://158.247.219.148/x/x.php?x=1070
+ASSP2_HD,http://158.247.219.148/x/x.php?x=1071
+ASSP3_HD,http://158.247.219.148/x/x.php?x=1072
+ASSP4_HD,http://158.247.219.148/x/x.php?x=1074
+AEC,http://158.247.219.148/x/x.php?x=1073
+Channel U,http://158.247.219.148/x/x.php?x=1077
+Vasantham,http://158.247.219.148/x/x.php?x=1078
+小太陽,http://158.247.219.148/x/x.php?x=1080
+雙星,http://158.247.219.148/x/x.php?x=1086
+Suria,http://158.247.219.148/x/x.php?x=1076
+OKEY,http://158.247.219.148/x/x.php?x=1075
+AWANI,http://158.247.219.148/x/x.php?x=1151
+AXN,http://158.247.219.148/x/x.php?x=1044
+BNC,http://158.247.219.148/x/x.php?x=1045
+Channel 8,http://158.247.219.148/x/x.php?x=1160
 BBC,vjms://50.7.253.59:8500/live/cid=418
 CNN,vjms://50.7.253.59:8500/live/cid=428
 CNBC,vjms://50.7.253.59:8500/live/cid=98
@@ -347,6 +818,33 @@ HBO3,vjms://50.7.253.59:8500/live/cid=436
 
 18+,#genre#
 $c_start18+$c_end
+私密頻道
+松視1,http://158.247.219.148/x/x.php?x=402
+松視2,http://158.247.219.148/x/x.php?x=403
+松視3,http://158.247.219.148/x/x.php?x=404
+香蕉台,http://158.247.219.148/x/x.php?x=408
+潘朵拉完美,http://158.247.219.148/x/x.php?x=410
+潘朵拉粉紅,http://158.247.219.148/x/x.php?x=411
+彩虹電影,http://158.247.219.148/x/x.php?x=413
+彩虹K,http://158.247.219.148/x/x.php?x=406
+彩虹E,http://158.247.219.148/x/x.php?x=405
+一本道,http://158.247.219.148/x/x.php?x=414
+二本道,http://158.247.219.148/x/x.php?x=415
+東京熱,http://158.247.219.148/x/x.php?x=416
+HOT,http://158.247.219.148/x/x.php?x=407
+happy,http://158.247.219.148/x/x.php?x=412
+驚豔台,http://158.247.219.148/x/x.php?x=409
+Erox HD,http://158.247.219.148/x/x.php?x=456
+Dorcel HD,http://158.247.219.148/x/x.php?x=454
+Babes TV HD,http://158.247.219.148/x/x.php?x=458
+Hustler HD,http://158.247.219.148/x/x.php?x=451
+SCT Classic,http://158.247.219.148/x/x.php?x=462
+Redlight HD,http://158.247.219.148/x/x.php?x=452
+SEX ATION HD,http://158.247.219.148/x/x.php?x=459
+Super One HD,http://158.247.219.148/x/x.php?x=457
+Prıvate TV,http://158.247.219.148/x/x.php?x=453
+Passie,http://158.247.219.148/x/x.php?x=461
+Vivid Red HD,http://158.247.219.148/x/x.php?x=455
 JStar极限电影台,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
 惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
 彩虹E台(H.265),mitv://ns2.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
@@ -374,4 +872,3 @@ HOT,p8p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
 潘多拉完美台,p8p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
 驚艶成人電影臺,p8p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
 Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
-
