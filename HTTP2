@@ -18,7 +18,7 @@ Crime Investigation,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_
 东森电影,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
 纬来电影,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
 壹电影,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15006&key=84797b799ae18d1b
-美亚电影台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
+美亚电影台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/17
 卫视电影台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
 卫视洋片台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
 星卫电影台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
@@ -75,20 +75,16 @@ CBN每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fs
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 新聞,#genre#
 $c_start🍌新聞🍌$c_end
-TVBS新闻台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
-TVBS新闻 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-三立iNEWS,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b
-三立Live HD,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立新闻台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
-三立新闻 HD,http://seb.sason.top/sc/slinews_fhd.m3u8
-东森新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
-东森新闻 HD,http://seb.sason.top/sc/dsxw_fhd.m3u8
+TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/114
+三立iNEWS,http://seb.sason.top/sc/sllive_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/117
+三立新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/110
+东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/111
 东森财经新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
-寰宇新闻台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
+寰宇新闻台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/130
 年代新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
+非凡新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/122
+中天新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/112
 非凡商业,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
-非凡新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b
-中天新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
 NHK BS1,http://125.227.210.37:8939/VideoInput/play.ts
@@ -141,6 +137,33 @@ MTV台湾,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12013&ke
 东风37,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
 年代MUCH,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
 JET综合,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12018&key=84797b799ae18d1b
+民视新闻,http://6.crtv6.ml:8080/test/test/113
+中视新闻,http://6.crtv6.ml:8080/test/test/119
+台视新闻,http://6.crtv6.ml:8080/test/test/118
+华视新闻,http://6.crtv6.ml:8080/test/test/116
+民视HD,http://6.crtv6.ml:8080/test/test/45
+台视HD,http://6.crtv6.ml:8080/test/test/46
+中视HD,http://6.crtv6.ml:8080/test/test/47
+华视HD,http://6.crtv6.ml:8080/test/test/48
+公视,http://6.crtv6.ml:8080/test/test/49
+纬来综合HD,http://6.crtv6.ml:8080/test/test/54
+八大综合台HD,http://6.crtv6.ml:8080/test/test/56
+三立台湾台HD,http://6.crtv6.ml:8080/test/test/58
+三立都会台HD,http://6.crtv6.ml:8080/test/test/59
+卫视中文台HD,http://6.crtv6.ml:8080/test/test/60
+东森综合台HD,http://6.crtv6.ml:8080/test/test/61
+中天综合HD,http://6.crtv6.ml:8080/test/test/64
+中天娛乐HD,http://6.crtv6.ml:8080/test/test/65
+TVBS欢乐台HD,http://6.crtv6.ml:8080/test/test/66
+八大精彩台,http://6.crtv6.ml:8080/test/test/67
+JET综合,http://6.crtv6.ml:8080/test/test/68
+中天亞洲,http://6.crtv6.ml:8080/test/test/81
+八大精采,http://6.crtv6.ml:8080/test/test/67
+TVBS HD,http://6.crtv6.ml:8080/test/test/70
+三立綜合,http://6.crtv6.ml:8080/test/test/96
+三立戏剧,http://6.crtv6.ml:8080/test/test/84
+非凡商业,http://6.crtv6.ml:8080/test/test/121
+東森綜合,http://6.crtv6.ml:8080/test/test/115
 港澳,#genre#
 $c_start🍌港澳🍌$c_end
 鳳凰香港,http://api.kaka-app.xyz/mm654123/proxy.php?vid=vipga&id=6027
@@ -154,6 +177,28 @@ TVB港劇二,https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8#https://dlh
 明珠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CGTN,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=14&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://6.crtv6.ml:8080/test/test/1
+明珠台,http://6.crtv6.ml:8080/test/test/2
+无线新闻台,http://6.crtv6.ml:8080/test/test/3
+有线新闻台,http://6.crtv6.ml:8080/test/test/4
+无线财经资讯台,http://6.crtv6.ml:8080/test/test/6
+NOW新闻台,http://6.crtv6.ml:8080/test/test/5
+TVB  J2,http://6.crtv6.ml:8080/test/test/7
+有线603HD,http://6.crtv6.ml:8080/test/test/8
+NOW直播台,http://6.crtv6.ml:8080/test/test/10
+TVB星河,http://6.crtv6.ml:8080/test/test/16
+有线电影台HD,http://6.crtv6.ml:8080/test/test/20
+有线体育台,http://6.crtv6.ml:8080/test/test/21
+NOW体育台,http://6.crtv6.ml:8080/test/test/23
+凤凰香港台,http://6.crtv6.ml:8080/test/test/25
+CCTV1,http://6.crtv6.ml:8080/test/test/148
+RTHK31,http://6.crtv6.ml:8080/test/test/11
+RTHK32,http://6.crtv6.ml:8080/test/test/12
+香港开电视,http://6.crtv6.ml:8080/test/test/13
+VIUTV,http://6.crtv6.ml:8080/test/test/14
+VIUTV6,http://6.crtv6.ml:8080/test/test/15
+sports,http://6.crtv6.ml:8080/test/test/22
+HKS,http://6.crtv6.ml:8080/test/test/24
 HKC18,rtmp://xiaoyu.speedws.com/sat/hk041
 明珠,rtmp://mms.ldntv.cn/live/fct
 珠江,rtmp://xiaoyu.speedws.com/sat/hk031
@@ -201,8 +246,6 @@ Arirang TV,http://125.227.210.37:8933/VideoInput/play.ts
 KIX,http://45.126.83.51/session/81244186-52c2-11ea-b4e4-86279b58b1e1/uq2663/h/h07/01.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
-NHK BS1,http://125.227.210.37:8939/VideoInput/play.ts
 Sony Movies Action,http://51.52.156.22:8888/http/009
 电影直播,#genre#
 $c_start🍌电影直播🍌$c_end
@@ -257,5 +300,3 @@ X,http://6.crtv6.ml:8080/test/test/933
 Dorcel Hustler,http://6.crtv6.ml:8080/test/test/935
 Hustler Redlight,http://6.crtv6.ml:8080/test/test/937
 BRAZZER,http://6.crtv6.ml:8080/test/test/941
-
-
