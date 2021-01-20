@@ -1,30 +1,47 @@
 電影,#genre#
 $c_start🍌電影🍌$c_end
 *EZ--HTTP2*,http://198.98.55.16
-HBO,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
-HBO HITS,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
-HBO family,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
-HBO signature,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
-FOX ,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
-FOX MOVIES,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
-FOX CRIME,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
-FOX family,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
-Fx Movie Channel,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11012&key=84797b799ae18d1b
-AXN,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
-Hollywood,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
-CINEMAX,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
-Crime Investigation,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
-东森洋片,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
-东森电影,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
-纬来电影,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
-壹电影,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15006&key=84797b799ae18d1b
-美亚电影台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/17
-卫视电影台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
-卫视洋片台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
-星卫电影台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
-华纳电影,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
-龙翔时代,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b
-HITS,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
+龍翔時代,http://51ktv.top:5555/hk.php?id=373
+靖天國際,http://51ktv.top:5555/hk.php?id=345
+龍華經典,http://51ktv.top:5555/hk.php?id=364
+東森電影,http://51ktv.top:5555/hk.php?id=350
+東森洋片,http://51ktv.top:5555/hk.php?id=1128
+衛視電影,http://51ktv.top:5555/hk.php?id=93
+星衛電影,http://51ktv.top:5555/hk.php?id=84
+東森戲劇,http://51ktv.top:5555/hk.php?id=321
+FOX MOVIES,http://51ktv.top:5555/hk.php?id=387
+星衛電影,http://51ktv.top:5555/hk.php?id=496
+AXN,http://51ktv.top:5555/hk.php?id=103
+AMC,http://51ktv.top:5555/hk.php?id=92
+緯來電影,http://51ktv.top:5555/hk.php?id=96
+華納電影,http://51ktv.top:5555/hk.php?id=83
+美亞電影,http://51ktv.top:5555/hk.php?id=375
+天映經典,http://51ktv.top:5555/hk.php?id=328
+好萊塢電影,http://51ktv.top:5555/hk.php?id=37
+靖天電影,http://51ktv.top:5555/hk.php?id=110
+衛視西片,http://51ktv.top:5555/hk.php?id=369
+FOX CRIME,http://51ktv.top:5555/hk.php?id=386
+HBO HD,http://51ktv.top:5555/hk.php?id=332
+鳳凰衛視電影,http://51ktv.top:5555/hk.php?id=18
+FOX ACTION,http://51ktv.top:5555/hk.php?id=385
+HBO Hits,http://51ktv.top:5555/hk.php?id=330
+HBO Family,http://51ktv.top:5555/hk.php?id=331
+靖天映畫,http://51ktv.top:5555/hk.php?id=349
+影迷數位電影,http://51ktv.top:5555/hk.php?id=497
+CineMAX,http://51ktv.top:5555/hk.php?id=346
+FOX Family,http://51ktv.top:5555/hk.php?id=383
+龍華經典,http://51ktv.top:5555/hk.php?id=100
+HBOSignature,http://51ktv.top:5555/hk.php?id=329
+龍華電影,http://51ktv.top:5555/hk.php?id=311
+FOX,http://51ktv.top:5555/hk.php?id=384
+CATCHPLAY,http://51ktv.top:5555/hk.php?id=362
+FOX ACTION,http://51ktv.top:5555/hk.php?id=385
+FOX CRIME,http://51ktv.top:5555/hk.php?id=386
+FOX Family,http://51ktv.top:5555/hk.php?id=383
+FOX HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+FOX,http://51ktv.top:5555/hk.php?id=384
+AXN台湾,http://51ktv.top:5555/hk.php?id=423
+AXN亚洲,http://51ktv.top:5555/hk.php?id=1066
 中國電影,http://61.58.60.230:9319/live/225.m3u8
 私人影院2,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
 私人影院4,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_2000p.flv?uuid=
@@ -39,33 +56,45 @@ HITS,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13007&key=847
 愛奇藝_歷史秘聞,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
 探索,#genre#
 $c_start🍌探索🍌$c_end
-BBC Earth,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
-亚洲旅游台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
-纬来日本,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
-Discovery,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
-Discovery Asia,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
-Discovery Scirnce,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
-National Geographic,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
-国家地理野生,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
-动物星球,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
-EYE TV旅游,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8807&key=84797b799ae18d1b
-国兴卫视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
-DMAX,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
-Travel Channel,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
-Asian Food Network,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
-EVE,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
-TLC,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
-美食星球,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b
-BBC WORLD NEWS,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
-BBC Lifestyle,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8805&key=84797b799ae18d1b
-Food Network,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b
-Food Network,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
-Outdoor Channel,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
-History,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
-History Channel 2,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
-HGTV,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b 
-Life Time,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
-CNN,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12012&key=84797b799ae18d1b
+BBC EARTH,http://51ktv.top:5555/hk.php?id=97
+探索亞洲,http://51ktv.top:5555/hk.php?id=306
+EVE旅遊,http://51ktv.top:5555/hk.php?id=111
+AFN,http://51ktv.top:5555/hk.php?id=307
+BBC CBeebies,http://51ktv.top:5555/hk.php?id=115
+History 1,http://51ktv.top:5555/hk.php?id=116
+History 2,http://51ktv.top:5555/hk.php?id=1158
+CI罪案偵查,http://51ktv.top:5555/hk.php?id=1159
+LUXE,http://51ktv.top:5555/hk.php?id=112
+SMART知識頻道,http://51ktv.top:5555/hk.php?id=352
+TLC旅遊生活,http://51ktv.top:5555/hk.php?id=102
+TLC旅遊台灣,http://51ktv.top:5555/hk.php?id=315
+Travel Channel,http://51ktv.top:5555/hk.php?id=63
+爆笑頻道,http://51ktv.top:5555/hk.php?id=85
+達文西頻道,http://51ktv.top:5555/hk.php?id=68
+Pet Club,http://51ktv.top:5555/hk.php?id=368
+法國時裝,http://51ktv.top:5555/hk.php?id=113
+國家地理,http://51ktv.top:5555/hk.php?id=302
+國家地理悠人,http://51ktv.top:5555/hk.php?id=114
+國家人文,http://51ktv.top:5555/hk.php?id=334
+國家野生,http://51ktv.top:5555/hk.php?id=1038
+國興衛視,http://51ktv.top:5555/hk.php?id=105
+動物星球,http://51ktv.top:5555/hk.php?id=367
+民視旅遊,http://51ktv.top:5555/hk.php?id=78
+視納華仁紀實,http://51ktv.top:5555/hk.php?id=91
+探索EVE,http://51ktv.top:5555/hk.php?id=1036
+探索動力,http://51ktv.top:5555/hk.php?id=335
+探索科學,http://51ktv.top:5555/hk.php?id=343
+探索頻道,http://51ktv.top:5555/hk.php?id=1035
+緯來日本,http://51ktv.top:5555/hk.php?id=337
+緯來日本,http://51ktv.top:5555/hk.php?id=46
+幸福空間居家,http://51ktv.top:5555/hk.php?id=61
+亞洲旅遊,http://51ktv.top:5555/hk.php?id=77
+Medici Arts,http://51ktv.top:5555/hk.php?id=188
+Outdoor,http://51ktv.top:5555/hk.php?id=374
+AFN,http://51ktv.top:5555/hk.php?id=195
+Astronaut Spacewalk Earth,http://51ktv.top:5555/hk.php?id=1026
+NASA ISS,http://51ktv.top:5555/hk.php?id=1009
+Earth Views,http://51ktv.top:5555/hk.php?id=1017
 國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 星空衛視,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
@@ -75,97 +104,158 @@ CBN每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fs
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 新聞,#genre#
 $c_start🍌新聞🍌$c_end
+台視新聞,http://51ktv.top:5555/hk.php?id=1006
+台視新聞,http://51ktv.top:5555/hk.php?id=1
+TVBS新聞,http://51ktv.top:5555/hk.php?id=1004
+TVBS新聞,http://51ktv.top:5555/hk.php?id=2
+中天新聞,http://51ktv.top:5555/hk.php?id=1002
+中天新聞,http://51ktv.top:5555/hk.php?id=3
+三立LIVE新聞,http://51ktv.top:5555/hk.php?id=1008
+三立LIVE新聞,http://51ktv.top:5555/hk.php?id=4
+華視新聞,http://51ktv.top:5555/hk.php?id=1012
+華視新聞,http://51ktv.top:5555/hk.php?id=6
+中視新聞,http://51ktv.top:5555/hk.php?id=1000
+中視新聞,http://51ktv.top:5555/hk.php?id=7
+iNEWS,http://51ktv.top:5555/hk.php?id=1014
+iNEWS,http://51ktv.top:5555/hk.php?id=8
+東森新聞,http://51ktv.top:5555/hk.php?id=1016
+東森新聞,http://51ktv.top:5555/hk.php?id=9
+東森財經新聞,http://51ktv.top:5555/hk.php?id=1018
+東森財經新聞,http://51ktv.top:5555/hk.php?id=12
+民視新聞,http://51ktv.top:5555/hk.php?id=13
+寰宇臺灣,http://51ktv.top:5555/hk.php?id=87
+年代新聞,http://51ktv.top:5555/hk.php?id=236
+壹電視新聞,http://51ktv.top:5555/hk.php?id=303
+非凡新聞,http://51ktv.top:5555/hk.php?id=314
+中華財經,http://51ktv.top:5555/hk.php?id=317
+台視財經,http://51ktv.top:5555/hk.php?id=300
+FRANCE 24,http://51ktv.top:5555/hk.php?id=1042
+DW News,http://51ktv.top:5555/hk.php?id=14
+新唐人亞太台,http://51ktv.top:5555/hk.php?id=10
+美國唐人街台,http://51ktv.top:5555/hk.php?id=43
+CBN News,http://51ktv.top:5555/hk.php?id=499
+寰宇新聞,http://51ktv.top:5555/hk.php?id=304
+Bloomberg Europe,http://51ktv.top:5555/hk.php?id=370
+VOA美國之音,http://51ktv.top:5555/hk.php?id=495
+半島國際新聞,http://51ktv.top:5555/hk.php?id=494
+THE WORLD,http://51ktv.top:5555/hk.php?id=1013
+RT News,http://51ktv.top:5555/hk.php?id=1025
+TRTWORLD,http://51ktv.top:5555/hk.php?id=1022
+Bloomberg Financial,http://51ktv.top:5555/hk.php?id=1046
+Al Jazeera,http://51ktv.top:5555/hk.php?id=1144
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/114
 三立iNEWS,http://seb.sason.top/sc/sllive_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/117
 三立新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/110
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/111
-东森财经新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
-寰宇新闻台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/130
-年代新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
-非凡新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/122
-中天新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b#http://6.crtv6.ml:8080/test/test/112
-非凡商业,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
 NHK BS1,http://125.227.210.37:8939/VideoInput/play.ts
 台灣,#genre#
 $c_start🍌台灣🍌$c_end
-台视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b
-台视综合,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8828&key=84797b799ae18d1b
-台视新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b
+民視,http://51ktv.top:5555/hk.php?id=26
+民視,http://51ktv.top:5555/hk.php?id=336
+華視,http://51ktv.top:5555/hk.php?id=32
+華視,http://51ktv.top:5555/hk.php?id=327
+中視,http://51ktv.top:5555/hk.php?id=28
+中視,http://51ktv.top:5555/hk.php?id=333
+台視,http://51ktv.top:5555/hk.php?id=27
+台視,http://51ktv.top:5555/hk.php?id=326
+公視,http://51ktv.top:5555/hk.php?id=86
+公視,http://51ktv.top:5555/hk.php?id=361
+大愛電視,http://51ktv.top:5555/hk.php?id=184
+大愛二臺,http://51ktv.top:5555/hk.php?id=197
+三立都會,http://51ktv.top:5555/hk.php?id=38
+三立臺灣,http://51ktv.top:5555/hk.php?id=35
+JET綜合,http://51ktv.top:5555/hk.php?id=41
+壹電視綜合,http://51ktv.top:5555/hk.php?id=305
+八大綜合,http://51ktv.top:5555/hk.php?id=90
+八大第一,http://51ktv.top:5555/hk.php?id=318
+八大精彩,http://51ktv.top:5555/hk.php?id=1024
+TVBS,http://51ktv.top:5555/hk.php?id=88
+TVBS綜合,http://51ktv.top:5555/hk.php?id=16
+TVBS精采,http://51ktv.top:5555/hk.php?id=66
+TVBS歡樂臺,http://51ktv.top:5555/hk.php?id=40
+民視第一台,http://51ktv.top:5555/hk.php?id=34
+民視台灣,http://51ktv.top:5555/hk.php?id=36
+緯來育樂,http://51ktv.top:5555/hk.php?id=312
+緯來育樂,http://51ktv.top:5555/hk.php?id=338
+中天綜合,http://51ktv.top:5555/hk.php?id=325
+中天綜合,http://51ktv.top:5555/hk.php?id=54
+中天亞洲,http://51ktv.top:5555/hk.php?id=322
+星衛娛樂,http://51ktv.top:5555/hk.php?id=89
+VTV4,http://51ktv.top:5555/hk.php?id=341
+靖天綜合,http://51ktv.top:5555/hk.php?id=308
+靖天育樂,http://51ktv.top:5555/hk.php?id=1029
+靖天日本,http://51ktv.top:5555/hk.php?id=108
+靖天歡樂,http://51ktv.top:5555/hk.php?id=51
+靖天資訊,http://51ktv.top:5555/hk.php?id=49
+中天娛樂,http://51ktv.top:5555/hk.php?id=324
+緯來綜合,http://51ktv.top:5555/hk.php?id=340
+中視菁采台,http://51ktv.top:5555/hk.php?id=74
+龍華日韓,http://51ktv.top:5555/hk.php?id=382
+龍華偶像,http://51ktv.top:5555/hk.php?id=347
+韓國娛樂台,http://51ktv.top:5555/hk.php?id=73
+客家電視,http://51ktv.top:5555/hk.php?id=76
+豬哥亮歌廳秀,http://51ktv.top:5555/hk.php?id=75
+ELTA娛樂台,http://51ktv.top:5555/hk.php?id=351
+好消息,http://51ktv.top:5555/hk.php?id=104
+好消息2,http://51ktv.top:5555/hk.php?id=363
+東森超視,http://51ktv.top:5555/hk.php?id=80
+東森綜合,http://51ktv.top:5555/hk.php?id=372
+衛視中文,http://51ktv.top:5555/hk.php?id=342
+民視影劇,http://51ktv.top:5555/hk.php?id=1023
+八大戲劇,http://51ktv.top:5555/hk.php?id=81
+公視戲劇,http://51ktv.top:5555/hk.php?id=69
+三立戲劇,http://51ktv.top:5555/hk.php?id=64
+緯來戲劇,http://51ktv.top:5555/hk.php?id=339
+龍華戲劇,http://51ktv.top:5555/hk.php?id=365
+靖洋戲劇,http://51ktv.top:5555/hk.php?id=319
+采昌影劇,http://51ktv.top:5555/hk.php?id=62
+靖天戲劇,http://51ktv.top:5555/hk.php?id=109
+MTV,http://51ktv.top:5555/hk.php?id=106
+CLASSICA 古典樂,http://51ktv.top:5555/hk.php?id=1027
+希望電視,http://51ktv.top:5555/hk.php?id=67
+人間衛視,http://51ktv.top:5555/hk.php?id=101
 台视新闻 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
-台视财经,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
-中视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
-中视新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
 中视新闻 HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
-中视菁采,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
-中视经典,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
-华视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b
 华视新闻 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
-华视新闻资讯,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
-民视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
 民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
-民视新闻,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
-公视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
-公视台语,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b
-公视3,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8819&key=84797b799ae18d1b
-客家电视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8825&key=84797b799ae18d1b
-原住民,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8824&key=84797b799ae18d1b
-三立戏剧台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8809&key=84797b799ae18d1b
-三立台湾台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14023&key=84797b799ae18d1b
-三立都会台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
-东森戏剧,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
-东森超视,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b
-东森综合,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
-纬来综合,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
-纬来育樂,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
-纬来戏剧,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
-TVBS,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
-TVBS欢乐台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
-中天娱乐,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
-中天综合,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
 中天亚洲,http://seb.sason.top/sc/ztxw_fhd.m3u8
-八大综合台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15002&key=84797b799ae18d1b
-八大娱乐台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15004&key=84797b799ae18d1b
-八大第一台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15001&key=84797b799ae18d1b
-八大戏剧台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b
-卫视中文台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
-星卫娱乐台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11004&key=84797b799ae18d1b
-韩国娱乐台,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11016&key=84797b799ae18d1b
-TVN,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11015&key=84797b799ae18d1b
-MTV台湾,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12013&key=84797b799ae18d1b
-东风37,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
-年代MUCH,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
-JET综合,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_2_12018&key=84797b799ae18d1b
-民视新闻,http://6.crtv6.ml:8080/test/test/113
-中视新闻,http://6.crtv6.ml:8080/test/test/119
-台视新闻,http://6.crtv6.ml:8080/test/test/118
-华视新闻,http://6.crtv6.ml:8080/test/test/116
-民视HD,http://6.crtv6.ml:8080/test/test/45
-台视HD,http://6.crtv6.ml:8080/test/test/46
-中视HD,http://6.crtv6.ml:8080/test/test/47
-华视HD,http://6.crtv6.ml:8080/test/test/48
-公视,http://6.crtv6.ml:8080/test/test/49
-纬来综合HD,http://6.crtv6.ml:8080/test/test/54
-八大综合台HD,http://6.crtv6.ml:8080/test/test/56
-三立台湾台HD,http://6.crtv6.ml:8080/test/test/58
-三立都会台HD,http://6.crtv6.ml:8080/test/test/59
-卫视中文台HD,http://6.crtv6.ml:8080/test/test/60
-东森综合台HD,http://6.crtv6.ml:8080/test/test/61
-中天综合HD,http://6.crtv6.ml:8080/test/test/64
-中天娛乐HD,http://6.crtv6.ml:8080/test/test/65
-TVBS欢乐台HD,http://6.crtv6.ml:8080/test/test/66
-八大精彩台,http://6.crtv6.ml:8080/test/test/67
-JET综合,http://6.crtv6.ml:8080/test/test/68
-中天亞洲,http://6.crtv6.ml:8080/test/test/81
-八大精采,http://6.crtv6.ml:8080/test/test/67
-TVBS HD,http://6.crtv6.ml:8080/test/test/70
-三立綜合,http://6.crtv6.ml:8080/test/test/96
-三立戏剧,http://6.crtv6.ml:8080/test/test/84
-非凡商业,http://6.crtv6.ml:8080/test/test/121
-東森綜合,http://6.crtv6.ml:8080/test/test/115
 港澳,#genre#
 $c_start🍌港澳🍌$c_end
+TVB翡翠,http://51ktv.top:5555/hk.php?id=390
+TVB翡翠,http://51ktv.top:5555/hk.php?id=30
+TVB明珠,http://51ktv.top:5555/hk.php?id=391
+無線新聞,http://51ktv.top:5555/hk.php?id=394
+無線新聞,http://51ktv.top:5555/hk.php?id=45
+有線新聞,http://51ktv.top:5555/hk.php?id=395
+Viutv,http://51ktv.top:5555/hk.php?id=72
+TVB無線財經,http://51ktv.top:5555/hk.php?id=393
+TVBJ2,http://51ktv.top:5555/hk.php?id=392
+香港開電視,http://51ktv.top:5555/hk.php?id=17
+NOW新聞,http://51ktv.top:5555/hk.php?id=396
+NOW直播,http://51ktv.top:5555/hk.php?id=400
+鳳凰香港,http://51ktv.top:5555/hk.php?id=358
+鳳凰衛視,http://51ktv.top:5555/hk.php?id=357
+鳳凰資訊,http://51ktv.top:5555/hk.php?id=359
+港臺32,http://51ktv.top:5555/hk.php?id=397
+港臺31,http://51ktv.top:5555/hk.php?id=353
+新時代多倫多,http://51ktv.top:5555/hk.php?id=1031
+新時代多倫多2,http://51ktv.top:5555/hk.php?id=1033
+新時代温哥華,http://51ktv.top:5555/hk.php?id=1032
+Channel V,http://51ktv.top:5555/hk.php?id=21
+HKC娛樂,http://51ktv.top:5555/hk.php?id=360
+HKS,http://51ktv.top:5555/hk.php?id=399
+澳視澳門,http://51ktv.top:5555/hk.php?id=23
+澳視葡語,http://51ktv.top:5555/hk.php?id=24
+澳門衛星,http://51ktv.top:5555/hk.php?id=29
+亞美衛視,http://51ktv.top:5555/hk.php?id=1001
+澳門蓮花,http://51ktv.top:5555/hk.php?id=70
+星空衛視,http://51ktv.top:5555/hk.php?id=401
+18台,http://51ktv.top:5555/hk.php?id=44
+TVB功夫,http://51ktv.top:5555/hk.php?id=356
+HKC電影一台,http://51ktv.top:5555/hk.php?id=354
+Viutv 6,http://51ktv.top:5555/hk.php?id=176
 鳳凰香港,http://api.kaka-app.xyz/mm654123/proxy.php?vid=vipga&id=6027
 香港衛視,http://api.kaka-app.xyz/mm654123/proxy.php?vid=vipga&id=6028
 TVB港劇二,https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8#https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
@@ -177,28 +267,6 @@ TVB港劇二,https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8#https://dlh
 明珠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CGTN,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=14&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台,http://6.crtv6.ml:8080/test/test/1
-明珠台,http://6.crtv6.ml:8080/test/test/2
-无线新闻台,http://6.crtv6.ml:8080/test/test/3
-有线新闻台,http://6.crtv6.ml:8080/test/test/4
-无线财经资讯台,http://6.crtv6.ml:8080/test/test/6
-NOW新闻台,http://6.crtv6.ml:8080/test/test/5
-TVB  J2,http://6.crtv6.ml:8080/test/test/7
-有线603HD,http://6.crtv6.ml:8080/test/test/8
-NOW直播台,http://6.crtv6.ml:8080/test/test/10
-TVB星河,http://6.crtv6.ml:8080/test/test/16
-有线电影台HD,http://6.crtv6.ml:8080/test/test/20
-有线体育台,http://6.crtv6.ml:8080/test/test/21
-NOW体育台,http://6.crtv6.ml:8080/test/test/23
-凤凰香港台,http://6.crtv6.ml:8080/test/test/25
-CCTV1,http://6.crtv6.ml:8080/test/test/148
-RTHK31,http://6.crtv6.ml:8080/test/test/11
-RTHK32,http://6.crtv6.ml:8080/test/test/12
-香港开电视,http://6.crtv6.ml:8080/test/test/13
-VIUTV,http://6.crtv6.ml:8080/test/test/14
-VIUTV6,http://6.crtv6.ml:8080/test/test/15
-sports,http://6.crtv6.ml:8080/test/test/22
-HKS,http://6.crtv6.ml:8080/test/test/24
 HKC18,rtmp://xiaoyu.speedws.com/sat/hk041
 明珠,rtmp://mms.ldntv.cn/live/fct
 珠江,rtmp://xiaoyu.speedws.com/sat/hk031
@@ -287,16 +355,29 @@ best电影2[1280*720],http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtual
 
 ﻿18+,#genre#
 $c_start﻿18+_0$c_end
-松视3台,http://6.crtv6.ml:8080/test/test/919
-潘朵拉完美,http://6.crtv6.ml:8080/test/test/921
-潘朵拉粉红,http://6.crtv6.ml:8080/test/test/922
-彩虹电影,http://6.crtv6.ml:8080/test/test/923
-彩虹E,http://6.crtv6.ml:8080/test/test/924
-东京热,http://6.crtv6.ml:8080/test/test/928
-HOT,http://6.crtv6.ml:8080/test/test/929
-HAPPT,http://6.crtv6.ml:8080/test/test/930
-惊艳台,http://6.crtv6.ml:8080/test/test/931
-X,http://6.crtv6.ml:8080/test/test/933
-Dorcel Hustler,http://6.crtv6.ml:8080/test/test/935
-Hustler Redlight,http://6.crtv6.ml:8080/test/test/937
-BRAZZER,http://6.crtv6.ml:8080/test/test/941
+松視1,http://51ktv.top:5555/hk.php?id=402
+松視2,http://51ktv.top:5555/hk.php?id=403
+松視3,http://51ktv.top:5555/hk.php?id=404
+香蕉台,http://51ktv.top:5555/hk.php?id=408
+潘朵拉完美,http://51ktv.top:5555/hk.php?id=410
+潘朵拉粉紅,http://51ktv.top:5555/hk.php?id=411
+彩虹電影,http://51ktv.top:5555/hk.php?id=413
+彩虹K,http://51ktv.top:5555/hk.php?id=406
+彩虹E,http://51ktv.top:5555/hk.php?id=405
+一本道,http://51ktv.top:5555/hk.php?id=414
+二本道,http://51ktv.top:5555/hk.php?id=415
+東京熱,http://51ktv.top:5555/hk.php?id=416
+HOT,http://51ktv.top:5555/hk.php?id=407
+happy,http://51ktv.top:5555/hk.php?id=412
+驚豔台,http://51ktv.top:5555/hk.php?id=409
+Erox HD,http://51ktv.top:5555/hk.php?id=456
+Dorcel HD,http://51ktv.top:5555/hk.php?id=454
+Babes TV HD,http://51ktv.top:5555/hk.php?id=458
+Hustler HD,http://51ktv.top:5555/hk.php?id=451
+SCT Classic,http://51ktv.top:5555/hk.php?id=462
+Redlight HD,http://51ktv.top:5555/hk.php?id=452
+SEX ATION HD,http://51ktv.top:5555/hk.php?id=459
+Super One HD,http://51ktv.top:5555/hk.php?id=457
+Prıvate TV,http://51ktv.top:5555/hk.php?id=453
+Passie,http://51ktv.top:5555/hk.php?id=461
+Vivid Red HD,http://51ktv.top:5555/hk.php?id=455
