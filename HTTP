@@ -8,14 +8,14 @@ FOX Family,http://tv.wakds.xyz:8080/live/tangyuan/12345678/99.ts
 CATCHPLAY,http://tv.wakds.xyz:8080/live/tangyuan/12345678/74.ts
 HKC電影一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/10.ts
 好萊塢電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/50.ts
-有线电影台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/10.ts
+有線電影台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/10.ts
 東森洋片,http://tv.wakds.xyz:8080/live/tangyuan/12345678/56.ts
 東森電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/53.ts
 美亞電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/73.ts
 緯來電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/77.ts
 龍華電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/58.ts
 爆谷台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/230.ts
-卫视卡式,http://tv.wakds.xyz:8080/live/tangyuan/12345678/233.ts
+衛視卡式,http://tv.wakds.xyz:8080/live/tangyuan/12345678/233.ts
 CinemaWorld,http://tv.wakds.xyz:8080/live/tangyuan/12345678/148.ts
 HBO HD,http://tv.wakds.xyz:8080//live/520520/131313/94.m3u8
 HBO Hits,http://tv.wakds.xyz:8080//live/520520/131313/96.m3u8
@@ -33,13 +33,7 @@ CATCHPLAY,http://tv.wakds.xyz:8080//live/520520/131313/74.m3u8
 HBO,http://92ltw.top/gz.php?id=b9/gzyx.m3u8?id=twhbo
 AXN,http://92ltw.top/gz.php?id=b9/gzyx.m3u8?id=twaxn
 鳳凰電影,http://92ltw.top/gz.php?id=b9/gzyx.m3u8?id=fhdy
-HBO 亞洲,vjms://50.7.253.59:8500/live/cid=261
-FOX電影,vjms://50.7.253.59:8500/live/cid=94
-AXN,vjms://50.7.253.59:8500/live/cid=2
-東森洋片,vjms://50.7.253.59:8500/live/cid=34
-東森電影,vjms://50.7.253.59:8500/live/cid=338
-緯來電影,vjms://50.7.253.59:8500/live/cid=446
-衛視電影,vjms://50.7.253.59:8500/live/cid=101
+HBO亞洲,https://flv3948069e.live.126.net/live/64fc57a1c6fd414d6fcf53f7c2c57b22.flv
 
 探索,#genre#
 $c_start探索$c_end
@@ -48,25 +42,18 @@ afn美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/82.ts
 美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/83.ts
 美食星球,http://tv.wakds.xyz:8080/live/tangyuan/12345678/84.ts
 緯來日本,http://tv.wakds.xyz:8080//live/520520/131313/76.m3u8
+緯來日本,rtmp://59.124.75.156:1935/sat/tv522
 afn美食,http://tv.wakds.xyz:8080//live/520520/131313/82.m3u8
 美食,http://tv.wakds.xyz:8080//live/520520/131313/83.m3u8
 美食星球,http://tv.wakds.xyz:8080//live/520520/131313/84.m3u8
 NG WILD,http://tv.wakds.xyz:8080//live/520520/131313/165.m3u8
-緯來日本,vjms://50.7.253.59:8500/live/cid=332
-探索動物,vjms://50.7.253.59:8500/live/cid=440
-探索科學,vjms://50.7.253.59:8500/live/cid=457
-探索世界,vjms://50.7.253.59:8500/live/cid=351
-動物星球,vjms://50.7.253.59:8500/live/cid=3
-國家地理HD,vjms://50.7.253.59:8500/live/cid=115
-野生動物頻道,vjms://50.7.253.59:8500/live/cid=263
-TLC旅游生活,vjms://50.7.253.59:8500/live/cid=103
 新聞,#genre#
 $c_start新聞$c_end
 TVBS新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/14.ts
 中天新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/17.ts
 東森財經新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/88.ts
 東森新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/37.ts
-寰宇新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/231.ts
+寰宇新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/231.ts
 非凡新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/45.ts
 壹電視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/89.ts
 TVBS新聞,http://tv.wakds.xyz:8080//live/520520/131313/14.m3u8
@@ -76,15 +63,7 @@ TVBS新聞,http://tv.wakds.xyz:8080//live/520520/131313/14.m3u8
 非凡新聞,http://tv.wakds.xyz:8080//live/520520/131313/45.m3u8
 東森財經新聞,http://tv.wakds.xyz:8080//live/520520/131313/88.m3u8
 壹電視新聞,http://tv.wakds.xyz:8080//live/520520/131313/89.m3u8
-三立新聞,vjms://50.7.253.59:8500/live/cid=352
-TVBS新聞,vjms://50.7.253.59:8500/live/cid=348
 TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
-東森新聞,vjms://50.7.253.59:8500/live/cid=340
-非凡新聞,vjms://50.7.253.59:8500/live/cid=443
-年代新聞,vjms://50.7.253.59:8500/live/cid=455
-壹新聞,vjms://50.7.253.59:8500/live/cid=445
-中天新聞,vjms://50.7.253.59:8500/live/cid=407
-東森財經,vjms://50.7.253.59:8500/live/cid=456
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -98,11 +77,15 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 中天新聞,http://198.16.106.58:8278/ctinews/playlist.m3u8?tid=MEFE4113231041132310&ct=18392&tsum=6a3e7c0f4dc22c460e84b9010cefeba0
 TVBS新聞,http://198.16.106.58:8278/tvbs_n/playlist.m3u8?tid=MEFE9769352797693527&ct=18392&tsum=22cb94c46749c8399ae5de55bf9b3f53
+中天新聞,http://v3948069e.live.126.net/live/us01/tw20200114zhongtiannews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=26
+東森新聞,http://v3948069e.live.126.net/live/us01/tw20200114dongsennews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=27
+三立LIVE新聞,http://v3948069e.live.126.net/live/us01/tw20200114sanlinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=35
+壹新聞,http://v3948069e.live.126.net/live/us01/tw20200114yinews.flv
 
 台灣,#genre#
 $c_start台灣$c_end
 華視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/28.ts
-华视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/232.ts
+華視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/232.ts
 中視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/23.ts
 中視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/24.ts
 台視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/21.ts
@@ -110,14 +93,21 @@ $c_start台灣$c_end
 民視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/26.ts
 民視第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/46.ts
 民視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/25.ts
+華視,http://v3948069e.live.126.net/live/us01/tw20200114huashi.flv
+華視新聞,http://v3948069e.live.126.net/live/us01/tw20200114huashinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=33
+民視,http://v3948069e.live.126.net/live/us01/tw20200114minshi.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=41
+民視新聞,http://v3948069e.live.126.net/live/us01/tw20200114minshinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=37
+台視,http://v3948069e.live.126.net/live/us01/tw20200114taishi.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=42
+台視新聞,http://v3948069e.live.126.net/live/us01/tw20200114taishinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=31
+中視,http://v3948069e.live.126.net/live/us01/tw20200114zhongshi.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=43
 ELTA綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/75.ts
 ELTA影劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/60.ts
 TVBS HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/16.ts
-TVBS歡樂臺,http://tv.wakds.xyz:8080/live/tangyuan/12345678/15.ts
+TVBS歡樂台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/15.ts
 八大娛樂,http://tv.wakds.xyz:8080/live/tangyuan/12345678/33.ts
 八大第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/30.ts
 八大綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/31.ts
-三立臺灣,http://tv.wakds.xyz:8080/live/tangyuan/12345678/34.ts
+三立台灣,http://tv.wakds.xyz:8080/live/tangyuan/12345678/34.ts
 三立戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/70.ts
 大愛電視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/41.ts
 中天亞洲,http://tv.wakds.xyz:8080/live/tangyuan/12345678/20.ts
@@ -183,29 +173,25 @@ EYE TV戲劇,http://tv.wakds.xyz:8080//live/520520/131313/87.m3u8
 CN卡通,http://tv.wakds.xyz:8080//live/520520/131313/117.m3u8
 Baby,http://tv.wakds.xyz:8080//live/520520/131313/119.m3u8
 CinemaWorld,http://tv.wakds.xyz:8080//live/520520/131313/148.m3u8
-台視,rtmp://59.124.75.156:1935/sat/tv071
-台視,vjms://50.7.253.59:8500/live/cid=453
-中視,rtmp://59.124.75.156:1935/sat/tv091
-中視,vjms://50.7.253.59:8500/live/cid=452
-公視,vjms://50.7.253.59:8500/live/cid=236
-華視,rtmp://59.124.75.156:1935/sat/tv111
-華視,vjms://50.7.253.59:8500/live/cid=451
-民視,rtmp://59.124.75.156:1935/sat/tv051
-民視,vjms://50.7.253.59:8500/live/cid=450
-TVBS HD,vjms://50.7.253.59:8500/live/cid=349
-TVBS歡樂,vjms://50.7.253.59:8500/live/cid=438
-TVBS歡樂,rtmp://59.124.75.156:1935/sat/tv421
-東森超視,rtmp://59.124.75.156:1935/sat/tv771
-東森超視,vjms://50.7.253.59:8500/live/cid=426
-東森戲劇,vjms://50.7.253.59:8500/live/cid=425
-東森綜合,vjms://50.7.253.59:8500/live/cid=333
-年代MUCH,vjms://50.7.253.59:8500/live/cid=439
-三立都會,vjms://50.7.253.59:8500/live/cid=226
-三立台灣,vjms://50.7.253.59:8500/live/cid=437
-緯來戲劇,vjms://50.7.253.59:8500/live/cid=137
-緯來育樂,rtmp://59.124.75.156:1935/sat/tv701
-緯來綜合,vjms://50.7.253.59:8500/live/cid=3
-法國國際五,vjms://50.7.253.59:8500/live/cid=396
+民視,rtmp://59.124.75.156/sat/tv051
+民視,rtmp://59.124.75.156/sat/tv052
+台視,rtmp://59.124.75.156/sat/tv071
+台視,rtmp://59.124.75.156/sat/tv072
+中視,rtmp://59.124.75.156/sat/tv091
+中視,rtmp://59.124.75.156/sat/tv092
+華視,rtmp://59.124.75.156/sat/tv111
+華視,rtmp://59.124.75.156/sat/tv112
+TVBS歡樂,rtmp://59.124.75.156/sat/tv421
+TVBS歡樂,rtmp://59.124.75.156/sat/tv422
+緯來日本,rtmp://59.124.75.156/sat/tv521
+緯來日本,rtmp://59.124.75.156/sat/tv522
+TVBS新聞,rtmp://59.124.75.156/sat/tv551
+TVBS新聞,rtmp://59.124.75.156/sat/tv552
+東森財經,rtmp://59.124.75.156/sat/tv571
+東森財經,rtmp://59.124.75.156/sat/tv572
+緯來育樂,rtmp://59.124.75.156/sat/tv701
+緯來育樂,rtmp://59.124.75.156/sat/tv702
+
 香港,#genre#
 $c_start香港$c_end
 鳳凰衛視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/2.ts
@@ -251,22 +237,22 @@ Astro RIA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/181.ts
 Astro ABC,http://tv.wakds.xyz:8080/live/tangyuan/12345678/182.ts
 Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/183.ts
 翡翠台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/184.ts
-Astro 双星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/185.ts
+Astro 雙星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/185.ts
 愛奇藝,http://tv.wakds.xyz:8080/live/tangyuan/12345678/186.ts
 Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/187.ts
-浙江卫视,http://tv.wakds.xyz:8080/live/tangyuan/12345678/188.ts
-Astro 双星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/189.ts
-Astro 小太阳,http://tv.wakds.xyz:8080/live/tangyuan/12345678/190.ts
+浙江衛視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/188.ts
+Astro 雙星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/189.ts
+Astro 小太陽,http://tv.wakds.xyz:8080/live/tangyuan/12345678/190.ts
 TVB星河,http://tv.wakds.xyz:8080/live/tangyuan/12345678/191.ts
 kix,http://tv.wakds.xyz:8080/live/tangyuan/12345678/192.ts
 HBO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/193.ts
 HGTV,http://tv.wakds.xyz:8080/live/tangyuan/12345678/194.ts
 animal plant,http://tv.wakds.xyz:8080/live/tangyuan/12345678/195.ts
 momo,http://tv.wakds.xyz:8080/live/tangyuan/12345678/217.ts
-TVB经典,http://tv.wakds.xyz:8080/live/tangyuan/12345678/229.ts
-无线新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/234.ts
-有线新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/235.ts
-NOW新闻,http://tv.wakds.xyz:8080/live/tangyuan/12345678/236.ts
+TVB經典,http://tv.wakds.xyz:8080/live/tangyuan/12345678/229.ts
+無線新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/234.ts
+有線新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/235.ts
+NOW新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/236.ts
 TV1,http://tv.wakds.xyz:8080//live/520520/131313/149.m3u8
 TV2,http://tv.wakds.xyz:8080//live/520520/131313/150.m3u8
 TV3,http://tv.wakds.xyz:8080//live/520520/131313/151.m3u8
@@ -320,6 +306,22 @@ momo,http://tv.wakds.xyz:8080//live/520520/131313/217.m3u8
 wjg,http://tv.wakds.xyz:8080//live/520520/131313/218.m3u8
 news,http://tv.wakds.xyz:8080//live/520520/131313/219.m3u8
 TVB經典,http://tv.wakds.xyz:8080//live/520520/131313/229.m3u8
+TVB無線翡翠,http://v3948069e.live.126.net/live/us01/hk20200114feicui.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=15#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=4
+TVB無線明珠,http://v3948069e.live.126.net/live/us01/hk20200114mingzhu.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=6
+TVBJ2,http://v3948069e.live.126.net/live/us01/hk20200114tvbj2.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=18#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=5
+TVB無線新聞,http://v3948069e.live.126.net/live/us01/hk20200114wxnews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=13#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=7#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=10
+TVB無線財經,http://v3948069e.live.126.net/live/us01/hk20200114wxcjnews.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=8
+TVB星河台,http://v3948069e.live.126.net/live/us01/tw20200114tvbxinghe.flv
+TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+有線新聞,http://v3948069e.live.126.net/live/us01/hk20200114yxnews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=6#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=7#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=10
+有線娛樂,http://v3948069e.live.126.net/live/us01/hk20200114yxgames.flv
+有線18台,http://v3948069e.live.126.net/live/us01/hk20200114yx18t.flv
+香港有線603,http://qj.yyrjdp.cn/jiuban/iptvt.php?id=8
+NOW新聞台,http://v3948069e.live.126.net/live/us01/tw20200114nownews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=21#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=9
+港台電視31,http://v3948069e.live.126.net/live/us01/hk20200114rt31.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=13
+港台電視32,http://v3948069e.live.126.net/live/us01/hk20200114rt32.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=14
+ViuTV,http://v3948069e.live.126.net/live/us01/hk20200114viutv.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=20#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=11
+ViuTV6,http://v3948069e.live.126.net/live/us01/hk20200114viutv6.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=12
 ﻿鳳凰衛視,http://tv.wakds.xyz:8080//live/520520/131313/2.m3u8
 鳳凰香港,http://tv.wakds.xyz:8080//live/520520/131313/3.m3u8
 TVB翡翠,http://tv.wakds.xyz:8080//live/520520/131313/4.m3u8
@@ -397,37 +399,8 @@ TVB 星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 One,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 TVN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 Ria,http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
-SCL,vjms://50.7.253.59:8500/live/cid=457
-TVB J2,vjms://50.7.253.59:8500/live/cid=363
-TVB J2,vjms://50.7.253.59:8500/live/cid=368
-澳亞衛視,vjms://50.7.253.59:8500/live/cid=337
-翡翠,vjms://50.7.253.59:8500/live/cid=362
-鳳凰中文,vjms://50.7.253.59:8500/live/cid=400
-鳳凰資訊,vjms://50.7.253.59:8500/live/cid=401
-明珠,vjms://50.7.253.59:8500/live/cid=367
-無綫新聞,vjms://50.7.253.59:8500/live/cid=366
 有線娛樂,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 有線財經,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
-BBC,vjms://50.7.253.59:8500/live/cid=418
-CNN,vjms://50.7.253.59:8500/live/cid=428
-CNBC,vjms://50.7.253.59:8500/live/cid=98
-法國時尚,vjms://50.7.253.59:8500/live/cid=399
-迪士尼,vjms://50.7.253.59:8500/live/cid=361
-CL,vjms://50.7.253.59:8500/live/cid=457
-FOX2,vjms://50.7.253.59:8500/live/cid=444
-HBO3,vjms://50.7.253.59:8500/live/cid=436
-日本3,vjms://50.7.253.59:8500/live/cid=376
-日本4,vjms://50.7.253.59:8500/live/cid=380
-日本5,vjms://50.7.253.59:8500/live/cid=381
-日本6,vjms://50.7.253.59:8500/live/cid=408
-日本7,vjms://50.7.253.59:8500/live/cid=492
-日本8,vjms://50.7.253.59:8500/live/cid=496
-日本9,vjms://50.7.253.59:8500/live/cid=499
-日本MTV,vjms://50.7.253.59:8500/live/cid=495
-日本動漫1,vjms://50.7.253.59:8500/live/cid=494
-日本動漫,vjms://50.7.253.59:8500/live/cid=493
-日本動漫12,vjms://50.7.253.59:8500/live/cid=498
-視,vjms://50.7.253.59:8500/live/cid=497
 18+,#genre#
 $c_start18+$c_end
 JStar極限電影台,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
