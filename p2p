@@ -1,20 +1,29 @@
 电影,#genre#
 $c_start🍌电影🍌$c_end
-*p2p*,http://198.98.55.16
+*P2p*,http://198.98.55.16
 HBO HD,P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
+HBO HD,P2p://198.255.74.56:41196/600dbeb9000eb0c67bdb95e3f65e6085
 HBO强档,P2p://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 HBO强档,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
+HBO强档,P2p://198.255.74.56:41196/600dbeb9000dbccf7bdb95a54e81b864
 HBO Signature,P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
 HBO Signature,mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
+HBO Signature,P2p://198.255.74.56:41196/600dbeb9000cda0b7bdb956bc88e0e5a
 FOX家庭电影,P2p://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
 FOX家庭电影,mitv://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
+FOX家庭电影,P2p://198.255.74.56:41196/600dbeb9000945197bdb948091d2d0b5
 FOX动作电影,P2p://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
 FOX动作电影,mitv://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
 FOX优质影院,P2p://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
 FOX优质影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
+FOX优质影院,P2p://198.255.74.56:41196/600dbeb9000a35057bdb94bdf889db99
 FOX犯罪影院,P2p://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
 FOX犯罪影院,mitv://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
+FOX犯罪影院,P2p://198.255.74.56:41196/600dbeb9000862e47bdb94463b3d84cd
+FX HD,P2p://198.255.74.56:41196/600dbeb9000bf5ac7bdb953036e8338a
+FX HD,P2p://198.255.74.56:41196/600dbeb9000b17e47bdb94f7dd407141
+CINEMAX,P2p://198.255.74.56:41196/600dbeb90006ac697bdb93d6a3d44027
 LSTime电影台,P2p://198.255.74.56:41196/600dbec0000d27ae7bdbb0d709d81d14
 卫视中文,P2p://198.255.74.56:41196/600dbec0000eede77bdbb14b0a2e40f4
 卫视中文,P2p://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
@@ -29,7 +38,7 @@ LSTime电影台,P2p://198.255.74.56:41196/600dbec0000d27ae7bdbb0d709d81d14
 星卫电影,P2p://198.255.74.56:41196/600dbec000086f8f7bdbafa1374ccfa7
 星卫电影,P2p://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
 星卫电影,mitv://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
-歐洲電影台,mitv://ns2.hellotvvod.com:9906/5fc4dadd000a430d428d92681d0576c1.ts
+欧洲电影台,mitv://ns2.hellotvvod.com:9906/5fc4dadd000a430d428d92681d0576c1.ts
 华纳电视频道,P2p://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
 华纳电视频道,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
 美亚电影,P2p://198.255.74.56:41196/600dbec00008b4e97bdbafb346ccf404
@@ -42,10 +51,10 @@ LSTime电影台,P2p://198.255.74.56:41196/600dbec0000d27ae7bdbb0d709d81d14
 天映频道,mitv://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
 龙祥电影,P2p://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
 龙祥电影,mitv://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
-AMC最愛電影,P2p://ns2.hellotvvod.com:9906/5fc4e5220004e7d242b5ae895d4d61c8.ts
-AMC最愛電影,mitv://ns2.hellotvvod.com:9906/5fc4e5220004e7d242b5ae895d4d61c8.ts
-CatchPlay電影台,P2p://ns2.hellotvvod.com:9906/5fbe640a0004f803294d68c96e964443.ts
-CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/5fbe640a0004f803294d68c96e964443.ts
+AMC最爱电影,P2p://ns2.hellotvvod.com:9906/5fc4e5220004e7d242b5ae895d4d61c8.ts
+AMC最爱电影,mitv://ns2.hellotvvod.com:9906/5fc4e5220004e7d242b5ae895d4d61c8.ts
+CatchPlay电影台,P2p://ns2.hellotvvod.com:9906/5fbe640a0004f803294d68c96e964443.ts
+CatchPlay电影台,mitv://ns2.hellotvvod.com:9906/5fbe640a0004f803294d68c96e964443.ts
 好莱坞电影,P2p://198.255.74.56:41196/600dbec0000a71ad7bdbb0258f4c2084
 好莱坞电影,P2p://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
 好莱坞电影,mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
@@ -53,6 +62,10 @@ China Movie,P2p://198.255.74.56:41196/600dbec100027c257bdbb2036f4e0034
 CinemaWorld,P2p://198.255.74.56:41196/600dbec00009924e7bdbafec370d9d6d
 CinemaWorld,P2p://107.148.223.220:19908/60087b760002f26f674cd52a69ec4c51
 CinemaWorld,mitv://107.148.223.220:19908/60087b760002f26f674cd52a69ec4c51
+AXN,P2p://198.255.74.56:41196/600dbe9f000db9457bdb30144fd6fe69
+AXN,P2p://147.135.39.171:9906/5e7cf98f000d3ec43dc38ee9739950cb.ts
+Warner Bros,P2p://198.255.74.56:41196/600dbea600091ae47bdb4a3d85d8bd52
+Warner Bros,P2p://198.255.74.56:41196/600dbf020009936c7bdcb1bc25609650
 CINEMAX,P2p://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
 CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
 KIX,P2p://147.135.39.171:9906/5ed1603f000d135b8775612e2a3f7c34.ts
@@ -63,18 +76,36 @@ Thrill,mitv://147.135.39.171:9906/5ed15ffd0002a6fa87745cbf1c0f1bd0.ts
 $c_start🍌探索🍌$c_end
 BBC Earth,P2p://147.135.39.171:9906/5e7cf264000516d63da78cde4a2240a2.ts
 BBC Earth,mitv://147.135.39.171:9906/5e7cf264000516d63da78cde4a2240a2.ts
+BBC Earth,P2p://198.255.74.56:41196/600dbea600009b027bdb48100cf3c231
 探索频道,P2p://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
 探索频道,mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
+探索频道,P2p://198.255.74.56:41196/600dbeb90005cc147bdb939c23ee9504
 探索动力,P2p://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
 探索动力,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
+探索动力,P2p://198.255.74.56:41196/600dbeb2000a0d2f7bdb795bff108167
+探索动力,P2p://198.255.74.56:41196/600dbf0200051e397bdcb098fd4ac46d
 Discovery EVE HD,P2p://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
 Discovery EVE HD,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
+Discovery EVE,P2p://198.255.74.56:41196/600dbeb2000842cc7bdb78e69952657b
 Discovery亚洲,P2p://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
 Discovery亚洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
 Discovery科学,P2p://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
 Discovery科学,mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
+探索,P2p://198.255.74.56:41196/600dbeb2000bce297bdb79ce4ca54571
+Discovery 科学频道,P2p://198.255.74.56:41196/600dbeb2000924a97bdb7920e40ac6ee
+Discovery 科学频道,P2p://198.255.74.56:41196/600dbe6c000af4ce7bda6826da633550
+国家地理,P2p://198.255.74.56:41196/600dbeb2000761e67bdb78ac058a0d6f
+国家地理People,P2p://198.255.74.56:41196/600dbeb200066a517bdb786d1570b709
+国家地理野生频道,P2p://198.255.74.56:41196/600dbeb20005896a7bdb783311a1b3ee
+
 动物星球,P2p://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
 动物星球,mitv://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
+动物星球,P2p://198.255.74.56:41196/600dbeac000331467bdb602a8f742ed7
+亚洲美食,P2p://198.255.74.56:41196/600dbeac000240957bdb5fec012cc99d
+OUTDOOR,P2p://198.255.74.56:41196/600dbeac000160847bdb5fb31ff8be0d
+TRAVEL,P2p://198.255.74.56:41196/600dbeac000070667bdb5f751ca5a963
+TRAVEL,mitv://ns2.hellotvvod.com:9906/5fc12060000806cf33fd19842dd4481b.ts
+
 Fashion TV,P2p://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
 Fashion TV,mitv://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
 Food Network,P2p://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
@@ -82,22 +113,20 @@ Food Network,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 Fashion One,mitv://ns2.hellotvvod.com:9906/5fc11ca60003bbd033ee89db441f2424.ts
 France24,mitv://ns2.hellotvvod.com:9906/5fb528990008cd60053d385b269f5686.ts
 Euronews,mitv://ns2.hellotvvod.com:9906/5fb528990002edc1053d36e40575192b.ts
-AXN,P2p://147.135.39.171:9906/5e7cf98f000d3ec43dc38ee9739950cb.ts
 Arirang TV,mitv://ns2.hellotvvod.com:9906/5fddbcac000687bd0953331b467833b1.ts
 Mezzo Live,mitv://ns2.hellotvvod.com:9906/5fd893400001cac88f95e56c2c993dd0.ts
 TV5Monde,mitv://ns2.hellotvvod.com:9906/5fb514f60001968104f081ce58e101c9.ts
-TV5MONDE STYLE HD 生活時尚,mitv://ns2.hellotvvod.com:9906/5fbe68c50008a763295fe43b16ec27ca.ts
-Travel Channel,mitv://ns2.hellotvvod.com:9906/5fc12060000806cf33fd19842dd4481b.ts
+TV5MONDE STYLE HD 生活时尚,mitv://ns2.hellotvvod.com:9906/5fbe68c50008a763295fe43b16ec27ca.ts
 TRACE Urban,mitv://ns2.hellotvvod.com:9906/5fd907f400090583915dc67051805737.ts
 TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/5fc4d6a700039b19427d1dc3178007b3.ts
-Channel NewsAsia頻道,mitv://ns2.hellotvvod.com:9906/5fb659070004c28e09e2650158ba09f4.ts
-CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/5fd8934000080a448f95e702274b03a6.ts
+Channel NewsAsia频道,mitv://ns2.hellotvvod.com:9906/5fb659070004c28e09e2650158ba09f4.ts
+CLASSICA 古典乐,mitv://ns2.hellotvvod.com:9906/5fd8934000080a448f95e702274b03a6.ts
 CMusic,mitv://ns2.hellotvvod.com:9906/5fd90a470005f44d9166d9dd2b7e5114.ts
 Pet Club TV,mitv://ns2.hellotvvod.com:9906/5fda1095000c952995677c33107d4ce4.ts
 Love Nature,mitv://ns2.hellotvvod.com:9906/5fc11ca5000d64ea33ee887365d87084.ts
 LUXE TV,mitv://ns2.hellotvvod.com:9906/5fbe6a650008f05d29663d4a5fa4335c.ts
 Lifetime,mitv://ns2.hellotvvod.com:9906/5fc4fc9300037d2543113f931c6c0340.ts
-幸福空間居家台,mitv://ns2.hellotvvod.com:9906/5fc12060000db7b933fd1afb1af6465b.ts
+幸福空间居家台,mitv://ns2.hellotvvod.com:9906/5fc12060000db7b933fd1afb1af6465b.ts
 历史H1,P2p://147.135.39.171:9906/5d9a353100091ac79cdc6c20164369b0.ts
 历史H1,mitv://147.135.39.171:9906/5d9a353100091ac79cdc6c20164369b0.ts
 历史H2,P2p://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62.ts
@@ -245,6 +274,7 @@ TVBS,P2p://198.255.74.56:41196/600dbed4000b8bec7bdbfe8db7f0a351
 TVBS,P2p://198.255.74.56:41196/600dbf02000bb67a7bdcb2481895d80e
 TVBS精采台,P2p://ns2.hellotvvod.com:9906/5fc4fc930009411b4311411a76eb5485.ts
 TVBS精采台,mitv://ns2.hellotvvod.com:9906/5fc4fc930009411b4311411a76eb5485.ts
+tvN HD,P2p://198.255.74.56:41196/600dbea0000145ae7bdb30cca3d65992
 靖洋戏剧,P2p://198.255.74.56:41196/600dbed4000456397bdbfcb51d026fe5
 靖洋卡通,P2p://198.255.74.56:41196/600dbed4000aa0bd7bdbfe51cdac480b
 靖洋卡通,P2p://ns2.hellotvvod.com:9906/5fbd15b60003fec22433706a424e21dd.ts
@@ -271,17 +301,17 @@ TVBS精采台,mitv://ns2.hellotvvod.com:9906/5fc4fc930009411b4311411a76eb5485.ts
 靖天育乐,mitv://ns2.hellotvvod.com:9906/5fd200f50003db9275ea6875774d680c.ts
 靖天欢乐,P2p://ns2.hellotvvod.com:9906/5fd22cea0005036b76961dcb08dd6bb0.ts
 靖天欢乐,mitv://ns2.hellotvvod.com:9906/5fd22cea0005036b76961dcb08dd6bb0.ts
-ELTV生活英語台,P2p://ns2.hellotvvod.com:9906/5fc6573400060509485b452737227be4.ts
-ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/5fc6573400060509485b452737227be4.ts
-EYETV旅遊,P2p://198.255.74.56:41196/600dbed400029ffb7bdbfc442806cc37
+ELTV生活英语台,P2p://ns2.hellotvvod.com:9906/5fc6573400060509485b452737227be4.ts
+ELTV生活英语台,mitv://ns2.hellotvvod.com:9906/5fc6573400060509485b452737227be4.ts
+EYETV旅游,P2p://198.255.74.56:41196/600dbed400029ffb7bdbfc442806cc37
 EYETV戏剧,P2p://198.255.74.56:41196/600dbed4000246937bdbfc2ecfdac261
-阿裏郎电视台,P2p://198.255.74.56:41196/600dbecd000d749d7bdbe3b237fdb414
+阿里郎电视台,P2p://198.255.74.56:41196/600dbecd000d749d7bdbe3b237fdb414
 JET综合台,P2p://198.255.74.56:41196/600dbecd000ba0f87bdbe33a999bc9c8
 国兴卫视,P2p://198.255.74.56:41196/600dbecd00039e5c7bdbe12e2bd32a62
 台湾戏剧,P2p://198.255.74.56:41196/600dbecd000359bf7bdbe11c520597ea
 博斯运动一台,P2p://198.255.74.56:41196/600dbec7000aa13c7bdbcb8901ecddf1
 博斯运动二台,P2p://198.255.74.56:41196/600dbec70009c1817bdbcb50136478e2
-博斯運動II,P2p://198.255.74.56:41196/600dbec70008a9517bdbcb0803ac775b
+博斯运动II,P2p://198.255.74.56:41196/600dbec70008a9517bdbcb0803ac775b
 博斯网球台,P2p://198.255.74.56:41196/600dbec70007c1ad7bdbcacd7b5a06e7
 博斯无限台,P2p://198.255.74.56:41196/600dbec70006da6f7bdbca920674e8c6
 博斯高球1台,P2p://198.255.74.56:41196/600dbec70005d5017bdbca4f06d640b6
@@ -303,28 +333,28 @@ BBC动画,P2p://198.255.74.56:41196/600dbec7000047fc7bdbc8e32fcb9293
 好消息,mitv://ns2.hellotvvod.com:9906/5fb68539000005a60a8f07284c73094d.ts
 好消息2,P2p://ns2.hellotvvod.com:9906/5fb685380009b5650a8f05b1325b225f.ts
 好消息2,mitv://ns2.hellotvvod.com:9906/5fb685380009b5650a8f05b1325b225f.ts
-半島英語新聞台,P2p://ns2.hellotvvod.com:9906/5fb514f50009655204f07fea58d459d7.ts
-半島英語新聞台,mitv://ns2.hellotvvod.com:9906/5fb514f50009655204f07fea58d459d7.ts
-視納華仁紀實,P2p://ns2.hellotvvod.com:9906/5fc4dade0000c58b428d93df662925ff.ts
-視納華仁紀實,mitv://ns2.hellotvvod.com:9906/5fc4dade0000c58b428d93df662925ff.ts
-影迷數位紀實台,P2p://ns2.hellotvvod.com:9906/5fda1a220004145a958cc8d8762857e8.ts
-影迷數位紀實台,mitv://ns2.hellotvvod.com:9906/5fda1a220004145a958cc8d8762857e8.ts
-影迷數位電影台,P2p://ns2.hellotvvod.com:9906/5fbe43f80007198328d02305399035e5.ts
-影迷數位電影台,mitv://ns2.hellotvvod.com:9906/5fbe43f80007198328d02305399035e5.ts
-新唐人亞太台,P2p://ns2.hellotvvod.com:9906/5fd2432e0000b87e76ed165205b57733.ts
-新唐人亞太台,mitv://ns2.hellotvvod.com:9906/5fd2432e0000b87e76ed165205b57733.ts
-原住民族電視台,P2p://ns2.hellotvvod.com:9906/5fd0b6af0008bd4470e0484d67f83ae2.ts
-原住民族電視台,mitv://ns2.hellotvvod.com:9906/5fd0b6af0008bd4470e0484d67f83ae2.ts
-客家電視台,P2p://ns2.hellotvvod.com:9906/5fce4ce900062b2067731a3159531ad6.ts
-客家電視台,mitv://ns2.hellotvvod.com:9906/5fce4ce900062b2067731a3159531ad6.ts
-達文西頻道,P2p://ns2.hellotvvod.com:9906/5fc50018000d52c4431f01ab0f2b262e.ts
-達文西頻道,mitv://ns2.hellotvvod.com:9906/5fc50018000d52c4431f01ab0f2b262e.ts
-國會頻道1,P2p://ns2.hellotvvod.com:9906/5fce495800059b6767652baa76092132.ts
-國會頻道1,mitv://ns2.hellotvvod.com:9906/5fce495800059b6767652baa76092132.ts
-國會頻道2,P2p://ns2.hellotvvod.com:9906/5fce4957000ed2dc67652a14758711c2.ts
-國會頻道2,mitv://ns2.hellotvvod.com:9906/5fce4957000ed2dc67652a14758711c2.ts
-唯心電視台,P2p://ns2.hellotvvod.com:9906/5fb544b000038cb405aaf0db644b5bd0.ts
-唯心電視台,mitv://ns2.hellotvvod.com:9906/5fb544b000038cb405aaf0db644b5bd0.ts
+半岛英语新闻台,P2p://ns2.hellotvvod.com:9906/5fb514f50009655204f07fea58d459d7.ts
+半岛英语新闻台,mitv://ns2.hellotvvod.com:9906/5fb514f50009655204f07fea58d459d7.ts
+视纳华仁纪实,P2p://ns2.hellotvvod.com:9906/5fc4dade0000c58b428d93df662925ff.ts
+视纳华仁纪实,mitv://ns2.hellotvvod.com:9906/5fc4dade0000c58b428d93df662925ff.ts
+影迷数位纪实台,P2p://ns2.hellotvvod.com:9906/5fda1a220004145a958cc8d8762857e8.ts
+影迷数位纪实台,mitv://ns2.hellotvvod.com:9906/5fda1a220004145a958cc8d8762857e8.ts
+影迷数位电影台,P2p://ns2.hellotvvod.com:9906/5fbe43f80007198328d02305399035e5.ts
+影迷数位电影台,mitv://ns2.hellotvvod.com:9906/5fbe43f80007198328d02305399035e5.ts
+新唐人亚太台,P2p://ns2.hellotvvod.com:9906/5fd2432e0000b87e76ed165205b57733.ts
+新唐人亚太台,mitv://ns2.hellotvvod.com:9906/5fd2432e0000b87e76ed165205b57733.ts
+原住民族电视台,P2p://ns2.hellotvvod.com:9906/5fd0b6af0008bd4470e0484d67f83ae2.ts
+原住民族电视台,mitv://ns2.hellotvvod.com:9906/5fd0b6af0008bd4470e0484d67f83ae2.ts
+客家电视台,P2p://ns2.hellotvvod.com:9906/5fce4ce900062b2067731a3159531ad6.ts
+客家电视台,mitv://ns2.hellotvvod.com:9906/5fce4ce900062b2067731a3159531ad6.ts
+达文西频道,P2p://ns2.hellotvvod.com:9906/5fc50018000d52c4431f01ab0f2b262e.ts
+达文西频道,mitv://ns2.hellotvvod.com:9906/5fc50018000d52c4431f01ab0f2b262e.ts
+国会频道1,P2p://ns2.hellotvvod.com:9906/5fce495800059b6767652baa76092132.ts
+国会频道1,mitv://ns2.hellotvvod.com:9906/5fce495800059b6767652baa76092132.ts
+国会频道2,P2p://ns2.hellotvvod.com:9906/5fce4957000ed2dc67652a14758711c2.ts
+国会频道2,mitv://ns2.hellotvvod.com:9906/5fce4957000ed2dc67652a14758711c2.ts
+唯心电视台,P2p://ns2.hellotvvod.com:9906/5fb544b000038cb405aaf0db644b5bd0.ts
+唯心电视台,mitv://ns2.hellotvvod.com:9906/5fb544b000038cb405aaf0db644b5bd0.ts
 佛卫慈悲,P2p://147.135.39.171:9906/5ede79e4000e493cbaa19f79282b2078.ts
 佛卫慈悲,mitv://147.135.39.171:9906/5ede79e4000e493cbaa19f79282b2078.ts
 Baby TV,P2p://ns2.hellotvvod.com:9906/5fc89fa60001bc4a5146415e6c991130.ts
@@ -345,8 +375,8 @@ MOMO亲子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 爱尔达体育1台,mitv://147.135.39.171:9906/5e7cf98c00060e963dc3815c316636de.ts
 爱尔达体育3台,P2p://147.135.39.171:9906/5e7cf98d000729c73dc38592441f1b5a.ts
 爱尔达体育3台,mitv://147.135.39.171:9906/5e7cf98d000729c73dc38592441f1b5a.ts
-智林體育台,P2p://ns2.hellotvvod.com:9906/5fce471a0001d214675c68806e5511ad.ts
-智林體育台,mitv://ns2.hellotvvod.com:9906/5fce471a0001d214675c68806e5511ad.ts
+智林体育台,P2p://ns2.hellotvvod.com:9906/5fce471a0001d214675c68806e5511ad.ts
+智林体育台,mitv://ns2.hellotvvod.com:9906/5fce471a0001d214675c68806e5511ad.ts
 博斯运动,P2p://147.135.39.171:9906/5defdab60006b85e6ea0bb7b06aa7d1f.ts
 博斯运动,mitv://147.135.39.171:9906/5defdab60006b85e6ea0bb7b06aa7d1f.ts
 博斯运动II,P2p://ns2.hellotvvod.com:9906/5fed9dc500071e52475a8723281a2544.ts
@@ -398,6 +428,23 @@ VuiTV 6,P2p://198.255.74.56:41196/600dbef600060bcf7bdc81f5207d0998
 卫视卡式台,P2p://198.255.74.56:41196/600dbe6c000414cd7bda66644b9635c3
 新马,#genre#
 $c_start🍌新马🍌$c_end
+AEC,P2p://198.255.74.56:41196/600dbe86000c4df87bdace0f422bfdbe
+AOD,P2p://198.255.74.56:41196/600dbe86000b390d7bdacdc82c38d5ff
+AWANI,P2p://198.255.74.56:41196/600dbe86000954707bdacd4cd8274313
+BERNAMA,P2p://198.255.74.56:41196/600dbe86000868357bdacd0f322c523e
+PRIMA,P2p://198.255.74.56:41196/600dbe8600080b917bdaccf8d17b39fa
+RIA,P2p://198.255.74.56:41196/600dbe810002a2f27bdab80d5a61f6aa
+TV1,P2p://198.255.74.56:41196/600dbe810001adca7bdab7cefac57085
+TV2,P2p://198.255.74.56:41196/600dbe810000c00a7bdab7921d02162e
+TV3,P2p://198.255.74.56:41196/600dbe80000f0be67bdab7524685a3c1
+NTV7,P2p://198.255.74.56:41196/600dbe80000e21c07bdab7177d3ab2fa
+TV8,P2p://198.255.74.56:41196/600dbe80000d39017bdab6db84634048
+TV9,P2p://198.255.74.56:41196/600dbe80000c4f257bdab69f2d5e8d53
+华丽台,P2p://198.255.74.56:41196/600dbe80000b42947bdab65a9dd161e0
+小太阳,P2p://198.255.74.56:41196/600dbe80000945b37bdab5d842bbe497
+全佳,P2p://198.255.74.56:41196/600dbe80000853947bdab59a4cfd7941
+双星,P2p://198.255.74.56:41196/600dbe8000076e657bdab55f1ca3938b
+
 越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 越南和平,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 TV1(马来西亚),https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
@@ -487,8 +534,8 @@ TVN,p5p://192.187.100.162:16868/5e0186f300017d4e03dc09bb3bb018dc.ts
 바둑 TV,p5p://192.187.100.162:16868/5e01bfd400078a1704ba3a2f4e114a6b.ts
 브레인TV,p5p://192.187.100.162:16868/5e01bf99000ef8b004b9559e9a94822e.ts
 연합뉴스TV,p5p://192.187.100.162:16868/5e01be670000150a04b4a67edd0bafda.ts
-﻿粉紅,#genre#
-$c_start粉紅_0$c_end
+﻿粉红,#genre#
+$c_start粉红_0$c_end
 JStar极限电影台,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
 LOOK,mitv://ns2.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
 惊艳电影台,mitv://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
