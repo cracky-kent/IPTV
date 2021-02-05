@@ -1,68 +1,91 @@
 電影,#genre#
 $c_start電影$c_end
 *--HTTP*,http://198.98.55.16
-HBO HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/94.ts
-HBO Hits,http://tv.wakds.xyz:8080/live/tangyuan/12345678/96.ts
-FOX ACTION,http://tv.wakds.xyz:8080/live/tangyuan/12345678/98.ts
-FOX Family,http://tv.wakds.xyz:8080/live/tangyuan/12345678/99.ts
-CATCHPLAY,http://tv.wakds.xyz:8080/live/tangyuan/12345678/74.ts
-HKC電影一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/10.ts
-好萊塢電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/50.ts
-有線電影台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/10.ts
-東森洋片,http://tv.wakds.xyz:8080/live/tangyuan/12345678/56.ts
-東森電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/53.ts
-美亞電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/73.ts
-緯來電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/77.ts
-龍華電影,http://tv.wakds.xyz:8080/live/tangyuan/12345678/58.ts
-爆谷台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/230.ts
-衛視卡式,http://tv.wakds.xyz:8080/live/tangyuan/12345678/233.ts
-CinemaWorld,http://tv.wakds.xyz:8080/live/tangyuan/12345678/148.ts
-HBO HD,http://tv.wakds.xyz:8080//live/520520/131313/94.m3u8
-HBO Hits,http://tv.wakds.xyz:8080//live/520520/131313/96.m3u8
-FOX ACTION,http://tv.wakds.xyz:8080//live/520520/131313/98.m3u8
-FOX Family,http://tv.wakds.xyz:8080//live/520520/131313/99.m3u8
-HKC電影一台,http://tv.wakds.xyz:8080//live/520520/131313/10.m3u8
-靖天映畫,http://tv.wakds.xyz:8080//live/520520/131313/52.m3u8
-東森電影,http://tv.wakds.xyz:8080//live/520520/131313/53.m3u8
-東森洋片,http://tv.wakds.xyz:8080//live/520520/131313/56.m3u8
-龍華電影,http://tv.wakds.xyz:8080//live/520520/131313/58.m3u8
-美亞電影,http://tv.wakds.xyz:8080//live/520520/131313/73.m3u8
-CATCHPLAY,http://tv.wakds.xyz:8080//live/520520/131313/74.m3u8
-緯來電影,http://tv.wakds.xyz:8080//live/520520/131313/77.m3u8
-爆谷台,http://tv.wakds.xyz:8080//live/520520/131313/230.m3u8
-HBO,http://92ltw.top/gz.php?id=b9/gzyx.m3u8?id=twhbo
-AXN,http://92ltw.top/gz.php?id=b9/gzyx.m3u8?id=twaxn
-鳳凰電影,http://92ltw.top/gz.php?id=b9/gzyx.m3u8?id=fhdy
-HBO亞洲,https://flv3948069e.live.126.net/live/64fc57a1c6fd414d6fcf53f7c2c57b22.flv
+龍翔時代,http://xx.tvhz.xyz/vip2022/jieting.php?id=373
+靖天國際,http://xx.tvhz.xyz/vip2022/jieting.php?id=345
+龍華經典,http://xx.tvhz.xyz/vip2022/jieting.php?id=364
+東森電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=350
+東森洋片,http://xx.tvhz.xyz/vip2022/jieting.php?id=1128
+衛視電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=93
+星衛電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=84
+東森戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=321
+FOX MOVIES,http://xx.tvhz.xyz/vip2022/jieting.php?id=387
+星衛電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=496
+AXN,http://xx.tvhz.xyz/vip2022/jieting.php?id=103
+AMC,http://xx.tvhz.xyz/vip2022/jieting.php?id=92
+緯來電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=96
+華納電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=83
+美亞電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=375
+天映經典,http://xx.tvhz.xyz/vip2022/jieting.php?id=328
+好萊塢電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=37
+靖天電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=110
+衛視西片,http://xx.tvhz.xyz/vip2022/jieting.php?id=369
+FOX CRIME,http://xx.tvhz.xyz/vip2022/jieting.php?id=386
+HBO HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=332
+鳳凰衛視電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=18
+FOX ACTION,http://xx.tvhz.xyz/vip2022/jieting.php?id=385
+HBO Hits,http://xx.tvhz.xyz/vip2022/jieting.php?id=330
+HBO Family,http://xx.tvhz.xyz/vip2022/jieting.php?id=331
+靖天映畫,http://xx.tvhz.xyz/vip2022/jieting.php?id=349
+影迷數位電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=497
+CineMAX,http://xx.tvhz.xyz/vip2022/jieting.php?id=346
+FOX Family,http://xx.tvhz.xyz/vip2022/jieting.php?id=383
+龍華經典,http://xx.tvhz.xyz/vip2022/jieting.php?id=100
+HBOSignature,http://xx.tvhz.xyz/vip2022/jieting.php?id=329
+龍華電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=311
+FOX,http://xx.tvhz.xyz/vip2022/jieting.php?id=384
+CATCHPLAY,http://xx.tvhz.xyz/vip2022/jieting.php?id=362
+FOX ACTION,http://xx.tvhz.xyz/vip2022/jieting.php?id=385
+FOX CRIME,http://xx.tvhz.xyz/vip2022/jieting.php?id=386
+FOX Family,http://xx.tvhz.xyz/vip2022/jieting.php?id=383
+FOX HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+FOX,http://xx.tvhz.xyz/vip2022/jieting.php?id=384
+AXN台湾,http://xx.tvhz.xyz/vip2022/jieting.php?id=423
+AXN亚洲,http://xx.tvhz.xyz/vip2022/jieting.php?id=1066
 
 探索,#genre#
 $c_start探索$c_end
-緯來日本,http://tv.wakds.xyz:8080/live/tangyuan/12345678/76.ts
-afn美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/82.ts
-美食,http://tv.wakds.xyz:8080/live/tangyuan/12345678/83.ts
-美食星球,http://tv.wakds.xyz:8080/live/tangyuan/12345678/84.ts
-緯來日本,http://tv.wakds.xyz:8080//live/520520/131313/76.m3u8
+亚洲旅游,http://newsstrm.myvideo.net.tw/HLS/AsiaTravel/index.m3u8
 緯來日本,rtmp://59.124.75.156:1935/sat/tv522
-afn美食,http://tv.wakds.xyz:8080//live/520520/131313/82.m3u8
-美食,http://tv.wakds.xyz:8080//live/520520/131313/83.m3u8
-美食星球,http://tv.wakds.xyz:8080//live/520520/131313/84.m3u8
-NG WILD,http://tv.wakds.xyz:8080//live/520520/131313/165.m3u8
-新聞,#genre#
-$c_start新聞$c_end
-TVBS新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/14.ts
-中天新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/17.ts
-東森財經新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/88.ts
-東森新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/37.ts
-寰宇新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/231.ts
-非凡新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/45.ts
-壹電視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/89.ts
-TVBS新聞,http://tv.wakds.xyz:8080//live/520520/131313/14.m3u8
-中天新聞,http://tv.wakds.xyz:8080//live/520520/131313/17.m3u8
-寰宇新聞,http://tv.wakds.xyz:8080//live/520520/131313/231.m3u8
-東森新聞,http://tv.wakds.xyz:8080//live/520520/131313/37.m3u8
-非凡新聞,http://tv.wakds.xyz:8080//live/520520/131313/45.m3u8
-東森財經新聞,http://tv.wakds.xyz:8080//live/520520/131313/88.m3u8
-壹電視新聞,http://tv.wakds.xyz:8080//live/520520/131313/89.m3u8
+BBC EARTH,http://xx.tvhz.xyz/vip2022/jieting.php?id=97
+探索亞洲,http://xx.tvhz.xyz/vip2022/jieting.php?id=306
+EVE旅遊,http://xx.tvhz.xyz/vip2022/jieting.php?id=111
+AFN,http://xx.tvhz.xyz/vip2022/jieting.php?id=307
+BBC CBeebies,http://xx.tvhz.xyz/vip2022/jieting.php?id=115
+History 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=116
+History 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1158
+CI罪案偵查,http://xx.tvhz.xyz/vip2022/jieting.php?id=1159
+LUXE,http://xx.tvhz.xyz/vip2022/jieting.php?id=112
+SMART知識頻道,http://xx.tvhz.xyz/vip2022/jieting.php?id=352
+TLC旅遊生活,http://xx.tvhz.xyz/vip2022/jieting.php?id=102
+TLC旅遊台灣,http://xx.tvhz.xyz/vip2022/jieting.php?id=315
+Travel Channel,http://xx.tvhz.xyz/vip2022/jieting.php?id=63
+爆笑頻道,http://xx.tvhz.xyz/vip2022/jieting.php?id=85
+達文西頻道,http://xx.tvhz.xyz/vip2022/jieting.php?id=68
+Pet Club,http://xx.tvhz.xyz/vip2022/jieting.php?id=368
+法國時裝,http://xx.tvhz.xyz/vip2022/jieting.php?id=113
+國家地理,http://xx.tvhz.xyz/vip2022/jieting.php?id=302
+國家地理悠人,http://xx.tvhz.xyz/vip2022/jieting.php?id=114
+國家人文,http://xx.tvhz.xyz/vip2022/jieting.php?id=334
+國家野生,http://xx.tvhz.xyz/vip2022/jieting.php?id=1038
+國興衛視,http://xx.tvhz.xyz/vip2022/jieting.php?id=105
+動物星球,http://xx.tvhz.xyz/vip2022/jieting.php?id=367
+民視旅遊,http://xx.tvhz.xyz/vip2022/jieting.php?id=78
+視納華仁紀實,http://xx.tvhz.xyz/vip2022/jieting.php?id=91
+探索EVE,http://xx.tvhz.xyz/vip2022/jieting.php?id=1036
+探索動力,http://xx.tvhz.xyz/vip2022/jieting.php?id=335
+探索科學,http://xx.tvhz.xyz/vip2022/jieting.php?id=343
+探索頻道,http://xx.tvhz.xyz/vip2022/jieting.php?id=1035
+緯來日本,http://xx.tvhz.xyz/vip2022/jieting.php?id=337
+緯來日本,http://xx.tvhz.xyz/vip2022/jieting.php?id=46
+幸福空間居家,http://xx.tvhz.xyz/vip2022/jieting.php?id=61
+亞洲旅遊,http://xx.tvhz.xyz/vip2022/jieting.php?id=77
+Medici Arts,http://xx.tvhz.xyz/vip2022/jieting.php?id=188
+Outdoor,http://xx.tvhz.xyz/vip2022/jieting.php?id=374
+AFN,http://xx.tvhz.xyz/vip2022/jieting.php?id=195
+Astronaut Spacewalk Earth,http://xx.tvhz.xyz/vip2022/jieting.php?id=1026
+NASA ISS,http://xx.tvhz.xyz/vip2022/jieting.php?id=1009
+Earth Views,http://xx.tvhz.xyz/vip2022/jieting.php?id=1017
 TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
@@ -81,18 +104,49 @@ TVBS新聞,http://198.16.106.58:8278/tvbs_n/playlist.m3u8?tid=MEFE97693527976935
 東森新聞,http://v3948069e.live.126.net/live/us01/tw20200114dongsennews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=27
 三立LIVE新聞,http://v3948069e.live.126.net/live/us01/tw20200114sanlinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=35
 壹新聞,http://v3948069e.live.126.net/live/us01/tw20200114yinews.flv
+台視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1006
+台視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1
+TVBS新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1004
+TVBS新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=2
+中天新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1002
+中天新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=3
+三立LIVE新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1008
+三立LIVE新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=4
+華視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1012
+華視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=6
+中視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1000
+中視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=7
+iNEWS,http://xx.tvhz.xyz/vip2022/jieting.php?id=1014
+iNEWS,http://xx.tvhz.xyz/vip2022/jieting.php?id=8
+東森新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1016
+東森新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=9
+東森財經新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=1018
+東森財經新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=12
+民視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=13
+寰宇臺灣,http://xx.tvhz.xyz/vip2022/jieting.php?id=87
+年代新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=236
+壹電視新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=303
+非凡新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=314
+中華財經,http://xx.tvhz.xyz/vip2022/jieting.php?id=317
+台視財經,http://xx.tvhz.xyz/vip2022/jieting.php?id=300
+FRANCE 24,http://xx.tvhz.xyz/vip2022/jieting.php?id=1042
+DW News,http://xx.tvhz.xyz/vip2022/jieting.php?id=14
+新唐人亞太台,http://xx.tvhz.xyz/vip2022/jieting.php?id=10
+美國唐人街台,http://xx.tvhz.xyz/vip2022/jieting.php?id=43
+CBN News,http://xx.tvhz.xyz/vip2022/jieting.php?id=499
+寰宇新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=304
+Bloomberg Europe,http://xx.tvhz.xyz/vip2022/jieting.php?id=370
+VOA美國之音,http://xx.tvhz.xyz/vip2022/jieting.php?id=495
+半島國際新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=494
+THE WORLD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1013
+RT News,http://xx.tvhz.xyz/vip2022/jieting.php?id=1025
+TRTWORLD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1022
+Bloomberg Financial,http://xx.tvhz.xyz/vip2022/jieting.php?id=1046
+Al Jazeera,http://xx.tvhz.xyz/vip2022/jieting.php?id=1144
+
 
 台灣,#genre#
 $c_start台灣$c_end
-華視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/28.ts
-華視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/232.ts
-中視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/23.ts
-中視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/24.ts
-台視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/21.ts
-台視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/22.ts
-民視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/26.ts
-民視第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/46.ts
-民視新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/25.ts
 華視,http://v3948069e.live.126.net/live/us01/tw20200114huashi.flv
 華視新聞,http://v3948069e.live.126.net/live/us01/tw20200114huashinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=33
 民視,http://v3948069e.live.126.net/live/us01/tw20200114minshi.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=41
@@ -100,79 +154,6 @@ $c_start台灣$c_end
 台視,http://v3948069e.live.126.net/live/us01/tw20200114taishi.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=42
 台視新聞,http://v3948069e.live.126.net/live/us01/tw20200114taishinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=31
 中視,http://v3948069e.live.126.net/live/us01/tw20200114zhongshi.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=43
-ELTA綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/75.ts
-ELTA影劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/60.ts
-TVBS HD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/16.ts
-TVBS歡樂台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/15.ts
-八大娛樂,http://tv.wakds.xyz:8080/live/tangyuan/12345678/33.ts
-八大第一台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/30.ts
-八大綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/31.ts
-三立台灣,http://tv.wakds.xyz:8080/live/tangyuan/12345678/34.ts
-三立戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/70.ts
-大愛電視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/41.ts
-中天亞洲,http://tv.wakds.xyz:8080/live/tangyuan/12345678/20.ts
-中天娛樂,http://tv.wakds.xyz:8080/live/tangyuan/12345678/18.ts
-中天綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/19.ts
-東森綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/38.ts
-東森戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/39.ts
-靖天卡通,http://tv.wakds.xyz:8080/live/tangyuan/12345678/55.ts
-靖天映畫,http://tv.wakds.xyz:8080/live/tangyuan/12345678/52.ts
-靖天資訊,http://tv.wakds.xyz:8080/live/tangyuan/12345678/51.ts
-緯來精采,http://tv.wakds.xyz:8080/live/tangyuan/12345678/78.ts
-緯來綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/81.ts
-緯來戲劇,http://tv.wakds.xyz:8080/live/tangyuan/12345678/80.ts
-寰宇綜合,http://tv.wakds.xyz:8080/live/tangyuan/12345678/71.ts
-龍華偶像,http://tv.wakds.xyz:8080/live/tangyuan/12345678/47.ts
-台視,http://tv.wakds.xyz:8080//live/520520/131313/21.m3u8
-台視新聞,http://tv.wakds.xyz:8080//live/520520/131313/22.m3u8
-中視,http://tv.wakds.xyz:8080//live/520520/131313/23.m3u8
-中視新聞,http://tv.wakds.xyz:8080//live/520520/131313/24.m3u8
-華視,http://tv.wakds.xyz:8080//live/520520/131313/232.m3u8
-民視新聞,http://tv.wakds.xyz:8080//live/520520/131313/25.m3u8
-民視,http://tv.wakds.xyz:8080//live/520520/131313/26.m3u8
-民視第一台,http://tv.wakds.xyz:8080//live/520520/131313/46.m3u8
-華視,http://tv.wakds.xyz:8080//live/520520/131313/28.m3u8
-華視新聞資訊,http://tv.wakds.xyz:8080//live/520520/131313/232.m3u8
-公視,http://tv.wakds.xyz:8080//live/520520/131313/29.m3u8
-TVBS歡樂台,http://tv.wakds.xyz:8080//live/520520/131313/15.m3u8
-TVBS HD,http://tv.wakds.xyz:8080//live/520520/131313/16.m3u8
-八大第一台,http://tv.wakds.xyz:8080//live/520520/131313/30.m3u8
-八大綜合,http://tv.wakds.xyz:8080//live/520520/131313/31.m3u8
-八大戲劇,http://tv.wakds.xyz:8080//live/520520/131313/32.m3u8
-八大娛樂,http://tv.wakds.xyz:8080//live/520520/131313/33.m3u8
-三立台灣,http://tv.wakds.xyz:8080//live/520520/131313/34.m3u8
-三立綜合,http://tv.wakds.xyz:8080//live/520520/131313/35.m3u8
-三立都會,http://tv.wakds.xyz:8080//live/520520/131313/36.m3u8
-中天娛樂,http://tv.wakds.xyz:8080//live/520520/131313/18.m3u8
-中天綜合,http://tv.wakds.xyz:8080//live/520520/131313/19.m3u8
-中天亞洲,http://tv.wakds.xyz:8080//live/520520/131313/20.m3u8
-東森綜合,http://tv.wakds.xyz:8080//live/520520/131313/38.m3u8
-東森戲劇,http://tv.wakds.xyz:8080//live/520520/131313/39.m3u8
-東森超視,http://tv.wakds.xyz:8080//live/520520/131313/40.m3u8
-大愛電視,http://tv.wakds.xyz:8080//live/520520/131313/41.m3u8
-CN卡通,http://tv.wakds.xyz:8080//live/520520/131313/43.m3u8
-CN卡通,http://tv.wakds.xyz:8080//live/520520/131313/44.m3u8
-龍華偶像,http://tv.wakds.xyz:8080//live/520520/131313/47.m3u8
-靖天資訊,http://tv.wakds.xyz:8080//live/520520/131313/51.m3u8
-靖天卡通,http://tv.wakds.xyz:8080//live/520520/131313/55.m3u8
-ELTA影劇,http://tv.wakds.xyz:8080//live/520520/131313/60.m3u8
-GOOD2,http://tv.wakds.xyz:8080//live/520520/131313/61.m3u8
-YOYO,http://tv.wakds.xyz:8080//live/520520/131313/63.m3u8
-衛視台,http://tv.wakds.xyz:8080//live/520520/131313/64.m3u8
-龍華動畫,http://tv.wakds.xyz:8080//live/520520/131313/69.m3u8
-三立戲劇,http://tv.wakds.xyz:8080//live/520520/131313/70.m3u8
-寰宇綜合,http://tv.wakds.xyz:8080//live/520520/131313/71.m3u8
-ELTA影劇,http://tv.wakds.xyz:8080//live/520520/131313/72.m3u8
-ELTA綜合,http://tv.wakds.xyz:8080//live/520520/131313/75.m3u8
-緯來精采,http://tv.wakds.xyz:8080//live/520520/131313/78.m3u8
-緯來體育,http://tv.wakds.xyz:8080//live/520520/131313/79.m3u8
-緯來戲劇,http://tv.wakds.xyz:8080//live/520520/131313/80.m3u8
-緯來綜合,http://tv.wakds.xyz:8080//live/520520/131313/81.m3u8
-EYE TV戲劇,http://tv.wakds.xyz:8080//live/520520/131313/87.m3u8
-迪士尼卡通,http://tv.wakds.xyz:8080//live/520520/131313/115.m3u8
-CN卡通,http://tv.wakds.xyz:8080//live/520520/131313/117.m3u8
-Baby,http://tv.wakds.xyz:8080//live/520520/131313/119.m3u8
-CinemaWorld,http://tv.wakds.xyz:8080//live/520520/131313/148.m3u8
 民視,rtmp://59.124.75.156/sat/tv051
 民視,rtmp://59.124.75.156/sat/tv052
 台視,rtmp://59.124.75.156/sat/tv071
@@ -191,121 +172,106 @@ TVBS新聞,rtmp://59.124.75.156/sat/tv552
 東森財經,rtmp://59.124.75.156/sat/tv572
 緯來育樂,rtmp://59.124.75.156/sat/tv701
 緯來育樂,rtmp://59.124.75.156/sat/tv702
+民視,http://xx.tvhz.xyz/vip2022/jieting.php?id=26
+民視,http://xx.tvhz.xyz/vip2022/jieting.php?id=336
+華視,http://xx.tvhz.xyz/vip2022/jieting.php?id=32
+華視,http://xx.tvhz.xyz/vip2022/jieting.php?id=327
+中視,http://xx.tvhz.xyz/vip2022/jieting.php?id=28
+中視,http://xx.tvhz.xyz/vip2022/jieting.php?id=333
+台視,http://xx.tvhz.xyz/vip2022/jieting.php?id=27
+台視,http://xx.tvhz.xyz/vip2022/jieting.php?id=326
+公視,http://xx.tvhz.xyz/vip2022/jieting.php?id=86
+公視,http://xx.tvhz.xyz/vip2022/jieting.php?id=361
+大愛電視,http://xx.tvhz.xyz/vip2022/jieting.php?id=184
+大愛二臺,http://xx.tvhz.xyz/vip2022/jieting.php?id=197
+三立都會,http://xx.tvhz.xyz/vip2022/jieting.php?id=38
+三立臺灣,http://xx.tvhz.xyz/vip2022/jieting.php?id=35
+JET綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=41
+壹電視綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=305
+八大綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=90
+八大第一,http://xx.tvhz.xyz/vip2022/jieting.php?id=318
+八大精彩,http://xx.tvhz.xyz/vip2022/jieting.php?id=1024
+TVBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=88
+TVBS綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=16
+TVBS精采,http://xx.tvhz.xyz/vip2022/jieting.php?id=66
+TVBS歡樂臺,http://xx.tvhz.xyz/vip2022/jieting.php?id=40
+民視第一台,http://xx.tvhz.xyz/vip2022/jieting.php?id=34
+民視台灣,http://xx.tvhz.xyz/vip2022/jieting.php?id=36
+緯來育樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=312
+緯來育樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=338
+中天綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=325
+中天綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=54
+中天亞洲,http://xx.tvhz.xyz/vip2022/jieting.php?id=322
+星衛娛樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=89
+VTV4,http://xx.tvhz.xyz/vip2022/jieting.php?id=341
+靖天綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=308
+靖天育樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=1029
+靖天日本,http://xx.tvhz.xyz/vip2022/jieting.php?id=108
+靖天歡樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=51
+靖天資訊,http://xx.tvhz.xyz/vip2022/jieting.php?id=49
+中天娛樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=324
+緯來綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=340
+中視菁采台,http://xx.tvhz.xyz/vip2022/jieting.php?id=74
+龍華日韓,http://xx.tvhz.xyz/vip2022/jieting.php?id=382
+龍華偶像,http://xx.tvhz.xyz/vip2022/jieting.php?id=347
+韓國娛樂台,http://xx.tvhz.xyz/vip2022/jieting.php?id=73
+客家電視,http://xx.tvhz.xyz/vip2022/jieting.php?id=76
+豬哥亮歌廳秀,http://xx.tvhz.xyz/vip2022/jieting.php?id=75
+ELTA娛樂台,http://xx.tvhz.xyz/vip2022/jieting.php?id=351
+好消息,http://xx.tvhz.xyz/vip2022/jieting.php?id=104
+好消息2,http://xx.tvhz.xyz/vip2022/jieting.php?id=363
+東森超視,http://xx.tvhz.xyz/vip2022/jieting.php?id=80
+東森綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=372
+衛視中文,http://xx.tvhz.xyz/vip2022/jieting.php?id=342
+民視影劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=1023
+八大戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=81
+公視戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=69
+三立戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=64
+緯來戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=339
+龍華戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=365
+靖洋戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=319
+采昌影劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=62
+靖天戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=109
+MTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=106
+CLASSICA 古典樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=1027
+希望電視,http://xx.tvhz.xyz/vip2022/jieting.php?id=67
+人間衛視,http://xx.tvhz.xyz/vip2022/jieting.php?id=101
 
 香港,#genre#
 $c_start香港$c_end
-鳳凰衛視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/2.ts
-鳳凰香港,http://tv.wakds.xyz:8080/live/tangyuan/12345678/3.ts
-TVB翡翠,http://tv.wakds.xyz:8080/live/tangyuan/12345678/4.ts
-J2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/5.ts
-TVB無線財經,http://tv.wakds.xyz:8080/live/tangyuan/12345678/6.ts
-TVB明珠,http://tv.wakds.xyz:8080/live/tangyuan/12345678/7.ts
-TVB星河,http://tv.wakds.xyz:8080/live/tangyuan/12345678/8.ts
-Viutv,http://tv.wakds.xyz:8080/live/tangyuan/12345678/9.ts
-TV1,http://tv.wakds.xyz:8080/live/tangyuan/12345678/149.ts
-TV2,http://tv.wakds.xyz:8080/live/tangyuan/12345678/150.ts
-TV3,http://tv.wakds.xyz:8080/live/tangyuan/12345678/151.ts
-TV9,http://tv.wakds.xyz:8080/live/tangyuan/12345678/152.ts
-NTV7,http://tv.wakds.xyz:8080/live/tangyuan/12345678/153.ts
-TV8,http://tv.wakds.xyz:8080/live/tangyuan/12345678/154.ts
-小太陽,http://tv.wakds.xyz:8080/live/tangyuan/12345678/155.ts
-AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/156.ts
-Astro Awani,http://tv.wakds.xyz:8080/live/tangyuan/12345678/157.ts
-Astro RIA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/158.ts
-Astro Awan,http://tv.wakds.xyz:8080/live/tangyuan/12345678/159.ts
-SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/160.ts
-VIVO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/161.ts
-MetroTV,http://tv.wakds.xyz:8080/live/tangyuan/12345678/162.ts
-SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/163.ts
-SPORT,http://tv.wakds.xyz:8080/live/tangyuan/12345678/164.ts
-NG WILD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/165.ts
-Astro Oasis,http://tv.wakds.xyz:8080/live/tangyuan/12345678/166.ts
-Astro Ceria,http://tv.wakds.xyz:8080/live/tangyuan/12345678/167.ts
-Astro CIRA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/168.ts
-Astro ,http://tv.wakds.xyz:8080/live/tangyuan/12345678/169.ts
-NAURA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/170.ts
-Hello,http://tv.wakds.xyz:8080/live/tangyuan/12345678/171.ts
-GAAYA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/172.ts
-GO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/173.ts
-ONE,http://tv.wakds.xyz:8080/live/tangyuan/12345678/174.ts
-KBS WORLD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/175.ts
-tvN,http://tv.wakds.xyz:8080/live/tangyuan/12345678/176.ts
-Ohk,http://tv.wakds.xyz:8080/live/tangyuan/12345678/177.ts
-CCM,http://tv.wakds.xyz:8080/live/tangyuan/12345678/179.ts
-Astro WARNA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/180.ts
-Astro RIA,http://tv.wakds.xyz:8080/live/tangyuan/12345678/181.ts
-Astro ABC,http://tv.wakds.xyz:8080/live/tangyuan/12345678/182.ts
-Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/183.ts
-翡翠台,http://tv.wakds.xyz:8080/live/tangyuan/12345678/184.ts
-Astro 雙星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/185.ts
-愛奇藝,http://tv.wakds.xyz:8080/live/tangyuan/12345678/186.ts
-Astro AOD,http://tv.wakds.xyz:8080/live/tangyuan/12345678/187.ts
-浙江衛視,http://tv.wakds.xyz:8080/live/tangyuan/12345678/188.ts
-Astro 雙星,http://tv.wakds.xyz:8080/live/tangyuan/12345678/189.ts
-Astro 小太陽,http://tv.wakds.xyz:8080/live/tangyuan/12345678/190.ts
-TVB星河,http://tv.wakds.xyz:8080/live/tangyuan/12345678/191.ts
-kix,http://tv.wakds.xyz:8080/live/tangyuan/12345678/192.ts
-HBO,http://tv.wakds.xyz:8080/live/tangyuan/12345678/193.ts
-HGTV,http://tv.wakds.xyz:8080/live/tangyuan/12345678/194.ts
-animal plant,http://tv.wakds.xyz:8080/live/tangyuan/12345678/195.ts
-momo,http://tv.wakds.xyz:8080/live/tangyuan/12345678/217.ts
-TVB經典,http://tv.wakds.xyz:8080/live/tangyuan/12345678/229.ts
-無線新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/234.ts
-有線新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/235.ts
-NOW新聞,http://tv.wakds.xyz:8080/live/tangyuan/12345678/236.ts
-TV1,http://tv.wakds.xyz:8080//live/520520/131313/149.m3u8
-TV2,http://tv.wakds.xyz:8080//live/520520/131313/150.m3u8
-TV3,http://tv.wakds.xyz:8080//live/520520/131313/151.m3u8
-TV9,http://tv.wakds.xyz:8080//live/520520/131313/152.m3u8
-NTV7,http://tv.wakds.xyz:8080//live/520520/131313/153.m3u8
-TV8,http://tv.wakds.xyz:8080//live/520520/131313/154.m3u8
-小太陽,http://tv.wakds.xyz:8080//live/520520/131313/155.m3u8
-AOD,http://tv.wakds.xyz:8080//live/520520/131313/156.m3u8
-Astro Awani,http://tv.wakds.xyz:8080//live/520520/131313/157.m3u8
-Astro RIA,http://tv.wakds.xyz:8080//live/520520/131313/158.m3u8
-Astro Awan,http://tv.wakds.xyz:8080//live/520520/131313/159.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/160.m3u8
-VIVO,http://tv.wakds.xyz:8080//live/520520/131313/161.m3u8
-MetroTV,http://tv.wakds.xyz:8080//live/520520/131313/162.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/163.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/164.m3u8
-Astro Oasis,http://tv.wakds.xyz:8080//live/520520/131313/166.m3u8
-Astro Ceria,http://tv.wakds.xyz:8080//live/520520/131313/167.m3u8
-Astro CIRA,http://tv.wakds.xyz:8080//live/520520/131313/168.m3u8
-Astro ,http://tv.wakds.xyz:8080//live/520520/131313/169.m3u8
-NAURA,http://tv.wakds.xyz:8080//live/520520/131313/170.m3u8
-Hello,http://tv.wakds.xyz:8080//live/520520/131313/171.m3u8
-GAAYA,http://tv.wakds.xyz:8080//live/520520/131313/172.m3u8
-GO,http://tv.wakds.xyz:8080//live/520520/131313/173.m3u8
-ONE,http://tv.wakds.xyz:8080//live/520520/131313/174.m3u8
-KBS WORLD,http://tv.wakds.xyz:8080//live/520520/131313/175.m3u8
-tvN,http://tv.wakds.xyz:8080//live/520520/131313/176.m3u8
-Ohk,http://tv.wakds.xyz:8080//live/520520/131313/177.m3u8
-CCM,http://tv.wakds.xyz:8080//live/520520/131313/179.m3u8
-Astro WARNA,http://tv.wakds.xyz:8080//live/520520/131313/180.m3u8
-Astro RIA,http://tv.wakds.xyz:8080//live/520520/131313/181.m3u8
-Astro ABC,http://tv.wakds.xyz:8080//live/520520/131313/182.m3u8
-Astro AOD,http://tv.wakds.xyz:8080//live/520520/131313/183.m3u8
-翡翠台,http://tv.wakds.xyz:8080//live/520520/131313/184.m3u8
-Astro 雙星,http://tv.wakds.xyz:8080//live/520520/131313/185.m3u8
-愛奇藝,http://tv.wakds.xyz:8080//live/520520/131313/186.m3u8
-Astro AOD,http://tv.wakds.xyz:8080//live/520520/131313/187.m3u8
-Astro 雙星,http://tv.wakds.xyz:8080//live/520520/131313/189.m3u8
-Astro 小太陽,http://tv.wakds.xyz:8080//live/520520/131313/190.m3u8
-TVB星河,http://tv.wakds.xyz:8080//live/520520/131313/191.m3u8
-kix,http://tv.wakds.xyz:8080//live/520520/131313/192.m3u8
-HBO,http://tv.wakds.xyz:8080//live/520520/131313/193.m3u8
-HGTV,http://tv.wakds.xyz:8080//live/520520/131313/194.m3u8
-animal plant,http://tv.wakds.xyz:8080//live/520520/131313/195.m3u8
-5mbc,http://tv.wakds.xyz:8080//live/520520/131313/203.m3u8
-A HD,http://tv.wakds.xyz:8080//live/520520/131313/204.m3u8
-mbc,http://tv.wakds.xyz:8080//live/520520/131313/206.m3u8
-sport,http://tv.wakds.xyz:8080//live/520520/131313/212.m3u8
-carton,http://tv.wakds.xyz:8080//live/520520/131313/214.m3u8
-momo,http://tv.wakds.xyz:8080//live/520520/131313/217.m3u8
-wjg,http://tv.wakds.xyz:8080//live/520520/131313/218.m3u8
-news,http://tv.wakds.xyz:8080//live/520520/131313/219.m3u8
-TVB經典,http://tv.wakds.xyz:8080//live/520520/131313/229.m3u8
+TVB翡翠,http://xx.tvhz.xyz/vip2022/jieting.php?id=390
+TVB翡翠,http://xx.tvhz.xyz/vip2022/jieting.php?id=30
+TVB明珠,http://xx.tvhz.xyz/vip2022/jieting.php?id=391
+無線新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=394
+無線新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=45
+有線新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=395
+Viutv,http://xx.tvhz.xyz/vip2022/jieting.php?id=72
+TVB無線財經,http://xx.tvhz.xyz/vip2022/jieting.php?id=393
+TVBJ2,http://xx.tvhz.xyz/vip2022/jieting.php?id=392
+香港開電視,http://xx.tvhz.xyz/vip2022/jieting.php?id=17
+NOW新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=396
+NOW直播,http://xx.tvhz.xyz/vip2022/jieting.php?id=400
+鳳凰香港,http://xx.tvhz.xyz/vip2022/jieting.php?id=358
+鳳凰衛視,http://xx.tvhz.xyz/vip2022/jieting.php?id=357
+鳳凰資訊,http://xx.tvhz.xyz/vip2022/jieting.php?id=359
+港臺32,http://xx.tvhz.xyz/vip2022/jieting.php?id=397
+港臺31,http://xx.tvhz.xyz/vip2022/jieting.php?id=353
+新時代多倫多,http://xx.tvhz.xyz/vip2022/jieting.php?id=1031
+新時代多倫多2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1033
+新時代温哥華,http://xx.tvhz.xyz/vip2022/jieting.php?id=1032
+Channel V,http://xx.tvhz.xyz/vip2022/jieting.php?id=21
+HKC娛樂,http://xx.tvhz.xyz/vip2022/jieting.php?id=360
+HKS,http://xx.tvhz.xyz/vip2022/jieting.php?id=399
+澳視澳門,http://xx.tvhz.xyz/vip2022/jieting.php?id=23
+澳視葡語,http://xx.tvhz.xyz/vip2022/jieting.php?id=24
+澳門衛星,http://xx.tvhz.xyz/vip2022/jieting.php?id=29
+亞美衛視,http://xx.tvhz.xyz/vip2022/jieting.php?id=1001
+澳門蓮花,http://xx.tvhz.xyz/vip2022/jieting.php?id=70
+星空衛視,http://xx.tvhz.xyz/vip2022/jieting.php?id=401
+18台,http://xx.tvhz.xyz/vip2022/jieting.php?id=44
+TVB功夫,http://xx.tvhz.xyz/vip2022/jieting.php?id=356
+HKC電影一台,http://xx.tvhz.xyz/vip2022/jieting.php?id=354
+Viutv 6,http://xx.tvhz.xyz/vip2022/jieting.php?id=176
 TVB無線翡翠,http://v3948069e.live.126.net/live/us01/hk20200114feicui.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=15#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=4
 TVB無線明珠,http://v3948069e.live.126.net/live/us01/hk20200114mingzhu.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=6
 TVBJ2,http://v3948069e.live.126.net/live/us01/hk20200114tvbj2.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=18#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=5
@@ -322,38 +288,6 @@ NOW新聞台,http://v3948069e.live.126.net/live/us01/tw20200114nownews.flv#http:
 港台電視32,http://v3948069e.live.126.net/live/us01/hk20200114rt32.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=14
 ViuTV,http://v3948069e.live.126.net/live/us01/hk20200114viutv.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=20#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=11
 ViuTV6,http://v3948069e.live.126.net/live/us01/hk20200114viutv6.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=12
-﻿鳳凰衛視,http://tv.wakds.xyz:8080//live/520520/131313/2.m3u8
-鳳凰香港,http://tv.wakds.xyz:8080//live/520520/131313/3.m3u8
-TVB翡翠,http://tv.wakds.xyz:8080//live/520520/131313/4.m3u8
-J2,http://tv.wakds.xyz:8080//live/520520/131313/5.m3u8
-TVB無線財經,http://tv.wakds.xyz:8080//live/520520/131313/6.m3u8
-TVB明珠,http://tv.wakds.xyz:8080//live/520520/131313/7.m3u8
-TVB星河,http://tv.wakds.xyz:8080//live/520520/131313/8.m3u8
-Viutv,http://tv.wakds.xyz:8080//live/520520/131313/9.m3u8
-衛視卡式,http://tv.wakds.xyz:8080//live/520520/131313/233.m3u8
-無線新聞,http://tv.wakds.xyz:8080//live/520520/131313/234.m3u8
-有線新聞,http://tv.wakds.xyz:8080//live/520520/131313/235.m3u8
-NOW新聞,http://tv.wakds.xyz:8080//live/520520/131313/236.m3u8
-浙江衛視,http://tv.wakds.xyz:8080//live/520520/131313/188.m3u8
-博斯運動1,http://tv.wakds.xyz:8080//live/520520/131313/65.m3u8
-博斯高球2,http://tv.wakds.xyz:8080//live/520520/131313/66.m3u8
-博斯網球,http://tv.wakds.xyz:8080//live/520520/131313/67.m3u8
-博斯無限,http://tv.wakds.xyz:8080//live/520520/131313/68.m3u8
-FOX-Sports3,http://tv.wakds.xyz:8080//live/520520/131313/90.m3u8
-Astro Sp1,http://tv.wakds.xyz:8080//live/520520/131313/120.m3u8
-Astro Sp2,http://tv.wakds.xyz:8080//live/520520/131313/121.m3u8
-Astro Sp3,http://tv.wakds.xyz:8080//live/520520/131313/122.m3u8
-Astro Sp4,http://tv.wakds.xyz:8080//live/520520/131313/123.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/132.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/133.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/134.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/137.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/142.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/143.m3u8
-SPORT,http://tv.wakds.xyz:8080//live/520520/131313/144.m3u8
-﻿鳳凰衛視,http://tv.wakds.xyz:8080//live/520520/131313/1.m3u8
-LDIA,http://tv.wakds.xyz:8080//live/520520/131313/205.m3u8
-IVX,http://tv.wakds.xyz:8080//live/520520/131313/209.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 雙星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -401,8 +335,570 @@ TVN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 Ria,http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 有線娛樂,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 有線財經,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
+CCTV1,http://xx.tvhz.xyz/vip2022/jieting.php?id=200
+CCTV2,http://xx.tvhz.xyz/vip2022/jieting.php?id=201
+CCTV3,http://xx.tvhz.xyz/vip2022/jieting.php?id=202
+CCTV4,http://xx.tvhz.xyz/vip2022/jieting.php?id=203
+CCTV5,http://xx.tvhz.xyz/vip2022/jieting.php?id=204
+CCTV5plus,http://xx.tvhz.xyz/vip2022/jieting.php?id=205
+CCTV6,http://xx.tvhz.xyz/vip2022/jieting.php?id=206
+CCTV7,http://xx.tvhz.xyz/vip2022/jieting.php?id=207
+CCTV8,http://xx.tvhz.xyz/vip2022/jieting.php?id=208
+CCTV9,http://xx.tvhz.xyz/vip2022/jieting.php?id=209
+CCTV10,http://xx.tvhz.xyz/vip2022/jieting.php?id=210
+CCTV11,http://xx.tvhz.xyz/vip2022/jieting.php?id=211
+CCTV12,http://xx.tvhz.xyz/vip2022/jieting.php?id=212
+CCTV13,http://xx.tvhz.xyz/vip2022/jieting.php?id=213
+CCTV14,http://xx.tvhz.xyz/vip2022/jieting.php?id=214
+CCTV15,http://xx.tvhz.xyz/vip2022/jieting.php?id=215
+厦门卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=216
+浙江卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=217
+江苏卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=218
+南方粤语,http://xx.tvhz.xyz/vip2022/jieting.php?id=219
+北京卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=220
+CCTVNEWS,http://xx.tvhz.xyz/vip2022/jieting.php?id=221
+CCTV娱乐,http://xx.tvhz.xyz/vip2022/jieting.php?id=222
+海峡卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=223
+东方卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=224
+河北卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=225
+湖南卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=226
+湖北卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=227
+东南卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=228
+辽宁卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=229
+深圳卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=230
+广东卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=231
+安徽卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=232
+四川卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=233
+山东卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=234
+
+日本,#genre#
+$c_start日本$c_end
+JapaNews24,http://xx.tvhz.xyz/vip2022/jieting.php?id=1043
+Tokyo MX1,http://xx.tvhz.xyz/vip2022/jieting.php?id=33
+NTV News24,http://xx.tvhz.xyz/vip2022/jieting.php?id=42
+BS-JAPAN,http://xx.tvhz.xyz/vip2022/jieting.php?id=243
+日本映画専門,http://xx.tvhz.xyz/vip2022/jieting.php?id=246
+日テレG,http://xx.tvhz.xyz/vip2022/jieting.php?id=248
+時代劇の専門家,http://xx.tvhz.xyz/vip2022/jieting.php?id=287
+KIDS,http://xx.tvhz.xyz/vip2022/jieting.php?id=289
+朝日放送,http://xx.tvhz.xyz/vip2022/jieting.php?id=237
+SKY A,http://xx.tvhz.xyz/vip2022/jieting.php?id=247
+読売テレビ,http://xx.tvhz.xyz/vip2022/jieting.php?id=198
+毎日放送,http://xx.tvhz.xyz/vip2022/jieting.php?id=199
+サンテレビ,http://xx.tvhz.xyz/vip2022/jieting.php?id=238
+BSプレミアム,http://xx.tvhz.xyz/vip2022/jieting.php?id=239
+BS日テレ,http://xx.tvhz.xyz/vip2022/jieting.php?id=240
+BS朝日,http://xx.tvhz.xyz/vip2022/jieting.php?id=241
+GREEN,http://xx.tvhz.xyz/vip2022/jieting.php?id=245
+関西テレビ,http://xx.tvhz.xyz/vip2022/jieting.php?id=235
+BS-TBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=242
+Golf Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=249
+BS-FUJI,http://xx.tvhz.xyz/vip2022/jieting.php?id=244
+ム一ビ一プラス,http://xx.tvhz.xyz/vip2022/jieting.php?id=295
+FoodNetwork,http://xx.tvhz.xyz/vip2022/jieting.php?id=294
+Tokyo MX2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1148
+Japan Channel DX,http://xx.tvhz.xyz/vip2022/jieting.php?id=39
+GaoRa,http://xx.tvhz.xyz/vip2022/jieting.php?id=296
+NTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=119
+NHK World,http://xx.tvhz.xyz/vip2022/jieting.php?id=117
+NHKE,http://xx.tvhz.xyz/vip2022/jieting.php?id=120
+NHK-G,http://xx.tvhz.xyz/vip2022/jieting.php?id=121
+tvtokyo,http://xx.tvhz.xyz/vip2022/jieting.php?id=123
+FU JI,http://xx.tvhz.xyz/vip2022/jieting.php?id=122
+TBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=124
+大阪TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=126
+ABC朝日,http://xx.tvhz.xyz/vip2022/jieting.php?id=127
+bs1,http://xx.tvhz.xyz/vip2022/jieting.php?id=128
+wowo1,http://xx.tvhz.xyz/vip2022/jieting.php?id=133
+wowo2,http://xx.tvhz.xyz/vip2022/jieting.php?id=134
+wowo3,http://xx.tvhz.xyz/vip2022/jieting.php?id=135
+STAR1,http://xx.tvhz.xyz/vip2022/jieting.php?id=136
+STAR2,http://xx.tvhz.xyz/vip2022/jieting.php?id=137
+STAR3,http://xx.tvhz.xyz/vip2022/jieting.php?id=138
+animax,http://xx.tvhz.xyz/vip2022/jieting.php?id=139
+Green,http://xx.tvhz.xyz/vip2022/jieting.php?id=140
+Discovery,http://xx.tvhz.xyz/vip2022/jieting.php?id=290
+Smithsonian,http://xx.tvhz.xyz/vip2022/jieting.php?id=291
+TBSニュ-ス,http://xx.tvhz.xyz/vip2022/jieting.php?id=293
+ファミリ一劇場,http://xx.tvhz.xyz/vip2022/jieting.php?id=298
+National Geographic,http://xx.tvhz.xyz/vip2022/jieting.php?id=292
+MUSIC JAPAN,http://xx.tvhz.xyz/vip2022/jieting.php?id=288
+LaLa TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=297
+tv asahi,http://xx.tvhz.xyz/vip2022/jieting.php?id=125
+映畫專門,http://xx.tvhz.xyz/vip2022/jieting.php?id=118
+Arirang TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1154
+연합뉴스TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1039
+KBS WORLD 24,http://xx.tvhz.xyz/vip2022/jieting.php?id=1040
+KBS1,http://xx.tvhz.xyz/vip2022/jieting.php?id=174
+KBS2,http://xx.tvhz.xyz/vip2022/jieting.php?id=250
+MBC,http://xx.tvhz.xyz/vip2022/jieting.php?id=251
+SBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=252
+JTBC,http://xx.tvhz.xyz/vip2022/jieting.php?id=253
+TVN,http://xx.tvhz.xyz/vip2022/jieting.php?id=254
+YTN,http://xx.tvhz.xyz/vip2022/jieting.php?id=255
+TV조선,http://xx.tvhz.xyz/vip2022/jieting.php?id=256
+MBN,http://xx.tvhz.xyz/vip2022/jieting.php?id=257
+채널A,http://xx.tvhz.xyz/vip2022/jieting.php?id=258
+연합뉴스TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=259
+KBS드라마,http://xx.tvhz.xyz/vip2022/jieting.php?id=260
+MBC드라마,http://xx.tvhz.xyz/vip2022/jieting.php?id=261
+SBS PLus,http://xx.tvhz.xyz/vip2022/jieting.php?id=262
+SBS스포츠,http://xx.tvhz.xyz/vip2022/jieting.php?id=263
+KBSN스포츠,http://xx.tvhz.xyz/vip2022/jieting.php?id=264
+MBC스포츠+,http://xx.tvhz.xyz/vip2022/jieting.php?id=265
+Spotv,http://xx.tvhz.xyz/vip2022/jieting.php?id=266
+JTBC골프,http://xx.tvhz.xyz/vip2022/jieting.php?id=268
+CGV,http://xx.tvhz.xyz/vip2022/jieting.php?id=492
+OCN,http://xx.tvhz.xyz/vip2022/jieting.php?id=488
+iNet,http://xx.tvhz.xyz/vip2022/jieting.php?id=490
+CTS,http://xx.tvhz.xyz/vip2022/jieting.php?id=491
+Spotv2,http://xx.tvhz.xyz/vip2022/jieting.php?id=267
+Tooniverse,http://xx.tvhz.xyz/vip2022/jieting.php?id=1020
+Disney,http://xx.tvhz.xyz/vip2022/jieting.php?id=489
+CBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=493
+SBS골프,http://xx.tvhz.xyz/vip2022/jieting.php?id=486
+On Style,http://xx.tvhz.xyz/vip2022/jieting.php?id=487
+FTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1134
+围棋,http://xx.tvhz.xyz/vip2022/jieting.php?id=1135
+Mnet,http://xx.tvhz.xyz/vip2022/jieting.php?id=1136
+加拿大国家电视台,http://xx.tvhz.xyz/vip2022/jieting.php?id=1003
+CNN HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=146
+FOX-HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=149
+TBS HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=156
+FOX-News,http://xx.tvhz.xyz/vip2022/jieting.php?id=150
+ABC HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=143
+CBS HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=144
+BET,http://xx.tvhz.xyz/vip2022/jieting.php?id=270
+CBC-EAST,http://xx.tvhz.xyz/vip2022/jieting.php?id=272
+OWN,http://xx.tvhz.xyz/vip2022/jieting.php?id=284
+CHCH,http://xx.tvhz.xyz/vip2022/jieting.php?id=274
+CITY-TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=275
+CP24,http://xx.tvhz.xyz/vip2022/jieting.php?id=276
+CTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=278
+TVA FR,http://xx.tvhz.xyz/vip2022/jieting.php?id=281
+CTV-NEWS,http://xx.tvhz.xyz/vip2022/jieting.php?id=280
+CBC-NEWS-NETWORK,http://xx.tvhz.xyz/vip2022/jieting.php?id=273
+BNN,http://xx.tvhz.xyz/vip2022/jieting.php?id=271
+ABC-SPARK,http://xx.tvhz.xyz/vip2022/jieting.php?id=269
+CPAC,http://xx.tvhz.xyz/vip2022/jieting.php?id=277
+TVO,http://xx.tvhz.xyz/vip2022/jieting.php?id=283
+W-NETWORK,http://xx.tvhz.xyz/vip2022/jieting.php?id=286
+OLN,http://xx.tvhz.xyz/vip2022/jieting.php?id=285
+CTV Atlantic,http://xx.tvhz.xyz/vip2022/jieting.php?id=279
+YTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=282
+CNBC,http://xx.tvhz.xyz/vip2022/jieting.php?id=145
+Sky News,http://xx.tvhz.xyz/vip2022/jieting.php?id=1041
+BBC News,http://xx.tvhz.xyz/vip2022/jieting.php?id=164
+Channel 4,http://xx.tvhz.xyz/vip2022/jieting.php?id=169
+BBC 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=161
+BBC 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=162
+BBC 4,http://xx.tvhz.xyz/vip2022/jieting.php?id=163
+ITV 4,http://xx.tvhz.xyz/vip2022/jieting.php?id=160
+ITV 3,http://xx.tvhz.xyz/vip2022/jieting.php?id=159
+ITV 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=157
+ITV 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=158
+Discovery,http://xx.tvhz.xyz/vip2022/jieting.php?id=1045
+Dave,http://xx.tvhz.xyz/vip2022/jieting.php?id=1044
+CNA 24,http://xx.tvhz.xyz/vip2022/jieting.php?id=15
+Channel8,http://xx.tvhz.xyz/vip2022/jieting.php?id=142
+Channel5,http://xx.tvhz.xyz/vip2022/jieting.php?id=141
+IKIM TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1147
+Astro Awani,http://xx.tvhz.xyz/vip2022/jieting.php?id=440
+Channel 8,http://xx.tvhz.xyz/vip2022/jieting.php?id=450
+天映頻道HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=441
+全佳,http://xx.tvhz.xyz/vip2022/jieting.php?id=427
+kix,http://xx.tvhz.xyz/vip2022/jieting.php?id=430
+歡喜,http://xx.tvhz.xyz/vip2022/jieting.php?id=432
+suria,http://xx.tvhz.xyz/vip2022/jieting.php?id=434
+雙星,http://xx.tvhz.xyz/vip2022/jieting.php?id=431
+AEC,http://xx.tvhz.xyz/vip2022/jieting.php?id=433
+華麗,http://xx.tvhz.xyz/vip2022/jieting.php?id=429
+Channel 5,http://xx.tvhz.xyz/vip2022/jieting.php?id=449
+TV1,http://xx.tvhz.xyz/vip2022/jieting.php?id=435
+TV2,http://xx.tvhz.xyz/vip2022/jieting.php?id=436
+TV3,http://xx.tvhz.xyz/vip2022/jieting.php?id=437
+TV9,http://xx.tvhz.xyz/vip2022/jieting.php?id=438
+NTV7,http://xx.tvhz.xyz/vip2022/jieting.php?id=439
+TV8,http://xx.tvhz.xyz/vip2022/jieting.php?id=442
+小太陽,http://xx.tvhz.xyz/vip2022/jieting.php?id=443
+AOD,http://xx.tvhz.xyz/vip2022/jieting.php?id=428
+Channel U,http://xx.tvhz.xyz/vip2022/jieting.php?id=448
+Thairath TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1139
+Channel 8,http://xx.tvhz.xyz/vip2022/jieting.php?id=1140
+DDTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1138
+KOMPAS TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1146
+Karaoke,http://xx.tvhz.xyz/vip2022/jieting.php?id=1141
+InsanTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1143
+CNN Indonesia,http://xx.tvhz.xyz/vip2022/jieting.php?id=1145
+MetroTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1124
+0HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1047
+4 Horas,http://xx.tvhz.xyz/vip2022/jieting.php?id=1048
+A&E ES,http://xx.tvhz.xyz/vip2022/jieting.php?id=1049
+AMC ES,http://xx.tvhz.xyz/vip2022/jieting.php?id=1050
+Antena 3,http://xx.tvhz.xyz/vip2022/jieting.php?id=1051
+Barca TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1052
+Bein Sport,http://xx.tvhz.xyz/vip2022/jieting.php?id=1053
+Boing,http://xx.tvhz.xyz/vip2022/jieting.php?id=1054
+Calle 13,http://xx.tvhz.xyz/vip2022/jieting.php?id=1055
+M Action,http://xx.tvhz.xyz/vip2022/jieting.php?id=1056
+M Deportes 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1057
+M Deportes 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1058
+M Futbol,http://xx.tvhz.xyz/vip2022/jieting.php?id=1060
+M Golf,http://xx.tvhz.xyz/vip2022/jieting.php?id=1061
+M Series Xtra,http://xx.tvhz.xyz/vip2022/jieting.php?id=1062
+Toros,http://xx.tvhz.xyz/vip2022/jieting.php?id=1063
+M Xtra,http://xx.tvhz.xyz/vip2022/jieting.php?id=1064
+Cocina,http://xx.tvhz.xyz/vip2022/jieting.php?id=1065
+DeCasa,http://xx.tvhz.xyz/vip2022/jieting.php?id=1067
+M SERIES HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1068
+M Formula 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1069
+Caza Y Pesca,http://xx.tvhz.xyz/vip2022/jieting.php?id=1070
+Clan Tve,http://xx.tvhz.xyz/vip2022/jieting.php?id=1071
+Comedy Central,http://xx.tvhz.xyz/vip2022/jieting.php?id=1072
+Cosmo,http://xx.tvhz.xyz/vip2022/jieting.php?id=1073
+Cuatro,http://xx.tvhz.xyz/vip2022/jieting.php?id=1074
+Discovery ES,http://xx.tvhz.xyz/vip2022/jieting.php?id=1075
+Disney ES,http://xx.tvhz.xyz/vip2022/jieting.php?id=1076
+Energy,http://xx.tvhz.xyz/vip2022/jieting.php?id=1077
+Euro Sport 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1078
+FDF,http://xx.tvhz.xyz/vip2022/jieting.php?id=1080
+Fox ES,http://xx.tvhz.xyz/vip2022/jieting.php?id=1081
+GOL TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1082
+NOVA,http://xx.tvhz.xyz/vip2022/jieting.php?id=1086
+Odisea,http://xx.tvhz.xyz/vip2022/jieting.php?id=1087
+TNT ES,http://xx.tvhz.xyz/vip2022/jieting.php?id=1088
+REPUBLIC News,http://xx.tvhz.xyz/vip2022/jieting.php?id=1151
+Tv9 Bharatvarsh,http://xx.tvhz.xyz/vip2022/jieting.php?id=1125
+NDTV India,http://xx.tvhz.xyz/vip2022/jieting.php?id=1030
+NDTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1028
+ABP News,http://xx.tvhz.xyz/vip2022/jieting.php?id=476
+POP-Pataka,http://xx.tvhz.xyz/vip2022/jieting.php?id=25
+ZeeNews,http://xx.tvhz.xyz/vip2022/jieting.php?id=465
+DD News,http://xx.tvhz.xyz/vip2022/jieting.php?id=463
+TEN1,http://xx.tvhz.xyz/vip2022/jieting.php?id=466
+TEN2,http://xx.tvhz.xyz/vip2022/jieting.php?id=467
+TEN3,http://xx.tvhz.xyz/vip2022/jieting.php?id=468
+And Pictures,http://xx.tvhz.xyz/vip2022/jieting.php?id=469
+Colors HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=470
+NDTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=471
+Zee Tamil,http://xx.tvhz.xyz/vip2022/jieting.php?id=472
+India TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=473
+Sony Mix,http://xx.tvhz.xyz/vip2022/jieting.php?id=474
+Star Movies,http://xx.tvhz.xyz/vip2022/jieting.php?id=478
+Star Plus,http://xx.tvhz.xyz/vip2022/jieting.php?id=479
+Zee Marathi,http://xx.tvhz.xyz/vip2022/jieting.php?id=480
+Zee Studio,http://xx.tvhz.xyz/vip2022/jieting.php?id=481
+Zee TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=482
+Zee Cinema,http://xx.tvhz.xyz/vip2022/jieting.php?id=484
+Zee Classic,http://xx.tvhz.xyz/vip2022/jieting.php?id=485
+Sony Sab,http://xx.tvhz.xyz/vip2022/jieting.php?id=475
+Sony,http://xx.tvhz.xyz/vip2022/jieting.php?id=483
+HBO,http://xx.tvhz.xyz/vip2022/jieting.php?id=464
+Sony Max,http://xx.tvhz.xyz/vip2022/jieting.php?id=477
+民視綜藝,http://xx.tvhz.xyz/vip2022/jieting.php?id=98
+中視經典,http://xx.tvhz.xyz/vip2022/jieting.php?id=185
+ELTA綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=1137
+寰宇綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=190
+國興衛視,http://xx.tvhz.xyz/vip2022/jieting.php?id=65
+東森購物2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1156
+東森購物1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1155
+臺視綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=309
+華藝綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=310
+原住民電視,http://xx.tvhz.xyz/vip2022/jieting.php?id=95
+高點綜合,http://xx.tvhz.xyz/vip2022/jieting.php?id=99
+Eleven Sport 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=301
+信吉電視,http://xx.tvhz.xyz/vip2022/jieting.php?id=422
+公視台語,http://xx.tvhz.xyz/vip2022/jieting.php?id=58
+HKC體育1,http://xx.tvhz.xyz/vip2022/jieting.php?id=401
+HKC體育2,http://xx.tvhz.xyz/vip2022/jieting.php?id=356
+有線603,http://xx.tvhz.xyz/vip2022/jieting.php?id=398
+廣東珠江,http://xx.tvhz.xyz/vip2022/jieting.php?id=1034
+鳳凰電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=19
+耀才财经,http://xx.tvhz.xyz/vip2022/jieting.php?id=355
+TVB星河,http://xx.tvhz.xyz/vip2022/jieting.php?id=1079
+TVB經典,http://xx.tvhz.xyz/vip2022/jieting.php?id=1083
+TVB Jade,http://xx.tvhz.xyz/vip2022/jieting.php?id=1084
+衛視卡式臺,http://xx.tvhz.xyz/vip2022/jieting.php?id=1085
+環宇財經,http://xx.tvhz.xyz/vip2022/jieting.php?id=320
+VOA衛視,http://xx.tvhz.xyz/vip2022/jieting.php?id=22
+DW德國之聲,http://xx.tvhz.xyz/vip2022/jieting.php?id=1059
+第1商業,http://xx.tvhz.xyz/vip2022/jieting.php?id=186
+非凡商業,http://xx.tvhz.xyz/vip2022/jieting.php?id=187
+CNN頭條新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=43
+CNN國際新聞,http://xx.tvhz.xyz/vip2022/jieting.php?id=420
+BBC World News,http://xx.tvhz.xyz/vip2022/jieting.php?id=421
+霹靂臺灣,http://xx.tvhz.xyz/vip2022/jieting.php?id=1339
+CinemaWorld,http://xx.tvhz.xyz/vip2022/jieting.php?id=84
+光影歐洲,http://xx.tvhz.xyz/vip2022/jieting.php?id=1157
+愛爾達影劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=500
+Blue Ant Extreme,http://xx.tvhz.xyz/vip2022/jieting.php?id=103
+金光布袋戲,http://xx.tvhz.xyz/vip2022/jieting.php?id=1060
+AXN亞洲,http://xx.tvhz.xyz/vip2022/jieting.php?id=1066
+EYE戲劇,http://xx.tvhz.xyz/vip2022/jieting.php?id=191
+AXN臺灣,http://xx.tvhz.xyz/vip2022/jieting.php?id=423
+TVN MOVIE,http://xx.tvhz.xyz/vip2022/jieting.php?id=1082
+Edge Sport,http://xx.tvhz.xyz/vip2022/jieting.php?id=1341
+歐洲體育,http://xx.tvhz.xyz/vip2022/jieting.php?id=1342
+緯來體育,http://xx.tvhz.xyz/vip2022/jieting.php?id=118
+FOX Sport 3,http://xx.tvhz.xyz/vip2022/jieting.php?id=376
+ELEVEN SPORTS PLUS,http://xx.tvhz.xyz/vip2022/jieting.php?id=419
+ELTA體育1,http://xx.tvhz.xyz/vip2022/jieting.php?id=192
+ELTA體育2,http://xx.tvhz.xyz/vip2022/jieting.php?id=193
+ELTA體育3,http://xx.tvhz.xyz/vip2022/jieting.php?id=194
+博斯無限2,http://xx.tvhz.xyz/vip2022/jieting.php?id=426
+ESPN-U,http://xx.tvhz.xyz/vip2022/jieting.php?id=170
+Sky Sport 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=171
+Sky Sports 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=172
+Sky Sport 3,http://xx.tvhz.xyz/vip2022/jieting.php?id=183
+Sky Sport 4,http://xx.tvhz.xyz/vip2022/jieting.php?id=417
+Sky Sport 5,http://xx.tvhz.xyz/vip2022/jieting.php?id=418
+Ginx電競,http://xx.tvhz.xyz/vip2022/jieting.php?id=425
+WWE,http://xx.tvhz.xyz/vip2022/jieting.php?id=1081
+BBC Lifestyle,http://xx.tvhz.xyz/vip2022/jieting.php?id=424
+探索動力DMAX,http://xx.tvhz.xyz/vip2022/jieting.php?id=335
+NASA Live,http://xx.tvhz.xyz/vip2022/jieting.php?id=196
+NASA TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=25
+TV5MONDE STYLE,http://xx.tvhz.xyz/vip2022/jieting.php?id=389
+車迷TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=352
+i-Fun動漫,http://xx.tvhz.xyz/vip2022/jieting.php?id=1127
+靖洋卡通,http://xx.tvhz.xyz/vip2022/jieting.php?id=348
+Nick Jr.,http://xx.tvhz.xyz/vip2022/jieting.php?id=50
+愛放2,http://xx.tvhz.xyz/vip2022/jieting.php?id=299
+愛放3,http://xx.tvhz.xyz/vip2022/jieting.php?id=259
+Dreamworks,http://xx.tvhz.xyz/vip2022/jieting.php?id=48
+BabyTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1241
+MTV Live,http://xx.tvhz.xyz/vip2022/jieting.php?id=106
+Relaxing Music,http://xx.tvhz.xyz/vip2022/jieting.php?id=1089
+Tropical House,http://xx.tvhz.xyz/vip2022/jieting.php?id=1090
+自然の音,http://xx.tvhz.xyz/vip2022/jieting.php?id=1091
+Relaxing Music,http://xx.tvhz.xyz/vip2022/jieting.php?id=1087
+Calm Piano Music,http://xx.tvhz.xyz/vip2022/jieting.php?id=1088
+Trace Urban,http://xx.tvhz.xyz/vip2022/jieting.php?id=1003
+佛衛慈悲台,http://xx.tvhz.xyz/vip2022/jieting.php?id=1306
+南方卫视,http://xx.tvhz.xyz/vip2022/jieting.php?id=219
+BSテレビ東京,http://xx.tvhz.xyz/vip2022/jieting.php?id=243
+テレビ朝日,http://xx.tvhz.xyz/vip2022/jieting.php?id=237
+衛星劇場,http://xx.tvhz.xyz/vip2022/jieting.php?id=298
+YTN,http://xx.tvhz.xyz/vip2022/jieting.php?id=1061
+Korean Culture,http://xx.tvhz.xyz/vip2022/jieting.php?id=1135
+SBS FUNE,http://xx.tvhz.xyz/vip2022/jieting.php?id=254
+SBS CNBC,http://xx.tvhz.xyz/vip2022/jieting.php?id=255
+Channel A,http://xx.tvhz.xyz/vip2022/jieting.php?id=258
+NGC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1064
+바둑TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1065
+투니버스,http://xx.tvhz.xyz/vip2022/jieting.php?id=492
+CNTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=256
+OCNMOVIES,http://xx.tvhz.xyz/vip2022/jieting.php?id=1020
+SBS Sports,http://xx.tvhz.xyz/vip2022/jieting.php?id=487
+MBCevery1,http://xx.tvhz.xyz/vip2022/jieting.php?id=476
+Tconvers,http://xx.tvhz.xyz/vip2022/jieting.php?id=1134
+KBS joy,http://xx.tvhz.xyz/vip2022/jieting.php?id=1154
+KBS Dram,http://xx.tvhz.xyz/vip2022/jieting.php?id=1062
+YTN Science,http://xx.tvhz.xyz/vip2022/jieting.php?id=1092
+EBS 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1093
+EBS Kcids,http://xx.tvhz.xyz/vip2022/jieting.php?id=1094
+EBS English,http://xx.tvhz.xyz/vip2022/jieting.php?id=1095
+EBSPlus 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1096
+EBSPlus 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1097
+EBS1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1098
+UBC SBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=1099
+KTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1100
+SBS Star,http://xx.tvhz.xyz/vip2022/jieting.php?id=1101
+ABC News Live,http://xx.tvhz.xyz/vip2022/jieting.php?id=189
+NBC News,http://xx.tvhz.xyz/vip2022/jieting.php?id=1053
+NBC2,http://xx.tvhz.xyz/vip2022/jieting.php?id=460
+HBO Signature,http://xx.tvhz.xyz/vip2022/jieting.php?id=272
+TNT,http://xx.tvhz.xyz/vip2022/jieting.php?id=284
+HGTV-HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=274
+HISTORY,http://xx.tvhz.xyz/vip2022/jieting.php?id=275
+GOD TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=276
+Big Ten Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=278
+NESN,http://xx.tvhz.xyz/vip2022/jieting.php?id=281
+NFL RedZone,http://xx.tvhz.xyz/vip2022/jieting.php?id=280
+HBO Zone East,http://xx.tvhz.xyz/vip2022/jieting.php?id=273
+HBO East,http://xx.tvhz.xyz/vip2022/jieting.php?id=271
+HBO Comedy East,http://xx.tvhz.xyz/vip2022/jieting.php?id=269
+Box Nation,http://xx.tvhz.xyz/vip2022/jieting.php?id=277
+UFC Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=283
+MTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=286
+NAT-GEO,http://xx.tvhz.xyz/vip2022/jieting.php?id=285
+Sec Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=279
+Tennis,http://xx.tvhz.xyz/vip2022/jieting.php?id=282
+Bloomberg Television,http://xx.tvhz.xyz/vip2022/jieting.php?id=1058
+American Horrors,http://xx.tvhz.xyz/vip2022/jieting.php?id=1054
+30A TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1052
+Atlanta,http://xx.tvhz.xyz/vip2022/jieting.php?id=1055
+Panama City,http://xx.tvhz.xyz/vip2022/jieting.php?id=1056
+Pawleys Island,http://xx.tvhz.xyz/vip2022/jieting.php?id=1057
+CNN USA,http://xx.tvhz.xyz/vip2022/jieting.php?id=1102
+FOX News,http://xx.tvhz.xyz/vip2022/jieting.php?id=1103
+ABC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1216
+NBC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1217
+FOX,http://xx.tvhz.xyz/vip2022/jieting.php?id=1218
+CNBC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1106
+5 Star Max,http://xx.tvhz.xyz/vip2022/jieting.php?id=1174
+Action Max,http://xx.tvhz.xyz/vip2022/jieting.php?id=1175
+MoreMax,http://xx.tvhz.xyz/vip2022/jieting.php?id=1176
+Hallmark Channel,http://xx.tvhz.xyz/vip2022/jieting.php?id=1177
+Hallmark Drama,http://xx.tvhz.xyz/vip2022/jieting.php?id=1178
+Hallmark Movie,http://xx.tvhz.xyz/vip2022/jieting.php?id=1179
+TCM,http://xx.tvhz.xyz/vip2022/jieting.php?id=1180
+Starz in Black,http://xx.tvhz.xyz/vip2022/jieting.php?id=1181
+ESPN 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1182
+ESPN 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1183
+NBC Sport,http://xx.tvhz.xyz/vip2022/jieting.php?id=1184
+NBA TV US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1185
+Fox Sport 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1186
+Fox Sport 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1187
+Tennis,http://xx.tvhz.xyz/vip2022/jieting.php?id=1188
+NFL Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=1189
+Golf,http://xx.tvhz.xyz/vip2022/jieting.php?id=1190
+WWE,http://xx.tvhz.xyz/vip2022/jieting.php?id=1191
+UFC PASS,http://xx.tvhz.xyz/vip2022/jieting.php?id=1192
+Willow,http://xx.tvhz.xyz/vip2022/jieting.php?id=1193
+NHL Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=1194
+Bein Sports USA,http://xx.tvhz.xyz/vip2022/jieting.php?id=1195
+ESPN U,http://xx.tvhz.xyz/vip2022/jieting.php?id=1196
+Big Ten Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=1197
+Discovery Channel,http://xx.tvhz.xyz/vip2022/jieting.php?id=1198
+Motor Trend,http://xx.tvhz.xyz/vip2022/jieting.php?id=1199
+National Geographic,http://xx.tvhz.xyz/vip2022/jieting.php?id=1200
+Nat Geo Wild,http://xx.tvhz.xyz/vip2022/jieting.php?id=1201
+Investigation Discovery US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1202
+Animal Planet,http://xx.tvhz.xyz/vip2022/jieting.php?id=1203
+History,http://xx.tvhz.xyz/vip2022/jieting.php?id=1204
+SMITHSONIAN,http://xx.tvhz.xyz/vip2022/jieting.php?id=1205
+TLC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1206
+Science,http://xx.tvhz.xyz/vip2022/jieting.php?id=1207
+Disney,http://xx.tvhz.xyz/vip2022/jieting.php?id=1208
+Disney XD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1209
+Disney Junior,http://xx.tvhz.xyz/vip2022/jieting.php?id=1210
+Cartoon Network US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1211
+Nickelodeon US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1212
+Nick Junior,http://xx.tvhz.xyz/vip2022/jieting.php?id=1213
+Boomerang,http://xx.tvhz.xyz/vip2022/jieting.php?id=1214
+Universal Kcids,http://xx.tvhz.xyz/vip2022/jieting.php?id=1215
+CBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=1219
+CW,http://xx.tvhz.xyz/vip2022/jieting.php?id=1220
+SYFY,http://xx.tvhz.xyz/vip2022/jieting.php?id=1221
+E!,http://xx.tvhz.xyz/vip2022/jieting.php?id=1222
+Comedy Central,http://xx.tvhz.xyz/vip2022/jieting.php?id=1223
+TNT US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1224
+Bravo US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1225
+LifeTime US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1226
+Arts and Entertainment,http://xx.tvhz.xyz/vip2022/jieting.php?id=1227
+AMC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1228
+WE TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1229
+USA Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=1230
+BET,http://xx.tvhz.xyz/vip2022/jieting.php?id=1231
+Lifetime Movie Network,http://xx.tvhz.xyz/vip2022/jieting.php?id=1232
+VH-1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1233
+TBS,http://xx.tvhz.xyz/vip2022/jieting.php?id=1234
+OWN US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1235
+GSN,http://xx.tvhz.xyz/vip2022/jieting.php?id=1236
+HGTV US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1237
+Cooking Channel,http://xx.tvhz.xyz/vip2022/jieting.php?id=1238
+MTV US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1239
+FYI,http://xx.tvhz.xyz/vip2022/jieting.php?id=1240
+TVB1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1242
+TVB DRAMA,http://xx.tvhz.xyz/vip2022/jieting.php?id=1243
+TVBJ1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1244
+TVBE,http://xx.tvhz.xyz/vip2022/jieting.php?id=1245
+NOWTV,http://xx.tvhz.xyz/vip2022/jieting.php?id=1246
+MSNBC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1104
+The Weather Nation,http://xx.tvhz.xyz/vip2022/jieting.php?id=1105
+Bloomberg,http://xx.tvhz.xyz/vip2022/jieting.php?id=1107
+Fox Business,http://xx.tvhz.xyz/vip2022/jieting.php?id=1108
+HBO Comedy,http://xx.tvhz.xyz/vip2022/jieting.php?id=1109
+HBO 1 US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1110
+HBO 2 US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1111
+HBO Signature,http://xx.tvhz.xyz/vip2022/jieting.php?id=1112
+HBO Family,http://xx.tvhz.xyz/vip2022/jieting.php?id=1113
+ShowTime 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=1114
+ShowTime 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=1115
+ShowCase US,http://xx.tvhz.xyz/vip2022/jieting.php?id=1116
+Starz,http://xx.tvhz.xyz/vip2022/jieting.php?id=1117
+Starz Comedy,http://xx.tvhz.xyz/vip2022/jieting.php?id=1118
+Starz Edge,http://xx.tvhz.xyz/vip2022/jieting.php?id=1119
+Starz Kcids Family,http://xx.tvhz.xyz/vip2022/jieting.php?id=1120
+Starz Encore,http://xx.tvhz.xyz/vip2022/jieting.php?id=1121
+Starz Encore Westerns,http://xx.tvhz.xyz/vip2022/jieting.php?id=1122
+Cinemax,http://xx.tvhz.xyz/vip2022/jieting.php?id=1123
+Sky News,http://xx.tvhz.xyz/vip2022/jieting.php?id=169
+BBC Alba,http://xx.tvhz.xyz/vip2022/jieting.php?id=161
+BBC Parliament,http://xx.tvhz.xyz/vip2022/jieting.php?id=162
+BBC ALBA,http://xx.tvhz.xyz/vip2022/jieting.php?id=163
+BBC Entertainment,http://xx.tvhz.xyz/vip2022/jieting.php?id=160
+BBC Parliament,http://xx.tvhz.xyz/vip2022/jieting.php?id=159
+BBC 2,http://xx.tvhz.xyz/vip2022/jieting.php?id=157
+BBC 1,http://xx.tvhz.xyz/vip2022/jieting.php?id=158
+Nickelodeon UK,http://xx.tvhz.xyz/vip2022/jieting.php?id=1305
+BBC World News,http://xx.tvhz.xyz/vip2022/jieting.php?id=1308
+CERIA,http://xx.tvhz.xyz/vip2022/jieting.php?id=1161
+AOD351,http://xx.tvhz.xyz/vip2022/jieting.php?id=1162
+AOD352,http://xx.tvhz.xyz/vip2022/jieting.php?id=1163
+AOD353,http://xx.tvhz.xyz/vip2022/jieting.php?id=1164
+AOD354,http://xx.tvhz.xyz/vip2022/jieting.php?id=1165
+AOD355,http://xx.tvhz.xyz/vip2022/jieting.php?id=1166
+WWE,http://xx.tvhz.xyz/vip2022/jieting.php?id=1167
+EGG,http://xx.tvhz.xyz/vip2022/jieting.php?id=1168
+OKTO,http://xx.tvhz.xyz/vip2022/jieting.php?id=1169
+TVN,http://xx.tvhz.xyz/vip2022/jieting.php?id=1170
+BNC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1171
+Arena,http://xx.tvhz.xyz/vip2022/jieting.php?id=1172
+CRICKET,http://xx.tvhz.xyz/vip2022/jieting.php?id=1173
+KIX,http://xx.tvhz.xyz/vip2022/jieting.php?id=430
+Suria,http://xx.tvhz.xyz/vip2022/jieting.php?id=434
+ARENA_HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1049
+AOD351,http://xx.tvhz.xyz/vip2022/jieting.php?id=1050
+AOD352,http://xx.tvhz.xyz/vip2022/jieting.php?id=450
+AOD353,http://xx.tvhz.xyz/vip2022/jieting.php?id=1067
+AOD354,http://xx.tvhz.xyz/vip2022/jieting.php?id=1068
+AOD355,http://xx.tvhz.xyz/vip2022/jieting.php?id=1069
+ASSP1_HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1070
+ASSP2_HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1071
+ASSP3_HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1072
+ASSP4_HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=1074
+AEC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1073
+Channel U,http://xx.tvhz.xyz/vip2022/jieting.php?id=1077
+Vasantham,http://xx.tvhz.xyz/vip2022/jieting.php?id=1078
+小太陽,http://xx.tvhz.xyz/vip2022/jieting.php?id=1080
+雙星,http://xx.tvhz.xyz/vip2022/jieting.php?id=1086
+Suria,http://xx.tvhz.xyz/vip2022/jieting.php?id=1076
+OKEY,http://xx.tvhz.xyz/vip2022/jieting.php?id=1075
+AWANI,http://xx.tvhz.xyz/vip2022/jieting.php?id=1151
+AXN,http://xx.tvhz.xyz/vip2022/jieting.php?id=1044
+BNC,http://xx.tvhz.xyz/vip2022/jieting.php?id=1045
+Channel 8,http://xx.tvhz.xyz/vip2022/jieting.php?id=1160
+
 18+,#genre#
 $c_start18+$c_end
+松視1,http://xx.tvhz.xyz/vip2022/jieting.php?id=402
+松視2,http://xx.tvhz.xyz/vip2022/jieting.php?id=403
+松視3,http://xx.tvhz.xyz/vip2022/jieting.php?id=404
+香蕉台,http://xx.tvhz.xyz/vip2022/jieting.php?id=408
+潘朵拉完美,http://xx.tvhz.xyz/vip2022/jieting.php?id=410
+潘朵拉粉紅,http://xx.tvhz.xyz/vip2022/jieting.php?id=411
+彩虹電影,http://xx.tvhz.xyz/vip2022/jieting.php?id=413
+彩虹K,http://xx.tvhz.xyz/vip2022/jieting.php?id=406
+彩虹E,http://xx.tvhz.xyz/vip2022/jieting.php?id=405
+一本道,http://xx.tvhz.xyz/vip2022/jieting.php?id=414
+二本道,http://xx.tvhz.xyz/vip2022/jieting.php?id=415
+東京熱,http://xx.tvhz.xyz/vip2022/jieting.php?id=416
+HOT,http://xx.tvhz.xyz/vip2022/jieting.php?id=407
+happy,http://xx.tvhz.xyz/vip2022/jieting.php?id=412
+驚豔台,http://xx.tvhz.xyz/vip2022/jieting.php?id=409
+Erox HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=456
+Dorcel HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=454
+Babes TV HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=458
+Hustler HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=451
+SCT Classic,http://xx.tvhz.xyz/vip2022/jieting.php?id=462
+Redlight HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=452
+SEX ATION HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=459
+Super One HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=457
+Prıvate TV,http://xx.tvhz.xyz/vip2022/jieting.php?id=453
+Passie,http://xx.tvhz.xyz/vip2022/jieting.php?id=461
+Vivid Red HD,http://xx.tvhz.xyz/vip2022/jieting.php?id=455
 JStar極限電影台,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
 驚艷成人電影台,mitv://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
 彩虹E台(H.265),mitv://ns2.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
@@ -429,4 +925,3 @@ HOT,p8p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
 潘多拉粉紅 HD,p8p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
 潘多拉完美台,p8p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
 驚艶成人電影台,p8p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
-
