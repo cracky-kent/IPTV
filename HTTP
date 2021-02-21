@@ -1,9 +1,10 @@
 電影,#genre#
 $c_start電影$c_end
 *--HTTP*,http://198.98.55.16
-HBO HD,http://xiaojun.cyou/7108live/gt/hbo/live1.xjl
-HBO HD,http://xiaojun.cyou/7108live/gt/hbo/live2.php
-有线电影台,http://xiaojun.cyou/7108live/gt/yxdyt/live1.php
+HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
+HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
 有线电影台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 HKC電影一台,http://dingzheng2580.5ay.xyz/live/tai.php?id=30
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -25,6 +26,7 @@ $c_start探索$c_end,http://jt.twiptv.tk/jieting.php?id=19
 緯來日本台(720P),rtmp://59.124.75.156/sat/tv771 
 緯來日本台(480P),rtmp://59.124.75.156/sat/tv772 
 緯來日本,rtmp://59.124.75.156:1935/sat/tv522
+纬来日本[1280*720],http://qj.yyrjdp.cn/jiuban/iptv4747557.php?id=53
 國家地理,rtmp://58.200.131.6:1935/livetv/natlgeo
 新聞,#genre#
 $c_start新聞$c_end,http://jt.twiptv.tk/jieting.php?id=349
@@ -85,6 +87,9 @@ MOMO綜合台(480P),rtmp://59.124.75.156/sat/tv762
 廣東珠江(720P),rtmp://59.124.75.156/sat/hk031 
 廣東珠江(720P),rtmp://59.124.75.156/sat/hk032 
 華視教育文化(720P),rtmp://59.124.75.156/sat/md031
+民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
+公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
+中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
 華視,http://v3948069e.live.126.net/live/us01/tw20210216huashi.flv
 華視新聞,http://v3948069e.live.126.net/live/us01/tw20210216huashinews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=33
 民視,http://v3948069e.live.126.net/live/us01/tw20210216minshi.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=41
