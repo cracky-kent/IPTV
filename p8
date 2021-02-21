@@ -910,23 +910,25 @@ MTV,http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
 泰117,http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
 CR,#genre#
 $c_start🍌CR 0🍌$c_end
-JStar極限電影,P2p://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
-LOOK,P2p://ns2.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
-驚艷電影,P2p://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
-彩虹e,P2p://ns2.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
-彩虹電影,P2p://ns2.hellotvvod.com:9906/5f8981c1000557c82eb8f9b427146e0f.ts
-松視1,P2p://ns2.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
-松視2,P2p://ns2.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
-潘多拉粉紅,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts#mitv://51.81.90.178:9906/5f8984c100059f812ec4b1c42bbd637b.ts#p5p://198.255.106.42:16871/5f3f26e00005c41d0a2fc74dc6d2ac31
-潘多拉玩美,P2p://ns2.hellotvvod.com:9906/5f89837800056df62ebfac9c6a20310d.ts
 松視1,vjms://61.216.1.24:8500:3502/live/cid=262
 松視2,vjms://61.216.1.24:8500:3502/live/cid=267
 松視3,vjms://61.216.1.24:8500:3502/live/cid=268
 极限,http://v3948069e.live.126.net/live/533c45b2cf2370e6d84354015977b426/playlist.m3u8
 松視1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
 松視3,vjms://50.7.253.59:8500/live/cid=268
-HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 日娱,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBIZA巨乳控頻道,http://uotv.gearhostpreview.com/av.php?id=1
+HEYZO零時差頻道,http://uotv.gearhostpreview.com/av.php?id=2
+IBIZA制服誘惑頻道,http://uotv.gearhostpreview.com/av.php?id=4
+加勒比全球同步頻道,http://uotv.gearhostpreview.com/av.php?id=3
+松視+深夜劇場頻道,http://uotv.gearhostpreview.com/av.php?id=5
+松視+超強企劃頻道,http://uotv.gearhostpreview.com/av.php?id=6
+HOT+西洋黑映畫頻道,http://uotv.gearhostpreview.com/av.php?id=7
+一本道國際放送頻道,http://uotv.gearhostpreview.com/av.php?id=8
+IBIZAD槽素人頻道,http://uotv.gearhostpreview.com/av.php?id=9
+IBIZA日本無碼頻道,http://uotv.gearhostpreview.com/av.php?id=10
+松視1台rtm161,rtmp://161.202.204.248:1935/tv/ttv11
+HAPPY rtm161,rtmp://161.202.204.248:1935/tv/ttv12
 粉紅,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
 驚豔,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
 彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
@@ -943,3 +945,12 @@ HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 潘多拉玩美,p5p://198.255.106.42:16871/5f3f278f00023acc0a3271fd50ba8d23&kss
 HOT,p5p://198.255.106.42:16871/5f3f2a31000938130a3cbc97aa35e26d&kss
 HAPPY,p5p://198.255.106.42:16871/5f3f298b000350920a3a32a46e3f183f&kss
+JStar極限電影,P2p://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
+LOOK,P2p://ns2.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
+驚艷電影,P2p://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
+彩虹e,P2p://ns2.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
+彩虹電影,P2p://ns2.hellotvvod.com:9906/5f8981c1000557c82eb8f9b427146e0f.ts
+松視1,P2p://ns2.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
+松視2,P2p://ns2.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
+潘多拉粉紅,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts#mitv://51.81.90.178:9906/5f8984c100059f812ec4b1c42bbd637b.ts#p5p://198.255.106.42:16871/5f3f26e00005c41d0a2fc74dc6d2ac31
+潘多拉玩美,P2p://ns2.hellotvvod.com:9906/5f89837800056df62ebfac9c6a20310d.ts
