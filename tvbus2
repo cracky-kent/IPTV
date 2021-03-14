@@ -1,6 +1,4 @@
-电影,#genre#
-$c_start电影$c_end 
-*--tvbus2*,tvbus://6TGif8EbHMdyDF
+电影
 HBO,tvbus://8YNafZohAS9Gg4nLfi7KuGSoXi9cZ1TKv9Y6VLz2TF48L8j49V#tvbus://7PDNq5eLEVfXwxzPwEK5whkvgKhT4g7DKtYopmW6NeuEa9MyV2#tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB7L#tvbus://79JxMf64LveMAUirD5UkRWxdncSEtcvMv1p4wWGdhCxtG8FFnL#tvbus://5wriyGWjHConmh9ahhCFvFmR5qBXCdQdANLBq6Df8vSZ879VBcE4THrFTaEd3
 HBO原创,tvbus://7ZEmH4GNN6GuAg3RsY2MBbUvCVpGxTqZEhPJfptmzWGPvNUZsW#tvbus://6c6yvoNhChui1kDJuVTNne6jdmncQ6BR3BBhPB1dSQKUjmohGqbXJV7G3CGqN
 HBO强档,tvbus://7sNpDZdJ5pP1Ksd2acTBisLdzLTb63tgBt1hkyGN3QnGHBcNcn#tvbus://6Kq4EfNGSDQKVthowXmS7hgdBpnxB5rz2uyd1fURCQiKr9FfdiHU48vH1orek#tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
@@ -36,8 +34,7 @@ chc动作,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5Kwwq5t
 天映频道,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
 电影第一,tvbus://6wmULb7jbo8gmr1f83G91LL9ZFigkbK4zjRhXoJkgS4Tosu2Ng#tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK
 澳门莲花,tvbus://7i6SSVrjRFZeG2Heyvo9bhsX3aCBhGHVn7KZ3MpeXdadEciejz#tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
-探索频道,#genre#
-$c_start探索频道$c_end 
+探索频道
 BBC Earth,tvbus://6wmwiio8QAs9M55rojfvmg9oKv2294kzTPmGcpmv7KoNCwrxXG#tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m
 亚洲旅游,tvbus://8BJXVj7FLwmtr3mTxTu41yH9uvitUyU9PmzjfUjAFCdzem7bNv#tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
 纬来日本,tvbus://6uRaEVB6zUUTj8hPENXF15Xb888X3y3Yrhj7HjZubfA18jRhCu#tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8
@@ -59,8 +56,7 @@ DMAX,tvbus://5SfH5CqHH7Caop9yq7RPojibWTmSthiuZgcoAzjJ4zakagDu6mDGnV1Rz5XPP
 历史频道2,tvbus://7ZwBAdfbwMoW17BcuvHqVcqnEBaH2bKTp6e83KrX4PvK9Sejpt#tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 罪案侦缉频道,tvbus://8hK7txkGsuMf38F6S7GUqddXdip9HPKWqxLRa9TATsqVv4CyAy#tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
 MTV Live,tvbus://7whA5UQwVQ9b5b2G55g3Qdgo4yV9eQzNr49AT1PpGVcrAzFt4B#tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
-新闻频道,#genre#
-$c_start新闻频道$c_end 
+新闻频道
 TVBS新闻,tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9#tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z
 东森财经新闻,tvbus://7YpF7VbL4JJRLGYJHvurtd2KsVQ1xdkZSsGJAhfvtDkjdhKgma#tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB
 东森新闻,tvbus://78Xc88RpwMy8oVCbeHLe8FMoVYJMNytJs9i1hGsP25Mz3KqZKh#tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH
@@ -85,8 +81,7 @@ NOW新闻,tvbus://8ZmAhsQuXiawwzH9WSTxkS34cdmLShs44nrCAC7EABPSqRvUwm#tvbus://8BJ
 CNBC Asia Channel,tvbus://8Tw4uvBiknLTZJZFsETSBoscfJ9J6RHoYMdTdyrmDjQxnUsF6M#tvbus://65uc4WnPyY6F6seDNVLobGHNPTSrWCUhUqxNNpt8MQFQMMjqcQaUVxsKzGQ9y
 CNN 国际,tvbus://7rJDsdLVF4hzEvTfkaUX7ehp9SVQoYgvRLmJBeBZzVN9Cf4LuH#tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
 BBC Lifestyle Channel,tvbus://8PEb6ALW7Ws3mW7n1NFvUc5WMFMsNJEnzeEBfHsSLmofe3Xo7y#tvbus://5wefCvSVvkt2zhp4HDBEWmxbYV7g5r6Xj27bg7FJMv8o9FBdYudRNYyLVw2at#tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT923uaCf
-台灣綜合,#genre#
-$c_start台灣綜合$c_end 
+台灣綜合
 公视,tvbus://7gZG9TtGAevuGZ6z3sUYaPxrr8zeqP5pAPMS6o2HVTag7yh4Bm#tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5
 公视2,tvbus://6qkEzW3LhZ8DgVL5ivQFaJwKUXJXXrGsi3aQnSHZAHRNFeSoy8
 公视3,tvbus://8RT5B4va9wkfC7a6twDMtKQiQAhu8HcNNmVdi7Rhnri1nSnv9b#tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq#tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
@@ -152,8 +147,7 @@ MOMO亲子,tvbus://8LYzzxsK9M826tCuaepTTrHW5xAvwogA53NcLdYWGno72Xx5nF#tvbus://5X
 卡通频道,tvbus://6w4yoNvqa2xSmPhaptHSCatSvnhPzJ6w76kmm9Y82pP1VpVdLv#tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
 龙华动画,tvbus://87jKxeRPS4ruRF3ntyPrFSR64ZHutKgfZtvDP5fNRdBpJ22noJ#tvbus://61YbuC57vn89TinNh2chcuyhwV1QVQCiNwKLMsrzLiJTKNCry5iJRZGS7yQWb
 霹雳台湾,tvbus://86uqCxfVE4WNpGFVypyaMVH1PdiU5n2wfqc2avakGn3fz3ekcx#tvbus://5tbhpmB9A19vYgEerCRAK923PMVMbtPByt4Ku3T1XrAJeBzfiMS7kCXtfJ5mX
-港澳频道,#genre#
-$c_start港澳频道$c_end 
+港澳频道
 翡翠,tvbus://7Q2moGnjSEAaarByLqndnMjwGG8TH7Ty52LLoZHdUGYu3aBLGU#tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt#tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 明珠,tvbus://7cNLEHAbLNR7n6FZ112Rxjh1otHUr3d3nQi3yaMcPQAmAbDEQD#tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r#tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 J2,tvbus://78gvcckGFWVYye7rfhwQ2WLDXGCRfRkbK1okZBAwwMpzwpz7F9#j2tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR#tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP
@@ -179,8 +173,7 @@ NOW直播,tvbus://7QnUuZYJ78mwBi58fYyNwEd4Y5y5nDBD2epgKroge24m1kYCV2#tvbus://5z9
 卫视卡式台,tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB
 ML 天映,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
 600news,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
-新马,#genre#
-$c_start新马$c_end 
+新马
 tv1,tvbus://77zun6iZwpnkPLnwFSXMgEKU7nMHbFdcht3WMeRsG2AmxMYZYn#tvbus://5poYVhRQLe61qxaWvhaJ5RRSTWWNyzZ3UzP7ZPD7Z5S5SHoNYD8LgjDWu1VtU
 tv2,tvbus://71nPPnKsfcPYKJSBL6pcKJnrUkqwSGniSbdX4pdpDUCkdGk2z5#tvbus://6e4hEeMVvASd7JKXXCLo9JU65A2ns8Dj3CZ4tQo95FCtRnks8euKBifTk513z
 tv3,tvbus://7VyFKyXX9bMUZdqaQTQLJypPHqWvJTDAen7uf4MfwNX5JMvF2a#tvbus://6RYDsoHodF94frXYaSTyfydVzfyYx4N8PjEipXRxsorENxbFZY9FowtGPZurF
@@ -259,8 +252,7 @@ Bali-TV,tvbus://7PXbHqr3cLr5j9J2atUicqmTwVqsNEYtEwnSXVzsubfrzp8AQD#tvbus://6Z33a
 Jak-TV,tvbus://7GHLoHet2jAbVeuxL8CAjeaffmqsnRrHeZMVFbxdnRKL3vBsZK#tvbus://6PVEgJsnj9S6Atc9TVkU7CitoS6Ef5i3tid3U22Gm627WtfpEoxi9ovyLW3zX
 ASTRO WARNA,tvbus://6DP2zC8zfpj7qRFtRowFTyj8DvGJTgb9m17iJ522n85QFjsF4H7oLFU3pMwt#tvbus://6HGzP5kU6fKUDbV1nNMaCqFjpA2uE3U4xh5EjdAoU1agwMQnCryQkLD5xboCF
 AECHD,tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3CCTV-1HD
-外语频道,#genre#
-$c_start外语频道$c_end 
+外语频道
 RB 読売テレビ,tvbus://6SxHQswLudukLP996c4UcgZPuWG7vp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
 RB NHK総合-大阪,tvbus://5uZzb6LHcprS1duLYwVMiPC6iqsHSE4sAxSSwYskaaPPvTjmQ4rUfWZwSWwoB
 RB テレビ东京,tvbus://61EgTy58KnWL1wAh94Y6DKmV1FUkGB4a3CLn18sadyXxUa2rsHPSKXpH9C3d8
@@ -488,116 +480,16 @@ Ebony,tvbus://5U8Jumknpip7e6G4NVLvpUQMbPyMpv1KYDDRBKivDFtjpm6Zt9JEpGzb2AqtT
 Blowjob,tvbus://5Q5mYj9gbLRRQj4MxgmXBhmcSFGwPUWFyRiNEgGKviHa4aNnwC1ap8MnC3YRk
 Asian,tvbus://5Y7X5S1tXaKWzYGkLCLMpQmCxeqRp6D3ic44sGUycsvPFTjfe8x9TohBHp2m1
 Anal,tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
-東京,#genre#
-$c_start東京$c_end
-NHKEテレ东京,p8p://0198.02686.cc:16871/5d414f68000e596775f79b8f963b1f60.ts
-NHK総合,http://193.42.99.130:23455/NHKHD/playlist.m3u8
-NHK-E,http://193.42.99.130:23455/NHKE/playlist.m3u8
-WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-日テレ,http://193.42.99.130:23455/3810/playlist.m3u8
-テレビ朝日,http://193.42.99.130:23455/zhaori/playlist.m3u8
-TBS,http://193.42.99.130:23455/TBS/playlist.m3u8
-テレビ東京,http://193.42.99.130:23455/TVTOKYO/playlist.m3u8
-フジテレビ,http://193.42.99.130:23455/3770/playlist.m3u8
-TOKYO MX 1,http://193.42.99.130:23455/TOKYOMX/playlist.m3u8
-TOKYO MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-大阪群馬,#genre#
-$c_start大阪群馬$c_end
-NHK総合大阪,https://cdn.kr130.jpnettv.live/live/kansi_nhk_g_720/playlist.m3u8?
-NHK-E大阪,http://193.42.99.130:23455/NHKE/playlist.m3u8
-QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-読売テレビ,http://193.42.99.130:23455/2600/playlist.m3u8
-朝日放送,http://193.42.99.130:23455/ABC/playlist.m3u8
-毎日放送,http://193.42.99.130:23455/MBS/playlist.m3u8
-テレビ大阪,http://193.42.99.130:23455/2590/playlist.m3u8
-カンテレ,http://193.42.99.130:23455/2610/playlist.m3u8
-SUNテレビ,http://193.42.99.130:23455/2630/playlist.m3u8
-群馬テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-BS放送,#genre#
-$c_startBS放送$c_end
-NHK BS1,tvbus://5qEP7yrScQarRpVnisZHLy2BGPG3jSTxZcHsoSnUnhVYKq5xUMpJj5v3tqWms
-NHK BSP,http://193.42.99.130:23455/3630/playlist.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-BS日テレ,http://193.42.99.130:23455/4200/playlist.m3u8
-BS朝日,http://193.42.99.130:23455/4210/playlist.m3u8
-BS-TBS,http://193.42.99.130:23455/4220/playlist.m3u8
-BSテレ東,http://193.42.99.130:23455/4230/playlist.m3u8
-BSフジ,http://193.42.99.130:23455/4240/playlist.m3u8
-BS放送大学,tvbus://6SG3XcJiwzBjinpgf6fNQuXMLe5XV7VrqBkwdHaoaZBN
-NHK BS4K,http://193.42.99.130:23455/NHKBS1/playlist.m3u8
-BS11,http://193.42.99.130:23455/4110/playlist.m3u8
-BS12,http://193.42.99.130:23455/4070/playlist.m3u8
-WOWOWプライム,http://193.42.99.130:23455/3680/playlist.m3u8
-WOWOWライブ,http://193.42.99.130:23455/3690/playlist.m3u8
-WOWOWシネマ,http://193.42.99.130:23455/3700/playlist.m3u8
-WOWOWシネフィル,https://cdn.kr130.jpnettv.live/live/cinefil_wowow_540/playlist.m3u8?
-スターチャンネル1,https://cdn.kr130.jpnettv.live/live/starch1_540/playlist.m3u8?
-スターチャンネル2,https://cdn.kr130.jpnettv.live/live/starch2_540/playlist.m3u8?
-スターチャンネル3,https://cdn.kr130.jpnettv.live/live/starch3_540/playlist.m3u8?
-GREENチャンネル,http://193.42.99.130:23455/4310/playlist.m3u8
-BSアニマックス,https://cdn.kr130.jpnettv.live/live/janimax_540/playlist.m3u8?
-FOX,https://cdn.kr130.jpnettv.live/live/jfox/playlist.m3u8?
-J スポーツ１,http://193.42.99.130:23455/3640/playlist.m3u8
-J スポーツ２,http://193.42.99.130:23455/3650/playlist.m3u8
-J スポーツ３,http://193.42.99.130:23455/3660/playlist.m3u8
-J スポーツ４,http://193.42.99.130:23455/3670/playlist.m3u8
 BS釣りビジョン,tvbus://6SG3XcJiwzBjinpgf6fNQuXMLe5XV7VrqBkwdHaoaZBNDbqYp2NXz9hsC3kb3
 BS日本映画専門チャンネル,tvbus://6VuUX4odYnUAmSD5WDZGxS92cfWU7xJBxyosdX9Qh8jDsiw4SW3FahXqGjQPw
 ディズニー･チャンネル,tvbus://6iZwXxhca1TYs2qGH8zYhC5d9zHjqZSQGg71AVFirRC2f8cLUQ1HyhdGmEoJH
-CS放送,#genre#
-$c_startCS放送$c_end
-ショップチャンネル,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-東映チャンネル,https://cdn.kr130.jpnettv.live/live/TOA/playlist.m3u8?
-衛星劇場,https://cdn.kr130.jpnettv.live/live/gekijjyou/playlist.m3u8?
-映画・チャンネルNEKO,https://cdn.kr130.jpnettv.live/live/Neco/playlist.m3u8?
-ムービープラス,https://cdn.kr130.jpnettv.live/live/movieplus/playlist.m3u8?
 スカイA,tvbus://5mVSNMW8UQo2fQnofGoyfiroTmxJRYGtrgzzuZgJTgXg71EYtVWktKJzSUZY9
-GAORA SPORTS,https://cdn.kr130.jpnettv.live/live/GaoRa/playlist.m3u8?
 日テレジータス,tvbus://6GSqc5Q4pQQS321bvnpsGPcpR8gsWyqiLvnwtgRNYXGXDtyNbk1j98sKpxhBm
-GOLF NETWORK,http://193.42.99.130:23455/4320/playlist.m3u8
 时代剧専門チャンネル,tvbus://5fXkc6zyYPFSPgawJVBwC95hpwW5gwU2Fo5yZPuApDQEt5Z1mxbbxMgn7NyVF
-ファミリー劇場HD,https://cdn.kr130.jpnettv.live/live/familytheater/playlist.m3u8?
-ホームドラマチャンネル,http://193.42.99.130:23455/7210/playlist.m3u8
-MTV HD,https://cdn.kr130.jpnettv.live/live/mtv/playlist.m3u8?
-キッズステーション,https://cdn.kr130.jpnettv.live/live/jkids/playlist.m3u8?
-カートゥーンネットワーク,https://cdn.kr130.jpnettv.live/live/cartoon_network/playlist.m3u8?
-ディズニージュニア,https://cdn.kr130.jpnettv.live/live/disney_junior/playlist.m3u8?
-Discovery Channel,https://cdn.kr130.jpnettv.live/live/jdiscovery/playlist.m3u8?
-アニマルプラネット,https://cdn.kr130.jpnettv.live/live/Animal/playlist.m3u8?
-ナショナルジオグラフィック,https://cdn.kr130.jpnettv.live/live/National_geographic/playlist.m3u8?
-日テレニュース24,https://www.news24.jp/livestream/index.m3u8
 CNN,tvbus://6cRsW2tkGMsByXvTtM6NxVfMr5DJnMwFnes1W5TBerwJdmwrGAkeaGpuJY6Dk
-スポーツライブ,http://193.42.99.130:23455/7160/playlist.m3u8
 Music JAPAN,tvbus://6SFSB9fvS9GLPpKFBuQ9SpFYUfZMLyra7AcgsPrR51J1wC8Dtjo7sBjjdD6f6
-CGNTV日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 NHK World,tvbus://6fJBEHjG9AZwVERMRNof5rLB6Xy2efAmuSadSCc3pG6TSeHgvDrAp8curWfBE
-HD放送,#genre#
-$c_startHD放送$c_end
-NHK大阪テスト,https://cdn.jpth10.jpnettv.live/jptv/kansi_nhk_g_720/playlist.m3u8?
-読売テレビ,https://cdn.jpth10.jpnettv.live/jptv/kansi_yomiuri_720/playlist.m3u8?
-朝日放送,https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_720/playlist.m3u8?
-毎日放送,https://cdn.jpth10.jpnettv.live/jptv/kansi_mbs_720/playlist.m3u8?
-テレビ大阪,https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_720/playlist.m3u8?
-カンテレ,https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_720/playlist.m3u8?
-SUNテレビ,https://cdn.jpth10.jpnettv.live/jptv/kansi_sun_tv_720/playlist.m3u8?
-NHKBS1,https://cdn.jpth10.jpnettv.live/jptv/nhkbs1_720/playlist.m3u8?
-NHKBSP,https://cdn.jpth10.jpnettv.live/jptv/bspremium_720/playlist.m3u8?
-BS日テレ,https://cdn.jpth10.jpnettv.live/jptv/bsnihontv_720/playlist.m3u8?
-BS朝日,https://cdn.jpth10.jpnettv.live/jptv/bsasahi_720/playlist.m3u8?
-BSTBS,https://cdn.jpth10.jpnettv.live/jptv/bstbs_720/playlist.m3u8?
-BSテレ東,https://cdn.jpth10.jpnettv.live/jptv/bsjapan_720/playlist.m3u8?
-BSフジ,https://cdn.jpth10.jpnettv.live/jptv/bsfuji_720/playlist.m3u8?
-スターチャンネル1,https://cdn.jpth10.jpnettv.live/jptv/starch1_720/playlist.m3u8?
-スターチャンネル2,https://cdn.jpth10.jpnettv.live/jptv/starch2_720/playlist.m3u8?
-スターチャンネル3,https://cdn.jpth10.jpnettv.live/jptv/starch3_720/playlist.m3u8?
-WOWOWプライム,https://cdn.jpth10.jpnettv.live/jptv/wowprime_720/playlist.m3u8?
-animax,https://cdn.jpth10.jpnettv.live/jptv/janimax_720/playlist.m3u8?
-WOWOWライブ,https://cdn.jpth10.jpnettv.live/jptv/wowlive_720/playlist.m3u8?
-WOWOWシネマ,https://cdn.jpth10.jpnettv.live/jptv/wowcinema_720/playlist.m3u8?
-シネフィルWOWOW,https://cdn.jpth10.jpnettv.live/jptv/cineffil_wowow_720/playlist.m3u8?
-非常用,#genre#
-$c_start非常用$c_end
+非常用
 NHK総合関東,tvbus://5WyAaU8VdjP4CRpLwJ1ujp5KqzkjYcjsyc7zuRQ2cm5oUCFPegBgxBNCGQPVP
 NHK E,tvbus://6AB1PG7DnCaVEwkjCSTox34NQ7LXe4syqxpdbfxBAPk8An1yXVXaiEDQi3ywQ
 日テレ,tvbus://6AQNjRjcFrR72CU3eRhqJWU9RR3oMCghGdc1nmw8SBZVAi9Y4eBVwnbBWAUM8
@@ -650,8 +542,7 @@ K频道,tvbus://6ykkdHHzG4bjvc8wayJSraVqNxwd7V7EYEGkSrRXrGp6X5DkCw
  Blowjob,tvbus://5Q5mYj9gbLRRQj4MxgmXBhmcSFGwPUWFyRiNEgGKviHa4aNnwC1ap8MnC3YRk
  Asian,tvbus://5Y7X5S1tXaKWzYGkLCLMpQmCxeqRp6D3ic44sGUycsvPFTjfe8x9TohBHp2m1
  Anal,tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
-韓国,#genre#
-$c_start韓国$c_end
+韓国
 KBS1,tvbus://6DJ3CzL1M5k9b9u7HNCvbwEm49WPfZTyQa8CA9XSJNAWHZeo9hUtN4uuK8unP
 KBS2,tvbus://5rBEKc7YgzZ7nXg9oVnV9z1KtVFpMQxwLY2fDTqe5bySEMpUkgymTrBsBen8w
 MBC,tvbus://5N9HLEyK3nNj823bN4aGZGeSbUbrDE9uaYbsd6kehCGCpKiSb7owtMHcLCrF8
@@ -693,8 +584,7 @@ NGC,tvbus://5m91x7BRLZtBuvFynmuPnCFqSqX78LpLM9jnc1my2KEo3FEiL7xPmbxLFJT2e
 바둑TV,tvbus://6PqAD9CjNAp9ipTr1gt2FUJUyUR92L2evGu9GnQV9GejnHG5hV7myNqSchR1c
 Disny Junior,tvbus://5VcZtBjdeiWT1Rkx346JCNWtCvL2ovKcapfjPfconpTwJyZ4AzKrwNFA6bwQA
 Arirang,tvbus://6NpQ7fio1zfp8zHR9M65f1LoqwAVqPF2aNAYEM5ZC1ynk14TPsCYizTdJ7nHs
-c_startOther,#genre#
-$c_startOther$c_end
+c_startOther
 DISNEY CHANNEL,tvbus://6CHkCNLd6UXCWGDpmAgTWbfz5CCir4b985gBFCiv92WfiQZS56GZ7CfGMStoJ
 DISNEY JR HD,tvbus://5coez2C41dWwXDWVnJneD11c5Xj5qqQodBHgzvHwLsgfvQ8mBi7SDs9ou2Ntw
 BEIN SPORTS1,tvbus://5gyvTD16xgvMGmoXNPsT8fQThTHYJDab7yEAQ38n2Tu2WNQtcKXUn6JXoxqqS
@@ -770,8 +660,7 @@ TNT,tvbus://5i5hnuCg8xZUCgZpU7LR47vNAB7eXmsLsxc3QcKXkUdTyfEkYzpd3vWuFqgHD
 TNT-HD,tvbus://5M3qwYx2Deuh6W9EtuoEYjRzGt86
 RTHK31,mitv://147.135.39.171:9906/5e9fd724000764a5c5f5f564790eb03709.ts
 RTHK32,mitv://147.135.39.171:9906/5efd724000d1fc 7c5f565f078712f85.ts
-央视卫视,#genre#
-$c_start央视卫视$c_end 
+央视卫视
 cctv1,tvbus://69Mb4nuPDqZ22UV9cSgDHee47LgNh4ZuyxJB3uKzpYx6sx3nbxarNwNGFWeZ7
 cctv2,tvbus://6TgMRPM93iM23VTMwx8oQV3G6BrMPtyMj68LZz4VsX2FeDzgDJ6TwDXiPJnUr
 cctv3,tvbus://6UNvStCaUueHCHHdrNDWNNhnsyrc7kABPXmmUwj7YJoLCJTXtEFEXnWrnXy6W
