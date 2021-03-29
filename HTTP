@@ -258,6 +258,14 @@ TVN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 Ria,http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 有線娛樂,http://125.89.166.215/live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
 有線財經,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
+代理測試,#genre#
+$c_start🍌代理測試🍌$c_end
+TVB星河台,http://xiaojun.cyou/7108live/iptv/ub.php?id=1079
+凤凰资讯,http://kltvx.5ay.xyz/ub/ub.php?id=359
+TVB星河台,http://160.119.70.104/yudou.php?id=1079
+BBC EARTH,http://ubaio.chaoniu1995.top:9967/ub/lanmao/crtv.php?id=97
+中天新闻,http://154.215.142.99/1/sb.php?id=1002
+
 代理电影,#genre#
 $c_start🍌代理电影🍌$c_end
 HBO,http://kltvx.5ay.xyz/ub/ub.php?id=332
