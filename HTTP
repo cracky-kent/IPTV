@@ -1,175 +1,98 @@
 電影,#genre#
 $c_start電影$c_end
 *--HTTP*,http://198.98.55.16
-AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
-CINEMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
-Crime Investigation,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
+HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=18675711039
+HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=53655658536
+HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
 FOX CRIME,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
 FOX family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
-FOX MOVIES,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
-FOX MOVIES,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
-FOX·綜合臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=01867571186
-Fx Movie Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11012&key=84797b799ae18d1b
-HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
-HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
-HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
-HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
-HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=53655658536
-HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=18675711039
+FOX MOVIES,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
+FX Movie Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11012&key=84797b799ae18d1b
+AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+CINEMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
 Hollywood,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
-東森電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=188675717260
-東森電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
-東森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=645668556384
-東森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
+衛視電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
+衛視洋片臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797697553#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
+東森電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=188675717260#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
+東森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=645668556384#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
 好萊塢電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117
-緯來電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
-華納電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=766584797653
-華納電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
-龍翔時代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b
-龍翔時代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
-美亞電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039
-美亞電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
-緯來電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
-衛視電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
-衛視電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
-衛視洋片臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797697553
-衛視洋片臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
-星衛電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
-星衛電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=37118675739
-壹電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15006&key=84797b799ae18d1b
-有線電影台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
-HKC電影一台,http://dingzheng2580.5ay.xyz/live/tai.php?id=30
+緯來電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
+華納電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=766584797653#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b#https://cdn6.goprimetime.info/feed/LC28/index.m3u8
+龍翔時代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
+美亞電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
+星衛電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=37118675739
 天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 thrill恐怖電影台,https://cdn6.goprimetime.info/feed/LC26/index.m3u8
 星空,https://cdn6.goprimetime.info/feed/LC13/index.m3u8
-華納電影,https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 澳門蓮花,https://cdn6.goprimetime.info/feed/LC41/index.m3u8
+Crime Investigation,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
 CRIME+電影,https://cdn6.goprimetime.info/feed/LC43/index.m3u8
+
 探索,#genre#
 $c_start探索$c_end,http://aaa.usa7.345888.xyz/ub.php?id=19
 BBC Earth,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
-BBC Lifestyle,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8805&key=84797b799ae18d1b
+緯來日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=595786757120#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b#http://xiaojun.cyou/7108live/tw/wlrb/live1.php#rtmp://59.124.75.156:1935/sat/tv522
+亞洲旅游臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=9640867571120#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b#http://newsstrm.myvideo.net.tw/HLS/AsiaTravel/index.m3u8
 Discovery,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
-探索亞洲,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
-探索亞洲,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=518675711793
+探索亞洲,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=518675711793
 Discovery Scirnce,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
 DMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
+國家地理,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+國家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+動物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=67711038219#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
+國興衛視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=296518651720#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
 EVE,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
-EYE TV旅游,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=84797b799ae18d1b
-EYE TV旅游,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=519867571172
-Food Network,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b
-Food Network,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
-HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
-History,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
-History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
 HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
 Life Time,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
-National Geographic,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
-Outdoor Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
 TLC,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
 Travel Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
-動物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=67711038219
-動物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
-國家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
-國興衛視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=296518651720
-國興衛視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
-美食星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=18671811039
-美食星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b
-緯來日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=595786757120
-緯來日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
-亞洲旅游臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=9640867571120
-亞洲旅游臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
 ANIMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
 Asian Food Network,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
-Baby First,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
 Baby TV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
-BBC·國際新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
-BBC·國際新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=9640186757117
-亞洲旅游,http://newsstrm.myvideo.net.tw/HLS/AsiaTravel/index.m3u8
-緯來日本,http://xiaojun.cyou/7108live/tw/wlrb/live1.php
-緯來日本台(720P),rtmp://59.124.75.156/sat/tv771 
-緯來日本台(480P),rtmp://59.124.75.156/sat/tv772 
-緯來日本,rtmp://59.124.75.156:1935/sat/tv522
+BBC·國際新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=9640186757117
+緯來日本台(720P),rtmp://59.124.75.156/sat/tv771
+緯來日本台(480P),rtmp://59.124.75.156/sat/tv772
 緯來日本[1280*720],http://qj.yyrjdp.cn/jiuban/iptv4747557.php?id=53
 國家地理,rtmp://58.200.131.6:1935/livetv/natlgeo
+
 新聞,#genre#
 $c_start新聞$c_end,http://aaa.usa7.345888.xyz/ub.php?id=349
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
-中视新闻,rtmp://v3948069e.live.126.net/live/zsxw123456789
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
-TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-TVBS新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
-TVBS新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
-东森新闻台,rtmp://v3948069e.live.126.net/live/dsxw123456789
-東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-東森財經新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
-東森財經新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=9551867571260
-東森財經新聞,rtmp://v3948069e.live.126.net/live/dscj123456789
-東森美洲新聞,http://seb.sason.top/sc/dsmz_fhd.m3u8
-東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-東森新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=518675711720
-東森新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
-非凡商業,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571
-非凡商業,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
-非凡新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=034186757117
-非凡新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b
-华视新闻资讯,rtmp://v3948069e.live.126.net/live/hsxw123456789
-寰宇新闻,rtmp://v3948069e.live.126.net/live/hyxwt123456789
-寰宇新闻台湾台,rtmp://v3948069e.live.126.net/live/hyxw123456789
-寰宇新聞,http://newsstrm.myvideo.net.tw/HLS/GlobalNews/index.m3u8
-寰宇新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
-年代新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
-年代新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=927518757120
-三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立iNews,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立iNEWS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b
-三立財經新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=0351686757172
-三立新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=645167571720
-三立新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
-壹电视新闻台,rtmp://v3948069e.live.126.net/live/ydsxw123456789
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=518675711720#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
+三立新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=645167571720#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
+三立iNEWS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b#http://seb.sason.top/sc/slinews_fhd.m3u8#http://seb.sason.top/sc/sllive_fhd.m3u8
 壹新聞 FHD,http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
+寰宇新聞,http://newsstrm.myvideo.net.tw/HLS/GlobalNews/index.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
+年代新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=927518757120
+三立財經新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=0351686757172
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=9551867571260
+東森美洲新聞,http://seb.sason.top/sc/dsmz_fhd.m3u8
+非凡商業,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
+非凡新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=034186757117#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b
 CNN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=84797b799ae18d1b
 CNN·新聞臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=351867571172
 
 台灣,#genre#
 $c_start台灣$c_end,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
-臺視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b
-臺視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=01867511039
-臺視財經,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=918675711720
-臺視財經,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
-臺視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b
-臺視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=655186757720
-臺視綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8828&key=84797b799ae18d1b
-臺視綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8828&key=654516757110
-中視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=920061867571
-中視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
-中視菁采,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=8479766669135
-中視菁采,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
-中視經典,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=0651867571120
-中視經典,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
-中視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=935186757120
-中視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
-華視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b
-華視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=318675718103
-華視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=518675711793
-華視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
-公視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
-公視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=641953175718
-公視三臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8819&key=84797b799ae18d1b
-公視三臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8819&key=908564825223
-公視臺語,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b
-公視臺語,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=648639412359
-民視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=92481867571
-民視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
-民視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=593467571720
-民視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
+臺視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=01867511039
+臺視財經,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=918675711720#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
+臺視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=655186757720
+中視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=920061867571#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
+中視菁采,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=8479766669135#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
+中視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=935186757120#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
+華視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=318675718103
+華視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=518675711793#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
+公視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=641953175718
+公視臺語,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=648639412359
+民視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=92481867571#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b#http://seb.sason.top/ptv/ftv.php?id=ms
+民視新聞,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=593467571720#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
@@ -177,57 +100,36 @@ $c_start台灣$c_end,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_200
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
 TVBS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
-TVBS歡樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205
+TVBS歡樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
 TVBS綜合臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=518675711720
-TVBS歡樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
 TVN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11015&key=84797b799ae18d1b
-FOX HD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
-FOX HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+FOX HD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 Z頻道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12014&key=84797b799ae18d1b
-八大第一臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=5937867571108
-八大第一臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=84797b799ae18d1b
-八大戲劇臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b
-八大戲劇臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=6675628003266
-八大娛樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=84797b799ae18d1b
-八大娛樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=9505436582695
-八大綜合臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=84797b799ae18d1b
-八大綜合臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=566955563556
+八大第一臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=5937867571108#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=84797b799ae18d1b
+八大戲劇臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=6675628003266
+八大娛樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=9505436582695
+八大綜合臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=566955563556
 東風37,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
 東風衛視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=5352167571120
-東森超視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b
-東森超視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=055169867571
-東森戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
-東森戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=5657187571720
+東森超視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=055169867571
+東森戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=5657187571720
 東森呦呦,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=268458248092
 東森幼幼,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
-東森綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
-東森綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=468578856286
+東森綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=468578856286
 韓國娛樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11016&key=84797b799ae18d1b
-客家電視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8825&key=84797b799ae18d1b
 年代MUCH,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
 霹靂臺灣臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12020&key=84797b799ae18d1b
-三立都會,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=569567571120
-三立都會,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
+三立都會,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=569567571120#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
 三立臺灣,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14023&key=84797b799ae18d1b
-三立戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8809&key=518675711729
-三立戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8809&key=84797b799ae18d1b
-緯來體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
-緯來體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
-緯來戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=5193576867571
-緯來戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
-緯來育樂,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711
-緯來育樂,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
-緯來綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723
-緯來綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
-衛視中文臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=35669797469
-衛視中文臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
+緯來體育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
+緯來戲劇,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=5193576867571#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
+緯來育樂,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
+緯來綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=436596589723#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
+衛視中文臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=35669797469#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
 星級劇集臺,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 星衛娛樂臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11004&key=84797b799ae18d1b
-原住民,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8824&key=84797b799ae18d1b
-中天娛樂,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=596516751720
-中天娛樂,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
-中天綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=26678625696
-中天綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
+中天娛樂,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=596516751720#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
+中天綜合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=26678625696#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
 Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
 CN卡通頻道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
 Disney卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
@@ -241,6 +143,7 @@ MTV臺灣,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12013&key=84797b
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+
 香港,#genre#
 $c_start香港$c_end,http://aaa.usa7.345888.xyz/ub.php?id=1159
 有線新聞,https://v3948069e.live.126.net/live/yxxw123456789.flv
