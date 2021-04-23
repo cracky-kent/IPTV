@@ -24,6 +24,7 @@ Hollywood,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b
 星衛電影臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=37118675739
 天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 thrill恐怖電影台,https://cdn6.goprimetime.info/feed/LC26/index.m3u8
 星空,https://cdn6.goprimetime.info/feed/LC13/index.m3u8
 澳門蓮花,https://cdn6.goprimetime.info/feed/LC41/index.m3u8
@@ -35,11 +36,11 @@ $c_start探索$c_end,http://aaa.usa7.345888.xyz/ub.php?id=19
 BBC Earth,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
 緯來日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=595786757120#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b#http://xiaojun.cyou/7108live/tw/wlrb/live1.php#rtmp://59.124.75.156:1935/sat/tv522
 亞洲旅游臺,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=9640867571120#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b#http://newsstrm.myvideo.net.tw/HLS/AsiaTravel/index.m3u8
-Discovery,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+Discovery,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b#rtmp://58.200.131.2:1935/livetv/discovery
 探索亞洲,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=518675711793
 Discovery Scirnce,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
 DMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
-國家地理,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+國家地理,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b#rtmp://58.200.131.2:1935/livetv/natlgeo
 國家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
 動物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=67711038219#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
 國興衛視,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=296518651720#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
