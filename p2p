@@ -1,7 +1,7 @@
 p2p电影,#genre#
 $c_start🍌p2p电影🍌$c_end
 *P2p*,http://198.98.55.16
-HBO-HD,p5p://fccs.ggboxtv.tw:9806/604338a40001163206880e5297cc95ab.ts	
+X-HBO-HD,p5p://91.189.184.194:9906/604338a40001163206880e5297cc95ab.ts	
 HBO原创,p5p://fccs.ggboxtv.tw:9806/604339520007991f068ab7ad0427275f.ts
 HBO Hits HD,p5p://fccs.ggboxtv.tw:9806/60442428000dc9020040224339113352.ts	
 HBO 家庭,p5p://fccs.ggboxtv.tw:9806/604339d800036fb3068cc20c2898df9c.ts		
@@ -9,44 +9,43 @@ FOX动作台,p5p://fccs.ggboxtv.tw:9806/60440fd1000e6f3b09d0998515d1967d.ts
 FOX福斯家庭,p5p://fccs.ggboxtv.tw:9806/6044114c0004d19e09d65f86a75bad6b.ts
 FOX福斯家庭,p5p://fccs.ggboxtv.tw:9806/60442b6d000654ae005c85e289945252.ts
 FOX MOVIE,p5p://fccs.ggboxtv.tw:9806/6044d406000399b302ef1ad77f59ca13.ts
-FOX MOVIE,p5p://fccs.ggboxtv.tw:9806/6045be33000be06a0681dcbdb39f2973.ts
-FX,tvbus://7RcNsJWRYgzD9QTxq28ffSdMFbMRk67x9haerEpU6oxXavE53d
-AXN,tvbus://5xyMGYHzUAWxhDzBftqg5ALUJJANKoZTnPg6f8TB7K1MRNFMQH8pueDmGie7w
+X-FX,tvbus://7RcNsJWRYgzD9QTxq28ffSdMFbMRk67x9haerEpU6oxXavE53d
 AXN,tvbus://5qJ31Et5HmpR7tzVBxYMqHuVsLSzxRJ5Z41iByDvuNhZYCh7FWSaHK1e4vXHG
 AXN,tvbus://7Kqy7eqvFZM59y3dzHT4BCWQzL2FZLhHHneX8SRgPfYvvbNbj2
 AXN,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
+AXN,tvbus://5xyMGYHzUAWxhDzBftqg5ALUJJANKoZTnPg6f8TB7K1MRNFMQH8pueDmGie7w
 CATCHPLAY,P2p://ns2.hellotvvod.com:9906//5fbe640a0004f803294d68c96e964443
 HBO HD,P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 卫视西片,P2p://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts
 龙华洋片,tvbus://6V8xXw3yHZrGVLyzCjzdVLntF2PJPXbWQFrFAsurARw4Y2U9jJXjyau8Xcnox
 龙华电影,p5p://fccs.ggboxtv.tw:9806/604426fa000c13eb004b26236e73affa.ts
-壹电影HD,p5p://fccs.ggboxtv.tw:9806/60434a87000b209606cdef9cee9a8dfe.ts
+X-壹电影HD,p5p://91.189.184.194:9906/60434a87000b209606cdef9cee9a8dfe.ts
 龙祥电影台,p5p://fccs.ggboxtv.tw:9806/6045bb31000469b906761b04cfa6bdb1.ts
-thrill电影台,p5p://fccs.ggboxtv.tw:9806/604413240002c04b09dd92bffd4adc1b.ts
+HITS电影台,p5p://fccs.ggboxtv.tw:9806/604413240002c04b09dd92bffd4adc1b.ts
 东森电影台,p5p://fccs.ggboxtv.tw:9806/60449ece0009c6ea021f39ac30bce072.ts
-东森洋片台,p5p://fccs.ggboxtv.tw:9806/60449f6d000c10680221a75af38e252f.ts
+X-东森洋片台,p5p://91.189.184.194:9906/60449f6d000c10680221a75af38e252f.ts
 壹电影HD,P2p://ns2.hellotvvod.com:9906//5fdcb44e000ed447054a97d17bb45cfa
 龙华电影,P2p://ns2.hellotvvod.com:9906//5ff40abf000ad5cb607442fe3eeb229f
-靖天映画,P2p://ns2.hellotvvod.com:9906//5fc124a1000cc2b1340db8a400040778
+X-靖天映画,P2p://ns2.hellotvvod.com:9906//5fc124a1000cc2b1340db8a400040778
 HKC电影台,P2p://ns2.hellotvvod.com:9906//5fb659b8000a2b5009e519d05908799e
 美亚电影,tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG
 华纳电影,tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
 星卫电影,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
 卫视电影,P2p://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
 CINEMAX,P2p://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
-FOX MOVIE,P2p://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
-华纳电视频道,P2p://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
-卫视中文,P2p://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
-美亚电影,P2p://147.135.39.171:9906/5e7cf98e00020cab3dc388220eeb0f7e.ts
+X-FOX MOVIE,P2p://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
+O-华纳电视频道,P2p://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
+O-卫视中文,P2p://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
+O-美亚电影,P2p://147.135.39.171:9906/5e7cf98e00020cab3dc388220eeb0f7e.ts
 好莱坞电影,P2p://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
-龙祥电影,P2p://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
+龙祥电影台,P2p://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
 天映经典,P2p://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
 AXN,P2p://147.135.39.171:9906/5e7cf98f000d3ec43dc38ee9739950cb.ts
-天映频道,P2p://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
+X-天映频道,P2p://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
 星卫电影,P2p://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
 FOX家庭电影,P2p://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
 FOX犯罪影院,P2p://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
-FOX动作台,P2p://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
+X-FOX动作台,P2p://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
 HBO强档,P2p://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 HBO Signature,P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
 Thrill,P2p://147.135.39.171:9906/5ed15ffd0002a6fa87745cbf1c0f1bd0.ts
@@ -58,14 +57,12 @@ $c_start🍌探索🍌$c_end
 BBC_Earth,tvbus://6wmwiio8QAs9M55rojfvmg9oKv2294kzTPmGcpmv7KoNCwrxXG
 亚洲旅游台,P2p://ns2.hellotvvod.com:9906//5ff3f98d0005b5216031166637f125d7
 纬来日本台,p5p://fccs.ggboxtv.tw:9806/6044a02c000bf3c30224916a373cdb2c.ts
-Love Nature,P2p://ns2.hellotvvod.com:9906//5fc11ca5000d64ea33ee887365d87084
+X-Love Nature,P2p://ns2.hellotvvod.com:9906//5fc11ca5000d64ea33ee887365d87084
 国家地理悠人,P2p://ns2.hellotvvod.com:9906//5ff3fede000afcb36045dc266ad14107
-探索亚洲,p5p://fccs.ggboxtv.tw:9806/60433ee00002fb7906a0692e6558cb55.ts
+HGTV,p5p://fccs.ggboxtv.tw:9806/60433ee00002fb7906a0692e6558cb55.ts
 探索亚洲,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
-探索亚洲,tvbus://65YukTwpkCTPCcQfHMHFMKvUQ3y6UUoNggZXXgbpGaEsvH9SJxishaf3gTVQw
 探索亚洲,tvbus://67zjm3ScZsgzCy1q6td5sR6NRSskv1cj3fUwEyZbqL84VAtQTYRik6ukRJacM
-探索亚洲,tvbus://6YKgtPdN4ecKmFaB7ydMx6bwMKqdohnQpZpERKtKcnhHm65agEUeCuk8AngKq
-探索亚洲,tvbus://8MunPVK5V9SgAGMMpRuqa22Lr5CjGxyxVJyWuqEypRxynyvVPB
+Disney,tvbus://6YKgtPdN4ecKmFaB7ydMx6bwMKqdohnQpZpERKtKcnhHm65agEUeCuk8AngKq
 探索亚洲,tvbus://7RUCS67H3HejsT87vfMq5ZhZE7jNHBCWi5TXEvN4YqpFK4Z8nL
 探索频道,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F
 探索频道,tvbus://5rQfdKbVdhFSNSnoYNDgfZCDZsyrAC8TkFutLwtikiMQNzihSCLmNP9Qh6taz
@@ -74,31 +71,27 @@ Love Nature,P2p://ns2.hellotvvod.com:9906//5fc11ca5000d64ea33ee887365d87084
 探索科学,tvbus://6CCSwQ923yP9J91sY94fxSeg9ks8gsnccVJkSKMFZCiU8UpmgToYYF5feyWqF
 探索科学,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
 探索科学,tvbus://7pt39NqgjwQ581HqSHQHxj6VThhfpbrjMzXkPmNTaL7xr8rfcq
-探索JR,tvbus://5coez2C41dWwXDWVnJneD11c5Xj5qqQodBHgzvHwLsgfvQ8mBi7SDs9ou2Ntw
-探索JR,tvbus://5Xof8yM6Xgz5GUBCSAzjjoySVAThheD3rZEC8qVJz8G3Fg4UX7nfXNucaoEGK
-探索JR,tvbus://5YHwghNNK1KAiXb47sbDT6XeLighHmSGqALZWZX1kygLJ1A3ctD6VZm7g6CqP
 探索JR,tvbus://6hKEA5SjKrd7uNf47mRFX6dhTb5YzYFnvb8C4N8b13TQqYd5CQYRGQBDhz4JA
 探索JR,tvbus://6RAfsiZWHxuf4JaGZjCwGPABh21wi2JNfCrg1DTQq8ZRvSwXpunspprobXedM
-探索XD,tvbus://5oT7giJujzA7oWqXMkzwHz1NtvNgaDkg8S6rXQMrmCBSXHRE9xZSuHMpvPjvo
 探索XD,tvbus://5SwekSMdxNqWe25PvPcmhgDCnRV55cVVpj2AUu4FubscvxM2XDqrKi5aHnguc
 探索XD,tvbus://6MLyERpCximr7CUWGbujcxu8edSVk4tPeCA2nYmqECi5kfTfcHWjE9Qrhkz5u
 动物星球,p5p://fccs.ggboxtv.tw:9806/6043485f000c065106c583978afda437.ts
-国家地理,p5p://fccs.ggboxtv.tw:9806/604340b2000af04c06a787875d674b81.ts
+X-国家地理,p5p://91.189.184.194:9906/604340b2000af04c06a787875d674b81.ts
 国家野生,p5p://fccs.ggboxtv.tw:9806/604401050005fe790996ca7b4ed24991.ts 
-影迷数位纪实台,p5p://fccs.ggboxtv.tw:9806/6049468f0008dae6144e835756f6d068.ts
-影迷数位纪实台,p5p://fccs.ggboxtv.tw:9806/6049473c0005320614512630bb45841f.ts
+H2,p5p://fccs.ggboxtv.tw:9806/6049468f0008dae6144e835756f6d068.ts
+H2,p5p://fccs.ggboxtv.tw:9806/6049473c0005320614512630bb45841f.ts
 BBC Lifestyle,p5p://fccs.ggboxtv.tw:9806/604403fd0002ca1a09a262690b80ac95.ts
 EYE TV旅游台,p5p://fccs.ggboxtv.tw:9806/60494553000b340f1449b191f22032d6.ts
-Disney,p5p://fccs.ggboxtv.tw:9806/60440517000a918709a6b1f73be1eeb9.ts
+X-Disney,p5p://91.189.184.194:9906/60440517000a918709a6b1f73be1eeb9.ts
 亚洲旅游台,p5p://fccs.ggboxtv.tw:9806/604405c80008412109a964c89ca82891.ts
 afc亚洲美食 HD,p5p://fccs.ggboxtv.tw:9806/6044065f0003bace09abb177a024828d.ts
 FOOD美食,p5p://fccs.ggboxtv.tw:9806/604407250006a38d09aeb7a6e70be747.ts
 美食星球,p5p://fccs.ggboxtv.tw:9806/604945ed00053a5b144c099a65029d36.ts
 Travel 旅游频道,p5p://fccs.ggboxtv.tw:9806/604944bf0002e33c14476d50e1deb4e1.ts
-LUXE TV,p5p://fccs.ggboxtv.tw:9806/60689d7b000b57f61347104e33aa1e24.ts
+V,p5p://fccs.ggboxtv.tw:9806/60689d7b000b57f61347104e33aa1e24.ts
 LUXE TV,P2p://ns2.hellotvvod.com:9906//5fbe6a650008f05d29663d4a5fa4335c
-Animax,P2p://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
-Food Network,P2p://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
+X-Animax,P2p://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
+X-Food Network,P2p://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 EYE TV旅游,P2p://ns2.hellotvvod.com:9906//5ff414cd000b3a02609b89cd6e1b1c9c
 美食星球,P2p://ns2.hellotvvod.com:9906//5ff414cd0005c3bf609b88666399782e
 达文西频道,P2p://ns2.hellotvvod.com:9906//5fc50018000d52c4431f01ab0f2b262e
@@ -255,6 +248,7 @@ MOMO追剧台,P2p://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e.ts
 爱尔达体育1台,P2p://147.135.39.171:9906/5e7cf98c00060e963dc3815c316636de.ts
 东森幼幼,P2p://147.135.39.171:9906/5e7cf98d000118463dc383fc2a2c3dc9.ts
 爱尔达体育3台,P2p://147.135.39.171:9906/5e7cf98d000729c73dc38592441f1b5a.ts
+纬来综合,p5p://fccs.ggboxtv.tw:9806/6045be33000be06a0681dcbdb39f2973.ts
 纬来综合,P2p://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289.ts
 纬来育乐,P2p://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts
 纬来娱乐,P2p://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts
@@ -522,20 +516,11 @@ TVN,p5p://192.187.100.162:16868/5e0186f300017d4e03dc09bb3bb018dc.ts
 연합뉴스TV,p5p://192.187.100.162:16868/5e01be670000150a04b4a67edd0bafda.ts
 ﻿粉红,#genre#
 $c_start粉红_0$c_end
-HOT,P2p://ns2.hellotvvod.com:9906//604c896000002f44ba234c2e19716622
-香蕉台,P2p://ns2.hellotvvod.com:9906//604c896000065d85ba234dc432580abb
-松视2台,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
+X-HOT,P2p://ns2.hellotvvod.com:9906//604c896000002f44ba234c2e19716622
+X-香蕉台,P2p://ns2.hellotvvod.com:9906//604c896000065d85ba234dc432580abb
+松视2台,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
 松视1台,rtmp://161.202.204.248:1935/tv/ttv11
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
-惊艳台,P2p://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
-彩虹E,P2p://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
-彩虹电影,P2p://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
-LOOK-HD,P2p://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
-松视1台,P2p://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
-松视2台,P2p://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
-潘朵拉完美台,P2p://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
-潘朵拉粉红台,P2p://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.ts
-playboy,P2p://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
 乐活,p5p://91.189.184.194:9906/6069480a00012bea15e14c4b5a8a79f5.ts	
 HIPLAY,p5p://91.189.184.194:9906/606947ae0006005b15dfe627af5a3968.ts
 LOOK-HD,tvbus://4BVfcfk8gM5f5gcfbNncYCpQKfZh7QjPKpARxXZKtskU8dXg3o
@@ -544,8 +529,16 @@ HAPPY,p5p://91.189.184.194:9906/6069464e000590c215da870b87301a7e.ts
 惊艳台,p5p://91.189.184.194:9906/606945750001667515d73652e172393c.ts
 潘朵拉完美台,p5p://91.189.184.194:9906/606945140007c49115d5bd0bd6181917.ts
 潘朵拉粉红台,p5p://91.189.184.194:9906/60694470000ba8da15d33d6a30403d05.ts
-HOT,p5p://fccs.ggboxtv.tw:9806/606945cf000dd57c15d8991121145d16.ts
+X-HOT,p5p://91.189.184.194:9906/606945cf000dd57c15d8991121145d16.ts
 松视1台,p5p://fccs.ggboxtv.tw:9806/60694312000ca14f15cde67abcbaadc0.ts
-松视2台,p5p://fccs.ggboxtv.tw:9806/606943840001b56215cfa0fe5764c8dc.ts
+x-松视2台,p5p://91.189.184.194:9906/606943840001b56215cfa0fe5764c8dc.ts
 松视3台,p5p://fccs.ggboxtv.tw:9806/606943ef00074b4415d14464874a7f4a.ts
-香蕉台,p5p://fccs.ggboxtv.tw:9806/606946c800011e4e15dc6277aee5ff0b.ts
+彩虹电影,p5p://fccs.ggboxtv.tw:9806/606946c800011e4e15dc6277aee5ff0b.ts
+彩虹E,P2p://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
+彩虹电影,P2p://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
+LOOK-HD,P2p://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
+松视1台,P2p://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
+x-松视2台,P2p://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
+潘朵拉完美台,P2p://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
+潘朵拉粉红台,P2p://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.ts
+playboy,P2p://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
