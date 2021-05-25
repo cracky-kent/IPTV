@@ -16,7 +16,7 @@ AXN,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
 AXN,tvbus://5xyMGYHzUAWxhDzBftqg5ALUJJANKoZTnPg6f8TB7K1MRNFMQH8pueDmGie7w
 CATCHPLAY,P2p://ns2.hellotvvod.com:9906//5fbe640a0004f803294d68c96e964443
 HBO HD,P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
-卫视西片,P2p://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts
+AXN,mitv://ns2.hellotvvod.com:9906/f905610f3341488fbffaa1c88d1489d0.ts
 龙华洋片,tvbus://6V8xXw3yHZrGVLyzCjzdVLntF2PJPXbWQFrFAsurARw4Y2U9jJXjyau8Xcnox
 龙华电影,p5p://91.189.184.194:9906/604426fa000c13eb004b26236e73affa.ts
 X-壹电影HD,p5p://91.189.184.194:9906/60434a87000b209606cdef9cee9a8dfe.ts
@@ -82,6 +82,7 @@ BBC_Earth,tvbus://6wmwiio8QAs9M55rojfvmg9oKv2294kzTPmGcpmv7KoNCwrxXG
 BBC Earth,mitv://ns2.hellotvvod.com:9906/d22e63b54a0f4604bef0cef2454b14e0.ts
 纬来日本,mitv://ns2.hellotvvod.com:9906/8488b9473d1e41fe98fc5313931586fb.ts
 国兴卫视,mitv://ns2.hellotvvod.com:9906/7a0bf69960794aa09915e51727f42c7a.ts
+国兴卫视,p5p://fccs.ggboxtv.tw:9806/6044d406000399b302ef1ad77f59ca13.ts
 国家地理频道,mitv://ns2.hellotvvod.com:9906/55593549ed774246a714d33e3bf3624d.ts
 国家地理悠人频道,mitv://ns2.hellotvvod.com:9906/cbf1bc8d7bf64669b897a8fcb62ccf72.ts
 国家地理野生频道,mitv://ns2.hellotvvod.com:9906/747b35671be84259875b7167e37cefdb.ts
