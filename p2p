@@ -1,9 +1,6 @@
 p2p电影,#genre#
 $c_start🍌p2p电影🍌$c_end
 *P2p*,http://198.98.55.16
-黄皮子坟,https://vod.bunediy.com/20210605/q30D6NS2/index.m3u8
-燕赤霞猎妖传,https://vod6.wenshibaowenbei.com/20210320/GdDUIVit/index.m3u8
-奇花记,https://play.hhplayer.com/hhjx/cache/qq/b0036vn707y.m3u8
 HBO,p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4#mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
 HBO強檔,p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
 HBO原創,p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#p2p://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
@@ -38,43 +35,7 @@ CCTV-6 電影 HD,p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daae
 CHC 家庭影院 HD,p2p://fccseuro.pvbox.live:18912/5b14092b0004ba23d132a7f3289b6667#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b0004ba23d132a7f3289b6667
 CHC 高清電影 HD,p2p://fccseuro.pvbox.live:18912/5b140953000b29efbeb5800136393bc9#http://ivi.bupt.edu.cn/hls/chchd.m3u8#mitv://fccsovh.pvbox.live:18912/5b140953000b29efbeb5800136393bc9
 CHC 動作電影 HD,p2p://fccseuro.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580#http://suo.im/6h3Jaf#mitv://fccsovh.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580
-HBO,mitv://ns2.hellotvvod.com:9906/a3e08273152b4fa5a4da4adcff89773b#mitv://ns2.hellotvvod.com:9906/5a26b205c364424386e3f1dc742c3f2e
-HBO強檔,mitv://ns2.hellotvvod.com:9906/05b1b2a9047746b69dc955f416c8e34d
-HBO原創,mitv://ns2.hellotvvod.com:9906/590842702df04b9081b3f775eaab7737
-Star Movies HD,mitv://ns2.hellotvvod.com:9906/b487f499d7d84e1f8ee5cacfc186e848
-FOX動作,mitv://ns2.hellotvvod.com:9906/94f022bb407841dcb31d8fe91ddc3bb1#mitv://ns2.hellotvvod.com:9906/3994098afbe64817b106590530f5cdb8
-FOX家庭,mitv://ns2.hellotvvod.com:9906/a932ee9f55ee4427b97bebdb60a2c605
-HKC電影台,mitv://ns2.hellotvvod.com:9906/aa5325ebd9944b639510afb97d94c95b
-鳳凰電影台,mitv://ns2.hellotvvod.com:9906/709a41d156e24260922c5f265dce0ba5
-衛視電影,mitv://ns2.hellotvvod.com:9906/b2958f4a0b784c88aaa046aaf539e2be
-東森電影,mitv://ns2.hellotvvod.com:9906/1d217d1a1abe47edba1d1361501035c3
-緯來電影,mitv://ns2.hellotvvod.com:9906/3ac36d59aada4e6ea274cc978973b1ca
-龍祥電影,mitv://ns2.hellotvvod.com:9906/45fe58d6e11443dcacfcbc292110c859
-東森洋片,mitv://ns2.hellotvvod.com:9906/5bd763e625bd4ee8bab4c57d63759463
-AXN,mitv://ns2.hellotvvod.com:9906/1008d5e6789741a09078b09dea524f19
-好萊塢電影,mitv://ns2.hellotvvod.com:9906/b606a2d5b4294926b16b69a177501814
-CINEMAX,mitv://ns2.hellotvvod.com:9906/1d113dc784d0404488ce88454a1ba23b
-衛視卡式台,mitv://ns2.hellotvvod.com:9906/93aeceb6f00d4565922c7c5b189e4ec9
-衛視電影台(亞洲),mitv://ns2.hellotvvod.com:9906/b19d2f19d6f24f129ba4b2f6fb99ecf4
-美亞電影台,mitv://ns2.hellotvvod.com:9906/64a5578e07ed4154ae04068f11fe1b54
-龍華電影,mitv://ns2.hellotvvod.com:9906/4c1a325832df4f08bcf183675432f783
-星衛電影,mitv://ns2.hellotvvod.com:9906/d400b2756d644350bbc5bc8c8a9ee4fb
-靖天映畫,mitv://ns2.hellotvvod.com:9906/1906d3c6023d46719a907671737b03f4
-靖天電影,mitv://ns2.hellotvvod.com:9906/ad5c738623f54a3195f3d1c49e904500
-WARNER TV,mitv://ns2.hellotvvod.com:9906/e9c37461c6724eef9a260f4f28d6a9d6
-AMC最愛電影,mitv://ns2.hellotvvod.com:9906/619895a1ffc1411bafb7ebb356eb4b5e
-CATCHPLAY HD,mitv://ns2.hellotvvod.com:9906/eb9725f3db31419b88443233d5863ef8
-CinemaWorld,mitv://ns2.hellotvvod.com:9906/827ff0f92e0e402e969a416c90f59fa8
-HITS,mitv://ns2.hellotvvod.com:9906/eb5f1d5cc96948fabd7f3122e2da059b
-壹電視電影台,mitv://ns2.hellotvvod.com:9906/fde71e606aa74231b0131ec196a5c97c
-BOO,mitv://ns2.hellotvvod.com:9906/b92e58ac07d54557b2564ed8c0620daa
-FOX CRIME,mitv://ns2.hellotvvod.com:9906/1915a2630df34ffb8a9f3134df3809b2
-tvN Movies HD,mitv://ns2.hellotvvod.com:9906/5fdc162d8681477d94cdb218a9bab576
-FOX Movies HD,mitv://ns2.hellotvvod.com:9906/ebc8c5cf8e04408db7a1c2092333335e
-Thrill,mitv://ns2.hellotvvod.com:9906/f060b3ae714f4000b60b17340cc85bba
-CCTV6,mitv://ns2.hellotvvod.com:9906/ec114f161b53415db5bff5fba375f6c2
-天映頻道,mitv://ns2.hellotvvod.com:9906/3e58d67161274ed28bf66d433cd43206
-天映經典,mitv://ns2.hellotvvod.com:9906/e827c877a5974e47ba7a91e1d1b16271
+FOX動作#mitv://ns2.hellotvvod.com:9906/3994098afbe64817b106590530f5cdb8
 HBO-HD,p5p://91.189.184.194:9906/604338a40001163206880e5297cc95ab.ts	
 HBO原創,p5p://91.189.184.194:9906/604339520007991f068ab7ad0427275f.ts
 HBO Hits HD,p5p://91.189.184.194:9906/60442428000dc9020040224339113352.ts	
@@ -147,39 +108,6 @@ Disney,tvbus://6YKgtPdN4ecKmFaB7ydMx6bwMKqdohnQpZpERKtKcnhHm65agEUeCuk8AngKq
 探索JR,tvbus://6RAfsiZWHxuf4JaGZjCwGPABh21wi2JNfCrg1DTQq8ZRvSwXpunspprobXedM
 探索XD,tvbus://5SwekSMdxNqWe25PvPcmhgDCnRV55cVVpj2AUu4FubscvxM2XDqrKi5aHnguc
 探索XD,tvbus://6MLyERpCximr7CUWGbujcxu8edSVk4tPeCA2nYmqECi5kfTfcHWjE9Qrhkz5u
-緯來日本,mitv://ns2.hellotvvod.com:9906/c28a1203b33d4c7eb405d7ae1aef9f36
-國興衛視,mitv://ns2.hellotvvod.com:9906/5d6f6a2f538a49489d1f3476421d21b3
-亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/f19869c59c3b4395b63e3363920d96f9
-CCTV9,mitv://ns2.hellotvvod.com:9906/c3d6dc0e70484940acaaba249b2023b0
-國家地理頻道,mitv://ns2.hellotvvod.com:9906/dbac2b3270eb416cad11c805d3c11ed9
-探索頻道,mitv://ns2.hellotvvod.com:9906/1a2639bd19b04a7b88d1e338dd9e2150
-TLC旅遊生活,mitv://ns2.hellotvvod.com:9906/f561772f24514f998ffef4c4bc652163
-動物星球,mitv://ns2.hellotvvod.com:9906/99a9009680544a18ab0b00485c35c208
-Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/0e000966f632416dbed15be15598c6e4
-ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/6d710c3e244740f5ab00131b4708287e
-達文西頻道,mitv://ns2.hellotvvod.com:9906/6477e52bfbb34e90b9de1ab2c18f64a9
-國家地理野生,mitv://ns2.hellotvvod.com:9906/7aaa62c9a6f64ad58f626eacb105c481
-BBC_Earth,mitv://ns2.hellotvvod.com:9906/ea04bc3433cc4db1bcb0a75509c2f750
-探索亞洲,mitv://ns2.hellotvvod.com:9906/d53ca9bafe344b18ada733de6c3c030c
-探索科學,mitv://ns2.hellotvvod.com:9906/8c965aad85ca43998647a548a409e3b7
-DMAX,mitv://ns2.hellotvvod.com:9906/2a1c5db13334477f8eb9e81a51122f9f
-EVE,mitv://ns2.hellotvvod.com:9906/f61a49114a18467fb19ea1644200941f
-OUTDOOR,mitv://ns2.hellotvvod.com:9906/68dac30c701c43449d0b151ec4b80474
-歷史頻道 2,mitv://ns2.hellotvvod.com:9906/f927249b2b674a4584ab3dfb98d5f47d
-歷史頻道,mitv://ns2.hellotvvod.com:9906/911fc86ec9c9456b900126d6a1b00cbf
-罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/b273689315604300a7d32443d7353ba3
-BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/0f4d9dfe955c40f98f07f0fa22b81d4f
-國家地理悠人,mitv://ns2.hellotvvod.com:9906/0295d39060e1480ea8fb35adfe52e3cc
-LUXE TV,mitv://ns2.hellotvvod.com:9906/d8817d8c6c204cd88388913890213135
-Lifetime,mitv://ns2.hellotvvod.com:9906/c0d3a986d4444a54814ecf84f4dcf19a
-KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/5d933f7fec184ac9b7849f0c4ac38176
-HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/a3930c57a6d84dfcb95d7d2875d23569
-Love Nature,mitv://ns2.hellotvvod.com:9906/ee566ac74f6947acb31224b295a1520e
-美食星球,mitv://ns2.hellotvvod.com:9906/87e736ace8c44b86a42b9212ba372c6d
-亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/3bd2808a7b3644d696de52fab7ade425
-Food Network,mitv://ns2.hellotvvod.com:9906/9a429748c7494a01a4f57365077d09f2
-EYE TV旅遊台,mitv://ns2.hellotvvod.com:9906/d8b56bd42cbb4a328d870a03304c88bf
-時尚頻道,mitv://ns2.hellotvvod.com:9906/53bc4b2898dc4797b90ea595b09810e1
 動物星球,p5p://91.189.184.194:9906/6043485f000c065106c583978afda437.ts
 X-國家地理,p5p://91.189.184.194:9906/604340b2000af04c06a787875d674b81.ts
 國家地理野生,p5p://91.189.184.194:9906/604401050005fe790996ca7b4ed24991.ts 
@@ -228,42 +156,6 @@ CNN INTERNATIONAL,p2p://fccseuro.pvbox.live:18912/5b593947000cff320b5fbcac3823cf
 CNN,p2p://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8#mitv://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8
 FOX-NEWS,p2p://fccseuro.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b#mitv://fccsovh.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b
 FRANCE 24（English）,p2p://fccseuro.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f#mitv://fccsovh.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f
-CNN,mitv://ns2.hellotvvod.com:9906/4d63a9ae6f3e40be99ad3cad2a498073
-無綫新聞台,mitv://ns2.hellotvvod.com:9906/59847b2e30924bc69aa79245b4f18a6a
-無綫財經·資訊台,mitv://ns2.hellotvvod.com:9906/f06a9cc1b7b1431284c48fd3d03c0084
-CGTN,mitv://ns2.hellotvvod.com:9906/b1c7c79a9345400bb515d4f2d2fb9e67
-BBC World News,mitv://ns2.hellotvvod.com:9906/0be777908a9745bb99830564e968d861
-Al Jazeera English,mitv://ns2.hellotvvod.com:9906/9638dafc64b541f4a1ad7581491e4705
-CNBC,mitv://ns2.hellotvvod.com:9906/b62e93440df3462186a6afe602ecf2da
-Bloomberg TV,mitv://ns2.hellotvvod.com:9906/ee433fd9e3854b5c8230a579ba448d67
-CNA,mitv://ns2.hellotvvod.com:9906/8fccca5531454b76bc88b7156a0919e5
-壹電視新聞台,mitv://ns2.hellotvvod.com:9906/c9d4625253ab4f6aac262dab0a658964
-年代新聞,mitv://ns2.hellotvvod.com:9906/282cffa750844d4dbe79a82b3f05ad06
-now新聞台,mitv://ns2.hellotvvod.com:9906/357e369732784c11b0e2535b0e7a37e0
-東森新聞,mitv://ns2.hellotvvod.com:9906/9276909fe07a42a8b9db379f0bea5f90
-中天新聞,mitv://ns2.hellotvvod.com:9906/9cb4923c94c14747849d27a10a5bb3e1
-民視新聞,mitv://ns2.hellotvvod.com:9906/d0ebf334b3dc49099f7297595e5e1aff
-三立新聞,mitv://ns2.hellotvvod.com:9906/f50d79ef17ac41d0bbad633e0d5c3065
-TVBS新聞,mitv://ns2.hellotvvod.com:9906/87534734759742afa027adc3c87e1e07
-東森財經新聞台,mitv://ns2.hellotvvod.com:9906/bb7c0f0b40c2406f873ecd373fc12d14
-非凡新聞,mitv://ns2.hellotvvod.com:9906/8d6613a0fd6f43e8b585d13484fc9d1b
-TNN 16,mitv://ns2.hellotvvod.com:9906/c17f71f60a5b45919715e29c91ddaf89
-NEW 18,mitv://ns2.hellotvvod.com:9906/9cb1b712fb0d4d63b376729f093caea1
-三立iNEWS,mitv://ns2.hellotvvod.com:9906/dc515d621e95458e800d886e3b0c507c
-DW,mitv://ns2.hellotvvod.com:9906/8d66df89bf0743df94cbdd8e858d32d6
-Euronews,mitv://ns2.hellotvvod.com:9906/e92d0650c01147bb8852490b2ed78e99
-France24,mitv://ns2.hellotvvod.com:9906/7d34d682183f4428b86e6d09b770bc0a
-CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/0d5b0c3dce9e4353a54d20d6527a5480
-HKC新聞台,mitv://ns2.hellotvvod.com:9906/162efc063bf4417eb68a2f3e91d493e3
-HKC直播新聞台,mitv://ns2.hellotvvod.com:9906/71b0fa099e444cef83a4d1b03cd9fa2d
-非凡商業台,mitv://ns2.hellotvvod.com:9906/2efff60cb5a14f9cbaacab2a2e124683
-HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/d43ba3e973e949008d4c9e7da9987a32
-CBSN,mitv://ns2.hellotvvod.com:9906/e430574564bc4474b6671c2c8a640fc5
-Fox News,mitv://ns2.hellotvvod.com:9906/ade72e1d9733414b812ce20ec1cc9bcb
-中視新聞,mitv://ns2.hellotvvod.com:9906/fb684d8aca9c4dc98a429c0a0c56b414
-寰宇新聞,mitv://ns2.hellotvvod.com:9906/29228d5585824bfcb0a2a8599b076de4
-華視新聞,mitv://ns2.hellotvvod.com:9906/0462fcf751134fd5b249b7d827450896
-NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8b7bb062aec44b82876b3909d6195aa3
 台視新聞,p5p://91.189.184.194:9906/60448580000cd93c01bc61c5ce37b60a.ts
 東森新聞,p5p://91.189.184.194:9906/60440362000e75bc09a007eeaa0519c7.ts 
 互動新聞台,p5p://91.189.184.194:9906/60693e820004bfd915bc11f5fbb305ed.ts
@@ -350,61 +242,6 @@ BABY TV,p2p://fccseuro.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95#mitv://
 MY KIDS,p2p://fccseuro.pvbox.live:18912/5b1409da000a356eaf4555bfced52957#mitv://fccsovh.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
 animax,p2p://fccseuro.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac#mitv://fccsovh.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac
 nick.JR,p2p://fccseuro.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3#mitv://fccsovh.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3
-民視,mitv://ns2.hellotvvod.com:9906/3a9baeedc3d0425d954e4f3f16d81c50
-人間衛視,mitv://ns2.hellotvvod.com:9906/e105c188834e41e5b9c588672853a25c
-台視,mitv://ns2.hellotvvod.com:9906/94e1965dbcf240b9b62c4f93e8911c57
-大愛,mitv://ns2.hellotvvod.com:9906/eab0653526004367a37565360ce29939
-中視,mitv://ns2.hellotvvod.com:9906/71fe3372fdee45e39996657d5cbf37f2
-中視經典台,mitv://ns2.hellotvvod.com:9906/227257a9deb642f3bb01763d1e5d8b74
-中視菁采台,mitv://ns2.hellotvvod.com:9906/7829410306e44df3bafce5685df37855
-霹靂台灣台,mitv://ns2.hellotvvod.com:9906/118f7ca5e0764fe786c8aab3eb44f46b
-華視,mitv://ns2.hellotvvod.com:9906/8a1fb8e50f8f4339af2c2eecf4f095f8
-公視,mitv://ns2.hellotvvod.com:9906/c512a201412d484e9843ed87ccee8d1d
-公視台語台,mitv://ns2.hellotvvod.com:9906/fb1ed2798887409c992ed5e841a85cdf
-好消息,mitv://ns2.hellotvvod.com:9906/629c1473b19547a69caa232740cf06f1
-原住民電視台,mitv://ns2.hellotvvod.com:9906/febe20b571a04ef09fc45501e0b249b1
-客家電視台,mitv://ns2.hellotvvod.com:9906/8dbfbc343c364f7e92114f9de9fce53e
-緯來綜合台,mitv://ns2.hellotvvod.com:9906/979c149ea1fc423998c54b330d99b940
-八大第一台,mitv://ns2.hellotvvod.com:9906/5e814396f0d34081859e697af08c2a44
-八大綜合台,mitv://ns2.hellotvvod.com:9906/6ac32ea2f6d24f1da9c9a94025805c80
-三立台灣台,mitv://ns2.hellotvvod.com:9906/0745c533553946e18b8be3f68c910dd0
-三立都會台,mitv://ns2.hellotvvod.com:9906/40dc661b38e446f2b96a862a51d5ec70
-衛視中文,mitv://ns2.hellotvvod.com:9906/81f93b619fe9484eb3909b76396fe092
-東森綜合台,mitv://ns2.hellotvvod.com:9906/4a9d1288060844719152745f1f7732ea
-超視,mitv://ns2.hellotvvod.com:9906/b01675e96251487d9c95d058aa852322
-中天綜合台,mitv://ns2.hellotvvod.com:9906/8c67138762c04b9b8cc15b22d3c27502
-中天娛樂台,mitv://ns2.hellotvvod.com:9906/454b43938036439fa50a9e2f38376779
-TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/8b08f29b78bb4601a13a666b170b1f51
-高點綜合台,mitv://ns2.hellotvvod.com:9906/b4c857ff4a40403498eab7cac808c7e3
-JET綜合台,mitv://ns2.hellotvvod.com:9906/f462991db1c8470c870620193f0be297
-TVBS,mitv://ns2.hellotvvod.com:9906/b9111867c8d94a3786b718489cc9a738
-FOX,mitv://ns2.hellotvvod.com:9906/9179af3b63c64815a8eb3b44c22c26d0
-八大娛樂台,mitv://ns2.hellotvvod.com:9906/0369ea89c67641069cfd959a9a93c9c7
-Arirang,mitv://ns2.hellotvvod.com:9906/18eed272fbe1475c9576dbabddb89e30
-公視3台,mitv://ns2.hellotvvod.com:9906/5315bc6d627844a4bed66c20a61bf004
-大愛2台,mitv://ns2.hellotvvod.com:9906/72b23f15f4c64544bba5ebb0c6b27680
-好消息2台,mitv://ns2.hellotvvod.com:9906/4bc6eb81889741cbbab887d381f206c6
-三立綜合台,mitv://ns2.hellotvvod.com:9906/e7e93c3f2356451d95df0b0e0e7f7f8e
-靖天資訊台,mitv://ns2.hellotvvod.com:9906/eb55b769772647d3bdf5b704c600c6a3
-靖天綜合台,mitv://ns2.hellotvvod.com:9906/768688706a3d405685592adb14757690
-靖天育樂台,mitv://ns2.hellotvvod.com:9906/433f8535c5f64d24bf5131753f6f6d06
-TVBS精采台,mitv://ns2.hellotvvod.com:9906/d72e1c4be39c43f4b48ae468ae933648
-壹電視綜合,mitv://ns2.hellotvvod.com:9906/3db8512fe2214f09b088c786bdce4bcb
-緯來精采,mitv://ns2.hellotvvod.com:9906/6dead7f60e5448498eef202646c95035
-ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/b3ba72f4c1a745fbb452dcae821ca06f
-民視第一台,mitv://ns2.hellotvvod.com:9906/708fea1c3d9945e382be5c120652feee
-民視台灣台,mitv://ns2.hellotvvod.com:9906/0e999985e1f24892878e1f6a5b99375d
-Nice TV靖天歡樂台,mitv://ns2.hellotvvod.com:9906/72e5d2bdfbb74d9096728ed80fc21262
-新唐亞太台,mitv://ns2.hellotvvod.com:9906/5f8f23dab2434135af3db3a6110ee3e8
-八大優頻道,mitv://ns2.hellotvvod.com:9906/11121d9a3eff452aa56c5cec2e92695d
-靖天日本台,mitv://ns2.hellotvvod.com:9906/06022842f5bf431fb9ce8d2c4b480113
-i-Fun動漫台,mitv://ns2.hellotvvod.com:9906/b4dc0c1e0d11450781f12ca46f69ddb3
-韓國娛樂台,mitv://ns2.hellotvvod.com:9906/ad56edd7b1b04b8c8448e36bcbad5b5f
-星衛娛樂台,mitv://ns2.hellotvvod.com:9906/a139d1b2ba4444cf855c33cbc3940a24
-BLUE ANT Extreme,mitv://ns2.hellotvvod.com:9906/6dd1309d1f3d4b31ae8dad8e9e871695
-唯心電視台,mitv://ns2.hellotvvod.com:9906/4c79bab449e34d4abebb3ff6b562cff8
-佛衛慈悲台,mitv://ns2.hellotvvod.com:9906/2343863c770749e9934062f122e46957
-TV5Monde,mitv://ns2.hellotvvod.com:9906/f52457cd2c214d469e3dae33260f1cd8
 民視台灣台,p5p://91.189.184.194:9906/6044825e000bd32801b024b2f4ff7f01.ts
 民視第一台,p5p://91.189.184.194:9906/604482f700022b0f01b277e16acd3ba1.ts
 民視 HD,p5p://91.189.184.194:9906/6043597b000602c20708576dff009975.ts
@@ -466,15 +303,6 @@ FOX HD,p2p://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e#mitv://f
 三立戲劇台,p2p://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b#mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
 都市劇場,p2p://fccseuro.pvbox.live:18912/5b140921000e805eeeccc3221d41efb6#mitv://fccsovh.pvbox.live:18912/5b140921000e805eeeccc3221d41efb6
 靖洋戲劇台,p2p://fccseuro.pvbox.live:18912/5b140917000666031b44053492b428cc#mitv://fccsovh.pvbox.live:18912/5b140917000666031b44053492b428cc
-東森戲劇台,mitv://ns2.hellotvvod.com:9906/b51129dfebef40b5913672ca8fd2e0a5
-八大戲劇台,mitv://ns2.hellotvvod.com:9906/83f8130a01ee4e69b140e83e18aad27e
-緯來戲劇台,mitv://ns2.hellotvvod.com:9906/0ef7ab2c032946fe9ef291bcb8e0b3c5
-三立戲劇台,mitv://ns2.hellotvvod.com:9906/a2a9254fb21b4d92bcef3ce7e5a5a0e4
-龍華戲劇,mitv://ns2.hellotvvod.com:9906/13e37945d89c4c2081f04119117b72bd
-靖天戲劇台,mitv://ns2.hellotvvod.com:9906/0c9b3809278942aba4d76f92950d5ae6
-靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/5e13c01e660f4bf1918762ccedf0cda4
-EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/1f3e94835b3f40a89aad44dc76f16e3c
-采昌影劇台,mitv://ns2.hellotvvod.com:9906/6fbe9607af564b2ab9f0c916f98d0d6a
 龍華影劇,p5p://91.189.184.194:9906/604347a3000cc1fe06c2a567b371c0d6.ts 
 采昌影劇,p5p://91.189.184.194:9906/604411ec0004d59109d8d087e9645ce6.ts
 三立戲劇台,p5p://91.189.184.194:9906/60441b4f00036f62001d8ff40f884e87.ts
@@ -484,6 +312,326 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/1f3e94835b3f40a89aad44dc76f16e3c
 東森戲劇,p5p://91.189.184.194:9906/60449e3500031323021ce24de00b3ef2.ts
 龍華偶像,p5p://91.189.184.194:9906/60442ac30006b54f0059edebe8733672.ts
 緯來戲劇,p5p://91.189.184.194:9906/6044a124000716e6022858ec2ddd7840.ts
+
+电影,#genre#
+$c_start🍌电影🍌$c_end
+奇花记,https://play.hhplayer.com/hhjx/cache/qq/b0036vn707y.m3u8
+半狼传说HD,https://vod4.buycar5.cn/20210607/yI9Qr7bC/1000kb/hls/index.m3u8
+国家安全2010HD,https://vod4.buycar5.cn/20210606/qQlFY6OU/1000kb/hls/index.m3u8
+幽灵猎手HD,https://vod4.buycar5.cn/20210606/PJMciTYc/1000kb/hls/index.m3u8
+电影:情逢敌手,https://uf.haoyu666.top/uploads%2F20210607%2F%E6%83%85%E9%80%A2%E6%95%8C%E6%89%8B.m3u8
+美国刺客HD,https://video.buycar5.cn/20200921/DuBwdoF0/1000kb/hls/index.m3u8
+电影:修仙传之练剑[816p],https://sf3-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/a5e460e14ce74139904d3c703662cfc3
+电影:巨蛛,https://wy.bigmao.top/api/GetDownUrlMu/33ecf636f7c2429c8d9c2b10defdb26a/ddefe6c7fed0414f849cef779566f531.m3u8
+時尚惡女：庫伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
+那些要我死的人,https://vod.bunediy.com/20210516/AbSAaINO/index.m3u8
+玩命鈔劫,https://n1.szjal.cn/20210527/adFuCrkl/index.m3u8#https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8#https://v7.dious.cc/20210525/yzeScsrb/index.m3u8
+死亡漩渦：奪魂鋸新遊戲,https://n1.szjal.cn/20210601/HT9WCHDJ/index.m3u8
+*鬼滅之刃無限列車篇,https://vod6.wenshibaowenbei.com/20210428/Bd4DKMCv/index.m3u8
+*三國誌新解,https://n1.szjal.cn/20210422/8shHIVMP/index.m3u8
+*怪物獵人HD,https://vod3.buycar5.cn/20210218/vjXlGOfb/1000kb/hls/index.m3u8
+*角頭外傳浪流連,https://n1.szjal.cn/20210507/kbBuCgkf/index.m3u8
+*真人快打HD,https://vod3.buycar5.cn/20210424/oNDJDIeh/index.m3u8#https://v3.dious.cc/20210424/MlPqDJ9W/index.m3u8#https://n1.szjal.cn/20210424/moikY5ij/index.m3u8
+*無名弒,https://n1.szjal.cn/20210416/lJ2sSXsg/index.m3u8
+*捍衛救援,https://v7.dious.cc/20210414/Z8RZlfbM/index.m3u8#https://n1.szjal.cn/20210414/BeEAmhM2/index.m3u8
+*鬼滅之刃 劇場版 無限列車篇 HD,https://vod3.buycar5.cn/20201208/0wTrvWK3/index.m3u8
+*雷霆女神2021,https://v7.dious.cc/20210410/kdhRSfPy/index.m3u8
+*末日激戰HD,https://vod.bunediy.com/20210210/ZRRJVnFq/index.m3u8#https://v5.szjal.cn/20210116/lWBd0E8c/index.m3u8
+*哥吉拉大戰金剛,https://vod.bunediy.com/20210331/LBhwkrkZ/index.m3u8#https://n1.szjal.cn/20210401/qAnwsalQ/index.m3u8
+紮克施奈德版正義聯盟,https://vod3.buycar5.cn/20210317/8WEC0bK5/index.m3u8#https://tst.cqzyw.net:11441/data/video/1616205132.m3u8#https://tst.cqzyw.net:11441/data/video/1616125699.m3u8
+尋龍使者-拉雅,https://vod4.buycar5.cn/20210308/azsXfwET/index.m3u8
+*女鬼橋,https://vod5.wenshibaowenbei.com/20201210/dWyrgVg8/index.m3u8#https://v4.dious.cc/20201210/2IVh0BLG/index.m3u8
+*靈異第六感,https://v5.szjal.cn/20200827/aY8hnyzN/index.m3u8
+*詭秘陰宅,https://vod.bunediy.com/20210514/gsCz92MY/index.m3u8
+*鬼媾人1989,https://video.buycar5.cn/20200701/HYTsZyGh/index.m3u8
+*開心鬼1984,https://b2.szjal.cn/20190718/UxePj6gQ/index.m3u8#https://vod.bunediy.com/20200513/955iDrBZ/index.m3u8
+*開心鬼放暑假1985,https://vod.bunediy.com/20200513/qx7BzL23/index.m3u8
+*開心鬼上錯身1991,https://vod.bunediy.com/20200508/VMI7AaDF/index.m3u8
+靈異405號房,https://xigua-cdn.haima-zuida.com/20200603/7828_a303d243/index.m3u8#https://iqiyi.cdn7-okzyw.net/20200604/19938_30242b8c/index.m3u8
+*杏林醫院,https://v7.dious.cc/20210321/Qzw6srhQ/index.m3u8#https://n1.szjal.cn/20210321/yedUNWxJ/index.m3u8
+*靈幻至尊,https://vod3.buycar5.cn/20210114/VSjRqQLe/index.m3u8
+-鬼抓人,https://ok.cbi88.com/20180924/5607_8122e28e/index.m3u8
+*猛鬼大廈,https://v4.szjal.cn/20200719/wobVHYn8/1000kb/hls/index.m3u8
+*魁星踢斗2:抓鬼特訓班,https://vod.bunediy.com/20200513/fVyIbtuA/index.m3u8
+*魁星踢斗,https://vod.bunediy.com/20200513/yZIHENEP/index.m3u8#https://video.buycar5.cn/20200701/szEaXowf/index.m3u8#https://v3.szjal.cn/20200309/l4cZepGO/index.m3u8
+*屍家重地,https://vod.bunediy.com/20200508/rKlViyxU/index.m3u8#https://vod2.buycar5.cn/20201024/V58vH76v/index.m3u8
+*一眉道人,https://v3.szjal.cn/20200306/b65SgPcW/index.m3u8#https://video.buycar5.cn/20200701/AKCneZKn/index.m3u8#https://vod3.buycar5.cn/20210114/EkXkKT7u/index.m3u8
+*靈幻先生,https://b2.szjal.cn/20190714/xFtLVELT/index.m3u8#https://b2.szjal.cn/20190325/MJ6QwhyF/index.m3u8#https://video.buycar5.cn/20200701/aTRDkHYO/index.m3u8
+*驅魔道長,https://video.buycar5.cn/20200701/fOYBaBjT/index.m3u8#https://vod3.buycar5.cn/20210114/bA7Vfoel/index.m3u8
+*驅魔警察,https://v3.szjal.cn/20191228/xwYldDLn/index.m3u8#https://vod3.buycar5.cn/20210114/JDeZE8Bx/index.m3u8#https://video.buycar5.cn/20200701/1NizkhCU/index.m3u8
+*鬼打鬼,https://vod3.buycar5.cn/20210114/GmPSCyDb/index.m3u8#https://video.buycar5.cn/20200701/cbCJiM30/index.m3u8
+*鬼咬鬼,https://vod3.buycar5.cn/20210114/NAelnQu9/index.m3u8
+*甩皮鬼,https://vod3.buycar5.cn/20210114/vfvC5dqr/index.m3u8
+*鬼打鬼之黃金道士,https://b2.szjal.cn/20190718/9fY2NWl5/index.m3u8#https://vod3.buycar5.cn/20210114/A9u9fvBh/index.m3u8
+*五福星撞鬼,https://vod.bunediy.com/20200426/K7sp9rS8/index.m3u8
+*捉鬼專門店,https://video.buycar5.cn/20200701/aOYve6iT/index.m3u8
+*猛鬼學堂,https://b2.szjal.cn/20190708/g1QJ2KS1/index.m3u8#https://video.buycar5.cn/20200701/VUxaUd9G/index.m3u8#https://youku.kuyun-leshi.com/20190506/n1Apq6d6/index.m3u8
+*猛鬼撞鬼,https://v3.szjal.cn/20190914/5pCct5Pd/index.m3u8#https://video.buycar5.cn/20200701/Ywm03nsn/index.m3u8
+*誰是鬼,https://video.buycar5.cn/20200701/CgeyMy5L/index.m3u8
+*靈氣逼人,https://vod.bunediy.com/20200612/j5bnq7Sg/index.m3u8#https://video.buycar5.cn/20200701/50oG4D7F/index.m3u8
+*鬼新娘,https://video.buycar5.cn/20200701/vlGByUFv/index.m3u8
+*陰陽路1,https://vod2.buycar5.cn/20200921/w8IJ0OH4/index.m3u8#https://v4.szjal.cn/20200522/zPqYkJL0/index.m3u8
+*陰陽路2：我在你左右,https://n1.szjal.cn/20210405/0x8GRJjT/index.m3u8
+*陰陽路3,https://n1.szjal.cn/20210405/8JR5rCHE/index.m3u8
+*陰陽路4,https://n1.szjal.cn/20210405/mr7SPDeH/index.m3u8
+*陰陽路5,https://v4.szjal.cn/20200723/VfOQDwZI/index.m3u8
+*陰陽路6,https://video.buycar5.cn/20200823/1POH2AtH/index.m3u8
+*陰陽路7,https://video.buycar5.cn/20200823/wEkw8RhI/index.m3u8
+*捉鬼合家歡,https://v4.szjal.cn/20191014/MeSRzH24/index.m3u8
+*精靈變,https://vod3.buycar5.cn/20210114/RPc966bg/index.m3u8
+怪談協會,https://youku.cdn7-okzy.com/20200314/17766_4d4d6c99/index.m3u8?sign=6d1158dc7d950882236c6b52d14fd10b
+猛鬼食人胎,https://yun.zxziyuan-yun.com/20180604/5I7KSVB1/1000kb/hls/index.m3u8
+*殭屍叔叔,https://v5.szjal.cn/20200827/ev27WDs3/index.m3u8#https://vod.bunediy.com/20200512/ghLoMUB8/index.m3u8
+*殭屍先生,https://videos.kkyun-iqiyi.com/20171105/ug8AbIdj/index.m3u8#https://vip.okokbo.com/20171213/fTGJqOpC/index.m3u8
+*新殭屍先生,https://vod3.buycar5.cn/20210114/Ccpy9agf/index.m3u8
+*殭屍先生,https://v4.szjal.cn/20191230/jwdQfr26/index.m3u8
+*殭屍家族,https://vod3.buycar5.cn/20210114/eRC0C4kC/index.m3u8
+*音樂殭屍,https://vod3.buycar5.cn/20210114/l7cDoIgB/index.m3u8#https://v4.szjal.cn/20200723/mgTo1lmG/index.m3u8
+*鍾馗嫁妹,https://video.dious.cc/20200620/dfblyjdB/index.m3u8
+*千年女妖,https://v3.szjal.cn/20191222/FawiihBX/index.m3u8
+*猛鬼旅行團,https://vod3.buycar5.cn/20210114/wtD9MSVm/index.m3u8
+*金裝鬼打鬼,https://vod3.buycar5.cn/20210114/vfvC5dqr/index.m3u8
+鬼打鬼之靈幻天師,https://vip.okokbo.com/20171230/TILTF1BH/index.m3u8#https://c.mahua-kb.com/20200607/6YngabSc/index.m3u8
+*猛鬼佛跳牆,https://video.buycar5.cn/20200701/ilKcucnb/index.m3u8
+屍氣逼人,https://56.com-ok-bilibili.com/20190919/31683_a8f12bf5/index.m3u8
+*人嚇人,https://vod3.buycar5.cn/20210114/17dYQGYT/index.m3u8#https://v3.szjal.cn/20200309/PXu0lF0l/index.m3u8
+*人嚇鬼,https://vod3.buycar5.cn/20210114/uRsjBqIU/index.m3u8#https://v3.szjal.cn/20200226/rfvLJ2SP/index.m3u8
+嚇到笑,https://jingdian.qincai-zuida.com/20200628/8806_0fcfaf74/index.m3u8
+*捉鬼大師,https://b2.szjal.cn/20190326/SXmz3cx8/index.m3u8
+*表哥到,https://v3.szjal.cn/20200203/kjXAkyXz/index.m3u8
+*表哥到2,https://vod.bunediy.com/20210511/R5WYU1fa/index.m3u8
+*我的嗝嗝老師,https://cdn.letv-cdn.com/2018/12/05/OHlZcjQxgIDABm7h/playlist.m3u8
+*魔鬼終結者2,https://vod3.buycar5.cn/20210519/b1c87Foi/index.m3u8
+*讓子彈飛,https://v3.szjal.cn/20191211/ODPA1zMA/index.m3u8
+*2012世界末日,https://video.buycar5.cn/20200901/NDGygu3q/index.m3u8
+*限制級褓母,https://vod3.buycar5.cn/20201220/vi2jlt43/index.m3u8
+*咖哩辣椒,https://b2.szjal.cn/20190719/YiDzIWll/index.m3u8
+*A計劃,https://vod.bunediy.com/20200507/VuP9WfQK/index.m3u8#https://video.dious.cc/20200530/WqICAmyd/index.m3u8
+*A計劃續集,https://vod.bunediy.com/20200512/jG6Uf2He/index.m3u8
+*世界末日,https://vod6.wenshibaowenbei.com/20210324/2f6O12Qt/index.m3u8#https://www.yiyazx.com/20181123/l7MmAX6A/index.m3u8
+*千王之王,https://v5.szjal.cn/20200929/NaVjdu1t/index.m3u8
+*浪人47,https://b2.szjal.cn/20190329/nnFeuE7U/index.m3u8
+*浪客劍心：傳說的完結篇,https://video.buycar5.cn/20200820/Zu8xevRg/index.m3u8
+*浪客劍心：京都大火篇,https://d.mahua-kb.com/20200724/sM6MRDVb/index.m3u8#https://d.mahua-kb.com/20200724/sM6MRDVb/index.m3u8
+*浪客劍心,https://vod2.buycar5.cn/20201127/ilO0NYYy/index.m3u8
+*酷寒殺手,https://video.buycar5.cn/20200921/jK8Asf5K/index.m3u8
+*獵魔教士,https://v3.szjal.cn/20191225/rvdoZVTJ/index.m3u8
+*限制級戰警1,https://v3.szjal.cn/20190831/lCo6J1Kx/index.m3u8#https://v4.dious.cc/20201217/1IHbJI46/index.m3u8#https://jingdian.qincai-zuida.com/20200508/6993_16197084/index.m3u8#https://yangguang.piaohua-kuyun.com/20180830/HAPwPzFE/index.m3u8#https://vip.okokbo.com/20180101/idaZzow7/index.m3u8
+*限制級戰警2,https://3.mhbobo.com/20200722/rphf0SFk/index.m3u8
+*限制級戰警3,https://v7.monidai.com/20190820/4ewJqh0r/index.m3u8
+*煞不住,https://c.mahua-kb.com/20200726/bCDtArsL/index.m3u8#https://video.buycar5.cn/20200920/kN7cG3jy/index.m3u8
+*征服情海,https://c.mahua-kb.com/20200729/Qk18YHhh/index.m3u8#https://c.mahua-kb.com/20200729/Qk18YHhh/index.m3u8
+*倩女幽魂1,https://v5.szjal.cn/20201028/rB9ByjMw/index.m3u8#https://video.buycar5.cn/20200701/0amqU6Yw/index.m3u8
+*倩女幽魂2,https://video.buycar5.cn/20200901/u8xKXGj3/index.m3u8#https://video.dious.cc/videos_90_1/v_19rrk60q58/index.m3u8
+*倩女幽魂3,https://video.buycar5.cn/20200901/cfX83n9K/index.m3u8
+*新倩女幽魂(2011),https://v4.szjal.cn/20200515/TuBCqoAP/index.m3u8
+*火星任務,https://vod4.buycar5.cn/20210319/U0vJltsE/index.m3u8
+*絕地救援,https://video.buycar5.cn/20200808/77A9wDwi/index.m3u8#https://c.mahua-kb.com/20200620/vQQUroPR/index.m3u8
+*大黃蜂,https://video.buycar5.cn/20200919/kUOoJWPo/index.m3u8#https://4.mhbobo.com/20190911/la6R8pke/index.m3u8
+*星際禁區2013,https://v4.szjal.cn/20190927/xo3zipEH/index.m3u8
+*愛在黎明破曉時(1995),https://v4.szjal.cn/20200705/UtiM2b6t/index.m3u8
+*愛在日落巴黎時(2004),https://v5.szjal.cn/20201214/vmWV9BGE/index.m3u8
+*凶兆(2012),https://vod.bunediy.com/20201111/q7yzfOLx/index.m3u8
+*凶兆2(2015),https://vod.bunediy.com/20200715/GBX676gk/index.m3u8
+*玩命快遞1,https://v3.szjal.cn/20190831/H53lQto5/index.m3u8
+*玩命快遞2,https://v5.szjal.cn/20200927/RoH52gwe/index.m3u8
+*玩命快遞3,https://vod3.buycar5.cn/20201216/rPUu6a81/index.m3u8
+*玩命快遞：肆意橫行,https://vod3.buycar5.cn/20201216/q83Fgt9L/index.m3u8
+*地獄怪客1,https://v3.szjal.cn/20200324/fgBvk7PV/index.m3u8
+*地獄怪客2,https://v7.monidai.com/20190821/reOuKBxd/index.m3u8
+*地獄怪客：血后的崛起,https://n1.szjal.cn/20210301/KMMToGkJ/index.m3u8
+*駭客任務1,https://v4.szjal.cn/20200704/4zEevc9r/index.m3u8
+*駭客任務2：重裝上陣,https://v7.monidai.com/20190908/xRnlR0Aj/index.m3u8
+*駭客任務3：最後戰役,https://v7.monidai.com/20190908/Yy4MGVtN/index.m3u8
+*魔鬼紅星(1988),https://video.buycar5.cn/20200701/EMImhhzF/index.m3u8
+*終極戰士1(1987),https://video.dious.cc/20200530/vVQtc9xY/index.m3u8
+*終極戰士2(1990),https://b2.szjal.cn/20190409/RqxfXD7M/index.m3u8
+*終極戰士團(2010),https://v3.szjal.cn/20190830/pxsLPumQ/index.m3u8
+萬惡城市1,https://leshi.cdn-zuyida.com/20171024/nCSPMLHM/index.m3u8#https://youku.com-l-youku.com/20190104/10736_7c43d597/index.m3u8
+*萬惡城市2：紅顏奪命,https://v4.szjal.cn/20191017/Aqht01Pi/index.m3u8
+阿達一族(2019),https://youku.cdn7-okzy.com/20191225/16376_ce6e29a8/index.m3u8#https://www.ziboshishen.com/20191226/Un8vbpSa/index.m3u8
+特洛伊：木馬屠城,https://cdn.605ziyuan.com/20180616/GmYQvYZj/index.m3u8
+班傑明的奇幻旅程,https://yj.yongjiu6.com/20190323/csbHzg9n/index.m3u8
+*全面啟動,https://v4.szjal.cn/20200510/8RloYNuU/index.m3u8
+詐騙女神,https://56.com-t-56.com/20190806/23953_dd3802fb/index.m3u8#https://2.mhbobo.com/20190820/uQFulSpM/index.m3u8
+黑幫追殺令,https://iqiyi.zuidameiju.com/20181026/3V7pYWDr/index.m3u8
+*國產凌凌漆,https://vod2.buycar5.cn/20201026/P1BbS73n/index.m3u8
+天生一對1998,http://videos.kkyun-iqiyi.com/20171111/8pPOyojf/index.m3u8
+百萬金臂,http://acfun.iqiyi-kuyun.com/20181001/JLRpuYjO/index.m3u8#http://leshi.cdn-zuyida.com/20180425/24190_774a8530/index.m3u8#https://www.zhuticlub.com:65/20190402/zXLOMvHV/index.m3u8
+盲探,https://youku.com-ok-sohu.com/20191115/20206_04dfff05/index.m3u8#https://v3.yongjiujiexi.com/20190501/0lVe2tqa/index.m3u8#http://yangguang.piaohua-kuyun.com/20181002/n3xSEQkg/index.m3u8
+傑遜王子戰群妖1963,https://www.821583.com/20190310/O6qdAJHN/index.m3u8
+第五元素,https://vip.okokbo.com/20171224/ywOjGGpA/index.m3u8#https://www.qzamfz.com/20190807/DM9aoB6E/index.m3u8
+星際之門1994,https://youku.com-qq.net/20190722/14075_3a1f1b27/index.m3u8
+虛擬偶像,https://haoa.haozuida.com/20180503/y5lsd04k/index.m3u8
+傑克：巨人戰紀,https://iqiyi.zuidameiju.com/20200403/14257_6170895b/index.m3u8#https://qiyi.mhyunbo.com/20191018/1CVVrU5T/index.m3u8#https://iqiyi.zuidameiju.com/20200403/14257_6170895b/index.m3u8?sign=20fd05365c23637fdbed4dba27490690
+總鋪師BD,https://qiyi.mhyunbo.com/20191016/kZlYJKqd/index.m3u8
+紅衣小女孩1,https://yushou.qitu-zuida.com/20180217/KdFOX9Ot/index.m3u8#https://d.mahua-kb.com/20200703/3m0rUTjx/index.m3u8#https://yushou.qitu-zuida.com/20180217/KdFOX9Ot/index.m3u8?sign=59f66c1966150894890e6ed6810bd9e3
+紅衣小女孩2,https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8#https://d.mahua-kb.com/20200703/AuUcVAnD/index.m3u8#https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8?sign=2127d3066214851b39f1b1f1206a88b3
+關鍵少數BD,https://yi.jingdianzuida.com/20191124/CxYkq9B7/index.m3u8#https://c.mahua-kb.com/20200629/Ot54GRMe/index.m3u8#https://yi.jingdianzuida.com/20191124/CxYkq9B7/index.m3u8?sign=ca81cd488dc4717fc21bacc10b010bfa5011969670c50aa53f1db1465ad72d9e3ad0c72f9a61f6f8e35fdce363a60413c30afa1b573c6e7293e45efde44bf755
+重返十七歲,https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8#https://youku.mhyunbo.com/20200127/t2iMddpc/index.m3u8#https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8?sign=10c182a72c8ac6adf6f53610f73640fc
+金牌警校軍1,https://bilibili.com-l-163.com/20181117/22642_08109ef7/index.m3u8
+金牌警校軍2,https://bilibili.com-l-163.com/20181117/22643_1a776003/index.m3u8
+金牌警校軍3,https://bilibili.com-l-163.com/20181117/22644_2723beca/index.m3u8
+金牌警校軍4,https://bilibili.com-l-163.com/20181117/22645_79018651/index.m3u8
+金牌警校軍5,https://bilibili.com-l-163.com/20181117/22646_9f7b71f7/index.m3u8
+金牌警校軍6,https://bilibili.com-l-163.com/20181117/22647_64e776a1/index.m3u8
+金牌警校軍7,https://bilibili.com-l-163.com/20181117/22648_1c958b96/index.m3u8
+龍門飛甲2011,https://youku.cdn7-okzy.com/20200421/18911_4ab82ce4/index.m3u8#https://youku.kuyun-leshi.com/20190225/kk89Buln/index.m3u8#
+王者之劍1982,https://video.kkyun-iqiyi.com/20181208/zq3gK7VO/index.m3u8#https://56.com-zx-56.com/20201006/20320_701922fc/index.m3u8
+兩個大太陽1985,https://video.kkyun-iqiyi.com/20180824/rPLVpkqj/index.m3u8#https://mhbobo.com/20191124/j9HoJR4r/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200926/14106_058c0db5/index.m3u8
+古墓奇兵1,https://haoa.haozuida.com/20180317/ICwBNwF3/index.m3u8#https://vs1.baduziyuan.com/20180307/L8zwVqgc/index.m3u8#https://vip.okokbo.com/20180118/zrkcj4Bh/index.m3u8
+古墓奇兵2,https://haoa.haozuida.com/20180317/ulmbbocS/index.m3u8#https://vip.okokbo.com/20180207/JXKteO3E/index.m3u8#https://haoa.haozuida.com/20180317/ulmbbocS/index.m3u8
+古墓奇兵：源起之戰,https://youku.cdn-tudou.com/20180602/6231_8565c545/index.m3u8#https://leshi.cdn-zuyida.com/20180531/27402_83c45193/index.m3u8
+機械姬,https://vs1.baduziyuan.com/20181004/THKhL6X0/index.m3u8#https://vs1.baduziyuan.com/20181004/THKhL6X0/index.m3u8#https://youku.com-youku.com/20180403/Xwe8qw2N/index.m3u8
+霹靂嬌娃1,https://yun.kubo-zy-youku.com/20180624/W5JI0NKw/index.m3u8#https://vip.okokbo.com/20180113/z6RjBkfE/index.m3u8
+霹靂嬌娃2,https://youku.cdn-56.com/20180329/RvrExN2n/index.m3u8#https://video.kkyun-iqiyi.com/20171001/644ZXfJR/index.m3u8
+比悲傷更悲傷的故事(2019),https://yun.kubozy-youku-163.com/20190517/13243_a32b65d8/index.m3u8
+*成人世界,https://vod4.buycar5.cn/20210426/bV6a2i3B/index.m3u8
+極樂世界HD,https://vip.okokbo.com/20171211/IdzRr9qc/index.m3u8
+愛.重來,https://iqiyi.zuidameiju.com/20200304/13178_db4ca114/index.m3u8
+自殺突擊隊,https://leshi.cdn-zuyida.com/20170905/xa9Grga7/index.m3u8#https://vs1.baduziyuan.com/20180106/Lm43OiYx/index.m3u8#https://youku.cdn-2-okzy.com/20180209/fkKt5AIH/index.m3u8
+私刑教育1,https://haoa.haozuida.com/20180514/zmZvrg9d/index.m3u8#https://youku.cdn7-okzy.com/20200525/19711_0e8c77d8/index.m3u8#https://v4.szjal.cn/20200311/iZN74bGm/index.m3u8
+私刑教育2,https://v2.szjal.cn/20190706/VWX23SOj/index.m3u8#https://sohu.com-v-sohu.com/20181031/13957_57d141eb/index.m3u8#https://iqiyi.zuidameiju.com/20181204/QNDVrKfL/index.m3u8
+神力女超人,https://v3.szjal.cn/20191102/cyqDGqDo/index.m3u8#https://haitang.kankan-kuyunzy.com/20191116/189_886788f2/index.m3u8#https://sohu.com-v-sohu.com/20170908/1GlPcj2V/index.m3u8
+靈異第六感,https://vip.okokbo.com/20180320/CqbtegfM/index.m3u8#https://bili.meijuzuida.com/20191017/21668_11862fdd/index.m3u8
+返校,https://mudan.iii-kuyunzy.com/20200119/9961_35bc65dc/index.m3u8#https://youku.cdn7-okzy.com/20200117/16696_31294d1a/index.m3u8#https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8
+鬼修女,https://video.kkyun-iqiyi.com/20181121/beILjkMd/index.m3u8#https://haoa.haozuida.com/20181121/GDB8xTg3/index.m3u8
+劍雨,https://youku.cdn-tudou.com/20180523/6093_786c9030/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200322/7078_962dae9c/index.m3u8#https://wuji.zhulong-zuida.com/20190726/2754_a5e5eefd/index.m3u8
+環太平洋1,https://video.kkyun-iqiyi.com/20180313/mXCRBdMq/index.m3u8#https://v3.szjal.cn/20191103/BpXKb3b3/index.m3u8
+環太平洋2,https://v5.szjal.cn/20200824/57ME0drB/index.m3u8#https://v3.szjal.cn/20191105/UheJjXbI/index.m3u8
+國家寶藏1,https://hair.jingpin88.com/20171027/AEqoQ9Il/index.m3u8#https://video.kkyun-iqiyi.com/20181210/bbiws5nQ/index.m3u8#https://zuixin.zuixinbo.com/20171107/8wQ8rUhK/index.m3u8
+*國家寶藏2,https://vod.bunediy.com/20210322/Hxn56Chw/index.m3u8
+愛情藥不藥,https://vs1.baduziyuan.com/20171125/gB9PfvGH/index.m3u8#https://vip.okokbo.com/20180111/P3pkdGRn/index.m3u8#https://gaoqing.bibi-baidu.com/20191013/11496_296be514/index.m3u8
+怒火狂飆,http://yushou.qitu-zuida.com/20180503/4597_63b377b4/index.m3u8
+*頭號玩家,https://vod.bunediy.com/20200411/AUosnfFm/index.m3u8
+鋼鐵擂台,https://sina.com-h-sina.com/20180816/10418_735b95d1/index.m3u8#https://yangguang.piaohua-kuyun.com/20180910/zQFJ2Eh1/index.m3u8#https://bili.meijuzuida.com/20191006/21597_6816cf09/index.m3u8
+雷神索爾1,https://videos.kkyun-iqiyi.com/20180107/QBtfTICv/index.m3u8
+雷神索爾2,https://videos.kkyun-iqiyi.com/20180107/MIzjbD19/index.m3u8#https://vip.okokbo.com/20171230/i9cKN1m9/index.m3u8
+雷神索爾3,https://yj.yongjiu6.com/20180121/YsLpWyXJ/index.m3u8#https://haoa.haozuida.com/20180121/SNnb3G93/index.m3u8#https://youku.cdn-56.com/20180121/NyAC6v4i/index.m3u8
+穿越時空愛上你,https://bilibili.com-l-163.com/20181101/17516_03917a90/index.m3u8#https://v4.szjal.cn/20200608/R1KCI0l9/index.m3u8
+明日邊界,https://vip.let-kuyun.com/20180627/r2dLe6r4/index.m3u8#https://vip.okokbo.com/20171220/AqxgBvUc/index.m3u8#https://v3.yongjiujiexi.com/20190331/2pE1S7sZ/index.m3u8
+死侍1,https://leshi.cdn-zuyida.com/20170829/t8yT9AWo/index.m3u8#https://v4.szjal.cn/20200819/ZZdbyJdu/index.m3u8#https://video.kkyun-iqiyi.com/20180521/1dOJntiZ/index.m3u8
+死侍2,https://youku.cdn-2-okzy.com/20190125/21294_36849822/index.m3u8#https://v2.yongjiujiexi.com/20180726/Owc9aIhb/index.m3u8#https://yushou.qitu-zuida.com/20180807/11155_e04059f2/index.m3u8
+與龍共舞,https://vip.let-kuyun.com/20190220/zNjcrBqQ/index.m3u8#https://sina.com-h-sina.com/20180730/2356_7d8d07e5/index.m3u8#https://yi.jingdianzuida.com/20190910/sk8Bw4fv/index.m3u8
+愛是您·愛是我,https://youku.com-kubozy.com/20180327/pECwMf1v/index.m3u8#https://vip.okokbo.com/20171217/CCPvkY1e/index.m3u8
+去年聖誕節,https://tudou.diediao-kuyun.com/20200204/11004_0e079ce8/index.m3u8#https://youku.cdn7-okzy.com/20200122/16796_3fef0dfb/index.m3u8#https://v3.szjal.cn/20200119/nNHZkb2g/index.m3u8
+畫皮1,https://videos.kkyun-iqiyi.com/20180109/UXnc303C/index.m3u8#https://youku.com-youku.com/20171228/F6OLOdSB/index.m3u8#https://yi.jingdianzuida.com/20190908/m0SFvWD3/index.m3u8
+畫皮2,https://videos.kkyun-iqiyi.com/20180109/YvDZ7BQd/index.m3u8#https://youku.cdn2-youku.com/20180424/10722_c7dc491f/index.m3u8#https://iqiyi.zuidameiju.com/20200406/14387_6afed670/index.m3u8
+天才的禮物,https://youku.com-t-youku.com/20190316/8844_d7327392/index.m3u8#https://videos.kkyun-iqiyi.com/20170926/0djCTF1W/index.m3u8
+肅殺刑者,https://youku.cdn5-okzy.com/20200510/23821_25b58a1d/index.m3u8#https://youku.cdn1-kubozy.com/20201025/4278_73ced415/index.m3u8
+終極警探4,https://vip.okokbo.com/20171227/wIqcr33b/index.m3u8#https://yushou.qitu-zuida.com/20180209/zfUn3NCc/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/7Qe8vptN/index.m3u8
+終極警探3,https://vip.okokbo.com/20171223/gcevj6nO/index.m3u8#https://wanmei.xiaocong-zuida.com/20180209/ZUs6mZZN/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/OY7mSJ4m/index.m3u8
+終極警探2,https://vip.okokbo.com/20171226/Yv1DeXsd/index.m3u8#https://wanmei.xiaocong-zuida.com/20180209/feaogOmw/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/NoHP6Mda/index.m3u8
+終極警探1,https://vip.okokbo.com/20171224/OQdIpbCJ/index.m3u8#https://yushou.qitu-zuida.com/20180209/KgEC5e2j/index.m3u8#https://v4.szjal.cn/20200522/5nCbPxYz/index.m3u8
+刺客聯盟,https://vip888.kuyun99.com/20180523/VyksiBnP/index.m3u8#https://leshi.cdn-zuyida.com/20180510/25996_d8a7ac88/index.m3u8
+搶救雷恩大兵,https://video.kkyun-iqiyi.com/20180820/IOZG5vDl/index.m3u8#https://vip.okokbo.com/20171213/GH1FE79D/index.m3u8#https://wanmei.xiaocong-zuida.com/20180724/UwB3slnN/index.m3u8
+一路玩到掛,https://youku.kuyun-leshi.com/20190225/grUbCqeV/index.m3u8#https://vip.okokbo.com/20171214/FTDigWJ1/index.m3u8#https://bili.meijuzuida.com/20191019/21680_a847eddb/index.m3u8
+回到未來3,https://yangguang.piaohua-kuyun.com/20180907/jgYkyKPN/index.m3u8#https://vip.okokbo.com/20171217/6HOxP8rF/index.m3u8
+回到未來2,https://yangguang.piaohua-kuyun.com/20180907/rQ001lKe/index.m3u8#https://vip.okokbo.com/20171218/qilpqMzS/index.m3u8
+回到未來1,https://yangguang.piaohua-kuyun.com/20180907/iRfVQKD2/index.m3u8#https://vip.okokbo.com/20171213/jX0wC5as/index.m3u8
+神機有毛病,https://guihua.feifei-kuyun.com/20200107/27870_ac24262e/index.m3u8
+MIB,https://wanmei.xiaocong-zuida.com/20171211/lSiREA1L/800kb/hls/index.m3u8
+MIB2,https://wanmei.xiaocong-zuida.com/20171211/lz5DaDdQ/index.m3u8#https://vip.okokbo.com/20171226/f6LBrBAU/index.m3u8
+MIB3,https://wanmei.xiaocong-zuida.com/20171211/Kgpqdiq8/index.m3u8#https://vip.okokbo.com/20171226/BCVylUdI/800kb/hls/index.m3u8
+MIB跨國行動,https://dapian.video-yongjiu.com/20190817/8028_8d664def/index.m3u8
+角頭1,https://iqiyi.zuidameiju.com/20180903/xOlFhh8E/index.m3u8#https://s3.135-cdn.com/2020/09/28/MeR8os47VXn56Ik3/index.m3u8
+角頭2,https://yong.yongjiu6.com/20180811/rRaJMu6A/index.m3u8#https://letv.com-v-letv.com/20180812/7212_0d609170/index.m3u8#https://cn2.zuidadianying.com/20180811/DgeS7Otq/index.m3u8
+神鬼傳奇3,https://yingxiong.qiling-yongjiu.com/20191031/12664_32986f52/index.m3u8#https://56.com-t-56.com/20190503/16829_81db7922/index.m3u8#https://dbx6.tyswmp.com/2020/05/06/tmLDos0k7YMlHRi4/index.m3u8
+神鬼傳奇2,https://vs1.baduziyuan.com/20180108/zFM2yywH/index.m3u8#https://mhyunbo.com/20191112/fvCLjTbq/index.m3u8
+神鬼傳奇1,https://vip.okokbo.com/20171226/mhd3aN1o/index.m3u8#https://vs1.baduziyuan.com/20180108/FAcZUztL/index.m3u8#https://bili.meijuzuida.com/20190225/5921_24ebe7e2/index.m3u8
+五路追殺令2,https://youku.cdn-tudou.com/20180427/5507_a433cca4/index.m3u8#https://yangguang.piaohua-kuyun.com/20180923/8tKY67e0/index.m3u8#https://you-cdn.maque-zuida.com/20200104/lPWiZBZW/index.m3u8
+五路追殺令1,https://vip.okokbo.com/20180224/tTfWS0x4/index.m3u8#https://video.kkyun-iqiyi.com/20180922/3itwT8WU/index.m3u8#https://you-cdn.maque-zuida.com/20200104/sp8cmdG7/index.m3u8
+賽道狂人,https://guihua.feifei-kuyun.com/20200106/27848_26fcaefc/index.m3u8#https://yingxiong.qiling-yongjiu.com/20200101/17207_ffda7d0f/index.m3u8#https://meng.wuyou-zuida.com/20200111/25283_0d1ac929/1000k/hls/index.m3u8
+全民超人,https://gaoqing.bibi-baidu.com/20190921/9338_072f905b/index.m3u8#https://sina.com-h-sina.com/20180808/6380_7c478159/index.m3u8#https://youku.kuyun-leshi.com/20190725/ay3hwkEZ/index.m3u8
+超危險特工2,https://iqiyi.zuidameiju.com/20200403/14228_53597c65/index.m3u8#https://zy.kubozy-360-baidu.com/20170902/8BBXu3iU/index.m3u8#https://ddppnew1.135-cdn.com/20190405/6qmktySx/950kb/hls/index.m3u8
+超危險特工1,https://youku.cdn5-okzy.com/20200129/12814_c94e0c5c/index.m3u8#https://videos.kkyun-iqiyi.com/20180111/yP1SoTnF/index.m3u8#https://iqiyi.zuidameiju.com/20200403/14231_5fe7c8d1/index.m3u8
+蜘蛛人：返校日,https://sohu.com-v-sohu.com/20171005/XHMWjGQI/index.m3u8#https://videos.kkyun-iqiyi.com/20171001/KSjH4H0D/index.m3u8#https://wuji.zhulong-zuida.com/20190912/7981_c0d98637/1000k/hls/index.m3u8
+蜘蛛人：離家日,https://dapian.video-yongjiu.com/20190912/11634_b1fcc590/index.m3u8#https://tianxian.piaohua-kuyun.com/20190911/3451_80479376/index.m3u8#https://dbx5.tyswmp.com/20191109/PpaFqUGer9EubyW4/index.m3u8
+*玩命關頭8,https://3.mhbobo.com/20190902/FOcvYUg9/index.m3u8
+*玩命關頭7,https://3.mhbobo.com/20190902/BhnefCZV/index.m3u8
+*玩命關頭6,https://3.mhbobo.com/20190902/QLQnXPXo/index.m3u8
+*玩命關頭5,https://video.buycar5.cn/20200920/Vfj2P7F5/index.m3u8
+*玩命關頭4,https://3.mhbobo.com/20190902/reDLbiJT/index.m3u8
+*玩命關頭3,https://3.mhbobo.com/20190902/YmFcSJY0/index.m3u8
+*玩命關頭2,https://3.mhbobo.com/20190902/yOXiAHEN/index.m3u8
+*玩命關頭1,https://video.buycar5.cn/20200918/yyLrALJF/index.m3u8
+*第一滴血5,https://youku.mhyunbo.com/20191124/OCyJWcEx/index.m3u8
+*第一滴血4,https://video.buycar5.cn/20200824/ph5Pzwrg/index.m3u8
+*第一滴血3,https://mhbobo.com/20191120/27X8Xwp6/index.m3u8
+*第一滴血2,https://mhbobo.com/20191120/mCWd3bk5/index.m3u8
+*第一滴血1,https://video.buycar5.cn/20200824/Dwheo7bD/index.m3u8
+*怒火特攻隊,https://video.buycar5.cn/20200903/tuPgSzUq/index.m3u8
+返校,https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8#https://mudan.iii-kuyunzy.com/20200119/9961_35bc65dc/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200118/1401_8ea73f9f/index.m3u8
+粽邪,https://bofang.jingpin88.com/20190221/sX6j1l1m/index.m3u8#https://cn2.zuidadianying.com/20190222/haKdCjfr/index.m3u8#https://135zyv6.xw0371.com/2019/02/24/07Ly2UbpYfUMHO5r/playlist.m3u8
+無雙,https://yj.yongjiu6.com/20190223/RQnWijGw/index.m3u8#https://yangguang.piaohua-kuyun.com/20181221/QnaPuOPS/index.m3u8#https://135zyv6.xw0371.com/2018/12/20/B2N2SUcOof0kaJqd/playlist.m3u8
+*殺手47,https://vod5.wenshibaowenbei.com/20210131/JAlevpzl/index.m3u8
+*殺手47-2007,https://vod5.wenshibaowenbei.com/20210131/0h8hUdz6/index.m3u8
+*絕地戰警1,https://c.mahua-kb.com/20200707/NWOzuKTN/index.m3u8
+*絕地戰警2,https://c.mahua-kb.com/20200622/c4N0HPw0/index.m3u8
+*絕地戰警3,https://mahua-kb.com/20200412/YTfl6bH7/index.m3u8#https://mahua-kb.com/20200412/YTfl6bH7/index.m3u8#https://c.mahua-kb.com/20200606/jUedyn8Q/index.m3u8#https://c.mahua-kb.com/20200606/jUedyn8Q/index.m3u8
+*史密斯任務,https://mhyunbo.com/20191112/FzonD0N9/index.m3u8
+*捍衛任務1,https://qiyi.mhyunbo.com/20191013/bQBMKTij/index.m3u8
+*捍衛任務2,https://mhkuaibo.com/20191212/h6oiOlXH/index.m3u8
+*捍衛任務3,https://2.mhbobo.com/20190812/oeVsAkP2/index.m3u8
+*阿拉丁,https://3.mhbobo.com/20190808/TH1zj40y/index.m3u8
+*靠譜歌王,https://3.mhbobo.com/20190915/6tzD8yPz/index.m3u8
+*大智若魚,https://vod2.buycar5.cn/20201021/eVl4h3pT/index.m3u8
+*機器戰警3,https://c.mahua-kb.com/20200628/exELv5il/index.m3u8
+*機器戰警2,https://d.mhkuaibo.com/20200402/61Rs2LOx/index.m3u8
+*機器戰警1,https://video.buycar5.cn/20200701/ceqibnMV/index.m3u8
+真愛繞圈圈,https://yushou.qitu-zuida.com/20180707/8939_9e4798ab/index.m3u8
+第六感生死緣,https://v5.jsyunbf.com/20200618/BXlmyev0/index.m3u8#https://meng.wuyou-zuida.com/20191225/24636_8197dc2b/index.m3u8
+真愛挑日子,https://zk1.603ee.com/2019/11/04/ERHbMlXprYC8jNkk/playlist.m3u8#https://tv.youkutv.cc/2019/11/04/oJasLdSjKSBk7Diw/playlist.m3u8
+愛情沒有終點,https://haoa.haozuida.com/20180726/87fCh0um/index.m3u8#https://www.yiyazx.com/20181117/cryPBOfc/index.m3u8
+生命中的美好缺憾,https://diaoshi.dehua-kuyun.com/20200725/9697_361b00d5/index.m3u8#https://tv2.youkutv.cc/2020/07/25/3A2GWhSGU4GzH2FQ/playlist.m3u8#https://v3.yongjiujiexi.com/20190331/YPyeYHcW/index.m3u8
+天使愛美麗,https://yi.jingdianzuida.com/20191122/Tposi1eL/index.m3u8#https://sina.com-h-sina.com/20180823/13086_b15d5a25/index.m3u8#https://haitang.kankan-kuyunzy.com/20200118/10379_95018597/index.m3u8
+贖罪,https://vip.okokbo.com/20171220/dtjEjRd9/index.m3u8#https://videos.kkyun-iqiyi.com/20180729/Ouwz6kTu/index.m3u8
+終極追殺令,https://v3.yongjiujiexi.com/20190425/3910ubHH/index.m3u8#https://youku.com-youku.net/20180703/16450_7b7d7fff/index.m3u8#https://youku.kuyun-leshi.com/20190221/39y27Lty/index.m3u8
+我的野蠻女友,https://vip.okokbo.com/20171217/pr5j42GI/index.m3u8#https://videos.kkyun-iqiyi.com/20180701/yUGbPMkl/index.m3u8#https://hair.jingpin88.com/20171105/dh1aPO7Q/index.m3u8
+鐵達尼,https://vs1.baduziyuan.com/20171125/sKE07vxj/index.m3u8#https://yiyi.55zuiday.com/20181127/vHfzc8R5/index.m3u8#https://video.suyunbo.tv/20171018/mMz3US3G/index.m3u8
+真愛挑日子,https://sohu.com-v-sohu.com/20180902/12313_08ed1a4c/index.m3u8#https://yun.kubo-zy-youku.com/20180907/JYPjgH1j/index.m3u8
+曼哈頓戀習曲,https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8#https://a.mhkuaibo.com/20200214/fX6Hr5db/index.m3u8#https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8?sign=36451f934903a84f55fa7b6ef8e47c8c
+我就要你好好的,https://feifei.feifeizuida.com/20190623/12695_3bffa71c/index.m3u8#https://a.mhkuaibo.com/20200211/uL28B0RY/index.m3u8#https://bilibili.com-l-163.com/20181117/22854_ebf65e66/index.m3u8
+情書,https://bilibili.com-l-163.com/20181017/14093_6b856ccd/index.m3u8#https://video.kkyun-iqiyi.com/20181018/qljUT7Gz/index.m3u8#https://zy.kubo-360-tudou.com/20180419/3387_13ed292f/index.m3u8
+真愛每一天,https://leshi.cdn-zuyida.com/20170923/1WA1Ma0s/index.m3u8?sign=6eb00f9f3a91e1caeb5df9d94a554f75#https://c.mahua-kb.com/20200615/pW1QQfdF/index.m3u8#https://leshi.cdn-zuyida.com/20170923/1WA1Ma0s/index.m3u8#
+PS我愛你,https://bilibili.com-l-163.com/20180925/6270_4271a37e/index.m3u8#https://s2.135-cdn.com/2020/06/01/YnsP4ltLz8KWpbRj/index.m3u8
+電子情書,https://vip.okokbo.com/20171230/k9EAJ1cW/index.m3u8#https://youku.kuyun-leshi.com/20190305/6WewBKNV/index.m3u8#https://b.mahua-kb.com/20200426/n0EVXwgx/index.m3u8
+K歌情人,https://iqiyi.zuidameiju.com/20200219/10863_4dd1f36b/index.m3u8#https://ddppnew1.135-cdn.com/20190624/HBmQdb1p/index.m3u8#https://tudou.com-l-tudou.com/20180411/8478_80a4aaa3/1000k/hls/index.m3u8
+媽媽咪呀,https://gaoqing.bibi-baidu.com/20191015/11634_95e9b8dc/index.m3u8#https://vip.okokbo.com/20171231/l8epIwwM/index.m3u8#https://yangguang.piaohua-kuyun.com/20180829/uHN6eliS/index.m3u8
+媽媽咪呀2,https://iqiyi.zuidameiju.com/20181008/FznXUMHH/index.m3u8#https://sohu.com-v-sohu.com/20181009/13379_92a4dafb/index.m3u8#https://video.kkyun-iqiyi.com/20181005/1clmrQ7D/index.m3u8
+捍衛戰士,https://you-cdn.maque-zuida.com/20191228/Qs96UCvE/index.m3u8#https://vip.okokbo.com/20171228/o9kiP9Bx/800kb/hls/index.m3u8#https://s1.135-cdn.com/20191225/kbIUmC6Q0S1vGgyO/index.m3u8
+紅衣小女孩,https://iqiyi.zuidameiju.com/20181010/GfOOFyg6/index.m3u8#https://youku.com-youku.net/20180710/18850_6e09c653/index.m3u8#https://zy.baidu-360-yyy-kubo.com/20171230/p37D8Hz5/800kb/hls/index.m3u8
+鋼鐵人1,https://v3.yongjiujiexi.com/ppvod/5753C20AA74AA51F9934767D48991A1B.m3u8#https://youku.cdn-56.com/20180131/cM3ffbbg/800kb/hls/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190306/4358_65177e7a/index.m3u8
+鋼鐵人2,https://v3.yongjiujiexi.com/20190213/gLQqSo9k/index.m3u8#https://youku.cdn-56.com/20180131/BXxEVRgn/index.m3u8#https://cn2.zuidadianying.com/20180414/mdFTPx94/800kb/hls/index.m3u8
+鋼鐵人3,https://v3.yongjiujiexi.com/20190213/abMMzbUr/index.m3u8#https://s2.135-cdn.com/20200317/oaXMO2Nz0W6fwdvc/index.m3u8
+復仇者聯盟1,https://v3.yongjiujiexi.com/20190123/CdR4D6jr/index.m3u8#https://vip.okokbo.com/20180316/hH8msi8C/index.m3u8#https://s1.135-cdn.com/20191104/eVsBvuXwZ2rlLDq6/index.m3u8
+復仇者聯盟2：奧創紀元,https://yj.yongjiu6.com/ppvod/696A3E26AE9C90F1BF7BD10D4E487B6F.m3u8#https://cn2.zuidadianying.com/20180415/0CTAPRlT/index.m3u8
+復仇者聯盟3：無限戰爭,https://video.kkyun-iqiyi.com/20180731/OzarMeQo/index.m3u8#https://zy.baidu-360-yyy-kubo.com/20180801/HA6SGy4L/index.m3u8
+復仇者聯盟4：終局之戰,https://dapian.video-yongjiu.com/20190728/5213_72cd6808/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190728/16820_302c7858/index.m3u8#https://bili.meijuzuida.com/20190731/21094_0a89b649/1000k/hls/index.m3u8
+末日之戰,https://videos.kkyun-iqiyi.com/20180107/qWYQDiLc/index.m3u8#https://leshi.cdn-zuyida.com/20180521/26555_c7ac0317/index.m3u8#https://yuanda.meinv-kuyun.com/20200724/10599_57be7987/1000k/hls/index.m3u8
+城市獵人:新宿PRIVATE EYES,https://yingxiong.qiling-yongjiu.com/20191030/12637_4d25b60a/index.m3u8#https://bili.meijuzuida.com/20191030/21774_1c0e6b33/index.m3u8#https://youku.cdn7-okzy.com/20191030/15568_f5cc097c/index.m3u8
+牠2,https://dapian.video-yongjiu.com/20191013/18844_8445f997/index.m3u8#https://youku.cdn7-okzy.com/20191119/15837_016497d2/index.m3u8#https://tianxian.piaohua-kuyun.com/20191011/6068_e7c1fed9/index.m3u8
+牠,https://v2.yongjiujiexi.com/20171029/1a9Hnede/1000kb/hls/index.m3u8#https://yiyi.55zuiday.com/20171213/EubaXIAL/800kb/hls/index.m3u8#https://vs1.baduziyuan.com/20171121/TDwklPgY/index.m3u8
+高年級實習生,https://youku.cdn-tudou.com/20180428/5561_d3328ecd/index.m3u8#https://video.kkyun-iqiyi.com/ppvod/12F69CB7EE9371F25F148DFCF8B1FCEF.m3u8#https://yiyi.55zuiday.com/20171210/MrPGi6dW/800kb/hls/index.m3u8
+黑魔女1,https://iqiyi.zuidameiju.com/20180924/lz8BDpBW/800kb/hls/index.m3u8#https://vip.okokbo.com/20180103/Zvj8d3i2/index.m3u8#https://youku.kuyun-leshi.com/20190629/e3F5knCS/index.m3u8
+黑魔女2,https://youku.cdn7-okzy.com/20191231/16473_a7b384ea/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200105/247_3701ff45/index.m3u8#https://youku.cdn7-okzy.com/20191231/16473_a7b384ea/index.m3u8
+達文西密碼,https://vip.okokbo.com/20180224/9vbRU3LE/index.m3u8#https://vip.let-kuyun.com/20180902/fiZOyLuy/index.m3u8#https://c.mahua-kb.com/20200619/8oY76toP/index.m3u8
+達文西密碼2加長版,https://vip888.kuyun99.com/20180712/QdM2UgSE/index.m3u8
+達文西密碼2,https://iqiyi.zuidameiju.com/20200318/13691_70da39ac/index.m3u8#https://vip.okokbo.com/20180107/rdVgmHyy/index.m3u8#https://vip.let-kuyun.com/20180902/ooHSf7E1/index.m3u8
+達文西密碼3,https://56.com-t-56.com/20190412/13686_f5f918f6/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190407/7707_a4cf348b/index.m3u8#https://zy.zxziyuan-yun.com/20180215/sweJzXBm/index.m3u8
+*不可能的任務1,https://vod3.buycar5.cn/20201112/AJzkXRKd/index.m3u8#https://vod.bunediy.com/20200502/XQLlxzBj/index.m3u8
+*不可能的任務2,https://vod.bunediy.com/20200502/q8QQd3A7/index.m3u8#https://cn2.zuidadianying.com/20180415/CGj6HONJ/index.m3u8
+*不可能的任務3,https://vod3.buycar5.cn/20201112/pKdRJ5In/index.m3u8
+*不可能的任務4,https://qiyi.mhyunbo.com/20191022/I4hpkyc8/index.m3u8
+*不可能的任務5,https://mhbobo.com/20191202/X4f8J62Z/index.m3u8
+*不可能的任務6,https://vod3.buycar5.cn/20201114/zPSs9Ha7/index.m3u8
+五虎將之決裂,https://yi.jingdianzuida.com/20190910/loraSSLg/index.m3u8#https://videos.kkyun-iqiyi.com/20180724/ir1ESva1/index.m3u8#https://d.mhkuaibo.com/20200417/9J6lgNbP/index.m3u8
+買兇拍人,https://v3.yongjiujiexi.com/20190523/IxSb4OWE/index.m3u8#https://ifeng.com-v-ifeng.com/20180714/19831_b90b56f0/index.m3u8#https://acfun.iqiyi-kuyun.com/ppvod/8879DF698C371B4D709064F414747E00.m3u8
+專釣大鱷,https://iqiyi.cdn8-okzy.com/20200410/7483_65b7bd13/index.m3u8#https://yangguang.piaohua-kuyun.com/20181206/rPhyqu7L/index.m3u8
+至尊無上,https://56.com-ok-bilibili.com/20190926/31779_6fb48e1b/index.m3u8#https://video.kkyun-iqiyi.com/20180822/o1wM2Oaj/index.m3u8#https://b.mahua-kb.com/20200525/snklfkZW/index.m3u8
+至尊無上2,https://haitang.kankan-kuyunzy.com/20200317/18439_16d47c51/index.m3u8#https://yi.jingdianzuida.com/20190910/KIRrgsi5/index.m3u8
+
+
 港澳,#genre#
 $c_start🍌港澳🍌$c_end
 翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#mitv://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
@@ -513,24 +661,6 @@ CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea884e3f555332398a0#mit
 中華美食頻道,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45#mitv://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
 HK 06,p2p://fccseuro.pvbox.live:18912/5b14092a000dc9218764286074e1c13e#mitv://fccsovh.pvbox.live:18912/5b14092a000dc9218764286074e1c13e
 香港開電視,p2p://fccseuro.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2#mitv://54.39.118.88:18912/5b140a990002d1a89cac9e13b5b361a2
-港台电视31,mitv://ns2.hellotvvod.com:9906/73e8309e52ce4cd799aab1ca0d32a9bb
-港台電視32,mitv://ns2.hellotvvod.com:9906/663f33f3bfb843d68131319e81252421
-香港開電視,mitv://ns2.hellotvvod.com:9906/b82ce916e73b43a8b719a96d27e3f95d
-﻿翡翠台(備),mitv://ns2.hellotvvod.com:9906/1a51b594af304a33a80481b72636838d
-J2,mitv://ns2.hellotvvod.com:9906/8b62847fce6b49a3bfd392c2b7bd9190
-明珠台,mitv://ns2.hellotvvod.com:9906/0c101d6de3174c58938110aad390498d
-ViuTVsix,mitv://ns2.hellotvvod.com:9906/72ec0eb7ddfc49abab1c0a8acdd47eae
-ViuTV,mitv://ns2.hellotvvod.com:9906/b6a8e327763640239f365c090d005c23
-鳳凰中文台,mitv://ns2.hellotvvod.com:9906/0ab96e0a35da4297aac7e8a0c6c07eed
-鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/5a8c5ccb75094cf4b01007a76dbd9eba
-鳳凰香港台,mitv://ns2.hellotvvod.com:9906/1644e2f9e88f4f5ba2db5e7de8ca8610
-TVB 星河,mitv://ns2.hellotvvod.com:9906/40383ac40cea445dba23c71db9dd4fe2
-陽光衛視,mitv://ns2.hellotvvod.com:9906/c1929e501e0b4490a0371a0b3bbb9095
-澳門-MACAU,mitv://ns2.hellotvvod.com:9906/f9dab96cf18b4098a54302cdad6297c0
-澳門蓮花,mitv://ns2.hellotvvod.com:9906/ed907783ebef4e2196ec943bccc482ef
-now直播台,mitv://ns2.hellotvvod.com:9906/41b1f9988a394f2f83c19fdee4306d5d
-HKC綜合娛樂台,mitv://ns2.hellotvvod.com:9906/998d83e070944fb5840d3129f9dbc705
-翡翠台,mitv://ns2.hellotvvod.com:9906/813aa2c9cf5f4cb6826c36d20873ff33
 TV5 Monde,p5p://91.189.184.194:9906/6046414f0008aa040882014b96694a71.ts
 CNN Internationa,p5p://91.189.184.194:9906/604641f8000e2252088496d9f8a5ad44.ts
 BBC WORLD NEWS,p5p://91.189.184.194:9906/60464299000eba8708870be862b68160.ts
@@ -671,42 +801,6 @@ Astro AEC,p5p://198.255.106.42:16871/5ebce360000578b04d059fff4c2e3e3b
 Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
 Astro AOD,p5p://198.255.106.42:16871/5f2c09ae00029cc4147efda7dcc27dfc
 Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-泰國,#genre#
-$c_start🍌泰國🍌$c_end
-Channel 5,mitv://ns2.hellotvvod.com:9906/68cd65ac3b664482905a99c25892c754
-NBT,mitv://ns2.hellotvvod.com:9906/57e2dcbfc47646499fd18cacdbdda47f
-Voice TV,mitv://ns2.hellotvvod.com:9906/0e5e4125c0834af0a9ba1c29261f2961
-Nation TV,mitv://ns2.hellotvvod.com:9906/e31859e9d59243cda93f0b7fe634e618
-Workpoint TV,mitv://ns2.hellotvvod.com:9906/a35d9fd1fbdb44c4adf8c2f3bafbbe7e
-true4U,mitv://ns2.hellotvvod.com:9906/202cb9365f6540e4b4c7490d0b620c54
-GMM 25,mitv://ns2.hellotvvod.com:9906/837f6cbf249040489d894c159722138d
-Channel 8,mitv://ns2.hellotvvod.com:9906/f21284d6711048d1a01d465b47337111
-Mono 29,mitv://ns2.hellotvvod.com:9906/100cfba9a47f4933a2e31dd5d92a25d4
-MCOT,mitv://ns2.hellotvvod.com:9906/21f5517ea5f743f5851ef7755538dc78
-ONE,mitv://ns2.hellotvvod.com:9906/214509653aba49e780976279741b996a
-Thairath TV,mitv://ns2.hellotvvod.com:9906/b9166cd42ecf4c5886e4e90c9817e8ab
-Channel 3,mitv://ns2.hellotvvod.com:9906/4d43e9a4b09341d8816a27da140ef1b5
-Amarin TV,mitv://ns2.hellotvvod.com:9906/910f112840e043ef900573d019c6d17f
-Channel 7,mitv://ns2.hellotvvod.com:9906/b101fd3be37e451281e062efc5768583
-PPTV,mitv://ns2.hellotvvod.com:9906/d69d375705204f3a8ea658450a2719c8
-Boomerang,mitv://ns2.hellotvvod.com:9906/1b95d6cc9f5947a2af7d4e7fb8fed822
-Jatingja,mitv://ns2.hellotvvod.com:9906/0cc674b384484d3dae8e6632c248a9b0
-Toonee,mitv://ns2.hellotvvod.com:9906/fa3ea7c2672e43519fa45e306cfed7b9
-Thai Parliament TV,mitv://ns2.hellotvvod.com:9906/0c5adb27865c439682aef9b836b967b0
-Thai PBS,mitv://ns2.hellotvvod.com:9906/9df3296a6ce44b79b880f20738282e78
-News 1,mitv://ns2.hellotvvod.com:9906/22123ee76da34870b62aff545763099f
-M Channel,mitv://ns2.hellotvvod.com:9906/625258a1f38c4536bee6dd3b21ea4341
-Fox Thai,mitv://ns2.hellotvvod.com:9906/2d245190adee4a89be26a6da9dad67ce
-Zee Nung,mitv://ns2.hellotvvod.com:9906/2f4b7d9f76c94559bd6f2ff760c3441e
-JKN,mitv://ns2.hellotvvod.com:9906/908658d02d9f4445a06a7c4de2ddec77
-Lao Star,mitv://ns2.hellotvvod.com:9906/50c37837ff494456aeba386adb300e5b
-Channel 4050,mitv://ns2.hellotvvod.com:9906/5440800020854002ab42dd3fdea8472a
-TVB Thai,mitv://ns2.hellotvvod.com:9906/b818f11a03d84d6b89c334137a64690f
-Bluesky,mitv://ns2.hellotvvod.com:9906/4fb25c8dcce44fefa8e2f19b5351f08a
-Top News,mitv://ns2.hellotvvod.com:9906/a2f9f59eaf0649ff86a9c03270ded976
-GMA,mitv://ns2.hellotvvod.com:9906/e89b2d7b54794ebaaedc30240ca8cf93
-TV5,mitv://ns2.hellotvvod.com:9906/06d63640036c455b879a122480668d2d
-Cinema One,mitv://ns2.hellotvvod.com:9906/287da61e51594145ad5cb83025b72dd3
 新加坡,#genre#
 $c_start🍌新加坡🍌$c_end
 新加坡 5,p5p://198.255.106.42:16871/5f48befd0008c5702413bdf1cb4c3d16
@@ -725,14 +819,6 @@ TV7,p5p://198.255.106.42:16871/5f48c19b00027fd5241df5869244f0e9
 TV7,p5p://0198.02686.cc:16871/5f48c19b00027fd5241df5869244f0e9
 TV8,p5p://198.255.106.42:16871/5f48c2d5000a35e32422c2101c0f6be3
 TV8,p5p://0198.02686.cc:16871/5f48c2d5000a35e32422c2101c0f6be3
-Mediacorp 5,mitv://ns2.hellotvvod.com:9906/b7f7bbc57b3d4e6a8d49e85f819326db
-Mediacorp 8,mitv://ns2.hellotvvod.com:9906/eff7e3b2745648b3af59ca51f3b226f5
-Suria,mitv://ns2.hellotvvod.com:9906/acb88ed498764a9b9e26e264faeee7d2
-Vasantham,mitv://ns2.hellotvvod.com:9906/9b6927cd86a44ffc89de640772320784
-Mediacorp U,mitv://ns2.hellotvvod.com:9906/43c9f5bda75a4b658307635a55b8b5d1
-GEM,mitv://ns2.hellotvvod.com:9906/5ed9bfbf5a754aa5bd522fcdca303eae
-Horse Racing 89,mitv://ns2.hellotvvod.com:9906/a6f505d6403541338d4474242171d6ea
-東森亞洲衛視,mitv://ns2.hellotvvod.com:9906/51c36a40e7394bd3b5cfb66c46a84f0e
 日本,#genre#
 $c_start🍌日本🍌$c_end
 TOKYO MX1,p2p://fccseuro.pvbox.live:18912/5f9f8bc00000f7c6332240ee6e2b503d#mitv://fccsovh.pvbox.live:18912/5f9f8bc00000f7c6332240ee6e2b503d
@@ -761,42 +847,6 @@ BS-TBS,p2p://fccseuro.pvbox.live:18912/5ef1e4a200046fc58cce17607d984b54#mitv://f
 BS朝日,p2p://fccseuro.pvbox.live:18912/5ef1e4a3000cc7dd8cce1d6b5f2224d9#mitv://fccsovh.pvbox.live:18912/5ef1e4a3000cc7dd8cce1d6b5f2224d9
 Golf,p2p://fccseuro.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a#mitv://fccsovh.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a
 WOWOW-Prime,p2p://fccseuro.pvbox.live:18912/5ef1e4a6000934438cce283966956ca7#mitv://fccsovh.pvbox.live:18912/5ef1e4a6000934438cce283966956ca7
-NHK-G综合,mitv://ns2.hellotvvod.com:9906/c25b8f503cdd489eb86242c6e2f2c6b7
-NHK-E教育,mitv://ns2.hellotvvod.com:9906/c01026df83d447e79141043ddb1079e8
-日本テレビ,mitv://ns2.hellotvvod.com:9906/ddd2da7a5e0d4da0bdb602456ae64c1d
-TBSテレビ,mitv://ns2.hellotvvod.com:9906/18f2cb797b0f45d699f9bd84ecc658d5
-テレビ東京,mitv://ns2.hellotvvod.com:9906/e3253bc8b5f442ad8013ae885eea9160
-フジテレビ,mitv://ns2.hellotvvod.com:9906/b266f4567ff843d4861b48caa96e1027
-読売テレビ,mitv://ns2.hellotvvod.com:9906/553ce206990349038d748367b4234b0d
-関西テレビ,mitv://ns2.hellotvvod.com:9906/259198dde6e841a7a5c2a5a0c5f5d8fc
-abc朝日,mitv://ns2.hellotvvod.com:9906/e60558496d4e427881c1afe05e880c32
-毎日放送,mitv://ns2.hellotvvod.com:9906/d57dd16835e345058e5e92c981952dd0
-朝日放送,mitv://ns2.hellotvvod.com:9906/4fd4a7a7de494d109b6d1412817e05d4
-テレビ大阪,mitv://ns2.hellotvvod.com:9906/11fff7250a19487c8850c1d46045e8de
-サンテレビ,mitv://ns2.hellotvvod.com:9906/db17909091f44d6eb144cc9e307e8adc
-BS-1,mitv://ns2.hellotvvod.com:9906/127658178fa64ff393523964df3d866c
-BSプレミアム,mitv://ns2.hellotvvod.com:9906/2e2b5c7a16d34ddb876cef09ac8b5a73
-BS日テレ,mitv://ns2.hellotvvod.com:9906/435350cdf185474fbcf759bb547647b8
-BS朝日,mitv://ns2.hellotvvod.com:9906/bcd48331fc0d4ed2b88a86eb078c3566
-BS-TBS,mitv://ns2.hellotvvod.com:9906/b0b8f2b6882a4035aac467cbfebade87
-BSジャパン,mitv://ns2.hellotvvod.com:9906/87cab7e182b04ef2a28e6f25c8d47075
-BSフジ,mitv://ns2.hellotvvod.com:9906/19d1a4cfdbf14fd48c25a6d991895f77
-WOWOWプライム,mitv://ns2.hellotvvod.com:9906/d881225a24644b3f961ce87832c8147b
-WOWOWライブ,mitv://ns2.hellotvvod.com:9906/c30df6c2a8824dfe8c14cc7ca6ad63ca
-WOWOWシネマ,mitv://ns2.hellotvvod.com:9906/9b80cc430dc848268bdc1a7171d19efe
-スター・チャンネル1,mitv://ns2.hellotvvod.com:9906/55bac04b6da84e4e84dc5856f4a5dbc0
-スター・チャンネル2,mitv://ns2.hellotvvod.com:9906/bdef1d54756d40eb916b5ee8dbcfe4c1
-スター・チャンネル3,mitv://ns2.hellotvvod.com:9906/e63c082d9f1e44048fb7be1906a4d7b9
-BSアニマックス,mitv://ns2.hellotvvod.com:9906/ea0dfdd7f372461497611b211b224418
-日テレG+ HD,mitv://ns2.hellotvvod.com:9906/b7b0f4da83d440c7a23906a1d60fd5db
-ゴルフネットワークHD,mitv://ns2.hellotvvod.com:9906/f4303a1b2c984b84b4802fbd048f70b4
-時代劇専門チャンネル,mitv://ns2.hellotvvod.com:9906/44a1b1042a8b40d5a5844b4f35516fb8
-Music Japan TV,mitv://ns2.hellotvvod.com:9906/086782c160e94d339fe251fb506d7070
-キッズステーションHD,mitv://ns2.hellotvvod.com:9906/85ae4ef9f3ad4ddda9ccee9f329fbf61
-ディスカバリーチャンネル,mitv://ns2.hellotvvod.com:9906/15f7a3fd11814cc5aa95b023ba59abab
-ナショナル ジオグラフィッ,mitv://ns2.hellotvvod.com:9906/5c2e12e101a64a7c99170f0bdde9b086
-日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/231f1d56d4f94eb4aed320a46fd967db
-Cartoon Network,mitv://ns2.hellotvvod.com:9906/21ff877292f44a8dad606c9525b49acf
 ＢＳ釣りビジョン,p5p://91.189.184.194:9906/604402870001f71c099cad43e96233b3.ts 
 テレビ東京,p5p://91.189.184.194:9906/606ad68b000227aa0209d99e10b32383.ts
 WOWOWプライム,p5p://91.189.184.194:9906/606ad2f200054abe01fbccc48b614ffb.ts
@@ -865,25 +915,6 @@ mbc every 1,p2p://fccseuro.pvbox.live:18912/5f9f844b00033672330520827d54404e#mit
 mbc drama,p2p://fccseuro.pvbox.live:18912/5f9f844b000e6b2e330523604cd8528b#mitv://fccsovh.pvbox.live:18912/5f9f844b000e6b2e330523604cd8528b
 mbc m,p2p://fccseuro.pvbox.live:18912/5f9f844c000a5d493305263f3f364be6#mitv://fccsovh.pvbox.live:18912/5f9f844c000a5d493305263f3f364be6
 mbc on,p2p://fccseuro.pvbox.live:18912/5f9f844d000612ce3305290d0c723481#mitv://fccsovh.pvbox.live:18912/5f9f844d000612ce3305290d0c723481
-KBS1,mitv://ns2.hellotvvod.com:9906/e913abdb00d147b091e5004cb3111bc3
-KBS2,mitv://ns2.hellotvvod.com:9906/1ba1cbe0ab28493c8b1d97d98de4546f
-KBS Drama,mitv://ns2.hellotvvod.com:9906/99e63ec4de964cb793801d81c085bca5
-KBS Joy,mitv://ns2.hellotvvod.com:9906/a506552dd973455a9bc75fbda55088a2
-SBS,mitv://ns2.hellotvvod.com:9906/da823cc68fe14c23a0ce239980893136
-SBS Plus,mitv://ns2.hellotvvod.com:9906/cc21d07f62db4d8db45f1a7ebbf6e6f2
-JTBC,mitv://ns2.hellotvvod.com:9906/3b274fe1b89f44dda2786eae1de710fd
-EBS,mitv://ns2.hellotvvod.com:9906/1000a77a7d654c7f8e352c8f896545bf
-YTN,mitv://ns2.hellotvvod.com:9906/31db84f7d4d14231962f0df1cce4bb81
-YTN SCIENCE,mitv://ns2.hellotvvod.com:9906/2814527ba23f4ea8a67afabab6fb4b1e
-OCN,mitv://ns2.hellotvvod.com:9906/449ad7c7d4c3496dade1f7e0cab9bac2
-OCN Movies,mitv://ns2.hellotvvod.com:9906/86bb0ef964ce485292d406a6e6df3b9c
-CBS,mitv://ns2.hellotvvod.com:9906/0661e4cf732d4e4387f91fc308c49347
-MBC,mitv://ns2.hellotvvod.com:9906/3dd8c54a8c8f4bb083aa258777b1ac14
-MBC every1,mitv://ns2.hellotvvod.com:9906/e0d4aecb6f3242409716520e9c3abb11
-Tooniverse,mitv://ns2.hellotvvod.com:9906/c4dc1f3af3324b349b68960403464f11
-SPOTV,mitv://ns2.hellotvvod.com:9906/ed398b11a64d448cbf8e9fbc57a78cdc
-SPOTV 2,mitv://ns2.hellotvvod.com:9906/f52accfb16854c85a8f8febb8761dfef
-JTBC GOLF,mitv://ns2.hellotvvod.com:9906/b1e531052564494ba811c2a6d4482763
 CHANNEL A,p5p://192.187.100.162:16868/5e01be660008bad504b4a4cdf0688418.ts
 Disney Junior,p5p://192.187.100.162:16868/5e01bfd4000e2fbe04ba3be3cc996a3b.ts
 inet,p5p://192.187.100.162:16868/5e01bf9b0000c8ac04b959ccd9ae27f2.ts
@@ -962,45 +993,6 @@ AWANI,p2p://fccseuro.pvbox.live:18912/5b20e39a000181f94a06ad4a052d46d8#mitv://fc
 WARNA,p2p://fccseuro.pvbox.live:18912/5b20e39a0008a8fd4a06af1f090d2294#mitv://fccsovh.pvbox.live:18912/5b20e39a0008a8fd4a06af1f090d2294
 RIA,p2p://fccseuro.pvbox.live:18912/5b20e39a000acf0b4a06afab17233314#mitv://fccsovh.pvbox.live:18912/5b20e39a000acf0b4a06afab17233314
 PRIMA,p2p://fccseuro.pvbox.live:18912/5b20e39a000cb67e4a06b02864367b1e#mitv://fccsovh.pvbox.live:18912/5b20e39a000cb67e4a06b02864367b1e
-TV1,mitv://ns2.hellotvvod.com:9906/db987e97fd764e1796d8f9752f716f97
-TV2,mitv://ns2.hellotvvod.com:9906/e5d456509bc74c4a85043ec63fa35185
-TV3,mitv://ns2.hellotvvod.com:9906/3c467a74c1da444fa03f695bda52c8fe
-NTV7,mitv://ns2.hellotvvod.com:9906/5c98169bc832407fbf7070aff180baff
-8TV,mitv://ns2.hellotvvod.com:9906/1635d757ada74ed39a8e9f273f63d7a2
-TV9,mitv://ns2.hellotvvod.com:9906/a6ff6917bc7b45aaab2484aa51c3b814
-Astro Ria HD,mitv://ns2.hellotvvod.com:9906/23b27505bfae498cbbf833c9c01baebe
-Astro Prima HD,mitv://ns2.hellotvvod.com:9906/18cbc668779f4e97b5dbf66016e08387
-Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/f752ffe254504624bebe5ed22ee0dd08
-Astro Warna HD,mitv://ns2.hellotvvod.com:9906/2f24b8e5c8aa462db03aaa92da378014
-Astro Citra HD,mitv://ns2.hellotvvod.com:9906/333754bce6984be5bc583173060cb78d
-Naura HD,mitv://ns2.hellotvvod.com:9906/a33f0952269a4188b030b152dd78ce82
-Astro Rania HD,mitv://ns2.hellotvvod.com:9906/13def2b2e7b7493195aec5d2d69a5cde
-Astro Aura HD,mitv://ns2.hellotvvod.com:9906/d194322269834e3fbdcd28e986e88a8c
-Al-Hijrah,mitv://ns2.hellotvvod.com:9906/f31fd90628b4450a956ddfbaa6685ee3
-TV Okey,mitv://ns2.hellotvvod.com:9906/e2c7ff0e946646fbb71d4172e348fb3b
-SUN TV,mitv://ns2.hellotvvod.com:9906/1968e42ea55647a18f5283541baba648
-愛奇藝,mitv://ns2.hellotvvod.com:9906/8c6c581df5324924b66c20bcc36f966c
-Astro AEC(備),mitv://ns2.hellotvvod.com:9906/b2939267aab746a2bed581f21230646f
-Astro雙星,mitv://ns2.hellotvvod.com:9906/a2ccef03816a4b15baad4faa908342d0
-Astro全佳,mitv://ns2.hellotvvod.com:9906/fcdf25d96c7f4e0486f1078585bf1da0
-翡翠台(華麗台),mitv://ns2.hellotvvod.com:9906/618fd04ad98d4d629c1d998abb9d2f1c
-Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/304217da073c4252be40bbfd3497d5b3
-中天亞洲台,mitv://ns2.hellotvvod.com:9906/541276e9716c4897ac5ad439f4aa7b4f
-Astro歡喜台,mitv://ns2.hellotvvod.com:9906/b0d8ebd2602f4918828342d9b5efe5dc
-KBS World,mitv://ns2.hellotvvod.com:9906/a98e54a77bf3476995f7e99113d0cf57
-ONE,mitv://ns2.hellotvvod.com:9906/2fae108d89a44725873db17ce65c8b4d
-Oh!K,mitv://ns2.hellotvvod.com:9906/3cc3492ef6234e4cb39c601cb8baf415
-Astro Awani,mitv://ns2.hellotvvod.com:9906/dd8ed4ecbe444ad18485f53fb06ed925
-BERNAMA,mitv://ns2.hellotvvod.com:9906/07e73c01097e4ba9941645e605196ed5
-AXN亞洲,mitv://ns2.hellotvvod.com:9906/178332c7e49742c79f7174900b3eacf1
-KIX,mitv://ns2.hellotvvod.com:9906/64d7abf2e25a4981be34a05271851486
-tvN,mitv://ns2.hellotvvod.com:9906/d62ff866208142579b4feb4b35950700
-Drama Sangat,mitv://ns2.hellotvvod.com:9906/60f1543d2c5c43a89451f619edf550bd
-Berita RTM,mitv://ns2.hellotvvod.com:9906/c699b702ac45406b91758f6612b65baa
-Astro AEC,mitv://ns2.hellotvvod.com:9906/94319ed5921349a0ab1b0bba64ba9ea7
-Awesome TV,mitv://ns2.hellotvvod.com:9906/ecf0c97ff9c640798570017629bb764c
-ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/20ee8d5772ee43069a3c4d2ffcd2d77b
-Colors Tamil,mitv://ns2.hellotvvod.com:9906/000a7c9139034afa8f75e1421368a005
 印度,#genre#
 $c_start🍌印度🍌$c_end
 Zee TV HD,p2p://fccseuro.pvbox.live:18912/5d720289000accccd9d792bec1461ddb#mitv://fccsovh.pvbox.live:18912/5d720289000accccd9d792bec1461ddb
@@ -1136,12 +1128,6 @@ UTV,p2p://fccseuro.pvbox.live:18912/5f1004d60009759a027bc9c877fa7a15#mitv://fccs
 CNN Indonesia,p2p://fccseuro.pvbox.live:18912/5f1004c1000d4674027b78ba36495b36#mitv://fccsovh.pvbox.live:18912/5f1004c1000d4674027b78ba36495b36
 BeritaSatu,p2p://fccseuro.pvbox.live:18912/5f1004ac000d09a1027b26a267b333ff#mitv://fccsovh.pvbox.live:18912/5f1004ac000d09a1027b26a267b333ff
 TVRI Sports,p2p://fccseuro.pvbox.live:18912/5f10049a00080828027adf0a68d41227#mitv://fccsovh.pvbox.live:18912/5f10049a00080828027adf0a68d41227
-Trans TV HD,mitv://ns2.hellotvvod.com:9906/359799aee53f482682d274483f5292b3
-Trans 7 HD,mitv://ns2.hellotvvod.com:9906/debb8ed3c311419b9474ef32632279e4
-InsertLive,mitv://ns2.hellotvvod.com:9906/0bc04c3bfd64446d99f6ea19b66300c7
-Galaxy Premium,mitv://ns2.hellotvvod.com:9906/6ab21b729f2043de85c471ab15810122
-IMC,mitv://ns2.hellotvvod.com:9906/c8ceda3d878a486ea338f2293b714dd8
-Lingua HD,mitv://ns2.hellotvvod.com:9906/376d90c359474080bbed5d6045c82673
 巴西,#genre#
 $c_start🍌巴西🍌$c_end
 A&E BR,p2p://fccseuro.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266#mitv://fccsovh.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266
@@ -1396,19 +1382,384 @@ Oprah-Winfrey-Network-(OWN),p2p://fccseuro.pvbox.live:18912/5ee9c972000a63996d23
 Oxygen,p2p://fccseuro.pvbox.live:18912/5ee9c974000023346d23f277291b4e30#mitv://fccsovh.pvbox.live:18912/5ee9c974000023346d23f277291b4e30
 PBS,p2p://fccseuro.pvbox.live:18912/5ee9c976000c88fa6d23fd73026e19df#mitv://fccsovh.pvbox.live:18912/5ee9c976000c88fa6d23fd73026e19df
 POP,p2p://fccseuro.pvbox.live:18912/5ee9c97800033c856d2402e200036b26#mitv://fccsovh.pvbox.live:18912/5ee9c97800033c856d2402e200036b26
-﻿粉红,#genre#
+﻿﻿粉红,#p0198#
+$c_startp0198_0$c_end
+HBO強檔,p5p://0198.02686.cc:16871/5f37f49900041ac2430ca40198bc8786.ts
+HBO家庭,p5p://0198.02686.cc:16871/5f37f3d500011f024309a59d8aa557cb.ts
+HBO原創,p5p://0198.02686.cc:16871/5f37f5130009afbd430e81ff7c677543.ts
+HBOHD,p5p://0198.02686.cc:16871/5f2faab60000da2822ac0474501db664.ts
+HBO HD,p5p://0198.02686.cc:16871/5f4a68260001b22e2a90844a684e3ae6.ts
+霹靂台灣台,p5p://0198.02686.cc:16871/5f2e545000015de51d72862642b4f8ab.ts
+韓國娛樂台KMTV,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
+龍華戲劇,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1.ts
+龍華洋片,p5p://0198.02686.cc:16871/5f380822000f29a54358f5fe211c161a.ts
+龍祥時代,p5p://0198.02686.cc:16871/5f2faa42000d119a22aa4274ab45b649.ts
+寰宇綜合台,p5p://0198.02686.cc:16871/5f3802c0000567f14343ecae4c29c3d5.ts
+寰宇新聞台,p5p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83.ts
+寰宇新聞二台,p5p://0198.02686.cc:16871/5f37fc2300084aea432a1823161b739d.ts
+衛視電影台,p5p://0198.02686.cc:16871/5f2fa80600019b1b22a18525902e8b26.ts
+衛視中文台,p5p://0198.02686.cc:16871/5f2e5c380006bb4b1d9169c58f9b4abe.ts
+緯來體育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
+緯來戲劇,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
+緯來綜合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
+緯來電影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
+緯來日本,p5p://0198.02686.cc:16871/5f380d8d000d7e3b436e1f88d7eee082.ts
+緯來日本,p5p://0198.02686.cc:16871/5d8b6caa00035a0b14c1c834b40e4885.ts
+靖洋戲劇台,p5p://0198.02686.cc:16871/5f380b85000d3460436630353478adac.ts
+靖天電影台,p5p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
+靖天映畫,p5p://0198.02686.cc:16871/5f2e6cb40009bc001dd1ceea1a1f90ab.ts
+愛爾達體育3台,p5p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb.ts
+愛爾達體育1台,p5p://0198.02686.cc:16871/5f1c357c0008cabc05f2d4a72b25cbfd.ts
+愛爾達影劇台,p5p://0198.02686.cc:16871/5f2e4f610009a2011d5f42ab61370430.ts
+愛爾達綜合台,p5p://0198.02686.cc:16871/5f34c37c000e25333694cd4b4587389c.ts
+華納電影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
+壹電視資訊綜合臺,p5p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
+壹電視新聞台,p5p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+探索頻道,p5p://0198.02686.cc:16871/5f2e56190004729f1d7980176b355250.ts
+探索科學,p5p://0198.02686.cc:16871/5f37d1f3000dbded42854e09147e692f.ts
+探索亞洲,p5p://0198.02686.cc:16871/5f37d15a000efba84282f8b2e586739c.ts
+國興衛視,p5p://0198.02686.cc:16871/5f37c744000be418425b91f78d7bfb6d.ts
+國家地理頻道,p5p://0198.02686.cc:16871/5f34ca1f000a502236aeb9084d9c2802.ts
+國家地理野生頻道,p5p://0198.02686.cc:16871/5f37cf4000053244427ac0a15f6658f1.ts
+國家地理悠人頻道,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+動物星球,p5p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
+原民台,p5p://0198.02686.cc:16871/5f37c5190000da3d4253172cfff99c71.ts
+迪士尼,p5p://0198.02686.cc:16871/5f2e56c60009eeab1d7c254786d1c06b.ts
+美食星球頻道,p5p://0198.02686.cc:16871/5f37d306000c9ae442897ff68addc3ba.ts
+美亞電影台,p5p://0198.02686.cc:16871/5f37cca000079b3d4270803e898f13d3.ts
+星衛娛樂台,p5p://0198.02686.cc:16871/5f37c3ba000066bb424dbbf647a52d9f.ts
+星衛HD電影台,p5p://0198.02686.cc:16871/5f37c890000d9cd54260a3480355f72a.ts
+客家衛視,p5p://0198.02686.cc:16871/5f37c5780000f16742548a4aac9643e6.ts
+東森戲劇,p5p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576.ts
+東森綜合,p5p://0198.02686.cc:16871/5f2e5cb3000e7cf41d934c39cec3dfb2.ts
+東森電影,p5p://0198.02686.cc:16871/5f2fa872000eac4522a32e5e005f67a9.ts
+東森新聞,p5p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+東森超視,p5p://0198.02686.cc:16871/5e68c8be000191b2047d9630d32efe6b.ts
+東森財經新聞,p5p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+東森洋片,p5p://0198.02686.cc:16871/5f2fab16000756e622ad7d1d0b9eca0a.ts
+東森幼幼,p5p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
+亞洲旅遊台,p5p://0198.02686.cc:16871/5f37daf50006d78842a87c149a44362d.ts
+亞洲美食頻道,p5p://0198.02686.cc:16871/5f37db930000c98242aae3b8829cb3c8.ts
+年代新聞,p5p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+好萊塢電影,p5p://0198.02686.cc:16871/5f2fabea000ac62722b0ba1e30f6fc2a.ts
+好消息2,p5p://0198.02686.cc:16871/5f38014400094dc8433e214ef2f02448.ts
+好消息1,p5p://0198.02686.cc:16871/5d1a69b9000b139e11bdf29f39814479.ts
+民視新聞臺HD,p5p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+民視,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
+台視,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
+天映電影,p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
+天映經典,p5p://0198.02686.cc:16871/5f2f935d000124722250d0dff4066d74.ts
+中視,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
+中天綜合,p5p://0198.02686.cc:16871/5f2e5d8000072f111d966b23e859debb.ts
+中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
+中天娛樂,p5p://0198.02686.cc:16871/5f2e5e8d0000e5811d9a844fa7cb37a6.ts
+中天亞洲,p5p://0198.02686.cc:16871/5f37ff41000e4fa2433646de603aa487.ts
+大愛電視,p5p://0198.02686.cc:16871/5f375afe00016d0940b49dd9f3de224c.ts
+大愛二臺,p5p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
+三立綜合台,p5p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
+三立新聞TVBS新聞,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+三立新聞,p5p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+三立都會,p5p://0198.02686.cc:16871/5f5464510006128c135ae3031d7bb649.ts
+三立財經台,p5p://0198.02686.cc:16871/5f3809ea0001f912435fe7ddcd7dafe7.ts
+三立台灣,p5p://0198.02686.cc:16871/5f2e5ac20001f0ec1d8bb39b46c4cc49.ts
+八大戲劇,p5p://0198.02686.cc:16871/5f2e6b2c000be7251dcbd438b8c78bf1	.ts
+八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
+八大第一,p5p://0198.02686.cc:16871/5f2e57da0005d0d41d805a59362e19d4.ts
+八大娛樂,p5p://0198.02686.cc:16871/5f380a6a000ed2e54361df280f128570.ts
+人間衛視,p5p://0198.02686.cc:16871/5f37c6ad00084a6b4259433384fa1e14.ts
+Z頻道,p5p://0198.02686.cc:16871/5f380cee0006a2a4436bb0afed765d26.ts
+Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
+WARNER TV,p5p://0198.02686.cc:16871/5f34c7a80001412a36a515dec131429c.ts
+WARNA HD,p5p://0198.02686.cc:16871/5f4889a50009fac723435e804457393e.ts
+tvN,p5p://0198.02686.cc:16871/5f37e249000e578642c51e20bbf21abb.ts
+tvN,p5p://0198.02686.cc:16871/5e8001440003aa795f326229b41823f1.ts
+TVBS歡樂,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
+TVBS,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
+TLC旅遊生活,p5p://0198.02686.cc:16871/5f2e54d6000c0f901d7494527e9c38a8.ts
+Outdoor,p5p://0198.02686.cc:16871/5f37d29d000976d04287e500ad137fca.ts
+MOMO親子,p5p://0198.02686.cc:16871/5f2e5717000701821d7d60ef00cb8bd5.ts
+JET綜合,p5p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
+HITS,p5p://0198.02686.cc:16871/5f37da56000958a742a60fa12a3475c2.ts
+H2,p5p://0198.02686.cc:16871/5f37f880000277dd431be1ee86aa5437.ts
+FX-HD,p5p://0198.02686.cc:16871/5d1a6982000291cf11bd19997ce5188f.ts
+FX,p5p://0198.02686.cc:16871/5f37cc2300028256426e96a8048856f6.ts
+FOX頻道,p5p://0198.02686.cc:16871/5f380ae10009d7fe4363aeb910bc02d4.ts
+Fox家庭電影台,p5p://0198.02686.cc:16871/5f37f33400062617430731ffad0889f5.ts
+Fox_Movies,p5p://0198.02686.cc:16871/5f2facfc000be0b622b4e8b621e53cca.ts
+FOX_Life_HD,p5p://0198.02686.cc:16871/5f38e40700018a8746b3e909bc41bcae.ts
+FOX_HD,p5p://0198.02686.cc:16871/5f38e4c4000f3daf46b6ced31beebb94.ts
+FOX_Family_Movies_ID,p5p://0198.02686.cc:16871/5f38de050009673e469c733ca19a0b29.ts
+FOX_CRIME,p5p://0198.02686.cc:16871/5f37f9a9000bc4da43206c77e3ec31cc.ts
+Fox_Action,p5p://0198.02686.cc:16871/5f3808b6000cee3f435b378b1bcb616f.ts
+FOOD-NETWORK,p5p://0198.02686.cc:16871/5d1a697c000f143811bd055d7544615f.ts
+EYE_TV戲劇台,p5p://0198.02686.cc:16871/5f37d8dc00062aca42a04a40e5f66359.ts
+EYE_TV旅遊台,p5p://0198.02686.cc:16871/5f37d838000ad036429dcad101035470.ts
+DISNEY-XD,p5p://0198.02686.cc:16871/5d1a69760007a6f711bcec06f7be3200.ts
+Discovery HD,p5p://0198.02686.cc:16871/5f3a73a2000c5e024ccce147da85298b.ts
+Discovery,p5p://0198.02686.cc:16871/5e8002be000ddc5b5f38295545d3a699.ts
+CNN-HD,p5p://0198.02686.cc:16871/5d1a69730008fd4d11bce0a61466a553.ts
+CNBC_Asia_Channel,p5p://0198.02686.cc:16871/5f38003b00051a3e433a1512b028035e.ts
+CNBC,p5p://0198.02686.cc:16871/5f37e8510003a83742dcaaa415bc06b0.ts
+CNA HD,p5p://0198.02686.cc:16871/5f48c58300018a8b242d37878915a806.ts
+CINEMAX_HD,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
+CatchPlay電影台,p5p://0198.02686.cc:16871/5f37c90a00050b3042627da756dbe5ab.ts
+BBC_Earth,p5p://0198.02686.cc:16871/5f37e7c6000e815e42da8e731be212cf.ts
+BBC News,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
+AXN,p5p://0198.02686.cc:16871/5f2fab5700094c3622ae7b8589ead9b0.ts
+AXN,p5p://0198.02686.cc:16871/5f38e372000bc93246b1a5a0cf642229.ts
+ANIMAX,p5p://0198.02686.cc:16871/5f37e0a9000b3a6142bec454e847807d.ts
+AMC-HD,p5p://0198.02686.cc:16871/5d1a6965000287cf11bca84f14c84ff7.ts
+
+辽宁卫视,p5p://0198.02686.cc:16871/5d1a69d1000e847711be51408076990f.ts
+爱奇艺,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
+卫视卡式台,p5p://0198.02686.cc:16871/5f48bada00043d2824039410317b1853.ts
+歡喜臺,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
+雙星台,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
+澳門蓮花,p5p://0198.02686.cc:16871/5f2cc1e20002606a174e88b8ddae5f19.ts
+廣東新聞,p5p://0198.02686.cc:16871/5f44be3f000af3cf1470d850ed540479.ts
+鳳凰衛視,p5p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
+鳳凰資訊,p5p://0198.02686.cc:16871/5f2cfb640007e2c1182f2df12d0ba74b.ts
+鳳凰香港,p5p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
+翡翠臺翡翠臺,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+福建卫视,p5p://0198.02686.cc:16871/5d1a69cd000a2ae111be4083db3c2b82.ts
+罪案偵緝頻道,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
+新时代1cp24,p5p://0198.02686.cc:16871/5f39f90b0005c8064aee01bf8be4cbde.ts
+黑龙江卫视,p5p://0198.02686.cc:16871/5d1a69d7000b9c9a11be67f2d66140d2.ts
+華麗臺,p5p://0198.02686.cc:16871/5ecfb36000001d6396821ea0563496d9.ts
+無線新聞,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+無線財經,p5p://0198.02686.cc:16871/5f4868cf0006854322c319ae9929dd1d.ts
+湖南卫视,p5p://0198.02686.cc:16871/5d1a69cb0006b92b11be37d1bd1557cf.ts
+湖北卫视,p5p://0198.02686.cc:16871/5d1a69ca000aab2e11be34ec8f51752f.ts
+深圳卫视,p5p://0198.02686.cc:16871/5d1a69c9000ec48911be3211b872a891.ts
+高爾夫美國,p5p://0198.02686.cc:16871/5f37fdea0002ace04331080bb8277c60.ts
+珠江,p5p://0198.02686.cc:16871/5d1a69cc0002c11611be3ab59efd0c09.ts
+浙江衛視,p5p://0198.02686.cc:16871/5d1a69c8000771a811be2c4919c0f84c.ts
+重庆卫视,p5p://0198.02686.cc:16871/5d1a69d300069bdb11be570acce403b8.ts
+南方卫视,p5p://0198.02686.cc:16871/5d1a69b30003ab5511bdd949a4730deb.ts
+河北卫视,p5p://0198.02686.cc:16871/5d1a69c7000bf64e11be298959e31717.ts
+明珠臺,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+放送大学,p5p://0198.02686.cc:16871/5d414e7b00021a0c75f3faa5131927d5.ts
+江苏卫视,p5p://0198.02686.cc:16871/5d1a69c6000506b711be23da7205472e.ts
+江西卫视,p5p://0198.02686.cc:16871/5d1a69c7000118dd11be26c131299bb6.ts
+有線新聞,p5p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+有線娛樂,p5p://0198.02686.cc:16871/5f2cc18d0002ad29174d3cc37573600e.ts
+有線18,p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
+四川卫视,p5p://0198.02686.cc:16871/5d1a69b400098f3411bddeb3ff50162b.ts
+北京卫视,p5p://0198.02686.cc:16871/5d1a69b1000c1e9311bdd3a31a688a40.ts
+东方卫视,p5p://0198.02686.cc:16871/5dbc317c000014e4d3429bae6350e7df.ts
+天津卫视,p5p://0198.02686.cc:16871/5d1a69b8000eeead11bdefb3d7551e89.ts
+广西卫视,p5p://0198.02686.cc:16871/5d1a69bf0008cdae11be097a09df2a20.ts
+广东卫视,p5p://0198.02686.cc:16871/5d1a69be0001729e11be03b099071e29.ts
+广东体育,p5p://0198.02686.cc:16871/5d1a69bc000974fd11bdfdedd4967d61.ts
+小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
+WORLD-HD,p5p://0198.02686.cc:16871/5f37c182000e35a8424514bf37a040a0.ts
+Zee-PunjabiDD-NEWS,p5p://0198.02686.cc:16871/5f3a152b000267214b5bdde1d4b12657.ts
+Zee-Punjabi,p5p://0198.02686.cc:16871/5f3a149f000dcde04b59bded2d7c4ace.ts
+YTN,p5p://0198.02686.cc:16871/5e800144000aaec65f3263f563f3809e.ts
+WWE NETWORK,p5p://0198.02686.cc:16871/5f3a77db000378164cdd5da71c08ae8d.ts
+WP,p5p://0198.02686.cc:16871/5d1a69f600023bca11bedea3bf1b937b.ts
+VIUTV(備),p5p://0198.02686.cc:16871/5f2cb706000ed2b7172420872f151703.ts
+VINMEEN HD,p5p://0198.02686.cc:16871/5f34c9c00007f8c936ad45568b5ad1ef.ts
+VAS,p5p://0198.02686.cc:16871/5f48bbb4000548152406e7e59563db11.ts
+tvn_Movies,p5p://0198.02686.cc:16871/5f38df99000f213b46a29ed48a7776fd.ts
+tvN Movies,p5p://0198.02686.cc:16871/5f34c861000f2dba36a7ec178158ec89.ts
+TVB星河TVB星河,p5p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
+TVB1,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
+TV1,p5p://0198.02686.cc:16871/5f38db6700036d2e46923885d5fec1d8.ts
+TV2,p5p://0198.02686.cc:16871/5f38dbd70004896a4693ee4de1f1062b.ts
+TV3,p5p://0198.02686.cc:16871/5f48c104000ee571241baadbeca58824.ts
+TV5,p5p://0198.02686.cc:16871/5f37ea30000274f042e3f96d6f368fd0.ts
+TV8,p5p://0198.02686.cc:16871/5f48c2d5000a35e32422c2101c0f6be3.ts
+TV9,p5p://0198.02686.cc:16871/5f48c3a70005dc0f2425f542e90a370b.ts
+TUTOR TV,p5p://0198.02686.cc:16871/5f34ca82000c89ca36b03c527ad7c267.ts
+TSN_1,p5p://0198.02686.cc:16871/5f39eb8b000dd7c54ab947cf1105f8a8.ts
+TSN_2,p5p://0198.02686.cc:16871/5f39f37a000e7e314ad8459246ea70d2.ts
+TSN_3,p5p://0198.02686.cc:16871/5f39f4510009d65e4adb8c39680cc97b.ts
+TSN_4,p5p://0198.02686.cc:16871/5f39f4f500006f944ade0a71429505e8.ts
+TSN_5,p5p://0198.02686.cc:16871/5f39f5360005efc24adf09c1fa9c9119.ts
+TRAVEL-CHANNEL,p5p://0198.02686.cc:16871/5d1a69f1000c88a511becdbe69be6f03.ts
+TPBS,p5p://0198.02686.cc:16871/5d1a69f100012dda11becad65c4970fe.ts
+TOKYO　MX,p5p://0198.02686.cc:16871/5d414e7c00096eb975f4006de34ca37e.ts
+Tnt,p5p://0198.02686.cc:16871/5d1a69ef0008e75111bec50084210d69.ts
+ThairathTv,p5p://0198.02686.cc:16871/5d1a69ee000cf50811bec2224d35c419.ts
+TGN,p5p://0198.02686.cc:16871/5d1a69ee00020c6911bebf57495301ab.ts
+TELETOONEspnu,p5p://0198.02686.cc:16871/5d8f307a00050e002376ad2453f15254.ts
+TELETOON,p5p://0198.02686.cc:16871/5de32736000470046b727b5c866d8fd0.ts
+TBS,p5p://0198.02686.cc:16871/5d414f6b0000da6d75f7a3d306a9cc7f.ts
+SURIA,p5p://0198.02686.cc:16871/5f48c00d00021f2b2417e2bd7ee883e9.ts
+Super_Ent,p5p://0198.02686.cc:16871/5d1a69eb00066bb811beb4be2e00f8bf.ts
+SUNMUSIC,p5p://0198.02686.cc:16871/5f3a0f98000f2fcb4b461aefa794ae04.ts
+STARZEAST,p5p://0198.02686.cc:16871/5d1a69ea000ad1c711beb1f6f97cd3db.ts
+Spring,p5p://0198.02686.cc:16871/5d1a69e9000f3cb011beaf2f0ed9fa6c.ts
+SPOTV2,p5p://0198.02686.cc:16871/5e80021100015fe95f35825bc82918d8.ts
+SPOTV,p5p://0198.02686.cc:16871/5e80021200081d8e5f3587fdb6abd2f6.ts
+SKY_SPORT_PREMIR_LEAGUE,p5p://0198.02686.cc:16871/5f3c9d94000962185540b9d3a1a878e5.ts
+SKY_NEWS,p5p://0198.02686.cc:16871/5f37e45e000ec23e42cd4043a3616505.ts
+SCIENCA,p5p://0198.02686.cc:16871/5d1a69e9000419a411beac56677fc008.ts
+On Style,p5p://0198.02686.cc:16871/5e800213000dcdef5f358d59ee7f0e4c.ts
+OKey,p5p://0198.02686.cc:16871/5f48bddf0001bb51240f5ef48dda30d1.ts
+OCN,p5p://0198.02686.cc:16871/5e80021400070b365f358f863c21e283.ts
+NTV7,p5p://0198.02686.cc:16871/5f48c19b00027fd5241df5869244f0e9.ts
+now新闻,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b.ts
+now直播,p5p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58.ts
+NOWTVHD,p5p://0198.02686.cc:16871/5d1a69e80008b03211bea99a766f4b8a.ts
+NGC,p5p://0198.02686.cc:16871/5e800264000c91a45f36c970441699ec.ts
+News1_(USA),p5p://0198.02686.cc:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
+News_1,p5p://0198.02686.cc:16871/5d1a69e50009ada611be9e2382445a24.ts
+NBCSportsHD,p5p://0198.02686.cc:16871/5d1a69e4000e44c011be9b68f012ff10.ts
+NBA體育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7.ts
+NBA,p5p://0198.02686.cc:16871/5f39facc0006e0f04af4dbef79c0756f.ts
+NAURA,p5p://0198.02686.cc:16871/5f3a79d90002af024ce525a4b958389f.ts
+Nation,p5p://0198.02686.cc:16871/5d1a69e2000bb03311be92ef2a2330ac.ts
+MTV_Live,p5p://0198.02686.cc:16871/5f37e3c7000bfbc942caf1b5d40f4c88.ts
+Movie_TV,p5p://0198.02686.cc:16871/5d1a69e100040c4b11be8d124a4f4447.ts
+Mnet,p5p://0198.02686.cc:16871/5e800263000e74605f36c604307bca0a.ts
+MLB,p5p://0198.02686.cc:16871/5f3a01be000592b64b0ffce904241fa7.ts
+MBS毎日放送,p5p://0198.02686.cc:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
+JTBC 3,p5p://0198.02686.cc:16871/5e8002be00072eba5f38279f1af92afd.ts
+JTBC 3,p5p://0198.02686.cc:16871/5f3aa277000b339f4d83d102c43936a0.ts
+JTBC,p5p://0198.02686.cc:16871/5e800143000be2195f32605b7b23ee37.ts
+J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+J_SPORTS_1,p5p://0198.02686.cc:16871/5d414f0c000c884875f633b8399ef99b.ts
+J_SPORTS_2,p5p://0198.02686.cc:16871/5d414f0d0008fadf75f636b74704d31b.ts
+J_SPORTS_3,p5p://0198.02686.cc:16871/5d414f0e00038bf575f6393b9482ee08.ts
+J_SPORTS_4,p5p://0198.02686.cc:16871/5d414f0e000d818675f63bc8452f12fd.ts
+iNet,p5p://0198.02686.cc:16871/5e8002630007c4c05f36c44ea596b9f3.ts
+IB Sports,p5p://0198.02686.cc:16871/5e8002bf000b53895f382c97a1a4cd9a.ts
+HGTV,p5p://0198.02686.cc:16871/5f37d6220008f7164295a468e226c829.ts
+HBOCA,p5p://0198.02686.cc:16871/5d1a6984000600f011bd224a806d5fcf.ts
+HBO2,p5p://0198.02686.cc:16871/5f3a0160000df9c74b0e8fe01a8b3818.ts
+Golf,p5p://0198.02686.cc:16871/5d1a69830009f84d11bd1f66c71ae7a7.ts
+Go Shop,p5p://0198.02686.cc:16871/5f37636c0001eb1540d58baa35bc4c42.ts
+FXX,p5p://0198.02686.cc:16871/5d1a6982000ddd6311bd1c7d06ca18a6.ts
+FoxWest,p5p://0198.02686.cc:16871/5d1a69810006a1bf11bd16bbbf0f1b86.ts
+FOX_SPORTS_HD,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd.ts
+FOX_SPORTS_3,p5p://0198.02686.cc:16871/5f37f2a20009457c4304f87c69928719.ts
+FOX_SPORTS_2,p5p://0198.02686.cc:16871/5f380e240003cc3b43706ae59184d531.ts
+Fight_Sport_HD,p5p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789b3.ts
+FAH_WAN_MAI,p5p://0198.02686.cc:16871/5d1a697c0003bc2911bd027666ca5967.ts
+Eurosp2,p5p://0198.02686.cc:16871/5d1a697b0007aebe11bcff900f6934ca.ts
+Eurosp1,p5p://0198.02686.cc:16871/5d1a697a000bd33011bcfcb885b31c8a.ts
+Espnu,p5p://0198.02686.cc:16871/5d8f307a00050e002376ad2453f15254.ts
+ESPN-2,p5p://0198.02686.cc:16871/5d1a6977000e2bcf11bcf19a3cdc6db3.ts
+ESPN,p5p://0198.02686.cc:16871/5f37ecd5000cc93142ee509a1520c75e.ts
+EBS2,p5p://0198.02686.cc:16871/5e8002c00002bf4e5f382e4d3cd8fba0.ts
+DIYNETWORK,p5p://0198.02686.cc:16871/5d1a6977000356b111bceed483381bdd.ts
+News-HDZING-TV,p5p://0198.02686.cc:16871/5f3a17e00007cf464b66724ccc6b83f0.ts
+HDBIG-MAGIC-Movies-OKZING-TV,p5p://0198.02686.cc:16871/5f3a17e00007cf464b66724ccc6b83f0.ts
+CTS기독교TV,p5p://0198.02686.cc:16871/5e8002bb000737fe5f381bea4592ba4c.ts
+CNTV,p5p://0198.02686.cc:16871/5e8002b9000ea45f5f3816004aa2aba6.ts
+CnnNews,p5p://0198.02686.cc:16871/5f39fb9800041bef4af7f8195646fb88.ts
+cnn-news,p5p://0198.02686.cc:16871/5f3a9d510003035b4d6fb279501b02a0.ts
+ChannelU,p5p://0198.02686.cc:16871/5f48bdc00000a914240ee5961e42ddb9.ts
+Channel8,p5p://0198.02686.cc:16871/5f48bcef000819da240bb715c294ee99.ts
+Channel5,p5p://0198.02686.cc:16871/5f48befd0008c5702413bdf1cb4c3d16.ts
+Channel_V_國際娛樂台,p5p://0198.02686.cc:16871/5f37eb1300019f6442e76fee4d3b7f48.ts
+CH.9,p5p://0198.02686.cc:16871/5d1a69710006f75211bcd8515d005138.ts
+CH.1,p5p://0198.02686.cc:16871/5d1a6970000ba43811bcd59c32d704df.ts
+Ceria,p5p://0198.02686.cc:16871/5f3a792900065ca24ce27715111474c9.ts
+CCTV1,p5p://0198.02686.cc:16871/5d1a699a0001165b11bd76f8cbcb11f4.ts
+CCTV2,p5p://0198.02686.cc:16871/5d1a699a000bdb0c11bd79ba05109953.ts
+CCTV3,p5p://0198.02686.cc:16871/5d1a699b0007cb1411bd7c98c852c8c7.ts
+CCTV4,p5p://0198.02686.cc:16871/5d1a699c0003f57011bd7f840080582d.ts
+CCTV5,p5p://0198.02686.cc:16871/5d1a699e00076fa011bd88384bd1ad68.ts
+CCTV5+,p5p://0198.02686.cc:16871/5d1a699d000b786b11bd85591a37419d.ts
+CCTV6,p5p://0198.02686.cc:16871/5d1a699f0003833d11bd8b1f616c63aa.ts
+CCTV7,p5p://0198.02686.cc:16871/5d1a699f000ef29711bd8e0c759f39d9.ts
+CCTV8,p5p://0198.02686.cc:16871/5d1a69a0000a771d11bd90cfd32cd7e2.ts
+CCTV9,p5p://0198.02686.cc:16871/5d1a69a10005e2bf11bd938ba0a96775.ts
+CCTV10,p5p://0198.02686.cc:16871/5d1a69950001d55b11bd63a1a7412eff.ts
+CCTV11,p5p://0198.02686.cc:16871/5d1a6995000d2d4411bd6688405637b9.ts
+CCTV12,p5p://0198.02686.cc:16871/5d1a69960008e5c611bd69582e7284c5.ts
+CCTV13,p5p://0198.02686.cc:16871/5d1a69970004daf011bd6c37579e1c02.ts
+CCTV14,p5p://0198.02686.cc:16871/5d1a699800010bf711bd6f251fac0a34.ts
+CCTV15,p5p://0198.02686.cc:16871/5d1a6998000c859211bd7215e54eb404.ts
+CBSsprotsHD,p5p://0198.02686.cc:16871/5d1a69700000dd0111bcd2d9fb11a8d8.ts
+CbcNews,p5p://0198.02686.cc:16871/5d1a696d000c9f8011bcca24b8fcdf0e.ts
+BNC,p5p://0198.02686.cc:16871/5f39111e000980ec47640ceb3b327a26.ts
+BLUE ANT,p5p://0198.02686.cc:16871/5f38e1940000417846aa577d4c44ec6d.ts
+Bloomberg_TV,p5p://0198.02686.cc:16871/5f2e51950008573f1d67dd772071d490.ts
+Awani,p5p://0198.02686.cc:16871/5f38e27d0001a03146ade5ff5976831b.ts
+ASSP4,p5p://0198.02686.cc:16871/5ecfb8eb000e05559697c928d4828974.ts
+ASSP3,p5p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1.ts
+ASSP2,p5p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677.ts
+ASSP1,p5p://0198.02686.cc:16871/5ecfb875000375009695f9834fb3611b.ts
+Arena HDCricket HD,p5p://0198.02686.cc:16871/5f34c53a00023693369b986d17cc484e.ts
+AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
+ai hijrah,p5p://0198.02686.cc:16871/5f3cffef000ac84756c0eda79b692796.ts
+ai hijrah,p5p://0198.02686.cc:16871/5f4886fd0003d38f2338fcad264924a6.ts
+AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
+ABSCBN,p5p://0198.02686.cc:16871/5f539146000651371022801be5a96c8d.ts
+ABC朝日放送,p5p://0198.02686.cc:16871/5d40057f000bcd0b70eee4c0aa37319f.ts
+8,p5p://0198.02686.cc:16871/5d1a6960000d01a711bc9775a84751d1.ts
+7,p5p://0198.02686.cc:16871/5d1a69600001e93b11bc949ed0710e31.ts
+3,p5p://0198.02686.cc:16871/5d1a695f000648b011bc91d5fde79a51.ts
+25,p5p://0198.02686.cc:16871/5d1a695e000a3f8f11bc8ef07ef72e30.ts
+読売テレビ,p5p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
+투니버스,p5p://0198.02686.cc:16871/5e8002670000367f5f36d1ff33311ad6.ts
+채널CGV,p5p://0198.02686.cc:16871/5e800214000e07db5f3591508d515223.ts
+채널A,p5p://0198.02686.cc:16871/5e8001b60007e2815f34208da02e4bfc.ts
+올리브,p5p://0198.02686.cc:16871/5e8002be000082ed5f3825ea1a7a451b.ts
+연합뉴스TV,p5p://0198.02686.cc:16871/5e8001b6000e9acd5f3422466fee1d5b.ts
+수퍼액션,p5p://0198.02686.cc:16871/5e800263000115055f36c29820cbd2a0.ts
+바둑TV,p5p://0198.02686.cc:16871/5e800265000ac5815f36cce37c6f602e.ts
+関西テレビ,p5p://0198.02686.cc:16871/5d40057f0002f0b670eee27c7e0cae84.ts
+디즈니주니어,p5p://0198.02686.cc:16871/5e8002660008c80b5f36d048b251d5dd.ts
+时代剧専门chHD,p5p://0198.02686.cc:16871/5d414f090005219175f6261b9435013a.ts
+日テレジータス,p5p://0198.02686.cc:16871/5d414e7e0000d57575f406097529becf.ts
+日テレ,p5p://0198.02686.cc:16871/5d414f69000b12b375f79ea00d680a47.ts
+ミュージックジャパン,p5p://0198.02686.cc:16871/5d414f0a000b927475f62ba9129d404b.ts
+ホームドラマCH,p5p://0198.02686.cc:16871/5d414f0a00018ac375f62918a4b93718.ts
+フジテレビ,p5p://0198.02686.cc:16871/5d414e7b000d387e75f3fd7d08f4d2ce.ts
+テレビ朝日,p5p://0198.02686.cc:16871/5d414f6a000606ea75f7a13e185ff3ac.ts
+テレビ东京,p5p://0198.02686.cc:16871/5d414f6b000b4fb575f7a680e13a94ee.ts
+テレビ大阪,p5p://0198.02686.cc:16871/5d4005800003b66470eee6965068cd2c.ts
+ディズニーチャンネルHD,p5p://0198.02686.cc:16871/5d414f670007f99c75f79605c29ad2f3.ts
+スカイA,p5p://0198.02686.cc:16871/5d414e7d0005202475f4033b0324db85.ts
+サンテレビ,p5p://0198.02686.cc:16871/5d400580000c583e70eee8cc921a4eb4.ts
+ゴルフネットHD,p5p://0198.02686.cc:16871/5d414f08000a629e75f6238b753dc166.ts
+グリーンチャネル,p5p://0198.02686.cc:16871/5d414f0b000643ec75f62e35ff1bc7ce.ts
+WOWOWライブ,p5p://0198.02686.cc:16871/5d414e790002c58e75f3f300c43c2dde.ts
+WOWOWプライム,p5p://0198.02686.cc:16871/5d414e7800088abf75f3f093649cd5e5.ts
+WOWOWシネマ,p5p://0198.02686.cc:16871/5d414e7a0007bb9b75f3f82e740f7c22.ts
+TV조선,p5p://0198.02686.cc:16871/5e80014500026f3f5f3265c012e94fc1.ts
+SBS플러스,p5p://0198.02686.cc:16871/5e8001b800043ed95f34276fb5a829b1.ts
+SBS스포츠,p5p://0198.02686.cc:16871/5e800211000862555f3584263437c378.ts
+SBS골프,p5p://0198.02686.cc:16871/5e8002130006d1225f358b8fc1075b77.ts
+SBS CNBC,p5p://0198.02686.cc:16871/5e8002b90007f3585f38144a394914d8.ts
+SBS,p5p://0198.02686.cc:16871/5e8001430004de045f325e90c6e7e860.ts
+Sahara-Samay-BiharZee-Punjabi,p5p://0198.02686.cc:16871/5f3a149f000dcde04b59bded2d7c4ace.ts
+Sahara-Samay-Bihar,p5p://0198.02686.cc:16871/5f3a138c000dae724b558bad4fb308a8.ts
+RTHK31,p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
+Ria HD,p5p://0198.02686.cc:16871/5f38da5a000597f0468e1e4b36907bc0.ts
+RAJTV,p5p://0198.02686.cc:16871/5f3a0c420001eefc4b390f9b67c50d8b.ts
+Prima HD,p5p://0198.02686.cc:16871/5f38dadf0007ff034690267038e14f22.ts
+No_Service,p5p://0198.02686.cc:16871/5d1a69e7000cff0b11bea6cd57a945c2.ts
+NHK総合-东京,p5p://0198.02686.cc:16871/5d414f680002d76075f7989dcc8ec320.ts
+NHK総合-大阪,p5p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
+NHKEテレ东京,p5p://0198.02686.cc:16871/5d414f68000e596775f79b8f963b1f60.ts
+NHKBSプレミアム,p5p://0198.02686.cc:16871/5d400581000b66b570eeec7672a2ec07.ts
+NHKBS1,p5p://0198.02686.cc:16871/5d40058100043b7170eeeaa0dd43366a.ts
+MBN,p5p://0198.02686.cc:16871/5e8001b60001291e5f341ed5bfffb1f7.ts
+MBC스포츠+,p5p://0198.02686.cc:16871/5e8001b9000272b95f342ae1221e9308.ts
+MBC드라마,p5p://0198.02686.cc:16871/5e8001b7000cc9a15f3425b76b20f333.ts
+MBC,p5p://0198.02686.cc:16871/5e800142000d20845f325cc55709c146.ts
+M_Channel,p5p://0198.02686.cc:16871/5d1a69e000083da011be8a3df3ee304a.ts
+KBS드라마,p5p://0198.02686.cc:16871/5e8001b7000610585f3423fe9df91b5f.ts
+KBSN스포츠,p5p://0198.02686.cc:16871/5e8001b8000af97a5f34292840aa4a7f.ts
+KBS2,p5p://0198.02686.cc:16871/5e80014200061ea35f325afaae1fa1ce.ts
+KBS1,p5p://0198.02686.cc:16871/5e800141000635315f325718f827212e.ts
+JTBC골프,p5p://0198.02686.cc:16871/5e800212000f174c5f3589c6fca77688.ts
+BS朝日,p5p://0198.02686.cc:16871/5d400582000d61d070eef0e0b97dc63c.ts
+BS日本映画専门ch,p5p://0198.02686.cc:16871/5d414f66000120c375f7905ddc89411f.ts
+BS日テレ,p5p://0198.02686.cc:16871/5d4005820004c65270eeeeac9683f562.ts
+BSフジ,p5p://0198.02686.cc:16871/5d414e77000e263075f3ee1a2ddf99a4.ts
+BSジャパン,p5p://0198.02686.cc:16871/5d414e770002d7e275f3eb3517f85fa6.ts
+BSアニマックス,p5p://0198.02686.cc:16871/5d414f0c0000e2af75f630bd8ab9817b.ts
+BS-TBS,p5p://0198.02686.cc:16871/5d4005830005460870eef2b474c1515d.ts
+
+粉红,#genre#
 $c_start粉红_0$c_end
-彩虹e台,mitv://ns2.hellotvvod.com:9906/30287410178b4d21a82de2f8b892fede
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/d19446f7a4c74047bde1ca15c6609103
-LOOK TV,mitv://ns2.hellotvvod.com:9906/1a798b97c9284ff4b9e9738a3df5e455
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/10589c42eb344b1e93f8a08715dc7491
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/92598aa1260546668303fab4231451b6
-松視1台,mitv://ns2.hellotvvod.com:9906/123d2990d35e45599bfb3d68dee25267
-松視2台,mitv://ns2.hellotvvod.com:9906/83df5aa831dc488db92b79bc0ce2b202
-潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/c5967d3640f848968d398bea126e468a
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/46ca075a19314e14bddb25e9d90ee40c
-香蕉台,mitv://ns2.hellotvvod.com:9906/ed314d99496146958273131bb4f861dc
-HOT,mitv://ns2.hellotvvod.com:9906/c85311a43a8f4c7a9906ed4182ecf7da
 松视1台,rtmp://161.202.204.248:1935/tv/ttv11
 松视2台,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
@@ -1421,3 +1772,4 @@ HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 驚豔成人電影台,P2p://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b.ts
 彩虹e台,P2p://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f.ts
 
+ 
