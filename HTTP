@@ -1,8 +1,11 @@
 電影,#genre#
 $c_start🍌電影🍌$c_end
+HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+FX HD,http://125.227.210.37:13498/VideoInput/play.ts
 天映电影,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
+纬来电影,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
 ASTrO港剧台,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 1房,http://121.12.115.156/txdirect.flv.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.flv
@@ -18,37 +21,38 @@ ASTrO港剧台,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 11房,http://121.12.115.156/txdirect.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.flv
 12房,http://121.12.115.156/txdirect.flv.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.flv
 13房,http://121.12.115.156/txdirect.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.flv
-14房,http://121.12.115.156/txdirect.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv
 15房,http://121.12.115.156/txdirect.flv.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.flv
 16房,http://121.12.115.156/txdirect.flv.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus.flv
-17房,http://121.12.115.156/txdirect.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.flv
 18房,http://121.12.115.156/txdirect.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.flv
 19房,http://121.12.115.156/txdirect.flv.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.flv
 20房,http://121.12.115.156/txdirect.flv.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.flv
 21房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1449698705-1449698705-6226408527028551680-3049003156-10057-A-0-1.flv
 22房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1199556523173-1199556523173-5414440166536249344-2399113169802-10057-A-0-1.flv
-23房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1199556528761-1199556528761-5414464166813499392-2399113180978-10057-A-0-1.flv
-24房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1199556520236-1199556520236-5414427552217300992-2399113163928-10057-A-0-1.flv
-25房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1199556586264-1199556586264-5414711140317921280-2399113295984-10057-A-0-1.flv
-26房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1199556584546-1199556584546-5414703761564106752-2399113292548-10057-A-0-1.flv
-27房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1199556532981-1199556532981-5414482291575488512-2399113189418-10057-A-0-1.flv
-28房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1199556515553-1199556515553-5414407438885453824-2399113154562-10057-A-0-1.flv
 29房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.flv
 30房,http://121.12.115.156/txdirect.flv.huya.com/huyalive/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.flv
 探索,#genre#
 $c_start🍌探索🍌$c_end
 纬来日本,rtmp://59.124.75.130:1935/sat/tv521
 纬来日本,rtmp://59.124.75.130/sat/tv522
+纬来日本,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+NatGeo_People,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+BBC Earth HD,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-Channel,rtmp://58.200.131.2:1935/livetv/channelv
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
+TLC Asia,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+中华美食,http://198.16.106.62:8278/streams/d/chinesefood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+Channel V音乐台,rtmp://58.200.131.2:1935/livetv/channelv
 Channel V音乐台,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
 新聞,#genre#
 $c_start🍌新聞🍌$c_end
-
 台視新闻,http://iptv.321.bz/wz.php?id=39
 台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
@@ -82,19 +86,10 @@ TVBS新闻,http://iptv.321.bz/wz.php?id=33
 非凡新闻,http://iptv.321.bz/wz.php?id=48 
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
-壹新聞,http://iptv.321.bz/wz.php?id=40 
-无线新闻,http://iptv.321.bz/wz.php?id=28
+TVBS新闻,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
-有线新闻,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 台灣,#genre#
 $c_start🍌台灣🍌$c_end
-
-TVBS,http://iptv.321.bz/wz.php?id=49
-民视台湾台,http://iptv.321.bz/wz.php?id=41
-民视第一台,http://iptv.321.bz/wz.php?id=42 
-三立台湾,http://iptv.321.bz/wz.php?id=47
-FX HD,http://125.227.210.37:13498/VideoInput/play.ts
-NHK-World,http://125.227.210.37:8931/VideoInput/play.ts
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
@@ -117,6 +112,20 @@ Mono综合,rtmp://59.124.75.130:1935/sat/tv761
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
+TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+TVBS HD,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+民视HD,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+民视台湾,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+三立台湾,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+三立綜合台,http://198.16.106.62:8278/streams/d/sanlizhonghe/playlist.m3u8
+爱尔达综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+纬来精彩,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+纬来戏剧,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来综合,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+三立戏剧,http://198.16.106.62:8278/sanlixiju_zero/playlist.m3u8
+NHK-World,http://125.227.210.37:8931/VideoInput/play.ts
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
@@ -132,19 +141,17 @@ ariang,http://61.58.60.230:9319/live/130.m3u8
 
 中港澳,#genre#
 $c_start🍌中港澳🍌$c_end
-翡翠,http://iptv.321.bz/wz.php?id=25 
-18台,http://iptv.321.bz/wz.php?id=18 
-rhk31,http://iptv.321.bz/wz.php?id=21 
-rhk32,http://iptv.321.bz/wz.php?id=22 
-now直播台,http://iptv.321.bz/wz.php?id=23 
-now,http://iptv.321.bz/wz.php?id=24 
-TVB明珠台,http://iptv.321.bz/wz.php?id=26 
-翡翠,http://iptv.321.bz/wz.php?id=1 
-TVB星河,http://iptv.321.bz/wz.php?id=43 
-TVB财经台,http://iptv.321.bz/wz.php?id=29 
-本港台,https://ttlivepull.hkatv.vip/live/bgt_pro.m3u8
-中天娱乐台,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
-翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+华丽台 HD （Wah Lai Toi）,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+欢喜台 HD （Hua Hee Tai）,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+双星 ShuangXing,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+TVB 星河台 Xing He,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+爱奇艺 iQiyi,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
+AOD HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+AOD 511,http://198.16.106.62:8278/streams/d/AOD1511/playlist.m3u8
+HBO HD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+Animal Planet (Eng),http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+CGTN,http://198.16.106.62:8278/streams/d/CGTN/playlist.m3u8
 有线18台,rtmp://59.124.75.130/sat/hk042
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 YTN,http://125.227.210.37:8932/VideoInput/play.ts
@@ -202,8 +209,6 @@ tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 Cinemax HD,http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
-HBO HD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
