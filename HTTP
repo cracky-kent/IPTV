@@ -4,15 +4,30 @@ HBO,http://125.227.210.37:16027/VideoInput/play.ts
 HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=M200000000000519104841&ct=18639&tsum=c5edc8fc8db4672fc2f3f7111c99ec7b
 HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
 HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBO-强档,http://47.242.54.220/daili/ce50.php?gun=2&id=Hbohits&token=wusedaa122
+HBO-原创,http://47.242.54.220/daili/ce50.php?gun=2&id=Hbosignature&token=wusedaa122
+HBO-综合,http://47.242.54.220/daili/ce50.php?gun=2&id=Hbo&token=wusedaa122
+Hits Movie,http://47.242.54.220/daili/ce50.php?gun=2&id=Hitsmovie&token=wusedaa122
+HITS,http://47.242.54.220/daili/ce50.php?gun=2&id=Hits&token=wusedaa122
+FOX犯罪電影,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxcrime&token=wusedaa122
+FOX Family Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxfamily&token=wusedaa122
+Fox Family,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+FOX Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxmovie&token=wusedaa122
 FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+AXN-动作,http://47.242.54.220/daili/ce50.php?gun=2&id=Axn&token=wusedaa122
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 FX HD,http://125.227.210.37:13498/VideoInput/play.ts
+Warner TV,http://47.242.54.220/daili/ce50.php?gun=2&id=WarnerTV&token=wusedaa122
+经典影视,http://47.242.54.220/daili/bili2.php?id=23169468&token=wusedaa122
+惊悚频道,http://47.242.54.220/daili/ce50.php?gun=2&id=Thrill&token=wusedaa122
 天映電影台,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
 天映頻道HD,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
 天映頻道,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+粤语港片,http://qj.yyrjdp.cn/jiuban/huya.php?id=11352894&token=wusedaa122
+澳门莲花,http://47.242.54.220/daili/lianhua.php?token=wusedaa122
 boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 八度空間,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 ASTrO港劇台,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
@@ -42,20 +57,30 @@ ASTrO港劇台,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 探索,#genre#
 $c_start🍌探索🍌$c_end
 BBC Earth,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
-緯來日本,rtmp://59.124.75.130:1935/sat/tv521
-緯來日本,rtmp://59.124.75.130/sat/tv522
+BBC Earth,http://47.242.54.220/daili/ce50.php?gun=2&id=Bbcearth&token=wusedaa122#https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+緯來日本,rtmp://161.202.204.248:1935/sat/tv521
+緯來日本,rtmp://161.202.204.248/sat/tv522
 國家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 探索頻道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 探索頻道,rtmp://58.200.131.2:1935/livetv/discovery
 國家地理頻道,rtmp://58.200.131.2:1935/livetv/natlgeo
 緯來日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
-NatGeo_People,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+Discovery Channel,http://47.242.54.220/daili/ce50.php?gun=2&id=Discoveryhd&token=wusedaa122
+地理悠人,http://47.242.54.220/daili/ce50.php?gun=2&id=Natgeopeople&token=wusedaa122
+Nat Geo,http://47.242.54.220/daili/ce50.php?gun=2&id=Natgeo&token=wusedaa122
+地理悠人,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+地理野生,http://47.242.54.220/daili/ce50.php?gun=2&token=wusedaa122&id=Natgeowild
+地理悠人,http://47.242.54.220/daili/ce50.php?gun=2&token=wusedaa122&id=Natgeopeople
 TLC旅游生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+TLC旅游生活,http://47.242.54.220/daili/ce50.php?gun=2&id=Tlc&token=wusedaa122#https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+AFC-美食,http://47.242.54.220/daili/ce50.php?gun=2&id=Afc&token=wusedaa122#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+家居生活,http://47.242.54.220/daili/ce50.php?gun=2&id=HGTV&token=wusedaa122
+历史频道,http://47.242.54.220/daili/ce50.php?gun=2&id=History&token=wusedaa122
 hannel V音樂台,rtmp://58.200.131.2:1935/livetv/channelv
 Channel V音樂台,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -64,32 +89,41 @@ $c_start🍌新聞🍌$c_end
 TVBS新聞,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
 TVBS新聞,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+三立新闻,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=slxw
+华视新闻,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=hsxw
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101&token=wusedaa122&gd=1#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=zsxw#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=zsxw
+民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302&token=wusedaa122&gd=1
+華視新聞資訊台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503&token=wusedaa122&gd=1
+寰宇新闻台,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=hyxw#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=hyxw
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-TVBS新聞,rtmp://59.124.75.130/sat/tv551
-TVBS新聞,rtmp://59.124.75.130:1935/sat/tv551
-TVBS新聞,rtmp://59.124.75.130/sat/tv552
+TVBS新聞,rtmp://161.202.204.248/sat/tv551
+TVBS新聞,rtmp://161.202.204.248:1935/sat/tv551
+TVBS新聞,rtmp://161.202.204.248/sat/tv552
+TVBS新闻,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=tvbsxw#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=tvbsxw
 三立iNews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新闻,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=ztxw#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=ztxw
 環宇新聞,http://seb.sason.top/sc/hyxw.m3u8
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-東森財經新聞,rtmp://59.124.75.130:1935/sat/tv571
+东森新闻,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=dsxw#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=dsxw
+东森财经,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=dscj#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=dscj
+東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森財經,rtmp://161.202.204.248:1935/sat/tv571
 非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 有線新聞台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 無線新聞台,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
 TVB互動新聞,http://198.16.106.62:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
-
 台灣,#genre#
 $c_start🍌台灣🍌$c_end
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
@@ -97,20 +131,30 @@ $c_start🍌台灣🍌$c_end
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
-中視,rtmp://59.124.75.130/sat/tv091
-華視,rtmp://59.124.75.130/sat/tv112
-台視,rtmp://59.124.75.130/sat/tv071
-民視,rtmp://59.124.75.130/sat/tv052
-TVBS歡樂台,rtmp://59.124.75.130/sat/tv422
-TVBS歡樂台,rtmp://59.124.75.130/sat/tv421
-緯來育樂,rtmp://59.124.75.130/sat/tv701
-緯來育樂,rtmp://59.124.75.130/sat/tv702
-緯來育樂,rtmp://59.124.75.130:1935/sat/tv701
-東森超視,rtmp://59.124.75.130/sat/tv772
-東森超視,rtmp://59.124.75.130:1935/sat/tv771
-東森超視,rtmp://59.124.75.130/sat/tv771
-TVBS歡樂,rtmp://59.124.75.130:1935/sat/tv421
-Mono綜合,rtmp://59.124.75.130:1935/sat/tv761
+华视,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=hs
+中视,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=zs
+中視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100&token=wusedaa122&gd=1
+中視菁采台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103&token=wusedaa122&gd=1
+中視經典台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102&token=wusedaa122&gd=1
+台视,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=ts
+民视,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=ms#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=ms
+民視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300&token=wusedaa122&gd=1
+民視第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301&token=wusedaa122&gd=1
+華視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501&token=wusedaa122&gd=1
+中視,rtmp://161.202.204.248/sat/tv091
+華視,rtmp://161.202.204.248/sat/tv112
+台視,rtmp://161.202.204.248/sat/tv071
+民視,rtmp://161.202.204.248/sat/tv052
+TVBS歡樂台,rtmp://161.202.204.248/sat/tv422
+TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
+緯來育樂,rtmp://161.202.204.248/sat/tv701
+緯來育樂,rtmp://161.202.204.248/sat/tv702
+緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
+東森超視,rtmp://161.202.204.248/sat/tv772
+東森超視,rtmp://161.202.204.248:1935/sat/tv771
+東森超視,rtmp://161.202.204.248/sat/tv771
+TVBS歡樂,rtmp://161.202.204.248:1935/sat/tv421
+Mono綜合,rtmp://161.202.204.248:1935/sat/tv761
 星空衛視,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
@@ -118,8 +162,9 @@ Mono綜合,rtmp://59.124.75.130:1935/sat/tv761
 民視台灣台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 民視,http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+TVBS HD,http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy2&id=tvbs#http://47.242.54.220/daili/yang.php?token=wusedaa122&tid=zdy4&id=tvbs
 TVBS HD,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-TVBS-HD,http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+TVBS HD,http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS歡樂,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
 三立台灣,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 三立台灣台,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
@@ -134,6 +179,8 @@ TVBS歡樂,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
 緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
 緯來綜合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
 愛爾達綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+tVN Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Tvnmovie&token=wusedaa122
+TVN-亚洲,http://47.242.54.220/daili/ce50.php?gun=3&id=TVN&token=wusedaa122
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Luxe TV,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
@@ -158,6 +205,9 @@ NHK-World,http://125.227.210.37:8931/VideoInput/play.ts
 ariang,http://61.58.60.230:9319/live/130.m3u8
 中港澳,#genre#
 $c_start🍌中港澳🍌$c_end
+TVB J2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-82&token=wusedaa122&gd=1
+TVB 翡翠台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-81&token=wusedaa122&gd=1
+TVB 新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-83&token=wusedaa122&gd=1
 鳳凰中文台,http://198.16.106.62:8278/streams/d/phoenixtv_hd/playlist.m3u8
 鳳凰資訊台,http://198.16.106.62:8278/streams/d/phoenixinfo_hd/playlist.m3u8
 鳳凰香港台,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
@@ -166,7 +216,7 @@ astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 香港資訊,http://198.16.106.62:8278/phoenixinfo_hd/playlist.m3u8?tid=m02000000000014163373&ct=18001&tsum=b4187b126abf2e7567e321c09dcc075e
 香港鳳凰,http://198.16.106.62:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
 鳳凰香港,http://198.16.106.62:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2
-有線18台,rtmp://59.124.75.130/sat/hk042
+有線18台,rtmp://161.202.204.248/sat/hk042
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 YTN,http://125.227.210.37:8932/VideoInput/play.ts
 Arirang TV,http://125.227.210.37:8933/VideoInput/play.ts
@@ -183,6 +233,9 @@ NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
 澳亞衛視,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 港視31台,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 港視32台,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+31港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-31&token=wusedaa122&gd=1
+32港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-32&token=wusedaa122&gd=1
+33港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-33&token=wusedaa122&gd=1
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
